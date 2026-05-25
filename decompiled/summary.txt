@@ -1,0 +1,109 @@
+Summary for app/Client.jar
+Decompiled with CFR 0.152
+
+
+beg
+----------------------------
+
+write(char[] int int )
+  Unable to fully structure code
+write(java.lang.String int int )
+  Unable to fully structure code
+
+
+bkd
+----------------------------
+
+a(bdc bfs bpt )
+  Unable to fully structure code
+  Could not resolve type clashes
+
+
+btz
+----------------------------
+
+a(bfw java.lang.Class<?> boolean )
+  Unable to fully structure code
+
+
+com.badlogic.gdx.graphics.g3d.loader.ObjLoader
+----------------------------
+
+loadModelData(com.badlogic.gdx.files.FileHandle boolean )
+  Unable to fully structure code
+
+
+com.badlogic.gdx.maps.tiled.BaseTmxMapLoader
+----------------------------
+
+loadTileSet(com.badlogic.gdx.utils.XmlReader$Element com.badlogic.gdx.files.FileHandle com.badlogic.gdx.maps.ImageResolver )
+  Could not resolve type clashes
+  Unable to fully structure code
+
+
+com.badlogic.gdx.utils.compression.lzma.Encoder
+----------------------------
+
+GetOptimum(int )
+  Unable to fully structure code
+
+
+com.badlogic.gdx.utils.JsonReader
+----------------------------
+
+parse(char[] int int )
+  Unable to fully structure code
+
+
+com.badlogic.gdx.utils.XmlReader
+----------------------------
+
+parse(char[] int int )
+  Unable to fully structure code
+
+
+com.esotericsoftware.jsonbeans.JsonReader
+----------------------------
+
+parse(char[] int int )
+  Unable to fully structure code
+
+
+org.apache.commons.lang3.CharSequenceUtils
+----------------------------
+
+lastIndexOf(java.lang.CharSequence java.lang.CharSequence int )
+  Unable to fully structure code
+
+
+org.apache.commons.lang3.text.ExtendedMessageFormat
+----------------------------
+
+readArgumentIndex(java.lang.String java.text.ParsePosition )
+  Unable to fully structure code
+
+
+org.java_websocket.server.WebSocketServer
+----------------------------
+
+run()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [6[CATCHBLOCK]], but top level block is 2[TRYBLOCK]
+
+
+org.lwjgl.opengl.GL
+----------------------------
+
+createCapabilities(boolean java.util.function.IntFunction<org.lwjgl.PointerBuffer> )
+  Unable to fully structure code
+  Could not resolve type clashes
+createCapabilitiesWGLDummy()
+  Loose catch block
+
+
+org.lwjgl.system.macosx.MacOSXLibraryBundle
+----------------------------
+
+getWithIdentifier(java.lang.String )
+  Loose catch block
+create(java.lang.String )
+  Loose catch block

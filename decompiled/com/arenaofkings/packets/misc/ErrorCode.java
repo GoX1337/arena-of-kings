@@ -1,0 +1,20 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+package com.arenaofkings.packets.misc;
+
+public enum ErrorCode {
+    INVALID_ACCESS,
+    INVALID_CREDENTIALS,
+    INVALID_EMAIL,
+    BANNED,
+    INVALID_CHARACTER_NAME,
+    INVALID_IN_GAME_CURRENTLY,
+    LOGIN_QUEUE,
+    VERSION_MISMATCH,
+    REGISTRATION_SUCCESS,
+    RESET_PW_UNKNOWN_EMAIL,
+    RESET_PW_VALID_EMAIL;
+
+}
+
