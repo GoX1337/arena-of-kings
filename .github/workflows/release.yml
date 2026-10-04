@@ -1,0 +1,156 @@
+name: Release Windows build
+
+# Builds the game on Windows, packages it with jpackage (app-image containing
+# ArenaOfKings.exe), zips it and attaches it to a GitHub Release with an
+# English changelog.
+#
+# How to release: git tag v1.0.0 && git push origin v1.0.0
+# Manual test build (no release): Actions tab -> "Release Windows build" -> Run workflow.
+
+on:
+  push:
+    tags:
+      - "v*"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-windows:
+    runs-on: windows-latest
+    steps:
+      - name: Checkout (full history for changelog)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up JDK 17 (Temurin ships jpackage)
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
+          cache: maven
+
+      - name: Build shaded jar
+        run: mvn -B package -DskipTests
+
+      - name: Resolve app version from tag
+        id: version
+        shell: pwsh
+        run: |
+          $tag = "${{ github.ref_name }}"
+          if ($tag -match '^v(?<ver>\d+(\.\d+){0,2})$') {
+            $ver = $Matches.ver
+          } else {
+            # workflow_dispatch or non-conforming ref: fall back to pom version
+            $ver = (Select-Xml -Path pom.xml -XPath '/project/version').Node.InnerText -replace '-SNAPSHOT', ''
+          }
+          # jpackage requires a numeric dotted version (e.g. 1.0.0)
+          while (($ver.Split('.')).Count -lt 3) { $ver += '.0' }
+          "version=$ver" >> $env:GITHUB_OUTPUT
+          Write-Host "App version: $ver"
+
+      - name: Prepare jpackage input (shaded jar only, no original-*.jar)
+        shell: pwsh
+        run: |
+          Remove-Item -Recurse -Force dist-input -ErrorAction SilentlyContinue
+          New-Item -ItemType Directory dist-input | Out-Null
+          $jar = Get-ChildItem target/*.jar | Where-Object { $_.Name -notlike 'original-*' } | Select-Object -First 1
+          if (-not $jar) { throw 'Shaded jar not found in target/' }
+          Copy-Item $jar.FullName dist-input/
+          "MAIN_JAR=$($jar.Name)" >> $env:GITHUB_ENV
+          Write-Host "Main jar: $($jar.Name)"
+
+      - name: Build app image with jpackage
+        shell: pwsh
+        run: |
+          Remove-Item -Recurse -Force dist -ErrorAction SilentlyContinue
+          jpackage --type app-image `
+            --input dist-input `
+            --dest dist `
+            --name ArenaOfKings `
+            --main-jar "$env:MAIN_JAR" `
+            --main-class com.arenaofkings.DesktopLauncher `
+            --app-version "${{ steps.version.outputs.version }}" `
+            --vendor ArenaOfKings `
+            --description "Arena of Kings ZQSD souris"
+          Get-ChildItem dist/ArenaOfKings/ArenaOfKings.exe
+
+      - name: Zip app image
+        shell: pwsh
+        run: |
+          $zip = "ArenaOfKings-${{ steps.version.outputs.version }}-windows-x64.zip"
+          Compress-Archive -Path dist/ArenaOfKings -DestinationPath $zip
+          "ZIP=$zip" >> $env:GITHUB_ENV
+
+      - name: Generate English changelog
+        shell: pwsh
+        run: |
+          $current = "${{ github.ref_name }}"
+          $prev = ""
+          try { $prev = (git describe --tags --abbrev=0 "$current^" 2>$null).Trim() } catch { $prev = "" }
+          if ($prev -and $prev -ne $current) {
+            $range = "$prev..$current"
+            $sinceLine = "Changes since $prev."
+          } else {
+            $range = $current
+            $sinceLine = "Initial release."
+          }
+          $entries = git log $range --pretty=format:'%h %s' --no-merges
+          $groups = [ordered]@{
+            'Features'      = @()
+            'Fixes'         = @()
+            'Documentation' = @()
+            'Maintenance'   = @()
+            'Other changes' = @()
+          }
+          foreach ($e in $entries) {
+            $msg = ($e -replace '^[0-9a-f]+ ', '').Trim()
+            switch -Regex ($msg) {
+              '^(feat|add|impl|anim|ui|assets)[\(: ]' { $groups['Features'] += $e; break }
+              '^fix'                                { $groups['Fixes'] += $e; break }
+              '^doc'                                { $groups['Documentation'] += $e; break }
+              '^(build|ci|chore|refactor|perf|test|style|deps|rtk)[\(: ]' { $groups['Maintenance'] += $e; break }
+              default                               { $groups['Other changes'] += $e }
+            }
+          }
+          $ver = "${{ steps.version.outputs.version }}"
+          $out = @()
+          $out += "# ArenaOfKings $ver — Windows (x64)"
+          $out += ""
+          $out += $sinceLine
+          $out += ""
+          $out += "## How to run"
+          $out += ""
+          $out += "1. Download ``ArenaOfKings-$ver-windows-x64.zip`` below."
+          $out += "2. Extract it anywhere."
+          $out += "3. Run ``ArenaOfKings/ArenaOfKings.exe``."
+          $out += ""
+          $out += "Controls: move with ZQSD / WASD / arrows, aim with the mouse, left-click = attack, right-click = cast, ESC = quit."
+          $out += ""
+          $out += "## Changelog"
+          $out += ""
+          foreach ($section in $groups.Keys) {
+            if ($groups[$section].Count -gt 0) {
+              $out += "### $section"
+              $out += ""
+              foreach ($e in $groups[$section]) { $out += "- $e" }
+              $out += ""
+            }
+          }
+          $out -join "`n" | Set-Content -Path CHANGELOG-release.md -Encoding UTF8
+          Get-Content CHANGELOG-release.md
+
+      - name: Upload zip as workflow artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: ArenaOfKings-${{ steps.version.outputs.version }}-windows-x64
+          path: ${{ env.ZIP }}
+
+      - name: Create GitHub Release
+        if: startsWith(github.ref, 'refs/tags/')
+        uses: softprops/action-gh-release@v2
+        with:
+          files: ${{ env.ZIP }}
+          body_path: CHANGELOG-release.md
