@@ -142,6 +142,7 @@ When adding a new action:
 - Null-safety: animation slots may be null before fallback; every `anim.getKeyFrame` call site must have a non-null guarantee (fallback or explicit null check as in click handlers).
 - No logging frameworks; use `Gdx.app.log("ArenaOfKings", msg)`.
 - French identifiers/comments exist historically — do not mass-rename. New code: English identifiers, concise comments.
+- Commit messages: English only. Imperative mood (`Add`, `Fix`, `Remove` — never `Added`/`Fixes`), subject line ≤ 72 chars, no trailing period. Optional scope prefix (`anim:`, `ui:`, `assets:`, `build:`), e.g. `anim: Add dash action with 8-dir fallback`.
 
 ## 10. Performance and memory
 

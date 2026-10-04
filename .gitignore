@@ -13,3 +13,6 @@ dependency-reduced-pom.xml
 Thumbs.db
 Desktop.ini
 .DS_Store
+
+# Local agent config (keep local, never commit)
+.opencode/
