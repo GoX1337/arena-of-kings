@@ -35,17 +35,17 @@ import java.util.Map;
 import java.util.TreeMap;
 
 /**
- * Jeu minimaliste : personnage centre a l'ecran, deplacement ZQSD, orientation vers la souris.
- * Personnage + tenue + teinte selectionnables via 3 listes deroulantes (skins sous models/).
+ * Minimal game: screen-centered character, ZQSD movement, mouse aiming.
+ * Character + outfit + shade selectable via 3 dropdown lists (skins under models/).
  *
- * Mapping des 8 directions deduit des atlas (index = dir * 10000 + frame) :
- *   0 = Sud (face camera), 1 = Sud-Est, 2 = Est, 3 = Nord-Est,
- *   4 = Nord (dos), 5 = Nord-Ouest, 6 = Ouest, 7 = Sud-Ouest.
+ * 8-direction mapping derived from the atlases (index = dir * 10000 + frame):
+ *   0 = South (facing camera), 1 = South-East, 2 = East, 3 = North-East,
+ *   4 = North (back), 5 = North-West, 6 = West, 7 = South-West.
  */
 public class ArenaOfKingsGame extends ApplicationAdapter {
   private static final float SPEED = 500f;
   private static final float SCALE = 2.5f;
-  /** Dezoom : la camera montre ZOOM x plus de monde (1 = pas de zoom). */
+  /** Zoom out: the camera shows ZOOM x more world (1 = no zoom). */
   private static final float ZOOM = 2f;
   private static final float IDLE_FPS = 1f / 20f;
   private static final float RUN_FPS = 1f / 40f;
@@ -64,21 +64,21 @@ public class ArenaOfKingsGame extends ApplicationAdapter {
   private Animation<TextureAtlas.AtlasSprite>[] idleAnims = new Animation[8];
   @SuppressWarnings("unchecked")
   private Animation<TextureAtlas.AtlasSprite>[] runAnims = new Animation[8];
-  /** Clic gauche : "attack" / "attack_run". */
+  /** Left click: "attack" / "attack_run". */
   @SuppressWarnings("unchecked")
   private Animation<TextureAtlas.AtlasSprite>[] attackAnims = new Animation[8];
   @SuppressWarnings("unchecked")
   private Animation<TextureAtlas.AtlasSprite>[] attackRunAnims = new Animation[8];
-  /** Clic droit : "cast" / "cast_run". */
+  /** Right click: "cast" / "cast_run". */
   @SuppressWarnings("unchecked")
   private Animation<TextureAtlas.AtlasSprite>[] castAnims = new Animation[8];
   @SuppressWarnings("unchecked")
   private Animation<TextureAtlas.AtlasSprite>[] castRunAnims = new Animation[8];
-  /** Action en cours (attaque ou sort) : variantes fixe / en mouvement. */
+  /** Ongoing action (attack or spell): stationary / moving variants. */
   private Animation<TextureAtlas.AtlasSprite>[] actAnims = null;
   private Animation<TextureAtlas.AtlasSprite>[] actRunAnims = null;
   private boolean actIsAttack = true;
-  /** Taille du canvas d'origine du skin courant (champ "orig" max), en pixels. */
+  /** Original canvas size of the current skin (max "orig" field), in pixels. */
   private float canvasW = 252f;
   private float canvasH = 238f;
 
@@ -91,7 +91,7 @@ public class ArenaOfKingsGame extends ApplicationAdapter {
   private int dir = 0;
   private boolean moving = false;
 
-  // --- UI : selection du personnage ---
+  // --- UI: character selection ---
   private Stage stage;
   private Skin uiSkin;
   private BitmapFont uiFont;
@@ -99,7 +99,7 @@ public class ArenaOfKingsGame extends ApplicationAdapter {
   private SelectBox<String> charBox;
   private SelectBox<String> outfitBox;
   private SelectBox<String> variantBox;
-  /** personnage -> tenue -> teintes ("-" = pas de variante). */
+  /** character -> outfit -> shades ("-" = no variant). */
   private final Map<String, Map<String, java.util.List<String>>> skins = new TreeMap<>();
   private String curSkin = "";
   private boolean updatingBoxes = false;
@@ -123,12 +123,12 @@ public class ArenaOfKingsGame extends ApplicationAdapter {
 
   // ------------------------------------------------------------------ skins
 
-  /** Lit assets/skins.list (une ligne = dossier contenant full.atlas, ex "wizard/outfit_1/dark"). */
+  /** Reads assets/skins.list (one line = folder containing full.atlas, e.g. "wizard/outfit_1/dark"). */
   private void loadSkinManifest() {
     try {
       String content = Gdx.files.internal(SKIN_MANIFEST).readString("UTF-8");
-      // Le fichier peut commencer par un BOM UTF-8 (PowerShell) : le retirer
-      // sinon la 1re cle contient un caractere invisible et apparait en double.
+      // The file may start with a UTF-8 BOM (PowerShell): strip it,
+      // otherwise the first key contains an invisible char and shows up twice.
       if (!content.isEmpty() && content.charAt(0) == '\uFEFF') {
         content = content.substring(1);
       }
@@ -149,7 +149,7 @@ public class ArenaOfKingsGame extends ApplicationAdapter {
         }
       }
     } catch (Exception e) {
-      Gdx.app.log("ArenaOfKings", "manifeste introuvable, repli sur le skin par defaut");
+      Gdx.app.log("ArenaOfKings", "manifest not found, falling back to default skin");
     }
     if (skins.isEmpty()) {
       skins.computeIfAbsent("wizard", k -> new TreeMap<>())
@@ -162,7 +162,7 @@ public class ArenaOfKingsGame extends ApplicationAdapter {
     }
   }
 
-  /** Charge un skin : nouvel atlas + reconstruction des 8 directions. */
+  /** Loads a skin: new atlas + rebuild of the 8 directions. */
   private void loadSkin(String relDir) {
     if (relDir.equals(curSkin) && atlas != null) {
       return;
@@ -171,7 +171,7 @@ public class ArenaOfKingsGame extends ApplicationAdapter {
     try {
       next = new TextureAtlas(Gdx.files.internal(SKIN_DIR + relDir + "/full.atlas"));
     } catch (Exception e) {
-      Gdx.app.log("ArenaOfKings", "skin illisible : " + relDir);
+      Gdx.app.log("ArenaOfKings", "unreadable skin: " + relDir);
       return;
     }
     if (atlas != null) {
@@ -208,9 +208,9 @@ public class ArenaOfKingsGame extends ApplicationAdapter {
   }
 
   /**
-   * Construit une animation pour (nom, direction) en filtrant sur index = dir*10000 + frame.
-   * Utilise AtlasSprite (et non TextureRegion brute) car de nombreuses frames sont packees
-   * avec "rotate: true" : seul AtlasSprite compense la rotation de 90 degres a l'affichage.
+   * Builds an animation for (name, direction) by filtering on index = dir*10000 + frame.
+   * Uses AtlasSprite (not a raw TextureRegion) because many frames are packed
+   * with "rotate: true": only AtlasSprite compensates the 90-degree rotation at render time.
    */
   private Animation<TextureAtlas.AtlasSprite> buildAnim(String animName, int direction, float frameDuration,
       Animation.PlayMode mode) {
@@ -231,7 +231,7 @@ public class ArenaOfKingsGame extends ApplicationAdapter {
     return new Animation<>(frameDuration, frames, mode);
   }
 
-  /** Remplace les directions manquantes par la direction non-nulle la plus proche. */
+  /** Replaces missing directions with the closest non-empty direction. */
   private void applyFallback(Animation<TextureAtlas.AtlasSprite>[] anims) {
     for (int d = 0; d < 8; d++) {
       if (anims[d] != null) {
@@ -319,11 +319,11 @@ public class ArenaOfKingsGame extends ApplicationAdapter {
     root.setFillParent(true);
     root.pad(10);
     root.defaults().left().padRight(8);
-    root.add(new Label("Perso", labelStyle));
+    root.add(new Label("Character", labelStyle));
     root.add(charBox).width(150);
-    root.add(new Label("Tenue", labelStyle));
+    root.add(new Label("Outfit", labelStyle));
     root.add(outfitBox).width(130);
-    root.add(new Label("Teinte", labelStyle));
+    root.add(new Label("Shade", labelStyle));
     root.add(variantBox).width(110);
 
     stage = new Stage(new ScreenViewport());
@@ -369,7 +369,7 @@ public class ArenaOfKingsGame extends ApplicationAdapter {
     setBoxItems(variantBox, variants, selectedOrFirst(variantBox));
   }
 
-  /** Selection courante sous forme "perso/tenue[/teinte]". */
+  /** Current selection as "character/outfit[/shade]". */
   private String currentSelection() {
     String c = selectedOrFirst(charBox);
     String o = selectedOrFirst(outfitBox);
@@ -392,17 +392,17 @@ public class ArenaOfKingsGame extends ApplicationAdapter {
     }
   }
 
-  // ------------------------------------------------------------------ jeu
+  // ------------------------------------------------------------------ game
 
   /**
-   * Convertit un vecteur (dx, dy) en monde vers une direction 0..7.
-   * 0=S, 1=SE, 2=E, 3=NE, 4=N, 5=NO, 6=O, 7=SO.
+   * Converts a world-space vector (dx, dy) to a direction 0..7.
+   * 0=S, 1=SE, 2=E, 3=NE, 4=N, 5=NW, 6=W, 7=SW.
    */
   static int computeDir(float dx, float dy) {
     if (dx == 0 && dy == 0) {
       return 0;
     }
-    float ang = MathUtils.atan2(dy, dx) * MathUtils.radiansToDegrees; // -180..180, 0=Est
+    float ang = MathUtils.atan2(dy, dx) * MathUtils.radiansToDegrees; // -180..180, 0=East
     if (ang < 0) {
       ang += 360f;
     }
@@ -414,7 +414,7 @@ public class ArenaOfKingsGame extends ApplicationAdapter {
     float dt = Math.min(Gdx.graphics.getDeltaTime(), 1f / 20f);
     stateTime += dt;
 
-    // --- Deplacement ZQSD (on accepte aussi WASD + fleches pour AZERTY/QWERTY) ---
+    // --- ZQSD movement (also accept WASD + arrows for AZERTY/QWERTY) ---
     float ix = 0, iy = 0;
     if (Gdx.input.isKeyPressed(Input.Keys.W) || Gdx.input.isKeyPressed(Input.Keys.Z)
         || Gdx.input.isKeyPressed(Input.Keys.UP)) {
@@ -439,13 +439,13 @@ public class ArenaOfKingsGame extends ApplicationAdapter {
       player.y += iy * SPEED * dt;
     }
 
-    // --- Souris -> monde, orientation du personnage ---
+    // --- Mouse -> world, character facing ---
     Vector3 m = new Vector3(Gdx.input.getX(), Gdx.input.getY(), 0);
     cam.unproject(m);
     mouseWorld.set(m.x, m.y);
     dir = computeDir(mouseWorld.x - player.x, mouseWorld.y - player.y);
 
-    // --- Clics : gauche = attaque, droit = sort (ignore si c'est l'UI qui est cliquee) ---
+    // --- Clicks: left = attack, right = spell (ignored when the UI is clicked) ---
     Vector2 st = stage.screenToStageCoordinates(new Vector2(Gdx.input.getX(), Gdx.input.getY()));
     boolean overUi = stage.hit(st.x, st.y, true) != null;
     if (!overUi) {
@@ -473,7 +473,7 @@ public class ArenaOfKingsGame extends ApplicationAdapter {
       Gdx.app.exit();
     }
 
-    // --- Camera verrouillee sur le joueur : personnage toujours centre ---
+    // --- Camera locked on the player: character always centered ---
     cam.position.set(player.x, player.y, 0);
     cam.update();
 
@@ -487,12 +487,12 @@ public class ArenaOfKingsGame extends ApplicationAdapter {
     stage.draw();
   }
 
-  /** Grille monde pour visualiser le mouvement (camera suiveuse oblige). */
+  /** World grid to visualize movement (required with a follow camera). */
   private void drawGrid() {
     shapes.setProjectionMatrix(cam.combined);
     shapes.begin(ShapeRenderer.ShapeType.Line);
     float step = 128f;
-    // Avec le zoom, la zone visible vaut viewport * zoom.
+    // With zoom, the visible area is viewport * zoom.
     float w = cam.viewportWidth * cam.zoom, h = cam.viewportHeight * cam.zoom;
     float x0 = player.x - w / 2, x1 = player.x + w / 2;
     float y0 = player.y - h / 2, y1 = player.y + h / 2;
@@ -503,11 +503,11 @@ public class ArenaOfKingsGame extends ApplicationAdapter {
     for (float y = (float) Math.floor(y0 / step) * step; y <= y1; y += step) {
       shapes.line(x0, y, x1, y);
     }
-    // axes origine
+    // origin axes
     shapes.setColor(new Color(0.3f, 0.3f, 0.4f, 1f));
     shapes.line(x0, 0, x1, 0);
     shapes.line(0, y0, 0, y1);
-    // viseur souris + ligne de visee
+    // mouse cursor + aim line
     shapes.setColor(Color.ORANGE);
     shapes.line(player.x, player.y, mouseWorld.x, mouseWorld.y);
     shapes.circle(mouseWorld.x, mouseWorld.y, 12f * cam.zoom, 24);
@@ -518,13 +518,13 @@ public class ArenaOfKingsGame extends ApplicationAdapter {
     Animation<TextureAtlas.AtlasSprite> anim;
     float t;
     if (acting && actAnims != null && actAnims[dir] != null) {
-      // En mouvement on prefere la variante "run" de l'action (attack_run / cast_run).
+      // While moving, prefer the "run" variant of the action (attack_run / cast_run).
       if (moving && actRunAnims != null && actRunAnims[dir] != null) {
         anim = actRunAnims[dir];
-        actionLabel = actIsAttack ? "ATTAQUE_RUN" : "CAST_RUN";
+        actionLabel = actIsAttack ? "ATTACK_RUN" : "CAST_RUN";
       } else {
         anim = actAnims[dir];
-        actionLabel = actIsAttack ? "ATTAQUE" : "CAST";
+        actionLabel = actIsAttack ? "ATTACK" : "CAST";
       }
       t = actTime;
     } else if (moving) {
@@ -538,12 +538,12 @@ public class ArenaOfKingsGame extends ApplicationAdapter {
     }
     TextureAtlas.AtlasSprite sprite = anim.getKeyFrame(t, anim.getPlayMode() == Animation.PlayMode.LOOP);
 
-    // dimensions du canvas d'origine du skin courant mises a l'echelle
+    // scaled original-canvas dimensions of the current skin
     float w = canvasW * SCALE;
     float h = canvasH * SCALE;
 
-    // setBounds positionne le sprite dans l'espace du canvas d'origine :
-    // offsets + rotation d'atlas geres par AtlasSprite, plus de frame a 90 degres ni de tremblement.
+    // setBounds positions the sprite in the original-canvas space:
+    // atlas offsets + rotation handled by AtlasSprite, no more 90-degree frames or jitter.
     batch.setProjectionMatrix(cam.combined);
     batch.begin();
     sprite.setBounds(player.x - w / 2f, player.y - h / 2f, w, h);
@@ -553,16 +553,16 @@ public class ArenaOfKingsGame extends ApplicationAdapter {
 
   private void drawHud() {
     batch.setProjectionMatrix(cam.combined);
-    // texte en bas-gauche de la vue (le panneau perso est en haut-gauche)
+    // text at the bottom-left of the view (character panel is top-left)
     float vw = cam.viewportWidth * cam.zoom, vh = cam.viewportHeight * cam.zoom;
     float hx = cam.position.x - vw / 2 + 12 * cam.zoom;
     float base = cam.position.y - vh / 2 + 12 * cam.zoom;
     batch.begin();
     font.setColor(Color.LIGHT_GRAY);
     String state = actionLabel;
-    font.draw(batch, "ZQSD / WASD / Fleches = bouger | Clic gauche = attaque | Clic droit = sort | Echap = quitter", hx, base + 40 * cam.zoom);
-    font.draw(batch, "skin=" + curSkin + " etat=" + state + " dir=" + dir, hx, base + 20 * cam.zoom);
-    font.draw(batch, "0=S 1=SE 2=E 3=NE 4=N 5=NO 6=O 7=SO", hx, base);
+    font.draw(batch, "ZQSD / WASD / Arrows = move | Left click = attack | Right click = spell | Esc = quit", hx, base + 40 * cam.zoom);
+    font.draw(batch, "skin=" + curSkin + " state=" + state + " dir=" + dir, hx, base + 20 * cam.zoom);
+    font.draw(batch, "0=S 1=SE 2=E 3=NE 4=N 5=NW 6=W 7=SW", hx, base);
     batch.end();
   }
 

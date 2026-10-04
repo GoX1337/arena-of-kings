@@ -1,99 +1,101 @@
-# Arena of Kings — jeu minimaliste libGDX
+# Arena of Kings — minimal libGDX game
 
-Sorcier centré à l'écran (caméra suiveuse), déplacement **ZQSD**, orientation **vers la souris**
-avec les 8 directions de `full.atlas`. Clic gauche = sort (`cast`).
+Screen-centered wizard (follow camera), **ZQSD** movement, **mouse** aiming
+with the 8 directions from `full.atlas`. Left click = attack, right click = spell.
 
-## Prérequis
+## Prerequisites
 
 - Java 17
 - Maven 3.9+
-- Les skins sont dans `assets/models/` (chargés via le classpath).
+- Skins live in `assets/models/` (loaded via the classpath).
 
-## Lancer
+## Run
 
 ```powershell
 mvn compile exec:java
 ```
 
-## Contrôles
+## Controls
 
-| Touche | Action |
+| Key | Action |
 |---|---|
-| Z / W / ↑ | Haut |
-| S / ↓ | Bas |
-| Q / A / ← | Gauche |
-| D / → | Droite |
-| Souris | Orientation du personnage (8 directions) |
-| Clic gauche | Lancer un sort (`cast` vers la souris) |
-| Échap | Quitter |
+| Z / W / Up | Up |
+| S / Down | Down |
+| Q / A / Left | Left |
+| D / Right | Right |
+| Mouse | Character facing (8 directions) |
+| Left click | Attack (`attack` toward the mouse) |
+| Right click | Cast a spell (`cast` toward the mouse) |
+| Esc | Quit |
 
-On accepte ZQSD **et** WASD + flèches pour couvrir AZERTY et QWERTY
-(sur AZERTY, la touche `Z` arrive souvent comme code `W`, d'où la double écoute).
+Both ZQSD **and** WASD + arrows are accepted to cover AZERTY and QWERTY
+(on AZERTY the `Z` key often arrives as `W`, hence the dual binding).
 
-## Personnages (`assets/models/`)
+## Characters (`assets/models/`)
 
-10 personnages (`assassin`, `champion`, `elder`, `lich`, `mystic`, `nihilist`, `paladin`,
-`ranger`, `scholar`, `wizard`), chacun avec 2+ tenues (`outfit_1`, ...) en variantes
-`dark`/`light` (+ formes animales pour `elder`, `outfit_3` pour `lich`/`scholar`).
+10 characters (`assassin`, `champion`, `elder`, `lich`, `mystic`, `nihilist`, `paladin`,
+`ranger`, `scholar`, `wizard`), each with 2+ outfits (`outfit_1`, ...) in
+`dark`/`light` variants (+ animal forms for `elder`, `outfit_3` for `lich`/`scholar`).
 
-Le jeu affiche 3 listes déroulantes en haut à gauche : **Perso / Tenue / Teinte**.
-Au clic, le skin charge : nouvel atlas `assets/models/<perso>/<tenue>/<teinte>/full.atlas` +
-reconstruction des 8 directions.
-**Clic gauche = `attack` / `attack_run`, clic droit = `cast` / `cast_run`**
-(les animaux n'ont que `idle`/`run` : les clics ne font rien chez eux).
+The game shows 3 dropdown lists at the top left: **Character / Outfit / Shade**.
+On change it loads the skin: new atlas `assets/models/<character>/<outfit>/<shade>/full.atlas` +
+rebuild of the 8 directions.
+**Left click = `attack` / `attack_run`, right click = `cast` / `cast_run`**
+(animals only have `idle`/`run`: clicks do nothing for them).
 
-La liste des skins vient de `assets/skins.list` (une ligne = dossier de `full.atlas`).
-Après ajout de modèles, régénérer avec :
+The skin list comes from `assets/skins.list` (one line = one `full.atlas` folder).
+After adding models, regenerate with:
 ```powershell
 Get-ChildItem assets/models -Recurse -Filter full.atlas | ForEach-Object { $_.DirectoryName.Replace($PWD.Path + '\assets\models\','').Replace('\','/') } | Sort-Object | Set-Content assets/skins.list -Encoding UTF8
 ```
 
-## Mapping des directions (déduit des atlas)
+## Direction mapping (derived from the atlases)
 
-`index = direction * 10000 + frame` :
+`index = direction * 10000 + frame`:
 
-| dir | Orientation |
+| dir | Facing |
 |---|---|
-| 0 | Sud (face caméra) |
-| 1 | Sud-Est |
-| 2 | Est |
-| 3 | Nord-Est |
-| 4 | Nord (dos) |
-| 5 | Nord-Ouest |
-| 6 | Ouest |
-| 7 | Sud-Ouest |
+| 0 | South (facing camera) |
+| 1 | South-East |
+| 2 | East |
+| 3 | North-East |
+| 4 | North (back) |
+| 5 | North-West |
+| 6 | West |
+| 7 | South-West |
 
-Formule : `dir = (round(angleDeg / 45) + 2) % 8` avec `angleDeg = atan2(dy, dx)` en monde (Y vers le haut).
-Voir `ArenaOfKingsGame.computeDir()` (`src/main/java/com/arenaofkings/ArenaOfKingsGame.java`).
+Formula: `dir = (round(angleDeg / 45) + 2) % 8` with `angleDeg = atan2(dy, dx)` in world space (Y up).
+See `ArenaOfKingsGame.computeDir()` (`src/main/java/com/arenaofkings/ArenaOfKingsGame.java`).
 
-Note : `idle` n'a pas de direction 0 dans `full.atlas` → repli automatique sur la direction
-non vide la plus proche (`applyFallback`).
+Note: `idle` has no direction 0 in `full.atlas` → automatic fallback to the
+closest non-empty direction (`applyFallback`).
 
-Note technique : beaucoup de frames sont packées avec `rotate: true` dans l'atlas.
-Le rendu utilise `TextureAtlas.AtlasSprite` (et non `batch.draw(TextureRegion)`)
-car seul `AtlasSprite` compense la rotation de 90° — sinon le personnage apparaît renversé.
+Technical note: many frames are packed with `rotate: true` in the atlas.
+Rendering uses `TextureAtlas.AtlasSprite` (not `batch.draw(TextureRegion)`)
+because only `AtlasSprite` compensates the 90-degree rotation — otherwise the character appears sideways.
 
-## Réglages (`ArenaOfKingsGame.java`)
+## Tuning (`ArenaOfKingsGame.java`)
 
-- `ZOOM = 2` — dézoom de la caméra (1 = pas de zoom).
-- Vitesses d'animation : `idle` 20 img/s, `run` 40 img/s, `cast` 50 img/s.
-- `SPEED = 500` — vitesse de déplacement (unités monde/s).
-- `SCALE = 2.5` — taille du sprite (canvas d'origine 252×238).
+- `ZOOM = 2` — camera zoom-out (1 = no zoom).
+- Animation speeds: `idle` 20 fps, `run` 40 fps, `attack`/`cast` 50 fps.
+- `SPEED = 500` — move speed (world units/s).
+- `SCALE = 2.5` — sprite size (original canvas 252x238).
 
-## Build Windows (.exe)
+## Windows build (.exe)
 
 ```powershell
 mvn package -DskipTests
 jpackage --type app-image --input target --dest dist --name ArenaOfKings `
   --main-jar arena-of-kings-1.0-SNAPSHOT.jar --main-class com.arenaofkings.DesktopLauncher `
-  --app-version 1.0 --vendor ArenaOfKings --description "Arena of Kings ZQSD souris"
+  --app-version 1.0 --vendor ArenaOfKings --description "Arena of Kings ZQSD mouse"
 ```
 
-Lançable via `dist/ArenaOfKings/ArenaOfKings.exe`.
+Launch via `dist/ArenaOfKings/ArenaOfKings.exe`.
 
-## Fichiers
+## Files
 
-- `pom.xml` — dépendances libGDX 1.12.1 (lwjgl3)
-- `src/main/java/com/arenaofkings/ArenaOfKingsGame.java` — jeu (déplacement, caméra, animations idle/run/cast)
-- `src/main/java/com/arenaofkings/DesktopLauncher.java` — lanceur desktop 1280×720
-- `assets/` — `skins.list` + `models/<perso>/<tenue>/<teinte>/full.atlas` + PNG (copiés sur le classpath au build)
+- `pom.xml` — libGDX 1.12.1 dependencies (lwjgl3)
+- `src/main/java/com/arenaofkings/ArenaOfKingsGame.java` — game (movement, camera, idle/run/attack/cast animations)
+- `src/main/java/com/arenaofkings/DesktopLauncher.java` — desktop launcher 1280x720
+- `assets/` — `skins.list` + `models/<character>/<outfit>/<shade>/full.atlas` + PNGs (copied to the classpath at build time)
+- `AGENTS.md` — instructions for AI coding agents
