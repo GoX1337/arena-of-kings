@@ -1,2 +1,15 @@
-.idea
-*.jar
+# Build
+target/
+dist/
+dist-input/
+dependency-reduced-pom.xml
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
