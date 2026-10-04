@@ -4,6 +4,7 @@ import com.badlogic.gdx.ApplicationAdapter;
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.Input;
 import com.badlogic.gdx.graphics.Color;
+import com.badlogic.gdx.graphics.Cursor;
 import com.badlogic.gdx.graphics.OrthographicCamera;
 import com.badlogic.gdx.graphics.Pixmap;
 import com.badlogic.gdx.graphics.Texture;
@@ -91,6 +92,11 @@ public class ArenaOfKingsGame extends ApplicationAdapter {
   private int dir = 0;
   private boolean moving = false;
 
+  // --- Custom mouse cursor: gray default, gray "down" while a button is held ---
+  private Cursor cursorNormal;
+  private Cursor cursorDown;
+  private boolean cursorIsDown = false;
+
   // --- UI: character selection ---
   private Stage stage;
   private Skin uiSkin;
@@ -114,6 +120,14 @@ public class ArenaOfKingsGame extends ApplicationAdapter {
     cam.position.set(player.x, player.y, 0);
     cam.update();
     font.getData().setScale(ZOOM);
+
+    Pixmap cursorPm = new Pixmap(Gdx.files.internal("cursors/cursor_default_gray.png"));
+    cursorNormal = Gdx.graphics.newCursor(cursorPm, 0, 0);
+    cursorPm.dispose();
+    cursorPm = new Pixmap(Gdx.files.internal("cursors/cursor_down_gray.png"));
+    cursorDown = Gdx.graphics.newCursor(cursorPm, 0, 0);
+    cursorPm.dispose();
+    Gdx.graphics.setCursor(cursorNormal);
 
     loadSkinManifest();
     buildUi();
@@ -463,6 +477,14 @@ public class ArenaOfKingsGame extends ApplicationAdapter {
         actIsAttack = false;
       }
     }
+    // Custom cursor: "down" variant while any mouse button is held.
+    boolean down = Gdx.input.isButtonPressed(Input.Buttons.LEFT)
+        || Gdx.input.isButtonPressed(Input.Buttons.RIGHT)
+        || Gdx.input.isButtonPressed(Input.Buttons.MIDDLE);
+    if (down != cursorIsDown) {
+      cursorIsDown = down;
+      Gdx.graphics.setCursor(down ? cursorDown : cursorNormal);
+    }
     if (acting) {
       actTime += dt;
       if (actAnims[dir] == null || actAnims[dir].isAnimationFinished(actTime)) {
@@ -584,6 +606,12 @@ public class ArenaOfKingsGame extends ApplicationAdapter {
     uiFont.dispose();
     for (Texture t : uiTextures) {
       t.dispose();
+    }
+    if (cursorNormal != null) {
+      cursorNormal.dispose();
+    }
+    if (cursorDown != null) {
+      cursorDown.dispose();
     }
     stage.dispose();
     atlas.dispose();
