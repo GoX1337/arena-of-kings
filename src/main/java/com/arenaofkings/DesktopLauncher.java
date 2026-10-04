@@ -8,6 +8,7 @@ public class DesktopLauncher {
     Lwjgl3ApplicationConfiguration config = new Lwjgl3ApplicationConfiguration();
     config.setTitle("Arena of Kings - ZQSD + Mouse");
     config.setWindowedMode(1280, 720);
+    config.setWindowIcon("icons/app-icon.png");
     config.useVsync(true);
     config.setForegroundFPS(60);
     new Lwjgl3Application(new ArenaOfKingsGame(), config);

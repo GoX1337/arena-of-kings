@@ -74,7 +74,8 @@ jobs:
             --main-class com.arenaofkings.DesktopLauncher `
             --app-version "${{ steps.version.outputs.version }}" `
             --vendor ArenaOfKings `
-            --description "Arena of Kings ZQSD souris"
+            --description "Arena of Kings ZQSD souris" `
+            --icon assets/icons/ArenaOfKings.ico
           Get-ChildItem dist/ArenaOfKings/ArenaOfKings.exe
 
       - name: Zip app image
