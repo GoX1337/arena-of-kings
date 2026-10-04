@@ -27,6 +27,7 @@ unless explicitly asked to add a system.
 
 - Java 17 (required), Maven 3.9+, libGDX 1.12.1, LWJGL3 desktop only.
 - Assets in `assets/` are copied to the classpath at build time via `pom.xml` `<resources>`.
+- RTK obligatoire : préfixer toute commande shell par `rtk` (`rtk git status`, `rtk mvn ...`, `rtk read/grep/find/ls`). Voir skill `rtk` + hook `.opencode/plugins/rtk-enforce.ts`.
 
 ```powershell
 # Run the game (dev loop)
