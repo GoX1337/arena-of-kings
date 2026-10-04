@@ -1,0 +1,208 @@
+BlessingSunAndMoon_on_tick_0.png
+size: 512, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BlessingSunAndMoon_on_tick
+  rotate: true
+  xy: 161, 360
+  size: 81, 156
+  orig: 200, 200
+  offset: 62, 33
+  index: 0
+BlessingSunAndMoon_on_tick
+  rotate: true
+  xy: 164, 272
+  size: 86, 159
+  orig: 200, 200
+  offset: 55, 30
+  index: 1
+BlessingSunAndMoon_on_tick
+  rotate: true
+  xy: 347, 1
+  size: 88, 162
+  orig: 200, 200
+  offset: 53, 27
+  index: 2
+BlessingSunAndMoon_on_tick
+  rotate: true
+  xy: 1, 91
+  size: 89, 166
+  orig: 200, 200
+  offset: 51, 24
+  index: 3
+BlessingSunAndMoon_on_tick
+  rotate: true
+  xy: 174, 90
+  size: 88, 168
+  orig: 200, 200
+  offset: 52, 22
+  index: 4
+BlessingSunAndMoon_on_tick
+  rotate: true
+  xy: 174, 1
+  size: 87, 171
+  orig: 200, 200
+  offset: 53, 19
+  index: 5
+BlessingSunAndMoon_on_tick
+  rotate: true
+  xy: 1, 1
+  size: 88, 171
+  orig: 200, 200
+  offset: 52, 19
+  index: 6
+BlessingSunAndMoon_on_tick
+  rotate: false
+  xy: 93, 838
+  size: 89, 130
+  orig: 200, 200
+  offset: 51, 60
+  index: 7
+BlessingSunAndMoon_on_tick
+  rotate: false
+  xy: 1, 838
+  size: 90, 134
+  orig: 200, 200
+  offset: 51, 56
+  index: 8
+BlessingSunAndMoon_on_tick
+  rotate: true
+  xy: 1, 745
+  size: 91, 137
+  orig: 200, 200
+  offset: 50, 53
+  index: 9
+BlessingSunAndMoon_on_tick
+  rotate: true
+  xy: 294, 657
+  size: 93, 140
+  orig: 200, 200
+  offset: 49, 50
+  index: 10
+BlessingSunAndMoon_on_tick
+  rotate: true
+  xy: 300, 561
+  size: 94, 143
+  orig: 200, 200
+  offset: 49, 47
+  index: 11
+BlessingSunAndMoon_on_tick
+  rotate: true
+  xy: 149, 632
+  size: 94, 143
+  orig: 200, 200
+  offset: 49, 47
+  index: 12
+BlessingSunAndMoon_on_tick
+  rotate: true
+  xy: 152, 535
+  size: 95, 146
+  orig: 200, 200
+  offset: 49, 44
+  index: 13
+BlessingSunAndMoon_on_tick
+  rotate: true
+  xy: 1, 463
+  size: 95, 149
+  orig: 200, 200
+  offset: 49, 41
+  index: 14
+BlessingSunAndMoon_on_tick
+  rotate: true
+  xy: 319, 371
+  size: 96, 152
+  orig: 200, 200
+  offset: 49, 38
+  index: 15
+BlessingSunAndMoon_on_tick
+  rotate: true
+  xy: 1, 370
+  size: 91, 155
+  orig: 200, 200
+  offset: 52, 35
+  index: 16
+BlessingSunAndMoon_on_tick
+  rotate: true
+  xy: 1, 277
+  size: 91, 158
+  orig: 200, 200
+  offset: 52, 32
+  index: 17
+BlessingSunAndMoon_on_tick
+  rotate: true
+  xy: 325, 278
+  size: 91, 158
+  orig: 200, 200
+  offset: 52, 32
+  index: 18
+BlessingSunAndMoon_on_tick
+  rotate: true
+  xy: 336, 184
+  size: 92, 159
+  orig: 200, 200
+  offset: 51, 30
+  index: 19
+BlessingSunAndMoon_on_tick
+  rotate: true
+  xy: 1, 182
+  size: 93, 161
+  orig: 200, 200
+  offset: 51, 28
+  index: 20
+BlessingSunAndMoon_on_tick
+  rotate: true
+  xy: 169, 180
+  size: 90, 165
+  orig: 200, 200
+  offset: 55, 24
+  index: 21
+BlessingSunAndMoon_on_tick
+  rotate: true
+  xy: 344, 91
+  size: 91, 167
+  orig: 200, 200
+  offset: 55, 22
+  index: 22
+BlessingSunAndMoon_on_tick
+  rotate: true
+  xy: 146, 728
+  size: 89, 140
+  orig: 200, 200
+  offset: 58, 49
+  index: 23
+BlessingSunAndMoon_on_tick
+  rotate: true
+  xy: 146, 728
+  size: 89, 140
+  orig: 200, 200
+  offset: 58, 49
+  index: 24
+BlessingSunAndMoon_on_tick
+  rotate: true
+  xy: 1, 653
+  size: 90, 143
+  orig: 200, 200
+  offset: 58, 46
+  index: 25
+BlessingSunAndMoon_on_tick
+  rotate: true
+  xy: 1, 560
+  size: 91, 146
+  orig: 200, 200
+  offset: 58, 43
+  index: 26
+BlessingSunAndMoon_on_tick
+  rotate: true
+  xy: 312, 469
+  size: 90, 149
+  orig: 200, 200
+  offset: 60, 40
+  index: 27
+BlessingSunAndMoon_on_tick
+  rotate: true
+  xy: 158, 443
+  size: 90, 152
+  orig: 200, 200
+  offset: 60, 37
+  index: 28

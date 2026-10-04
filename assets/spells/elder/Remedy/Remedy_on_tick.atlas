@@ -1,0 +1,215 @@
+Remedy_on_tick_0.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Remedy_on_tick
+  rotate: false
+  xy: 852, 181
+  size: 144, 176
+  orig: 300, 300
+  offset: 77, 45
+  index: 0
+Remedy_on_tick
+  rotate: false
+  xy: 752, 1
+  size: 147, 178
+  orig: 300, 300
+  offset: 74, 45
+  index: 1
+Remedy_on_tick
+  rotate: false
+  xy: 703, 186
+  size: 147, 181
+  orig: 300, 300
+  offset: 74, 45
+  index: 2
+Remedy_on_tick
+  rotate: false
+  xy: 508, 572
+  size: 148, 181
+  orig: 300, 300
+  offset: 73, 45
+  index: 3
+Remedy_on_tick
+  rotate: false
+  xy: 432, 764
+  size: 148, 182
+  orig: 300, 300
+  offset: 72, 45
+  index: 4
+Remedy_on_tick
+  rotate: false
+  xy: 581, 375
+  size: 148, 181
+  orig: 300, 300
+  offset: 72, 45
+  index: 5
+Remedy_on_tick
+  rotate: false
+  xy: 604, 1
+  size: 146, 183
+  orig: 300, 300
+  offset: 72, 45
+  index: 6
+Remedy_on_tick
+  rotate: false
+  xy: 437, 385
+  size: 142, 185
+  orig: 300, 300
+  offset: 73, 45
+  index: 7
+Remedy_on_tick
+  rotate: false
+  xy: 437, 385
+  size: 142, 185
+  orig: 300, 300
+  offset: 73, 45
+  index: 8
+Remedy_on_tick
+  rotate: false
+  xy: 294, 774
+  size: 136, 186
+  orig: 300, 300
+  offset: 75, 45
+  index: 9
+Remedy_on_tick
+  rotate: false
+  xy: 303, 387
+  size: 132, 187
+  orig: 300, 300
+  offset: 80, 45
+  index: 10
+Remedy_on_tick
+  rotate: false
+  xy: 380, 576
+  size: 126, 186
+  orig: 300, 300
+  offset: 86, 45
+  index: 11
+Remedy_on_tick
+  rotate: false
+  xy: 424, 196
+  size: 124, 187
+  orig: 300, 300
+  offset: 88, 45
+  index: 12
+Remedy_on_tick
+  rotate: false
+  xy: 256, 584
+  size: 122, 188
+  orig: 300, 300
+  offset: 89, 45
+  index: 13
+Remedy_on_tick
+  rotate: false
+  xy: 256, 584
+  size: 122, 188
+  orig: 300, 300
+  offset: 89, 45
+  index: 14
+Remedy_on_tick
+  rotate: false
+  xy: 302, 196
+  size: 120, 189
+  orig: 300, 300
+  offset: 89, 45
+  index: 15
+Remedy_on_tick
+  rotate: false
+  xy: 129, 592
+  size: 125, 191
+  orig: 300, 300
+  offset: 89, 45
+  index: 16
+Remedy_on_tick
+  rotate: false
+  xy: 1, 592
+  size: 126, 192
+  orig: 300, 300
+  offset: 90, 46
+  index: 17
+Remedy_on_tick
+  rotate: false
+  xy: 149, 785
+  size: 143, 188
+  orig: 300, 300
+  offset: 73, 49
+  index: 18
+Remedy_on_tick
+  rotate: false
+  xy: 1, 786
+  size: 146, 191
+  orig: 300, 300
+  offset: 70, 50
+  index: 19
+Remedy_on_tick
+  rotate: false
+  xy: 1, 786
+  size: 146, 191
+  orig: 300, 300
+  offset: 70, 50
+  index: 20
+Remedy_on_tick
+  rotate: false
+  xy: 153, 392
+  size: 148, 190
+  orig: 300, 300
+  offset: 69, 53
+  index: 21
+Remedy_on_tick
+  rotate: false
+  xy: 151, 1
+  size: 148, 194
+  orig: 300, 300
+  offset: 69, 50
+  index: 22
+Remedy_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 148, 196
+  orig: 300, 300
+  offset: 69, 50
+  index: 23
+Remedy_on_tick
+  rotate: false
+  xy: 1, 199
+  size: 148, 195
+  orig: 300, 300
+  offset: 69, 50
+  index: 24
+Remedy_on_tick
+  rotate: false
+  xy: 151, 197
+  size: 149, 193
+  orig: 300, 300
+  offset: 68, 51
+  index: 25
+Remedy_on_tick
+  rotate: false
+  xy: 301, 1
+  size: 149, 193
+  orig: 300, 300
+  offset: 68, 51
+  index: 26
+Remedy_on_tick
+  rotate: false
+  xy: 1, 396
+  size: 150, 194
+  orig: 300, 300
+  offset: 68, 52
+  index: 27
+Remedy_on_tick
+  rotate: false
+  xy: 452, 1
+  size: 150, 186
+  orig: 300, 300
+  offset: 68, 58
+  index: 28
+Remedy_on_tick
+  rotate: false
+  xy: 550, 189
+  size: 151, 184
+  orig: 300, 300
+  offset: 67, 59
+  index: 29

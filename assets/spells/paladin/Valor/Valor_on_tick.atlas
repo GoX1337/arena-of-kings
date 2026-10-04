@@ -1,0 +1,173 @@
+Valor_on_tick_0.png
+size: 512, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Valor_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 150, 117
+  orig: 150, 125
+  offset: 0, 0
+  index: 0
+Valor_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 150, 117
+  orig: 150, 125
+  offset: 0, 0
+  index: 1
+Valor_on_tick
+  rotate: false
+  xy: 1, 239
+  size: 150, 116
+  orig: 150, 125
+  offset: 0, 0
+  index: 2
+Valor_on_tick
+  rotate: false
+  xy: 153, 239
+  size: 150, 116
+  orig: 150, 125
+  offset: 0, 0
+  index: 3
+Valor_on_tick
+  rotate: false
+  xy: 305, 239
+  size: 150, 116
+  orig: 150, 125
+  offset: 0, 0
+  index: 4
+Valor_on_tick
+  rotate: false
+  xy: 305, 357
+  size: 150, 115
+  orig: 150, 125
+  offset: 0, 0
+  index: 5
+Valor_on_tick
+  rotate: false
+  xy: 305, 474
+  size: 150, 115
+  orig: 150, 125
+  offset: 0, 0
+  index: 6
+Valor_on_tick
+  rotate: false
+  xy: 305, 474
+  size: 150, 115
+  orig: 150, 125
+  offset: 0, 0
+  index: 7
+Valor_on_tick
+  rotate: false
+  xy: 305, 591
+  size: 150, 114
+  orig: 150, 125
+  offset: 0, 0
+  index: 8
+Valor_on_tick
+  rotate: false
+  xy: 1, 592
+  size: 150, 114
+  orig: 150, 125
+  offset: 0, 0
+  index: 9
+Valor_on_tick
+  rotate: false
+  xy: 153, 592
+  size: 150, 114
+  orig: 150, 125
+  offset: 0, 0
+  index: 10
+Valor_on_tick
+  rotate: false
+  xy: 305, 707
+  size: 150, 114
+  orig: 150, 125
+  offset: 0, 0
+  index: 11
+Valor_on_tick
+  rotate: true
+  xy: 1, 823
+  size: 150, 114
+  orig: 150, 125
+  offset: 0, 0
+  index: 12
+Valor_on_tick
+  rotate: true
+  xy: 1, 823
+  size: 150, 114
+  orig: 150, 125
+  offset: 0, 0
+  index: 13
+Valor_on_tick
+  rotate: false
+  xy: 1, 475
+  size: 150, 115
+  orig: 150, 125
+  offset: 0, 0
+  index: 14
+Valor_on_tick
+  rotate: false
+  xy: 153, 475
+  size: 150, 115
+  orig: 150, 125
+  offset: 0, 0
+  index: 15
+Valor_on_tick
+  rotate: false
+  xy: 1, 357
+  size: 150, 116
+  orig: 150, 125
+  offset: 0, 0
+  index: 16
+Valor_on_tick
+  rotate: false
+  xy: 153, 357
+  size: 150, 116
+  orig: 150, 125
+  offset: 0, 0
+  index: 17
+Valor_on_tick
+  rotate: false
+  xy: 153, 1
+  size: 150, 117
+  orig: 150, 125
+  offset: 0, 0
+  index: 18
+Valor_on_tick
+  rotate: false
+  xy: 153, 1
+  size: 150, 117
+  orig: 150, 125
+  offset: 0, 0
+  index: 19
+Valor_on_tick
+  rotate: false
+  xy: 305, 1
+  size: 150, 117
+  orig: 150, 125
+  offset: 0, 0
+  index: 20
+Valor_on_tick
+  rotate: false
+  xy: 1, 120
+  size: 150, 117
+  orig: 150, 125
+  offset: 0, 0
+  index: 21
+Valor_on_tick
+  rotate: false
+  xy: 153, 120
+  size: 150, 117
+  orig: 150, 125
+  offset: 0, 0
+  index: 22
+Valor_on_tick
+  rotate: false
+  xy: 305, 120
+  size: 150, 117
+  orig: 150, 125
+  offset: 0, 0
+  index: 23

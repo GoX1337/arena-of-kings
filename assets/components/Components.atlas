@@ -1,0 +1,453 @@
+
+Components.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+accountcreation/images/ACCOUNTCREATION_MAINBOX
+  rotate: false
+  xy: 1284, 559
+  size: 414, 267
+  orig: 414, 267
+  offset: 0, 0
+  index: -1
+components/game/cursor/cursor_default
+  rotate: false
+  xy: 1943, 2018
+  size: 30, 28
+  orig: 32, 32
+  offset: 0, 4
+  index: -1
+components/game/icons/ARCHER_ICON_HOVERED
+  rotate: false
+  xy: 1838, 698
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+components/game/icons/ARCHER_ICON_UNHOVERED
+  rotate: false
+  xy: 1838, 568
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+components/game/icons/ASSASSIN_ICON_HOVERED
+  rotate: false
+  xy: 1706, 218
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+components/game/icons/ASSASSIN_ICON_UNHOVERED
+  rotate: false
+  xy: 1706, 88
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+components/game/icons/DISCIPLE_ICON_HOVERED
+  rotate: false
+  xy: 1838, 438
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+components/game/icons/DISCIPLE_ICON_UNHOVERED
+  rotate: false
+  xy: 1836, 308
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+components/game/icons/DRUID_ICON_HOVERED
+  rotate: false
+  xy: 1836, 178
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+components/game/icons/DRUID_ICON_UNHOVERED
+  rotate: false
+  xy: 1836, 48
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+components/game/images/DIALOGUE_BOX
+  rotate: false
+  xy: 357, 23
+  size: 169, 81
+  orig: 175, 83
+  offset: 3, 1
+  index: -1
+components/game/images/NAMEPLATE
+  rotate: false
+  xy: 695, 28
+  size: 162, 28
+  orig: 162, 28
+  offset: 0, 0
+  index: -1
+components/game/images/aoe_reticle
+  rotate: false
+  xy: 1697, 348
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+components/game/images/gameicon
+  rotate: false
+  xy: 985, 46
+  size: 14, 10
+  orig: 16, 16
+  offset: 1, 3
+  index: -1
+components/gui/bottom_bar
+  rotate: false
+  xy: 2, 828
+  size: 1920, 136
+  orig: 1920, 136
+  offset: 0, 0
+  index: -1
+components/gui/buttons/CANCEL_BUTTON_HOVERED
+  rotate: false
+  xy: 859, 20
+  size: 124, 36
+  orig: 125, 36
+  offset: 1, 0
+  index: -1
+components/gui/buttons/CANCEL_BUTTON_UNHOVERED
+  rotate: false
+  xy: 1706, 12
+  size: 124, 36
+  orig: 125, 36
+  offset: 1, 0
+  index: -1
+components/gui/buttons/CREATE_BUTTON_GRAYED
+  rotate: false
+  xy: 1832, 10
+  size: 124, 36
+  orig: 125, 36
+  offset: 1, 0
+  index: -1
+components/gui/buttons/CREATE_BUTTON_HOVERED
+  rotate: false
+  xy: 1015, 30
+  size: 124, 36
+  orig: 125, 36
+  offset: 1, 0
+  index: -1
+components/gui/buttons/CREATE_BUTTON_UNHOVERED
+  rotate: false
+  xy: 1141, 30
+  size: 124, 36
+  orig: 125, 36
+  offset: 1, 0
+  index: -1
+components/gui/chat/CHAT_SCROLLBAR
+  rotate: false
+  xy: 1924, 1823
+  size: 15, 52
+  orig: 15, 52
+  offset: 0, 0
+  index: -1
+components/gui/chat/CHAT_SCROLLBAR_BACKGROUND
+  rotate: false
+  xy: 1924, 1877
+  size: 17, 169
+  orig: 17, 169
+  offset: 0, 0
+  index: -1
+components/gui/spells/loadingEmpty
+  rotate: false
+  xy: 2, 56
+  size: 353, 48
+  orig: 355, 54
+  offset: 2, 1
+  index: -1
+components/gui/spells/loadingFull
+  rotate: false
+  xy: 2, 6
+  size: 353, 48
+  orig: 355, 54
+  offset: 2, 0
+  index: -1
+lobby/images/LOBBY_BACKGROUND
+  rotate: false
+  xy: 2, 106
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+lobby/images/LOBBY_ENTER_BUTTON_HOVERED
+  rotate: false
+  xy: 1267, 10
+  size: 124, 36
+  orig: 125, 36
+  offset: 1, 0
+  index: -1
+lobby/images/LOBBY_ENTER_BUTTON_UNHOVERED
+  rotate: false
+  xy: 1393, 10
+  size: 124, 36
+  orig: 125, 36
+  offset: 1, 0
+  index: -1
+lobby/images/LOBBY_PARTY_CHECK_BOX
+  rotate: false
+  xy: 695, 2
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+lobby/images/LOBBY_PARTY_CHECK_BOX_HOVERED
+  rotate: false
+  xy: 721, 2
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+lobby/images/LOBBY_PARTY_INVITE_BOX
+  rotate: false
+  xy: 528, 25
+  size: 165, 79
+  orig: 175, 83
+  offset: 5, 2
+  index: -1
+lobby/images/LOBBY_PARTY_X_BOX
+  rotate: false
+  xy: 747, 2
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+lobby/images/LOBBY_PARTY_X_BOX_HOVERED
+  rotate: false
+  xy: 773, 2
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+lobby/images/PLAY_BUTTON_HOVERED
+  rotate: false
+  xy: 695, 58
+  size: 158, 46
+  orig: 158, 46
+  offset: 0, 0
+  index: -1
+lobby/images/PLAY_BUTTON_UNHOVERED
+  rotate: false
+  xy: 855, 58
+  size: 158, 46
+  orig: 158, 46
+  offset: 0, 0
+  index: -1
+login/images/LOGIN_BACKGROUND
+  rotate: false
+  xy: 2, 966
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+login/images/LOGIN_BUTTON_GRAYED
+  rotate: false
+  xy: 1015, 68
+  size: 125, 36
+  orig: 125, 36
+  offset: 0, 0
+  index: -1
+login/images/LOGIN_BUTTON_HOVERED
+  rotate: false
+  xy: 1706, 50
+  size: 125, 36
+  orig: 125, 36
+  offset: 0, 0
+  index: -1
+login/images/LOGIN_BUTTON_UNHOVERED
+  rotate: false
+  xy: 1142, 68
+  size: 125, 36
+  orig: 125, 36
+  offset: 0, 0
+  index: -1
+login/images/LOGIN_LOGINBOX
+  rotate: false
+  xy: 1284, 305
+  size: 411, 252
+  orig: 411, 252
+  offset: 0, 0
+  index: -1
+login/images/LOGIN_STATUS_BOX
+  rotate: false
+  xy: 1284, 48
+  size: 282, 255
+  orig: 285, 255
+  offset: 0, 0
+  index: -1
+play/gui/energy_globe_full
+  rotate: false
+  xy: 1700, 690
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+play/gui/globe_empty
+  rotate: false
+  xy: 1700, 552
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+play/gui/health_globe_full
+  rotate: false
+  xy: 1697, 414
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+play/gui/mana_globe_full
+  rotate: false
+  xy: 1568, 167
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+play/gui/rage_globe_full
+  rotate: false
+  xy: 1568, 29
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+
+Components2.png
+size: 2048,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+components/game/icons/LICH_ICON_HOVERED
+  rotate: false
+  xy: 914, 369
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+components/game/icons/LICH_ICON_UNHOVERED
+  rotate: false
+  xy: 914, 239
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+components/game/icons/PROPHET_ICON_HOVERED
+  rotate: false
+  xy: 1044, 369
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+components/game/icons/PROPHET_ICON_UNHOVERED
+  rotate: false
+  xy: 914, 109
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+components/game/icons/SORCERESS_ICON_HOVERED
+  rotate: false
+  xy: 1044, 239
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+components/game/icons/SORCERESS_ICON_UNHOVERED
+  rotate: false
+  xy: 1174, 369
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+components/game/icons/TEMPLAR_ICON_HOVERED
+  rotate: false
+  xy: 1044, 109
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+components/game/icons/TEMPLAR_ICON_UNHOVERED
+  rotate: false
+  xy: 1174, 239
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+components/game/icons/UNKNOWN_CLASS_HOVERED
+  rotate: false
+  xy: 1304, 369
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+components/game/icons/UNKNOWN_CLASS_UNHOVERED
+  rotate: false
+  xy: 1174, 109
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+components/game/icons/WARLORD_ICON_HOVERED
+  rotate: false
+  xy: 1304, 239
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+components/game/icons/WARLORD_ICON_UNHOVERED
+  rotate: false
+  xy: 1434, 369
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+components/gui/buttons/TEMP_BUTTON_HOVERED
+  rotate: false
+  xy: 1564, 461
+  size: 124, 36
+  orig: 125, 36
+  offset: 1, 0
+  index: -1
+components/gui/buttons/TEMP_BUTTON_UNHOVERED
+  rotate: false
+  xy: 2, 2
+  size: 124, 36
+  orig: 125, 36
+  offset: 1, 0
+  index: -1
+lobby/images/LOBBY_GAME_LOBBY
+  rotate: false
+  xy: 2, 78
+  size: 910, 419
+  orig: 910, 419
+  offset: 0, 0
+  index: -1
+login/images/REGISTER_BUTTON_GRAYED
+  rotate: false
+  xy: 2, 40
+  size: 124, 36
+  orig: 125, 36
+  offset: 1, 0
+  index: -1
+login/images/REGISTER_BUTTON_HOVERED
+  rotate: false
+  xy: 1304, 201
+  size: 124, 36
+  orig: 125, 36
+  offset: 1, 0
+  index: -1
+login/images/REGISTER_BUTTON_UNHOVERED
+  rotate: false
+  xy: 1434, 331
+  size: 124, 36
+  orig: 125, 36
+  offset: 1, 0
+  index: -1

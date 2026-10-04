@@ -1,0 +1,218 @@
+EnduringWarcry_on_tick_0.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EnduringWarcry_on_tick
+  rotate: true
+  xy: 1608, 817
+  size: 471, 391
+  orig: 1000, 850
+  offset: 263, 266
+  index: 0
+EnduringWarcry_on_tick
+  rotate: false
+  xy: 977, 1
+  size: 962, 814
+  orig: 1000, 850
+  offset: 15, 18
+  index: 15
+EnduringWarcry_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 974, 814
+  orig: 1000, 850
+  offset: 7, 12
+  index: 16
+EnduringWarcry_on_tick
+  rotate: true
+  xy: 1, 817
+  size: 957, 803
+  orig: 1000, 850
+  offset: 15, 24
+  index: 17
+EnduringWarcry_on_tick
+  rotate: true
+  xy: 806, 817
+  size: 957, 800
+  orig: 1000, 850
+  offset: 15, 24
+  index: 18
+EnduringWarcry_on_tick
+  rotate: false
+  xy: 1941, 1
+  size: 27, 323
+  orig: 1000, 850
+  offset: 127, 316
+  index: 26
+
+EnduringWarcry_on_tick_1.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EnduringWarcry_on_tick
+  rotate: false
+  xy: 1, 1553
+  size: 537, 446
+  orig: 1000, 850
+  offset: 229, 233
+  index: 1
+EnduringWarcry_on_tick
+  rotate: false
+  xy: 1, 799
+  size: 897, 752
+  orig: 1000, 850
+  offset: 47, 62
+  index: 11
+EnduringWarcry_on_tick
+  rotate: false
+  xy: 942, 775
+  size: 916, 774
+  orig: 1000, 850
+  offset: 39, 47
+  index: 12
+EnduringWarcry_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 939, 796
+  orig: 1000, 850
+  offset: 28, 32
+  index: 13
+EnduringWarcry_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 939, 796
+  orig: 1000, 850
+  offset: 28, 32
+  index: 14
+EnduringWarcry_on_tick
+  rotate: false
+  xy: 942, 1
+  size: 919, 772
+  orig: 1000, 850
+  offset: 38, 43
+  index: 19
+EnduringWarcry_on_tick
+  rotate: false
+  xy: 900, 1551
+  size: 701, 468
+  orig: 1000, 850
+  offset: 72, 303
+  index: 24
+EnduringWarcry_on_tick
+  rotate: false
+  xy: 900, 1551
+  size: 701, 468
+  orig: 1000, 850
+  offset: 72, 303
+  index: 25
+
+EnduringWarcry_on_tick_2.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EnduringWarcry_on_tick
+  rotate: false
+  xy: 1, 1288
+  size: 855, 717
+  orig: 1000, 850
+  offset: 68, 84
+  index: 8
+EnduringWarcry_on_tick
+  rotate: false
+  xy: 1, 1288
+  size: 855, 717
+  orig: 1000, 850
+  offset: 68, 84
+  index: 9
+EnduringWarcry_on_tick
+  rotate: false
+  xy: 896, 673
+  size: 876, 736
+  orig: 1000, 850
+  offset: 57, 72
+  index: 10
+EnduringWarcry_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 893, 675
+  orig: 1000, 850
+  offset: 39, 112
+  index: 20
+EnduringWarcry_on_tick
+  rotate: false
+  xy: 896, 1
+  size: 890, 670
+  orig: 1000, 850
+  offset: 45, 118
+  index: 21
+EnduringWarcry_on_tick
+  rotate: false
+  xy: 1, 678
+  size: 866, 608
+  orig: 1000, 850
+  offset: 66, 174
+  index: 23
+
+EnduringWarcry_on_tick_3.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EnduringWarcry_on_tick
+  rotate: false
+  xy: 810, 701
+  size: 754, 631
+  orig: 1000, 850
+  offset: 121, 134
+  index: 3
+EnduringWarcry_on_tick
+  rotate: false
+  xy: 1, 1348
+  size: 782, 655
+  orig: 1000, 850
+  offset: 106, 120
+  index: 4
+EnduringWarcry_on_tick
+  rotate: false
+  xy: 785, 1348
+  size: 782, 655
+  orig: 1000, 850
+  offset: 106, 120
+  index: 5
+EnduringWarcry_on_tick
+  rotate: false
+  xy: 1, 668
+  size: 807, 678
+  orig: 1000, 850
+  offset: 93, 107
+  index: 6
+EnduringWarcry_on_tick
+  rotate: false
+  xy: 876, 1
+  size: 830, 698
+  orig: 1000, 850
+  offset: 80, 95
+  index: 7
+EnduringWarcry_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 873, 665
+  orig: 1000, 850
+  offset: 61, 121
+  index: 22
+
+EnduringWarcry_on_tick_4.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EnduringWarcry_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 630, 530
+  orig: 1000, 850
+  offset: 184, 184
+  index: 2

@@ -1,0 +1,285 @@
+Mesmerize_on_tick_0.png
+size: 512, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mesmerize_on_tick
+  rotate: true
+  xy: 192, 867
+  size: 102, 89
+  orig: 200, 200
+  offset: 47, 53
+  index: 0
+Mesmerize_on_tick
+  rotate: true
+  xy: 283, 867
+  size: 102, 89
+  orig: 200, 200
+  offset: 47, 54
+  index: 1
+Mesmerize_on_tick
+  rotate: false
+  xy: 1, 775
+  size: 102, 90
+  orig: 200, 200
+  offset: 47, 54
+  index: 2
+Mesmerize_on_tick
+  rotate: false
+  xy: 109, 773
+  size: 104, 92
+  orig: 200, 200
+  offset: 47, 54
+  index: 3
+Mesmerize_on_tick
+  rotate: true
+  xy: 97, 867
+  size: 105, 93
+  orig: 200, 200
+  offset: 47, 53
+  index: 4
+Mesmerize_on_tick
+  rotate: false
+  xy: 220, 579
+  size: 106, 95
+  orig: 200, 200
+  offset: 47, 52
+  index: 5
+Mesmerize_on_tick
+  rotate: false
+  xy: 1, 680
+  size: 106, 93
+  orig: 200, 200
+  offset: 47, 53
+  index: 6
+Mesmerize_on_tick
+  rotate: false
+  xy: 328, 772
+  size: 106, 93
+  orig: 200, 200
+  offset: 47, 53
+  index: 7
+Mesmerize_on_tick
+  rotate: false
+  xy: 110, 677
+  size: 106, 94
+  orig: 200, 200
+  offset: 47, 52
+  index: 8
+Mesmerize_on_tick
+  rotate: false
+  xy: 328, 675
+  size: 106, 95
+  orig: 200, 200
+  offset: 47, 51
+  index: 9
+Mesmerize_on_tick
+  rotate: false
+  xy: 220, 676
+  size: 106, 95
+  orig: 200, 200
+  offset: 47, 51
+  index: 10
+Mesmerize_on_tick
+  rotate: false
+  xy: 111, 579
+  size: 107, 96
+  orig: 200, 200
+  offset: 47, 50
+  index: 11
+Mesmerize_on_tick
+  rotate: false
+  xy: 1, 486
+  size: 108, 95
+  orig: 200, 200
+  offset: 46, 51
+  index: 12
+Mesmerize_on_tick
+  rotate: false
+  xy: 336, 578
+  size: 108, 95
+  orig: 200, 200
+  offset: 46, 51
+  index: 13
+Mesmerize_on_tick
+  rotate: false
+  xy: 113, 483
+  size: 109, 94
+  orig: 200, 200
+  offset: 45, 52
+  index: 14
+Mesmerize_on_tick
+  rotate: false
+  xy: 113, 388
+  size: 110, 93
+  orig: 200, 200
+  offset: 44, 54
+  index: 15
+Mesmerize_on_tick
+  rotate: false
+  xy: 227, 384
+  size: 111, 94
+  orig: 200, 200
+  offset: 43, 53
+  index: 16
+Mesmerize_on_tick
+  rotate: false
+  xy: 229, 195
+  size: 112, 93
+  orig: 200, 200
+  offset: 42, 54
+  index: 17
+Mesmerize_on_tick
+  rotate: false
+  xy: 343, 195
+  size: 112, 93
+  orig: 200, 200
+  offset: 42, 54
+  index: 18
+Mesmerize_on_tick
+  rotate: false
+  xy: 229, 99
+  size: 112, 94
+  orig: 200, 200
+  offset: 42, 53
+  index: 19
+Mesmerize_on_tick
+  rotate: false
+  xy: 1, 196
+  size: 112, 93
+  orig: 200, 200
+  offset: 42, 54
+  index: 20
+Mesmerize_on_tick
+  rotate: false
+  xy: 229, 290
+  size: 112, 92
+  orig: 200, 200
+  offset: 42, 54
+  index: 21
+Mesmerize_on_tick
+  rotate: false
+  xy: 340, 384
+  size: 111, 93
+  orig: 200, 200
+  offset: 42, 53
+  index: 22
+Mesmerize_on_tick
+  rotate: false
+  xy: 343, 99
+  size: 112, 94
+  orig: 200, 200
+  offset: 41, 52
+  index: 23
+Mesmerize_on_tick
+  rotate: false
+  xy: 343, 290
+  size: 112, 92
+  orig: 200, 200
+  offset: 41, 53
+  index: 24
+Mesmerize_on_tick
+  rotate: false
+  xy: 115, 196
+  size: 112, 93
+  orig: 200, 200
+  offset: 41, 53
+  index: 25
+Mesmerize_on_tick
+  rotate: false
+  xy: 1, 99
+  size: 112, 95
+  orig: 200, 200
+  offset: 41, 51
+  index: 26
+Mesmerize_on_tick
+  rotate: false
+  xy: 115, 99
+  size: 112, 95
+  orig: 200, 200
+  offset: 41, 51
+  index: 27
+Mesmerize_on_tick
+  rotate: false
+  xy: 231, 1
+  size: 112, 96
+  orig: 200, 200
+  offset: 41, 50
+  index: 28
+Mesmerize_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 113, 96
+  orig: 200, 200
+  offset: 40, 50
+  index: 29
+Mesmerize_on_tick
+  rotate: false
+  xy: 116, 1
+  size: 113, 96
+  orig: 200, 200
+  offset: 40, 50
+  index: 30
+Mesmerize_on_tick
+  rotate: false
+  xy: 345, 1
+  size: 112, 96
+  orig: 200, 200
+  offset: 41, 50
+  index: 31
+Mesmerize_on_tick
+  rotate: false
+  xy: 1, 291
+  size: 111, 95
+  orig: 200, 200
+  offset: 41, 50
+  index: 32
+Mesmerize_on_tick
+  rotate: false
+  xy: 114, 291
+  size: 111, 95
+  orig: 200, 200
+  offset: 41, 50
+  index: 33
+Mesmerize_on_tick
+  rotate: false
+  xy: 1, 388
+  size: 110, 96
+  orig: 200, 200
+  offset: 42, 49
+  index: 34
+Mesmerize_on_tick
+  rotate: false
+  xy: 340, 479
+  size: 110, 97
+  orig: 200, 200
+  offset: 42, 49
+  index: 35
+Mesmerize_on_tick
+  rotate: false
+  xy: 225, 480
+  size: 109, 97
+  orig: 200, 200
+  offset: 42, 49
+  index: 36
+Mesmerize_on_tick
+  rotate: false
+  xy: 1, 583
+  size: 107, 95
+  orig: 200, 200
+  offset: 43, 50
+  index: 37
+Mesmerize_on_tick
+  rotate: true
+  xy: 1, 867
+  size: 105, 94
+  orig: 200, 200
+  offset: 44, 50
+  index: 38
+Mesmerize_on_tick
+  rotate: false
+  xy: 215, 773
+  size: 103, 92
+  orig: 200, 200
+  offset: 46, 51
+  index: 39

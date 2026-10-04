@@ -1,0 +1,145 @@
+MagicMissiles-0.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MagicMissiles_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 0
+MagicMissiles_on_tick
+  rotate: false
+  xy: 253, 1
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 1
+MagicMissiles_on_tick
+  rotate: false
+  xy: 505, 1
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 2
+MagicMissiles_on_tick
+  rotate: false
+  xy: 757, 1
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 3
+MagicMissiles_on_tick
+  rotate: false
+  xy: 1, 153
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 4
+MagicMissiles_on_tick
+  rotate: false
+  xy: 253, 153
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 5
+MagicMissiles_on_tick
+  rotate: false
+  xy: 505, 153
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 6
+MagicMissiles_on_tick
+  rotate: false
+  xy: 757, 153
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 7
+MagicMissiles_on_tick
+  rotate: false
+  xy: 1, 305
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 8
+MagicMissiles_on_tick
+  rotate: false
+  xy: 1, 457
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 9
+MagicMissiles_on_tick
+  rotate: false
+  xy: 1, 609
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 10
+MagicMissiles_on_tick
+  rotate: false
+  xy: 1, 761
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 11
+MagicMissiles_on_tick
+  rotate: false
+  xy: 253, 305
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 12
+MagicMissiles_on_tick
+  rotate: false
+  xy: 505, 305
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 13
+MagicMissiles_on_tick
+  rotate: false
+  xy: 757, 305
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 14
+MagicMissiles_on_tick
+  rotate: false
+  xy: 253, 457
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 15
+MagicMissiles_on_tick
+  rotate: false
+  xy: 253, 609
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 16
+MagicMissiles_on_tick
+  rotate: false
+  xy: 253, 761
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 17
+MagicMissiles_on_tick
+  rotate: false
+  xy: 505, 457
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 18
+MagicMissiles_on_tick
+  rotate: false
+  xy: 757, 457
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 19

@@ -1,0 +1,151 @@
+HolyNova_on_tick_0.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HolyNova_on_tick
+  rotate: false
+  xy: 1349, 1619
+  size: 580, 420
+  orig: 900, 600
+  offset: 157, 112
+  index: 6
+HolyNova_on_tick
+  rotate: true
+  xy: 1, 1424
+  size: 602, 436
+  orig: 900, 600
+  offset: 146, 103
+  index: 7
+HolyNova_on_tick
+  rotate: true
+  xy: 1442, 1
+  size: 734, 535
+  orig: 900, 600
+  offset: 79, 48
+  index: 13
+HolyNova_on_tick
+  rotate: false
+  xy: 590, 1418
+  size: 757, 551
+  orig: 900, 600
+  offset: 68, 40
+  index: 14
+HolyNova_on_tick
+  rotate: true
+  xy: 1394, 838
+  size: 779, 568
+  orig: 900, 600
+  offset: 57, 31
+  index: 15
+HolyNova_on_tick
+  rotate: false
+  xy: 590, 838
+  size: 802, 578
+  orig: 900, 600
+  offset: 45, 22
+  index: 16
+HolyNova_on_tick
+  rotate: true
+  xy: 1, 598
+  size: 824, 587
+  orig: 900, 600
+  offset: 34, 13
+  index: 17
+HolyNova_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 845, 595
+  orig: 900, 600
+  offset: 23, 5
+  index: 18
+HolyNova_on_tick
+  rotate: true
+  xy: 848, 1
+  size: 835, 592
+  orig: 900, 600
+  offset: 28, 8
+  index: 19
+
+HolyNova_on_tick_1.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HolyNova_on_tick
+  rotate: false
+  xy: 517, 991
+  size: 448, 327
+  orig: 900, 600
+  offset: 223, 162
+  index: 0
+HolyNova_on_tick
+  rotate: true
+  xy: 361, 1332
+  size: 470, 342
+  orig: 900, 600
+  offset: 212, 154
+  index: 1
+HolyNova_on_tick
+  rotate: true
+  xy: 1, 1332
+  size: 492, 358
+  orig: 900, 600
+  offset: 201, 145
+  index: 2
+HolyNova_on_tick
+  rotate: false
+  xy: 1, 912
+  size: 514, 373
+  orig: 900, 600
+  offset: 190, 137
+  index: 3
+HolyNova_on_tick
+  rotate: false
+  xy: 1, 521
+  size: 536, 389
+  orig: 900, 600
+  offset: 179, 129
+  index: 4
+HolyNova_on_tick
+  rotate: false
+  xy: 1407, 456
+  size: 557, 404
+  orig: 900, 600
+  offset: 168, 121
+  index: 5
+HolyNova_on_tick
+  rotate: false
+  xy: 1407, 1
+  size: 624, 453
+  orig: 900, 600
+  offset: 134, 94
+  index: 8
+HolyNova_on_tick
+  rotate: false
+  xy: 1385, 862
+  size: 646, 468
+  orig: 900, 600
+  offset: 123, 85
+  index: 9
+HolyNova_on_tick
+  rotate: false
+  xy: 715, 504
+  size: 668, 485
+  orig: 900, 600
+  offset: 112, 75
+  index: 10
+HolyNova_on_tick
+  rotate: false
+  xy: 715, 1
+  size: 690, 501
+  orig: 900, 600
+  offset: 101, 67
+  index: 11
+HolyNova_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 712, 518
+  orig: 900, 600
+  offset: 90, 58
+  index: 12

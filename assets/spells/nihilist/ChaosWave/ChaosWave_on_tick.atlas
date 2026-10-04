@@ -1,0 +1,145 @@
+ChaosWave_on_tick-0.png
+size: 512, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ChaosWave_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: 0
+ChaosWave_on_tick
+  rotate: false
+  xy: 203, 1
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: 1
+ChaosWave_on_tick
+  rotate: false
+  xy: 1, 103
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: 2
+ChaosWave_on_tick
+  rotate: false
+  xy: 203, 103
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: 3
+ChaosWave_on_tick
+  rotate: false
+  xy: 1, 205
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: 4
+ChaosWave_on_tick
+  rotate: false
+  xy: 203, 205
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: 5
+ChaosWave_on_tick
+  rotate: false
+  xy: 1, 307
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: 6
+ChaosWave_on_tick
+  rotate: false
+  xy: 203, 307
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: 7
+ChaosWave_on_tick
+  rotate: false
+  xy: 1, 409
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: 8
+ChaosWave_on_tick
+  rotate: false
+  xy: 203, 409
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: 9
+ChaosWave_on_tick
+  rotate: false
+  xy: 1, 511
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: 10
+ChaosWave_on_tick
+  rotate: false
+  xy: 203, 511
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: 11
+ChaosWave_on_tick
+  rotate: false
+  xy: 1, 613
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: 12
+ChaosWave_on_tick
+  rotate: false
+  xy: 203, 613
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: 13
+ChaosWave_on_tick
+  rotate: false
+  xy: 1, 715
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: 14
+ChaosWave_on_tick
+  rotate: false
+  xy: 1, 817
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: 15
+ChaosWave_on_tick
+  rotate: false
+  xy: 1, 919
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: 16
+ChaosWave_on_tick
+  rotate: false
+  xy: 203, 715
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: 17
+ChaosWave_on_tick
+  rotate: false
+  xy: 203, 817
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: 18
+ChaosWave_on_tick
+  rotate: false
+  xy: 203, 919
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: 19

@@ -1,0 +1,277 @@
+Inflame_on_tick_0.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Inflame_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 0
+Inflame_on_tick
+  rotate: false
+  xy: 1, 403
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 1
+Inflame_on_tick
+  rotate: false
+  xy: 1, 805
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 2
+Inflame_on_tick
+  rotate: false
+  xy: 1, 1207
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 3
+Inflame_on_tick
+  rotate: false
+  xy: 1, 1609
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 4
+Inflame_on_tick
+  rotate: false
+  xy: 403, 1
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 5
+Inflame_on_tick
+  rotate: false
+  xy: 805, 1
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 6
+Inflame_on_tick
+  rotate: false
+  xy: 1207, 1
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 7
+Inflame_on_tick
+  rotate: false
+  xy: 1609, 1
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 8
+Inflame_on_tick
+  rotate: false
+  xy: 403, 403
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 9
+Inflame_on_tick
+  rotate: false
+  xy: 403, 805
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 10
+Inflame_on_tick
+  rotate: false
+  xy: 403, 1207
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 11
+Inflame_on_tick
+  rotate: false
+  xy: 403, 1609
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 12
+Inflame_on_tick
+  rotate: false
+  xy: 805, 403
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 13
+Inflame_on_tick
+  rotate: false
+  xy: 1207, 403
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 14
+Inflame_on_tick
+  rotate: false
+  xy: 1609, 403
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 15
+Inflame_on_tick
+  rotate: false
+  xy: 805, 805
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 16
+Inflame_on_tick
+  rotate: false
+  xy: 805, 1207
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 17
+Inflame_on_tick
+  rotate: false
+  xy: 805, 1609
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 18
+Inflame_on_tick
+  rotate: false
+  xy: 1207, 805
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 19
+Inflame_on_tick
+  rotate: false
+  xy: 1609, 805
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 20
+Inflame_on_tick
+  rotate: false
+  xy: 1207, 1207
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 21
+Inflame_on_tick
+  rotate: false
+  xy: 1207, 1609
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 22
+Inflame_on_tick
+  rotate: false
+  xy: 1609, 1207
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 23
+Inflame_on_tick
+  rotate: false
+  xy: 1609, 1609
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 24
+
+Inflame_on_tick_1.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Inflame_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 25
+Inflame_on_tick
+  rotate: false
+  xy: 1, 403
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 26
+Inflame_on_tick
+  rotate: false
+  xy: 1, 805
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 27
+Inflame_on_tick
+  rotate: false
+  xy: 1, 1207
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 28
+Inflame_on_tick
+  rotate: false
+  xy: 1, 1609
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 29
+Inflame_on_tick
+  rotate: false
+  xy: 403, 1
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 30
+Inflame_on_tick
+  rotate: false
+  xy: 805, 1
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 31
+Inflame_on_tick
+  rotate: false
+  xy: 1207, 1
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 32
+Inflame_on_tick
+  rotate: false
+  xy: 1609, 1
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 33
+Inflame_on_tick
+  rotate: false
+  xy: 403, 403
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 34
+Inflame_on_tick
+  rotate: false
+  xy: 403, 805
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 35
+Inflame_on_tick
+  rotate: false
+  xy: 403, 1207
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 36
+Inflame_on_tick
+  rotate: false
+  xy: 403, 1609
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 37

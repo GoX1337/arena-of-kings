@@ -1,0 +1,187 @@
+Parasite_on_tick_0.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Parasite_on_tick
+  rotate: false
+  xy: 1, 911
+  size: 180, 108
+  orig: 180, 120
+  offset: 0, 8
+  index: 0
+Parasite_on_tick
+  rotate: false
+  xy: 1, 911
+  size: 180, 108
+  orig: 180, 120
+  offset: 0, 8
+  index: 1
+Parasite_on_tick
+  rotate: true
+  xy: 911, 1
+  size: 180, 112
+  orig: 180, 120
+  offset: 0, 6
+  index: 2
+Parasite_on_tick
+  rotate: false
+  xy: 729, 1
+  size: 180, 116
+  orig: 180, 120
+  offset: 0, 4
+  index: 3
+Parasite_on_tick
+  rotate: false
+  xy: 729, 119
+  size: 180, 116
+  orig: 180, 120
+  offset: 0, 4
+  index: 4
+Parasite_on_tick
+  rotate: true
+  xy: 1, 365
+  size: 180, 116
+  orig: 180, 120
+  offset: 0, 4
+  index: 5
+Parasite_on_tick
+  rotate: false
+  xy: 1, 237
+  size: 180, 116
+  orig: 180, 120
+  offset: 0, 4
+  index: 6
+Parasite_on_tick
+  rotate: true
+  xy: 1, 547
+  size: 180, 116
+  orig: 180, 120
+  offset: 0, 4
+  index: 7
+Parasite_on_tick
+  rotate: true
+  xy: 1, 729
+  size: 180, 116
+  orig: 180, 120
+  offset: 0, 4
+  index: 8
+Parasite_on_tick
+  rotate: false
+  xy: 183, 120
+  size: 180, 116
+  orig: 180, 120
+  offset: 0, 4
+  index: 9
+Parasite_on_tick
+  rotate: false
+  xy: 365, 120
+  size: 180, 116
+  orig: 180, 120
+  offset: 0, 4
+  index: 10
+Parasite_on_tick
+  rotate: false
+  xy: 547, 120
+  size: 180, 116
+  orig: 180, 120
+  offset: 0, 4
+  index: 11
+Parasite_on_tick
+  rotate: false
+  xy: 729, 237
+  size: 180, 116
+  orig: 180, 120
+  offset: 0, 4
+  index: 12
+Parasite_on_tick
+  rotate: false
+  xy: 183, 238
+  size: 180, 116
+  orig: 180, 120
+  offset: 0, 4
+  index: 13
+Parasite_on_tick
+  rotate: false
+  xy: 365, 238
+  size: 180, 116
+  orig: 180, 120
+  offset: 0, 4
+  index: 14
+Parasite_on_tick
+  rotate: false
+  xy: 547, 238
+  size: 180, 116
+  orig: 180, 120
+  offset: 0, 4
+  index: 15
+Parasite_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 180, 117
+  orig: 180, 120
+  offset: 0, 3
+  index: 16
+Parasite_on_tick
+  rotate: false
+  xy: 183, 1
+  size: 180, 117
+  orig: 180, 120
+  offset: 0, 3
+  index: 17
+Parasite_on_tick
+  rotate: false
+  xy: 365, 1
+  size: 180, 117
+  orig: 180, 120
+  offset: 0, 3
+  index: 18
+Parasite_on_tick
+  rotate: false
+  xy: 547, 1
+  size: 180, 117
+  orig: 180, 120
+  offset: 0, 3
+  index: 19
+Parasite_on_tick
+  rotate: false
+  xy: 1, 120
+  size: 180, 115
+  orig: 180, 120
+  offset: 0, 4
+  index: 20
+Parasite_on_tick
+  rotate: false
+  xy: 729, 355
+  size: 180, 114
+  orig: 180, 120
+  offset: 0, 5
+  index: 21
+Parasite_on_tick
+  rotate: true
+  xy: 911, 183
+  size: 180, 112
+  orig: 180, 120
+  offset: 0, 6
+  index: 22
+Parasite_on_tick
+  rotate: true
+  xy: 911, 365
+  size: 180, 108
+  orig: 180, 120
+  offset: 0, 8
+  index: 23
+Parasite_on_tick
+  rotate: true
+  xy: 119, 547
+  size: 91, 64
+  orig: 180, 120
+  offset: 43, 31
+  index: 24
+Parasite_on_tick
+  rotate: true
+  xy: 119, 355
+  size: 88, 62
+  orig: 180, 120
+  offset: 45, 31
+  index: 25

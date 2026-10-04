@@ -1,0 +1,61 @@
+platforms.png
+size: 512, 256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+black_platform
+  rotate: false
+  xy: 1, 1
+  size: 133, 75
+  orig: 133, 75
+  offset: 0, 0
+  index: 0
+black_platform
+  rotate: false
+  xy: 1, 78
+  size: 133, 75
+  orig: 133, 75
+  offset: 0, 0
+  index: 10000
+black_platform
+  rotate: false
+  xy: 1, 155
+  size: 133, 75
+  orig: 133, 75
+  offset: 0, 0
+  index: 20000
+black_platform
+  rotate: false
+  xy: 136, 1
+  size: 133, 75
+  orig: 133, 75
+  offset: 0, 0
+  index: 30000
+black_platform
+  rotate: false
+  xy: 136, 78
+  size: 133, 75
+  orig: 133, 75
+  offset: 0, 0
+  index: 40000
+black_platform
+  rotate: false
+  xy: 136, 155
+  size: 133, 75
+  orig: 133, 75
+  offset: 0, 0
+  index: 50000
+black_platform
+  rotate: false
+  xy: 271, 1
+  size: 133, 75
+  orig: 133, 75
+  offset: 0, 0
+  index: 60000
+black_platform
+  rotate: false
+  xy: 271, 78
+  size: 133, 75
+  orig: 133, 75
+  offset: 0, 0
+  index: 70000

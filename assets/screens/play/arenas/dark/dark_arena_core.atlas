@@ -1,0 +1,54 @@
+dark_arena_core.png
+size: 2048, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bottom_fence
+  rotate: false
+  xy: 1, 1
+  size: 1802, 212
+  orig: 1802, 212
+  offset: 0, 0
+  index: -1
+bottom_left_column
+  rotate: false
+  xy: 1, 295
+  size: 153, 323
+  orig: 153, 323
+  offset: 0, 0
+  index: -1
+bottom_left_rocks
+  rotate: false
+  xy: 290, 295
+  size: 794, 167
+  orig: 794, 167
+  offset: 0, 0
+  index: -1
+bottom_right_column
+  rotate: false
+  xy: 1, 620
+  size: 163, 307
+  orig: 163, 307
+  offset: 0, 0
+  index: -1
+bottom_right_rocks
+  rotate: false
+  xy: 166, 550
+  size: 704, 175
+  orig: 704, 175
+  offset: 0, 0
+  index: -1
+top_left_column
+  rotate: false
+  xy: 156, 295
+  size: 132, 253
+  orig: 132, 253
+  offset: 0, 0
+  index: -1
+top_right_column
+  rotate: false
+  xy: 1805, 1
+  size: 216, 292
+  orig: 216, 292
+  offset: 0, 0
+  index: -1

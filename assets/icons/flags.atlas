@@ -1,0 +1,1846 @@
+flags.png
+size: 1024, 2048
+format: RGBA8888
+filter: MipMapLinearNearest,Linear
+repeat: none
+Abkhazia
+  rotate: false
+  xy: 1, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Afghanistan
+  rotate: false
+  xy: 67, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Aland
+  rotate: false
+  xy: 133, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Albania
+  rotate: false
+  xy: 199, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Algeria
+  rotate: false
+  xy: 265, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+American Samoa
+  rotate: false
+  xy: 331, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Andorra
+  rotate: false
+  xy: 397, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Angola
+  rotate: false
+  xy: 463, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Anguilla
+  rotate: false
+  xy: 529, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Antarctica
+  rotate: false
+  xy: 595, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Antigua and Barbuda
+  rotate: false
+  xy: 661, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Argentina
+  rotate: false
+  xy: 727, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Armenia
+  rotate: false
+  xy: 793, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Aruba
+  rotate: false
+  xy: 859, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Australia
+  rotate: false
+  xy: 925, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Austria
+  rotate: false
+  xy: 1, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Azerbaijan
+  rotate: false
+  xy: 67, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Bahamas
+  rotate: false
+  xy: 133, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Bahrain
+  rotate: false
+  xy: 199, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Bangladesh
+  rotate: false
+  xy: 265, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Barbados
+  rotate: false
+  xy: 331, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Basque Country
+  rotate: false
+  xy: 397, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Belarus
+  rotate: false
+  xy: 463, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Belgium
+  rotate: false
+  xy: 529, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Belize
+  rotate: false
+  xy: 595, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Benin
+  rotate: false
+  xy: 661, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Bermuda
+  rotate: false
+  xy: 727, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Bhutan
+  rotate: false
+  xy: 793, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Bolivia
+  rotate: false
+  xy: 859, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Bosnia and Herzegovina
+  rotate: false
+  xy: 925, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Botswana
+  rotate: false
+  xy: 1, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Brazil
+  rotate: false
+  xy: 67, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+British Antarctic Territory
+  rotate: false
+  xy: 133, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+British Virgin Islands
+  rotate: false
+  xy: 199, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Brunei
+  rotate: false
+  xy: 265, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Bulgaria
+  rotate: false
+  xy: 331, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Burkina Faso
+  rotate: false
+  xy: 397, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Burundi
+  rotate: false
+  xy: 463, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Cambodia
+  rotate: false
+  xy: 529, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Cameroon
+  rotate: false
+  xy: 595, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Canada
+  rotate: false
+  xy: 661, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Canary Islands
+  rotate: false
+  xy: 727, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Cape Verde
+  rotate: false
+  xy: 793, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Catalonia
+  rotate: false
+  xy: 859, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Cayman Islands
+  rotate: false
+  xy: 925, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Central African Republic
+  rotate: false
+  xy: 1, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Chad
+  rotate: false
+  xy: 67, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Chile
+  rotate: false
+  xy: 133, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+China
+  rotate: false
+  xy: 199, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Christmas Island
+  rotate: false
+  xy: 265, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Cocos Keeling Islands
+  rotate: false
+  xy: 331, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Colombia
+  rotate: false
+  xy: 397, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Commonwealth
+  rotate: false
+  xy: 463, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Comoros
+  rotate: false
+  xy: 529, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Cook Islands
+  rotate: false
+  xy: 595, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Costa Rica
+  rotate: false
+  xy: 661, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Cote dIvoire
+  rotate: false
+  xy: 727, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Croatia
+  rotate: false
+  xy: 793, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Cuba
+  rotate: false
+  xy: 859, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Curacao
+  rotate: false
+  xy: 925, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Cyprus
+  rotate: false
+  xy: 1, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Czech Republic
+  rotate: false
+  xy: 67, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Democratic Republic of the Congo
+  rotate: false
+  xy: 133, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Denmark
+  rotate: false
+  xy: 199, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Djibouti
+  rotate: false
+  xy: 265, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Dominica
+  rotate: false
+  xy: 331, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Dominican Republic
+  rotate: false
+  xy: 397, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+East Timor
+  rotate: false
+  xy: 463, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Ecuador
+  rotate: false
+  xy: 529, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Egypt
+  rotate: false
+  xy: 595, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+El Salvador
+  rotate: false
+  xy: 661, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+England
+  rotate: false
+  xy: 727, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Equatorial Guinea
+  rotate: false
+  xy: 793, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Eritrea
+  rotate: false
+  xy: 859, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Estonia
+  rotate: false
+  xy: 925, 265
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Ethiopia
+  rotate: false
+  xy: 1, 331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+European Union
+  rotate: false
+  xy: 67, 331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Falkland Islands
+  rotate: false
+  xy: 133, 331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Faroes
+  rotate: false
+  xy: 199, 331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Fiji
+  rotate: false
+  xy: 265, 331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Finland
+  rotate: false
+  xy: 331, 331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+France
+  rotate: false
+  xy: 397, 331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+French Polynesia
+  rotate: false
+  xy: 463, 331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+French Southern Territories
+  rotate: false
+  xy: 529, 331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Gabon
+  rotate: false
+  xy: 595, 331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Gambia
+  rotate: false
+  xy: 661, 331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Georgia
+  rotate: false
+  xy: 727, 331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Germany
+  rotate: false
+  xy: 793, 331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Ghana
+  rotate: false
+  xy: 859, 331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Gibraltar
+  rotate: false
+  xy: 925, 331
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+GoSquared
+  rotate: false
+  xy: 1, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Greece
+  rotate: false
+  xy: 67, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Greenland
+  rotate: false
+  xy: 133, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Grenada
+  rotate: false
+  xy: 199, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Guam
+  rotate: false
+  xy: 265, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Guatemala
+  rotate: false
+  xy: 331, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Guernsey
+  rotate: false
+  xy: 397, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Guinea Bissau
+  rotate: false
+  xy: 463, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Guinea
+  rotate: false
+  xy: 529, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Guyana
+  rotate: false
+  xy: 595, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Haiti
+  rotate: false
+  xy: 661, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Honduras
+  rotate: false
+  xy: 727, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Hong Kong
+  rotate: false
+  xy: 793, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Hungary
+  rotate: false
+  xy: 859, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Iceland
+  rotate: false
+  xy: 925, 397
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+India
+  rotate: false
+  xy: 1, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Indonesia
+  rotate: false
+  xy: 67, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Iran
+  rotate: false
+  xy: 133, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Iraq
+  rotate: false
+  xy: 199, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Ireland
+  rotate: false
+  xy: 265, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Isle of Man
+  rotate: false
+  xy: 331, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Israel
+  rotate: false
+  xy: 397, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Italy
+  rotate: false
+  xy: 463, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Jamaica
+  rotate: false
+  xy: 529, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Japan
+  rotate: false
+  xy: 595, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Jersey
+  rotate: false
+  xy: 661, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Jordan
+  rotate: false
+  xy: 727, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Kazakhstan
+  rotate: false
+  xy: 793, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Kenya
+  rotate: false
+  xy: 859, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Kiribati
+  rotate: false
+  xy: 925, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Kosovo
+  rotate: false
+  xy: 1, 529
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Kuwait
+  rotate: false
+  xy: 67, 529
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Kyrgyzstan
+  rotate: false
+  xy: 133, 529
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Laos
+  rotate: false
+  xy: 199, 529
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Latvia
+  rotate: false
+  xy: 265, 529
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Lebanon
+  rotate: false
+  xy: 331, 529
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Lesotho
+  rotate: false
+  xy: 397, 529
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Liberia
+  rotate: false
+  xy: 463, 529
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Libya
+  rotate: false
+  xy: 529, 529
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Liechtenstein
+  rotate: false
+  xy: 595, 529
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Lithuania
+  rotate: false
+  xy: 661, 529
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Luxembourg
+  rotate: false
+  xy: 727, 529
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Macau
+  rotate: false
+  xy: 793, 529
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Macedonia
+  rotate: false
+  xy: 859, 529
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Madagascar
+  rotate: false
+  xy: 925, 529
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Malawi
+  rotate: false
+  xy: 1, 595
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Malaysia
+  rotate: false
+  xy: 67, 595
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Maldives
+  rotate: false
+  xy: 133, 595
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Mali
+  rotate: false
+  xy: 199, 595
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Malta
+  rotate: false
+  xy: 265, 595
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Mars
+  rotate: false
+  xy: 331, 595
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Marshall Islands
+  rotate: false
+  xy: 397, 595
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Martinique
+  rotate: false
+  xy: 463, 595
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Mauritania
+  rotate: false
+  xy: 529, 595
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Mauritius
+  rotate: false
+  xy: 595, 595
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Mayotte
+  rotate: false
+  xy: 661, 595
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Mexico
+  rotate: false
+  xy: 727, 595
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Micronesia
+  rotate: false
+  xy: 793, 595
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Moldova
+  rotate: false
+  xy: 859, 595
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Monaco
+  rotate: false
+  xy: 67, 463
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Mongolia
+  rotate: false
+  xy: 925, 595
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Montenegro
+  rotate: false
+  xy: 1, 661
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Montserrat
+  rotate: false
+  xy: 67, 661
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Morocco
+  rotate: false
+  xy: 133, 661
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Mozambique
+  rotate: false
+  xy: 199, 661
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Myanmar
+  rotate: false
+  xy: 265, 661
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Nagorno Karabakh
+  rotate: false
+  xy: 397, 661
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Namibia
+  rotate: false
+  xy: 463, 661
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+NATO
+  rotate: false
+  xy: 331, 661
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Nauru
+  rotate: false
+  xy: 529, 661
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Nepal
+  rotate: false
+  xy: 595, 661
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Netherlands Antilles
+  rotate: false
+  xy: 661, 661
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Netherlands
+  rotate: false
+  xy: 727, 661
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+New Caledonia
+  rotate: false
+  xy: 793, 661
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+New Zealand
+  rotate: false
+  xy: 859, 661
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Nicaragua
+  rotate: false
+  xy: 925, 661
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Niger
+  rotate: false
+  xy: 1, 727
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Nigeria
+  rotate: false
+  xy: 67, 727
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Niue
+  rotate: false
+  xy: 133, 727
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Norfolk Island
+  rotate: false
+  xy: 199, 727
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+North Korea
+  rotate: false
+  xy: 265, 727
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Northern Cyprus
+  rotate: false
+  xy: 331, 727
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Northern Mariana Islands
+  rotate: false
+  xy: 397, 727
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Norway
+  rotate: false
+  xy: 463, 727
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Olympics
+  rotate: false
+  xy: 529, 727
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Oman
+  rotate: false
+  xy: 595, 727
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Pakistan
+  rotate: false
+  xy: 661, 727
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Palau
+  rotate: false
+  xy: 727, 727
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Palestine
+  rotate: false
+  xy: 793, 727
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Panama
+  rotate: false
+  xy: 859, 727
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Papua New Guinea
+  rotate: false
+  xy: 925, 727
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Paraguay
+  rotate: false
+  xy: 1, 793
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Peru
+  rotate: false
+  xy: 67, 793
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Philippines
+  rotate: false
+  xy: 133, 793
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Pitcairn Islands
+  rotate: false
+  xy: 199, 793
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Poland
+  rotate: false
+  xy: 265, 793
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Portugal
+  rotate: false
+  xy: 331, 793
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Puerto Rico
+  rotate: false
+  xy: 397, 793
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Qatar
+  rotate: false
+  xy: 463, 793
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Red Cross
+  rotate: false
+  xy: 529, 793
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Republic of the Congo
+  rotate: false
+  xy: 595, 793
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Reunion
+  rotate: false
+  xy: 661, 793
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Romania
+  rotate: false
+  xy: 727, 793
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Russia
+  rotate: false
+  xy: 793, 793
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Rwanda
+  rotate: false
+  xy: 859, 793
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Saint Barthelemy
+  rotate: false
+  xy: 925, 793
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Saint Helena
+  rotate: false
+  xy: 1, 859
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Saint Kitts and Nevis
+  rotate: false
+  xy: 67, 859
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Saint Lucia
+  rotate: false
+  xy: 133, 859
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Saint Martin
+  rotate: false
+  xy: 199, 859
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Saint Vincent and the Grenadines
+  rotate: false
+  xy: 265, 859
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Samoa
+  rotate: false
+  xy: 331, 859
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+San Marino
+  rotate: false
+  xy: 397, 859
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Sao Tome and Principe
+  rotate: false
+  xy: 463, 859
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Saudi Arabia
+  rotate: false
+  xy: 529, 859
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Scotland
+  rotate: false
+  xy: 595, 859
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Senegal
+  rotate: false
+  xy: 661, 859
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Serbia
+  rotate: false
+  xy: 727, 859
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Seychelles
+  rotate: false
+  xy: 793, 859
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Sierra Leone
+  rotate: false
+  xy: 859, 859
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Singapore
+  rotate: false
+  xy: 925, 859
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Sint Maarten
+  rotate: false
+  xy: 1, 925
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Slovakia
+  rotate: false
+  xy: 67, 925
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Slovenia
+  rotate: false
+  xy: 133, 925
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Solomon Islands
+  rotate: false
+  xy: 199, 925
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Somalia
+  rotate: false
+  xy: 265, 925
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Somaliland
+  rotate: false
+  xy: 331, 925
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+South Africa
+  rotate: false
+  xy: 397, 925
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+South Georgia and the South Sandwich Islands
+  rotate: false
+  xy: 463, 925
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+South Korea
+  rotate: false
+  xy: 529, 925
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+South Ossetia
+  rotate: false
+  xy: 595, 925
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+South Sudan
+  rotate: false
+  xy: 661, 925
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Spain
+  rotate: false
+  xy: 727, 925
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Sri Lanka
+  rotate: false
+  xy: 793, 925
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Sudan
+  rotate: false
+  xy: 859, 925
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Suriname
+  rotate: false
+  xy: 925, 925
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Swaziland
+  rotate: false
+  xy: 1, 991
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Sweden
+  rotate: false
+  xy: 67, 991
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Switzerland
+  rotate: false
+  xy: 133, 991
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Syria
+  rotate: false
+  xy: 199, 991
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Taiwan
+  rotate: false
+  xy: 265, 991
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Tajikistan
+  rotate: false
+  xy: 331, 991
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Tanzania
+  rotate: false
+  xy: 397, 991
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Thailand
+  rotate: false
+  xy: 463, 991
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Togo
+  rotate: false
+  xy: 529, 991
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Tokelau
+  rotate: false
+  xy: 595, 991
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Tonga
+  rotate: false
+  xy: 661, 991
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Trinidad and Tobago
+  rotate: false
+  xy: 727, 991
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Tunisia
+  rotate: false
+  xy: 793, 991
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Turkey
+  rotate: false
+  xy: 859, 991
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Turkmenistan
+  rotate: false
+  xy: 925, 991
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Turks and Caicos Islands
+  rotate: false
+  xy: 1, 1057
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Tuvalu
+  rotate: false
+  xy: 1, 1123
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Uganda
+  rotate: false
+  xy: 1, 1255
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Ukraine
+  rotate: false
+  xy: 1, 1321
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+United Arab Emirates
+  rotate: false
+  xy: 1, 1387
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+United Kingdom
+  rotate: false
+  xy: 1, 1453
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+United Nations
+  rotate: false
+  xy: 1, 1519
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+United States
+  rotate: false
+  xy: 1, 1585
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Unknown
+  rotate: false
+  xy: 1, 1651
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Uruguay
+  rotate: false
+  xy: 1, 1717
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+US Virgin Islands
+  rotate: false
+  xy: 1, 1189
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Uzbekistan
+  rotate: false
+  xy: 1, 1783
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Vanuatu
+  rotate: false
+  xy: 1, 1849
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Vatican City
+  rotate: false
+  xy: 1, 1915
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Venezuela
+  rotate: false
+  xy: 1, 1981
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Vietnam
+  rotate: false
+  xy: 67, 1057
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Wales
+  rotate: false
+  xy: 133, 1057
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Wallis And Futuna
+  rotate: false
+  xy: 199, 1057
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Western Sahara
+  rotate: false
+  xy: 265, 1057
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Yemen
+  rotate: false
+  xy: 331, 1057
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Zambia
+  rotate: false
+  xy: 397, 1057
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Zimbabwe
+  rotate: false
+  xy: 463, 1057
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

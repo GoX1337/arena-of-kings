@@ -1,0 +1,116 @@
+PoolOfAgony_on_tick-0.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PoolOfAgony_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 700, 500
+  orig: 700, 500
+  offset: 0, 0
+  index: 0
+PoolOfAgony_on_tick
+  rotate: false
+  xy: 703, 1
+  size: 700, 500
+  orig: 700, 500
+  offset: 0, 0
+  index: 1
+PoolOfAgony_on_tick
+  rotate: false
+  xy: 1, 503
+  size: 700, 500
+  orig: 700, 500
+  offset: 0, 0
+  index: 2
+PoolOfAgony_on_tick
+  rotate: false
+  xy: 1, 1005
+  size: 700, 500
+  orig: 700, 500
+  offset: 0, 0
+  index: 3
+PoolOfAgony_on_tick
+  rotate: false
+  xy: 1, 1507
+  size: 700, 500
+  orig: 700, 500
+  offset: 0, 0
+  index: 4
+PoolOfAgony_on_tick
+  rotate: false
+  xy: 703, 503
+  size: 700, 500
+  orig: 700, 500
+  offset: 0, 0
+  index: 5
+PoolOfAgony_on_tick
+  rotate: false
+  xy: 703, 1005
+  size: 700, 500
+  orig: 700, 500
+  offset: 0, 0
+  index: 6
+PoolOfAgony_on_tick
+  rotate: false
+  xy: 703, 1507
+  size: 700, 500
+  orig: 700, 500
+  offset: 0, 0
+  index: 7
+
+PoolOfAgony_on_tick-1.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PoolOfAgony_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 700, 500
+  orig: 700, 500
+  offset: 0, 0
+  index: 8
+PoolOfAgony_on_tick
+  rotate: false
+  xy: 703, 1
+  size: 700, 500
+  orig: 700, 500
+  offset: 0, 0
+  index: 9
+PoolOfAgony_on_tick
+  rotate: false
+  xy: 1, 503
+  size: 700, 500
+  orig: 700, 500
+  offset: 0, 0
+  index: 10
+PoolOfAgony_on_tick
+  rotate: false
+  xy: 1, 1005
+  size: 700, 500
+  orig: 700, 500
+  offset: 0, 0
+  index: 11
+PoolOfAgony_on_tick
+  rotate: false
+  xy: 1, 1507
+  size: 700, 500
+  orig: 700, 500
+  offset: 0, 0
+  index: 12
+PoolOfAgony_on_tick
+  rotate: false
+  xy: 703, 503
+  size: 700, 500
+  orig: 700, 500
+  offset: 0, 0
+  index: 13
+PoolOfAgony_on_tick
+  rotate: false
+  xy: 703, 1005
+  size: 700, 500
+  orig: 700, 500
+  offset: 0, 0
+  index: 14

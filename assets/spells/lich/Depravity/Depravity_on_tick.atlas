@@ -1,0 +1,194 @@
+Depravity_on_tick_0.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Depravity_on_tick
+  rotate: false
+  xy: 171, 464
+  size: 165, 151
+  orig: 300, 300
+  offset: 81, 69
+  index: 0
+Depravity_on_tick
+  rotate: false
+  xy: 1, 611
+  size: 164, 154
+  orig: 300, 300
+  offset: 83, 68
+  index: 1
+Depravity_on_tick
+  rotate: false
+  xy: 684, 467
+  size: 166, 155
+  orig: 300, 300
+  offset: 83, 68
+  index: 2
+Depravity_on_tick
+  rotate: false
+  xy: 858, 1
+  size: 165, 154
+  orig: 300, 300
+  offset: 83, 69
+  index: 3
+Depravity_on_tick
+  rotate: false
+  xy: 852, 620
+  size: 166, 152
+  orig: 300, 300
+  offset: 82, 71
+  index: 4
+Depravity_on_tick
+  rotate: false
+  xy: 854, 466
+  size: 167, 152
+  orig: 300, 300
+  offset: 80, 72
+  index: 5
+Depravity_on_tick
+  rotate: false
+  xy: 1, 456
+  size: 168, 153
+  orig: 300, 300
+  offset: 79, 72
+  index: 6
+Depravity_on_tick
+  rotate: false
+  xy: 174, 153
+  size: 169, 153
+  orig: 300, 300
+  offset: 78, 73
+  index: 7
+Depravity_on_tick
+  rotate: false
+  xy: 347, 1
+  size: 169, 155
+  orig: 300, 300
+  offset: 77, 72
+  index: 8
+Depravity_on_tick
+  rotate: false
+  xy: 518, 1
+  size: 168, 155
+  orig: 300, 300
+  offset: 77, 72
+  index: 9
+Depravity_on_tick
+  rotate: true
+  xy: 156, 774
+  size: 161, 156
+  orig: 300, 300
+  offset: 80, 70
+  index: 10
+Depravity_on_tick
+  rotate: false
+  xy: 167, 617
+  size: 160, 155
+  orig: 300, 300
+  offset: 81, 70
+  index: 11
+Depravity_on_tick
+  rotate: true
+  xy: 1, 774
+  size: 162, 153
+  orig: 300, 300
+  offset: 81, 72
+  index: 12
+Depravity_on_tick
+  rotate: false
+  xy: 858, 157
+  size: 165, 152
+  orig: 300, 300
+  offset: 81, 72
+  index: 13
+Depravity_on_tick
+  rotate: false
+  xy: 685, 158
+  size: 168, 151
+  orig: 300, 300
+  offset: 80, 72
+  index: 14
+Depravity_on_tick
+  rotate: false
+  xy: 1, 154
+  size: 169, 149
+  orig: 300, 300
+  offset: 79, 73
+  index: 15
+Depravity_on_tick
+  rotate: false
+  xy: 1, 305
+  size: 169, 149
+  orig: 300, 300
+  offset: 78, 73
+  index: 16
+Depravity_on_tick
+  rotate: false
+  xy: 174, 1
+  size: 171, 150
+  orig: 300, 300
+  offset: 77, 72
+  index: 17
+Depravity_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 171, 151
+  orig: 300, 300
+  offset: 76, 71
+  index: 18
+Depravity_on_tick
+  rotate: false
+  xy: 342, 315
+  size: 166, 152
+  orig: 300, 300
+  offset: 76, 70
+  index: 19
+Depravity_on_tick
+  rotate: false
+  xy: 854, 311
+  size: 167, 153
+  orig: 300, 300
+  offset: 76, 70
+  index: 20
+Depravity_on_tick
+  rotate: false
+  xy: 685, 311
+  size: 167, 154
+  orig: 300, 300
+  offset: 77, 70
+  index: 21
+Depravity_on_tick
+  rotate: false
+  xy: 515, 313
+  size: 167, 154
+  orig: 300, 300
+  offset: 77, 70
+  index: 22
+Depravity_on_tick
+  rotate: false
+  xy: 688, 1
+  size: 168, 155
+  orig: 300, 300
+  offset: 77, 69
+  index: 23
+Depravity_on_tick
+  rotate: false
+  xy: 345, 158
+  size: 168, 155
+  orig: 300, 300
+  offset: 77, 69
+  index: 24
+Depravity_on_tick
+  rotate: false
+  xy: 515, 158
+  size: 168, 153
+  orig: 300, 300
+  offset: 77, 69
+  index: 25
+Depravity_on_tick
+  rotate: false
+  xy: 172, 308
+  size: 168, 154
+  orig: 300, 300
+  offset: 77, 68
+  index: 26

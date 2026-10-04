@@ -1,0 +1,194 @@
+Inspiration_on_tick_0.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Inspiration_on_tick
+  rotate: false
+  xy: 1, 847
+  size: 139, 171
+  orig: 150, 230
+  offset: 8, 16
+  index: 0
+Inspiration_on_tick
+  rotate: false
+  xy: 142, 847
+  size: 139, 171
+  orig: 150, 230
+  offset: 8, 16
+  index: 1
+Inspiration_on_tick
+  rotate: false
+  xy: 376, 393
+  size: 131, 184
+  orig: 150, 230
+  offset: 13, 21
+  index: 2
+Inspiration_on_tick
+  rotate: false
+  xy: 545, 761
+  size: 117, 164
+  orig: 150, 230
+  offset: 21, 22
+  index: 3
+Inspiration_on_tick
+  rotate: false
+  xy: 456, 579
+  size: 118, 180
+  orig: 150, 230
+  offset: 16, 3
+  index: 4
+Inspiration_on_tick
+  rotate: false
+  xy: 418, 792
+  size: 125, 180
+  orig: 150, 230
+  offset: 13, 8
+  index: 5
+Inspiration_on_tick
+  rotate: false
+  xy: 509, 385
+  size: 127, 179
+  orig: 150, 230
+  offset: 13, 14
+  index: 6
+Inspiration_on_tick
+  rotate: false
+  xy: 572, 183
+  size: 127, 179
+  orig: 150, 230
+  offset: 13, 14
+  index: 7
+Inspiration_on_tick
+  rotate: false
+  xy: 439, 202
+  size: 131, 181
+  orig: 150, 230
+  offset: 10, 21
+  index: 8
+Inspiration_on_tick
+  rotate: false
+  xy: 578, 1
+  size: 134, 178
+  orig: 150, 230
+  offset: 9, 26
+  index: 9
+Inspiration_on_tick
+  rotate: false
+  xy: 442, 1
+  size: 134, 180
+  orig: 150, 230
+  offset: 9, 29
+  index: 10
+Inspiration_on_tick
+  rotate: false
+  xy: 321, 605
+  size: 133, 185
+  orig: 150, 230
+  offset: 10, 29
+  index: 11
+Inspiration_on_tick
+  rotate: false
+  xy: 283, 822
+  size: 133, 197
+  orig: 150, 230
+  offset: 10, 23
+  index: 12
+Inspiration_on_tick
+  rotate: false
+  xy: 241, 406
+  size: 133, 197
+  orig: 150, 230
+  offset: 10, 23
+  index: 13
+Inspiration_on_tick
+  rotate: false
+  xy: 1, 435
+  size: 131, 207
+  orig: 150, 230
+  offset: 11, 18
+  index: 14
+Inspiration_on_tick
+  rotate: false
+  xy: 1, 219
+  size: 127, 214
+  orig: 150, 230
+  offset: 13, 16
+  index: 15
+Inspiration_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 116, 216
+  orig: 150, 230
+  offset: 19, 14
+  index: 16
+Inspiration_on_tick
+  rotate: false
+  xy: 119, 1
+  size: 106, 212
+  orig: 150, 230
+  offset: 21, 18
+  index: 17
+Inspiration_on_tick
+  rotate: false
+  xy: 227, 1
+  size: 105, 201
+  orig: 150, 230
+  offset: 20, 29
+  index: 18
+Inspiration_on_tick
+  rotate: false
+  xy: 1, 644
+  size: 105, 201
+  orig: 150, 230
+  offset: 20, 29
+  index: 19
+Inspiration_on_tick
+  rotate: false
+  xy: 108, 644
+  size: 105, 201
+  orig: 150, 230
+  offset: 19, 29
+  index: 20
+Inspiration_on_tick
+  rotate: false
+  xy: 130, 215
+  size: 105, 202
+  orig: 150, 230
+  offset: 18, 28
+  index: 21
+Inspiration_on_tick
+  rotate: false
+  xy: 237, 204
+  size: 104, 200
+  orig: 150, 230
+  offset: 19, 30
+  index: 22
+Inspiration_on_tick
+  rotate: false
+  xy: 134, 419
+  size: 105, 200
+  orig: 150, 230
+  offset: 19, 30
+  index: 23
+Inspiration_on_tick
+  rotate: false
+  xy: 334, 1
+  size: 106, 199
+  orig: 150, 230
+  offset: 19, 31
+  index: 24
+Inspiration_on_tick
+  rotate: false
+  xy: 215, 621
+  size: 104, 199
+  orig: 150, 230
+  offset: 21, 31
+  index: 25
+Inspiration_on_tick
+  rotate: false
+  xy: 343, 202
+  size: 94, 189
+  orig: 150, 230
+  offset: 30, 33
+  index: 26

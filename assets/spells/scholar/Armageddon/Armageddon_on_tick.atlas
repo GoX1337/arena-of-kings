@@ -1,0 +1,173 @@
+Armageddon_on_tick_0.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Armageddon_on_tick
+  rotate: false
+  xy: 1, 1149
+  size: 330, 378
+  orig: 400, 400
+  offset: 27, 0
+  index: 0
+Armageddon_on_tick
+  rotate: true
+  xy: 1350, 997
+  size: 330, 350
+  orig: 400, 400
+  offset: 27, 0
+  index: 1
+Armageddon_on_tick
+  rotate: true
+  xy: 1357, 665
+  size: 330, 354
+  orig: 400, 400
+  offset: 27, 0
+  index: 2
+Armageddon_on_tick
+  rotate: false
+  xy: 665, 665
+  size: 330, 363
+  orig: 400, 400
+  offset: 27, 0
+  index: 3
+Armageddon_on_tick
+  rotate: false
+  xy: 333, 1455
+  size: 330, 371
+  orig: 400, 400
+  offset: 27, 0
+  index: 4
+Armageddon_on_tick
+  rotate: true
+  xy: 665, 333
+  size: 330, 371
+  orig: 400, 400
+  offset: 27, 0
+  index: 5
+Armageddon_on_tick
+  rotate: true
+  xy: 997, 997
+  size: 330, 351
+  orig: 400, 400
+  offset: 27, 0
+  index: 6
+Armageddon_on_tick
+  rotate: false
+  xy: 1713, 665
+  size: 330, 354
+  orig: 400, 400
+  offset: 27, 0
+  index: 7
+Armageddon_on_tick
+  rotate: false
+  xy: 665, 1030
+  size: 330, 362
+  orig: 400, 400
+  offset: 27, 0
+  index: 8
+Armageddon_on_tick
+  rotate: true
+  xy: 1038, 333
+  size: 330, 371
+  orig: 400, 400
+  offset: 27, 0
+  index: 9
+Armageddon_on_tick
+  rotate: true
+  xy: 1465, 1
+  size: 330, 374
+  orig: 400, 400
+  offset: 27, 0
+  index: 10
+Armageddon_on_tick
+  rotate: false
+  xy: 1, 768
+  size: 330, 379
+  orig: 400, 400
+  offset: 27, 0
+  index: 11
+Armageddon_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 330, 383
+  orig: 400, 400
+  offset: 27, 0
+  index: 12
+Armageddon_on_tick
+  rotate: false
+  xy: 1, 1529
+  size: 330, 378
+  orig: 400, 400
+  offset: 27, 0
+  index: 13
+Armageddon_on_tick
+  rotate: true
+  xy: 997, 665
+  size: 330, 358
+  orig: 400, 400
+  offset: 27, 0
+  index: 14
+Armageddon_on_tick
+  rotate: false
+  xy: 665, 1394
+  size: 330, 362
+  orig: 400, 400
+  offset: 27, 0
+  index: 15
+Armageddon_on_tick
+  rotate: false
+  xy: 333, 333
+  size: 330, 372
+  orig: 400, 400
+  offset: 27, 0
+  index: 16
+Armageddon_on_tick
+  rotate: false
+  xy: 333, 707
+  size: 330, 372
+  orig: 400, 400
+  offset: 27, 0
+  index: 17
+Armageddon_on_tick
+  rotate: false
+  xy: 1, 386
+  size: 330, 380
+  orig: 400, 400
+  offset: 27, 0
+  index: 18
+Armageddon_on_tick
+  rotate: true
+  xy: 333, 1
+  size: 330, 376
+  orig: 400, 400
+  offset: 27, 0
+  index: 19
+Armageddon_on_tick
+  rotate: true
+  xy: 1411, 333
+  size: 330, 364
+  orig: 400, 400
+  offset: 27, 0
+  index: 20
+Armageddon_on_tick
+  rotate: false
+  xy: 333, 1081
+  size: 330, 372
+  orig: 400, 400
+  offset: 27, 0
+  index: 21
+Armageddon_on_tick
+  rotate: true
+  xy: 711, 1
+  size: 330, 375
+  orig: 400, 400
+  offset: 27, 0
+  index: 22
+Armageddon_on_tick
+  rotate: true
+  xy: 1088, 1
+  size: 330, 375
+  orig: 400, 400
+  offset: 27, 0
+  index: 23

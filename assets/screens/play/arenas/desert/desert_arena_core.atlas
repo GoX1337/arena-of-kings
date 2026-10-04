@@ -1,0 +1,40 @@
+desert_arena_core.png
+size: 4096, 512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arena_bottom_column
+  rotate: false
+  xy: 1, 1
+  size: 309, 410
+  orig: 309, 410
+  offset: 0, 0
+  index: -1
+arena_bottom_left_tent
+  rotate: false
+  xy: 312, 314
+  size: 222, 137
+  orig: 222, 137
+  offset: 0, 0
+  index: -1
+arena_bottom_right_tent
+  rotate: false
+  xy: 536, 314
+  size: 222, 133
+  orig: 222, 133
+  offset: 0, 0
+  index: -1
+arena_bottom_wall
+  rotate: false
+  xy: 312, 1
+  size: 3002, 311
+  orig: 3002, 311
+  offset: 0, 0
+  index: -1
+arena_top_column
+  rotate: false
+  xy: 3316, 1
+  size: 226, 299
+  orig: 226, 299
+  offset: 0, 0
+  index: -1

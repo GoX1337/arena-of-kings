@@ -1,0 +1,145 @@
+ProfileBackgrounds-0.png
+size: 1024, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BORDER_Green
+  rotate: false
+  xy: 1, 1
+  size: 356, 206
+  orig: 356, 206
+  offset: 0, 0
+  index: -1
+BORDER_Red
+  rotate: false
+  xy: 359, 1
+  size: 356, 206
+  orig: 356, 206
+  offset: 0, 0
+  index: -1
+BORDER_Yellow
+  rotate: false
+  xy: 1, 209
+  size: 356, 206
+  orig: 356, 206
+  offset: 0, 0
+  index: -1
+PBG
+  rotate: false
+  xy: 359, 209
+  size: 350, 200
+  orig: 350, 200
+  offset: 0, 0
+  index: 0
+PBG
+  rotate: false
+  xy: 359, 411
+  size: 350, 200
+  orig: 350, 200
+  offset: 0, 0
+  index: 1
+PBG
+  rotate: false
+  xy: 1, 1023
+  size: 350, 200
+  orig: 350, 200
+  offset: 0, 0
+  index: 2
+PBG
+  rotate: false
+  xy: 353, 1219
+  size: 350, 200
+  orig: 350, 200
+  offset: 0, 0
+  index: 3
+PBG
+  rotate: false
+  xy: 1, 1225
+  size: 350, 200
+  orig: 350, 200
+  offset: 0, 0
+  index: 4
+PBG
+  rotate: false
+  xy: 353, 1421
+  size: 350, 200
+  orig: 350, 200
+  offset: 0, 0
+  index: 5
+PBG
+  rotate: false
+  xy: 1, 1427
+  size: 350, 200
+  orig: 350, 200
+  offset: 0, 0
+  index: 6
+PBG
+  rotate: false
+  xy: 1, 1629
+  size: 350, 200
+  orig: 350, 200
+  offset: 0, 0
+  index: 7
+PBG
+  rotate: false
+  xy: 1, 1831
+  size: 350, 200
+  orig: 350, 200
+  offset: 0, 0
+  index: 8
+PBG
+  rotate: false
+  xy: 353, 1623
+  size: 350, 200
+  orig: 350, 200
+  offset: 0, 0
+  index: 9
+PBG
+  rotate: false
+  xy: 1, 417
+  size: 350, 200
+  orig: 350, 200
+  offset: 0, 0
+  index: 10
+PBG
+  rotate: false
+  xy: 353, 613
+  size: 350, 200
+  orig: 350, 200
+  offset: 0, 0
+  index: 11
+PBG
+  rotate: false
+  xy: 1, 619
+  size: 350, 200
+  orig: 350, 200
+  offset: 0, 0
+  index: 12
+PBG
+  rotate: false
+  xy: 353, 815
+  size: 350, 200
+  orig: 350, 200
+  offset: 0, 0
+  index: 13
+PBG
+  rotate: false
+  xy: 1, 821
+  size: 350, 200
+  orig: 350, 200
+  offset: 0, 0
+  index: 14
+PBG
+  rotate: false
+  xy: 353, 1017
+  size: 350, 200
+  orig: 350, 200
+  offset: 0, 0
+  index: 15
+PBG_DEFAULT
+  rotate: false
+  xy: 353, 1825
+  size: 350, 200
+  orig: 350, 200
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,138 @@
+Stun_on_tick_0.png
+size: 256, 512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Stun_on_tick
+  rotate: false
+  xy: 97, 59
+  size: 92, 54
+  orig: 150, 150
+  offset: 30, 44
+  index: 0
+Stun_on_tick
+  rotate: true
+  xy: 191, 93
+  size: 82, 64
+  orig: 150, 150
+  offset: 35, 39
+  index: 1
+Stun_on_tick
+  rotate: true
+  xy: 1, 441
+  size: 68, 72
+  orig: 150, 150
+  offset: 42, 35
+  index: 2
+Stun_on_tick
+  rotate: true
+  xy: 1, 299
+  size: 64, 78
+  orig: 150, 150
+  offset: 44, 32
+  index: 3
+Stun_on_tick
+  rotate: true
+  xy: 1, 232
+  size: 65, 80
+  orig: 150, 150
+  offset: 43, 31
+  index: 4
+Stun_on_tick
+  rotate: true
+  xy: 163, 316
+  size: 66, 77
+  orig: 150, 150
+  offset: 43, 33
+  index: 5
+Stun_on_tick
+  rotate: false
+  xy: 85, 183
+  size: 80, 69
+  orig: 150, 150
+  offset: 36, 36
+  index: 6
+Stun_on_tick
+  rotate: true
+  xy: 195, 1
+  size: 90, 57
+  orig: 150, 150
+  offset: 31, 43
+  index: 7
+Stun_on_tick
+  rotate: false
+  xy: 1, 55
+  size: 94, 52
+  orig: 150, 150
+  offset: 29, 44
+  index: 8
+Stun_on_tick
+  rotate: false
+  xy: 1, 109
+  size: 92, 54
+  orig: 150, 150
+  offset: 30, 44
+  index: 9
+Stun_on_tick
+  rotate: false
+  xy: 1, 165
+  size: 82, 65
+  orig: 150, 150
+  offset: 35, 39
+  index: 10
+Stun_on_tick
+  rotate: true
+  xy: 183, 177
+  size: 70, 72
+  orig: 150, 150
+  offset: 41, 35
+  index: 11
+Stun_on_tick
+  rotate: true
+  xy: 81, 321
+  size: 64, 77
+  orig: 150, 150
+  offset: 44, 33
+  index: 12
+Stun_on_tick
+  rotate: true
+  xy: 167, 249
+  size: 65, 78
+  orig: 150, 150
+  offset: 43, 32
+  index: 13
+Stun_on_tick
+  rotate: true
+  xy: 83, 254
+  size: 65, 78
+  orig: 150, 150
+  offset: 43, 32
+  index: 14
+Stun_on_tick
+  rotate: false
+  xy: 1, 365
+  size: 74, 74
+  orig: 150, 150
+  offset: 39, 34
+  index: 15
+Stun_on_tick
+  rotate: false
+  xy: 95, 115
+  size: 86, 66
+  orig: 150, 150
+  offset: 33, 38
+  index: 16
+Stun_on_tick
+  rotate: false
+  xy: 99, 1
+  size: 94, 56
+  orig: 150, 150
+  offset: 29, 43
+  index: 17
+Stun_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 96, 52
+  orig: 150, 150
+  offset: 28, 44
+  index: 18

@@ -1,0 +1,117 @@
+LightningArrow_on_tick-0.png
+size: 512, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LightningArrow_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 0
+LightningArrow_on_tick
+  rotate: false
+  xy: 253, 1
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 1
+LightningArrow_on_tick
+  rotate: false
+  xy: 1, 153
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 2
+LightningArrow_on_tick
+  rotate: false
+  xy: 253, 153
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 3
+LightningArrow_on_tick
+  rotate: false
+  xy: 1, 305
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 4
+LightningArrow_on_tick
+  rotate: false
+  xy: 253, 305
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 5
+LightningArrow_on_tick
+  rotate: false
+  xy: 1, 457
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 6
+LightningArrow_on_tick
+  rotate: false
+  xy: 253, 457
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 7
+LightningArrow_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 8
+LightningArrow_on_tick
+  rotate: false
+  xy: 253, 1
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 9
+LightningArrow_on_tick
+  rotate: false
+  xy: 1, 153
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 10
+LightningArrow_on_tick
+  rotate: false
+  xy: 253, 153
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 11
+LightningArrow_on_tick
+  rotate: false
+  xy: 1, 305
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 12
+LightningArrow_on_tick
+  rotate: false
+  xy: 253, 305
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 13
+LightningArrow_on_tick
+  rotate: false
+  xy: 1, 457
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 14
+LightningArrow_on_tick
+  rotate: false
+  xy: 253, 457
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 15

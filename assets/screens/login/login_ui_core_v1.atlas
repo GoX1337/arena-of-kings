@@ -1,0 +1,152 @@
+login_ui_core_v1-0.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+devupdate
+  rotate: false
+  xy: 1, 1
+  size: 369, 586
+  orig: 369, 586
+  offset: 0, 0
+  index: -1
+discord_button_default
+  rotate: true
+  xy: 464, 423
+  size: 54, 58
+  orig: 66, 71
+  offset: 7, 8
+  index: -1
+discord_button_hovered
+  rotate: false
+  xy: 372, 482
+  size: 66, 71
+  orig: 66, 71
+  offset: 0, 0
+  index: -1
+facebook_button_default
+  rotate: false
+  xy: 450, 965
+  size: 54, 54
+  orig: 66, 67
+  offset: 7, 8
+  index: -1
+facebook_button_hovered
+  rotate: false
+  xy: 464, 354
+  size: 66, 67
+  orig: 66, 67
+  offset: 0, 0
+  index: -1
+gamepedia_logo_default
+  rotate: false
+  xy: 532, 343
+  size: 47, 59
+  orig: 58, 70
+  offset: 6, 7
+  index: -1
+gamepedia_logo_hovered
+  rotate: false
+  xy: 440, 482
+  size: 58, 70
+  orig: 58, 70
+  offset: 0, 0
+  index: -1
+instagram_button_default
+  rotate: false
+  xy: 506, 965
+  size: 54, 54
+  orig: 66, 67
+  offset: 7, 8
+  index: -1
+instagram_button_hovered
+  rotate: false
+  xy: 450, 896
+  size: 66, 67
+  orig: 66, 67
+  offset: 0, 0
+  index: -1
+login_login_default
+  rotate: true
+  xy: 372, 354
+  size: 126, 44
+  orig: 126, 44
+  offset: 0, 0
+  index: -1
+login_login_grayed
+  rotate: true
+  xy: 418, 354
+  size: 126, 44
+  orig: 126, 44
+  offset: 0, 0
+  index: -1
+login_login_hovered
+  rotate: true
+  xy: 404, 897
+  size: 126, 44
+  orig: 126, 44
+  offset: 0, 0
+  index: -1
+login_main_frame
+  rotate: true
+  xy: 1, 589
+  size: 416, 401
+  orig: 416, 401
+  offset: 0, 0
+  index: -1
+login_register_free_account_default
+  rotate: true
+  xy: 404, 555
+  size: 340, 37
+  orig: 340, 37
+  offset: 0, 0
+  index: -1
+login_register_free_account_grayed
+  rotate: true
+  xy: 443, 554
+  size: 340, 37
+  orig: 340, 37
+  offset: 0, 0
+  index: -1
+login_register_free_account_hovered
+  rotate: true
+  xy: 527, 1
+  size: 340, 37
+  orig: 340, 37
+  offset: 0, 0
+  index: -1
+promo_banner
+  rotate: true
+  xy: 372, 1
+  size: 351, 153
+  orig: 351, 153
+  offset: 0, 0
+  index: -1
+twitter_button_default
+  rotate: false
+  xy: 524, 423
+  size: 54, 54
+  orig: 65, 66
+  offset: 6, 7
+  index: -1
+twitter_button_hovered
+  rotate: false
+  xy: 500, 479
+  size: 65, 66
+  orig: 65, 66
+  offset: 0, 0
+  index: -1
+youtube_button_default
+  rotate: false
+  xy: 482, 623
+  size: 54, 54
+  orig: 66, 67
+  offset: 7, 8
+  index: -1
+youtube_button_hovered
+  rotate: false
+  xy: 482, 554
+  size: 66, 67
+  orig: 66, 67
+  offset: 0, 0
+  index: -1

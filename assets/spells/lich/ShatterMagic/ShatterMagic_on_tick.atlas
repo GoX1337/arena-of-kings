@@ -1,0 +1,75 @@
+ShatterMagic_on_tick_0.png
+size: 512, 512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ShatterMagic_on_tick
+  rotate: false
+  xy: 391, 324
+  size: 110, 109
+  orig: 300, 300
+  offset: 97, 94
+  index: 0
+ShatterMagic_on_tick
+  rotate: false
+  xy: 410, 87
+  size: 82, 81
+  orig: 300, 300
+  offset: 110, 108
+  index: 1
+ShatterMagic_on_tick
+  rotate: false
+  xy: 153, 366
+  size: 132, 143
+  orig: 300, 300
+  offset: 85, 78
+  index: 2
+ShatterMagic_on_tick
+  rotate: true
+  xy: 391, 194
+  size: 128, 119
+  orig: 300, 300
+  offset: 87, 90
+  index: 3
+ShatterMagic_on_tick
+  rotate: false
+  xy: 1, 362
+  size: 150, 147
+  orig: 300, 300
+  offset: 76, 76
+  index: 4
+ShatterMagic_on_tick
+  rotate: true
+  xy: 215, 194
+  size: 170, 174
+  orig: 300, 300
+  offset: 66, 62
+  index: 5
+ShatterMagic_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 212, 198
+  orig: 300, 300
+  offset: 42, 50
+  index: 6
+ShatterMagic_on_tick
+  rotate: true
+  xy: 215, 1
+  size: 191, 193
+  orig: 300, 300
+  offset: 52, 55
+  index: 7
+ShatterMagic_on_tick
+  rotate: false
+  xy: 1, 201
+  size: 186, 159
+  orig: 300, 300
+  offset: 59, 70
+  index: 8
+ShatterMagic_on_tick
+  rotate: true
+  xy: 410, 1
+  size: 84, 86
+  orig: 300, 300
+  offset: 106, 106
+  index: 9

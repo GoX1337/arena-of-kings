@@ -1,0 +1,180 @@
+HobblingArrow_on_tick-0.png
+size: 512, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HobblingArrow_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 150, 80
+  orig: 150, 80
+  offset: 0, 0
+  index: 0
+HobblingArrow_on_tick
+  rotate: false
+  xy: 153, 1
+  size: 150, 80
+  orig: 150, 80
+  offset: 0, 0
+  index: 1
+HobblingArrow_on_tick
+  rotate: false
+  xy: 305, 1
+  size: 150, 80
+  orig: 150, 80
+  offset: 0, 0
+  index: 2
+HobblingArrow_on_tick
+  rotate: false
+  xy: 1, 83
+  size: 150, 80
+  orig: 150, 80
+  offset: 0, 0
+  index: 3
+HobblingArrow_on_tick
+  rotate: false
+  xy: 153, 83
+  size: 150, 80
+  orig: 150, 80
+  offset: 0, 0
+  index: 4
+HobblingArrow_on_tick
+  rotate: false
+  xy: 305, 83
+  size: 150, 80
+  orig: 150, 80
+  offset: 0, 0
+  index: 5
+HobblingArrow_on_tick
+  rotate: false
+  xy: 1, 165
+  size: 150, 80
+  orig: 150, 80
+  offset: 0, 0
+  index: 6
+HobblingArrow_on_tick
+  rotate: false
+  xy: 153, 165
+  size: 150, 80
+  orig: 150, 80
+  offset: 0, 0
+  index: 7
+HobblingArrow_on_tick
+  rotate: false
+  xy: 305, 165
+  size: 150, 80
+  orig: 150, 80
+  offset: 0, 0
+  index: 8
+HobblingArrow_on_tick
+  rotate: false
+  xy: 1, 247
+  size: 150, 80
+  orig: 150, 80
+  offset: 0, 0
+  index: 9
+HobblingArrow_on_tick
+  rotate: false
+  xy: 153, 247
+  size: 150, 80
+  orig: 150, 80
+  offset: 0, 0
+  index: 10
+HobblingArrow_on_tick
+  rotate: false
+  xy: 305, 247
+  size: 150, 80
+  orig: 150, 80
+  offset: 0, 0
+  index: 11
+HobblingArrow_on_tick
+  rotate: false
+  xy: 1, 329
+  size: 150, 80
+  orig: 150, 80
+  offset: 0, 0
+  index: 12
+HobblingArrow_on_tick
+  rotate: false
+  xy: 153, 329
+  size: 150, 80
+  orig: 150, 80
+  offset: 0, 0
+  index: 13
+HobblingArrow_on_tick
+  rotate: false
+  xy: 305, 329
+  size: 150, 80
+  orig: 150, 80
+  offset: 0, 0
+  index: 14
+HobblingArrow_on_tick
+  rotate: false
+  xy: 1, 411
+  size: 150, 80
+  orig: 150, 80
+  offset: 0, 0
+  index: 15
+HobblingArrow_on_tick
+  rotate: false
+  xy: 153, 411
+  size: 150, 80
+  orig: 150, 80
+  offset: 0, 0
+  index: 16
+HobblingArrow_on_tick
+  rotate: false
+  xy: 305, 411
+  size: 150, 80
+  orig: 150, 80
+  offset: 0, 0
+  index: 17
+HobblingArrow_on_tick
+  rotate: false
+  xy: 1, 493
+  size: 150, 80
+  orig: 150, 80
+  offset: 0, 0
+  index: 18
+HobblingArrow_on_tick
+  rotate: false
+  xy: 153, 493
+  size: 150, 80
+  orig: 150, 80
+  offset: 0, 0
+  index: 19
+HobblingArrow_on_tick
+  rotate: false
+  xy: 305, 493
+  size: 150, 80
+  orig: 150, 80
+  offset: 0, 0
+  index: 20
+HobblingArrow_on_tick
+  rotate: false
+  xy: 1, 575
+  size: 150, 80
+  orig: 150, 80
+  offset: 0, 0
+  index: 21
+HobblingArrow_on_tick
+  rotate: false
+  xy: 153, 575
+  size: 150, 80
+  orig: 150, 80
+  offset: 0, 0
+  index: 22
+HobblingArrow_on_tick
+  rotate: false
+  xy: 305, 575
+  size: 150, 80
+  orig: 150, 80
+  offset: 0, 0
+  index: 23
+HobblingArrow_on_tick
+  rotate: false
+  xy: 1, 657
+  size: 150, 80
+  orig: 150, 80
+  offset: 0, 0
+  index: 24

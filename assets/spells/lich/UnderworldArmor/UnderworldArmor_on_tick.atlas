@@ -1,0 +1,215 @@
+UnderworldArmor_on_tick_0.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UnderworldArmor_on_tick
+  rotate: false
+  xy: 441, 829
+  size: 134, 148
+  orig: 300, 300
+  offset: 93, 77
+  index: 0
+UnderworldArmor_on_tick
+  rotate: false
+  xy: 294, 1
+  size: 143, 161
+  orig: 300, 300
+  offset: 93, 76
+  index: 1
+UnderworldArmor_on_tick
+  rotate: false
+  xy: 1, 349
+  size: 133, 165
+  orig: 300, 300
+  offset: 93, 75
+  index: 2
+UnderworldArmor_on_tick
+  rotate: false
+  xy: 1, 177
+  size: 140, 170
+  orig: 300, 300
+  offset: 88, 73
+  index: 3
+UnderworldArmor_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 142, 174
+  orig: 300, 300
+  offset: 85, 70
+  index: 4
+UnderworldArmor_on_tick
+  rotate: false
+  xy: 136, 349
+  size: 141, 162
+  orig: 300, 300
+  offset: 85, 67
+  index: 5
+UnderworldArmor_on_tick
+  rotate: false
+  xy: 449, 631
+  size: 142, 146
+  orig: 300, 300
+  offset: 86, 85
+  index: 6
+UnderworldArmor_on_tick
+  rotate: false
+  xy: 444, 478
+  size: 144, 151
+  orig: 300, 300
+  offset: 86, 85
+  index: 7
+UnderworldArmor_on_tick
+  rotate: false
+  xy: 148, 674
+  size: 147, 155
+  orig: 300, 300
+  offset: 85, 85
+  index: 8
+UnderworldArmor_on_tick
+  rotate: false
+  xy: 279, 340
+  size: 151, 158
+  orig: 300, 300
+  offset: 82, 85
+  index: 9
+UnderworldArmor_on_tick
+  rotate: false
+  xy: 1, 682
+  size: 145, 160
+  orig: 300, 300
+  offset: 90, 86
+  index: 10
+UnderworldArmor_on_tick
+  rotate: false
+  xy: 145, 1
+  size: 147, 161
+  orig: 300, 300
+  offset: 90, 88
+  index: 11
+UnderworldArmor_on_tick
+  rotate: true
+  xy: 582, 315
+  size: 150, 144
+  orig: 300, 300
+  offset: 89, 88
+  index: 12
+UnderworldArmor_on_tick
+  rotate: true
+  xy: 453, 161
+  size: 152, 146
+  orig: 300, 300
+  offset: 88, 86
+  index: 13
+UnderworldArmor_on_tick
+  rotate: true
+  xy: 293, 831
+  size: 154, 146
+  orig: 300, 300
+  offset: 88, 85
+  index: 14
+UnderworldArmor_on_tick
+  rotate: true
+  xy: 1, 844
+  size: 156, 146
+  orig: 300, 300
+  offset: 87, 84
+  index: 15
+UnderworldArmor_on_tick
+  rotate: false
+  xy: 863, 148
+  size: 148, 139
+  orig: 300, 300
+  offset: 89, 92
+  index: 16
+UnderworldArmor_on_tick
+  rotate: true
+  xy: 432, 324
+  size: 152, 148
+  orig: 300, 300
+  offset: 87, 86
+  index: 17
+UnderworldArmor_on_tick
+  rotate: false
+  xy: 588, 1
+  size: 139, 152
+  orig: 300, 300
+  offset: 85, 85
+  index: 18
+UnderworldArmor_on_tick
+  rotate: false
+  xy: 149, 831
+  size: 142, 155
+  orig: 300, 300
+  offset: 83, 85
+  index: 19
+UnderworldArmor_on_tick
+  rotate: false
+  xy: 439, 1
+  size: 147, 158
+  orig: 300, 300
+  offset: 80, 85
+  index: 20
+UnderworldArmor_on_tick
+  rotate: false
+  xy: 147, 513
+  size: 151, 159
+  orig: 300, 300
+  offset: 78, 85
+  index: 21
+UnderworldArmor_on_tick
+  rotate: false
+  xy: 143, 177
+  size: 155, 161
+  orig: 300, 300
+  offset: 75, 85
+  index: 22
+UnderworldArmor_on_tick
+  rotate: false
+  xy: 1, 516
+  size: 144, 164
+  orig: 300, 300
+  offset: 88, 83
+  index: 23
+UnderworldArmor_on_tick
+  rotate: false
+  xy: 863, 1
+  size: 148, 145
+  orig: 300, 300
+  offset: 85, 82
+  index: 24
+UnderworldArmor_on_tick
+  rotate: true
+  xy: 297, 674
+  size: 153, 150
+  orig: 300, 300
+  offset: 81, 80
+  index: 25
+UnderworldArmor_on_tick
+  rotate: true
+  xy: 300, 164
+  size: 158, 151
+  orig: 300, 300
+  offset: 78, 79
+  index: 26
+UnderworldArmor_on_tick
+  rotate: false
+  xy: 601, 155
+  size: 141, 150
+  orig: 300, 300
+  offset: 89, 79
+  index: 27
+UnderworldArmor_on_tick
+  rotate: false
+  xy: 300, 500
+  size: 142, 153
+  orig: 300, 300
+  offset: 91, 77
+  index: 28
+UnderworldArmor_on_tick
+  rotate: false
+  xy: 729, 1
+  size: 132, 149
+  orig: 300, 300
+  offset: 94, 78
+  index: 29

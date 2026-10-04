@@ -1,0 +1,180 @@
+RunicShield_on_tick_0.png
+size: 1024, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+RunicShield_on_tick
+  rotate: false
+  xy: 448, 1
+  size: 218, 173
+  orig: 300, 300
+  offset: 45, 56
+  index: 0
+RunicShield_on_tick
+  rotate: false
+  xy: 668, 1
+  size: 218, 173
+  orig: 300, 300
+  offset: 45, 56
+  index: 1
+RunicShield_on_tick
+  rotate: false
+  xy: 1, 362
+  size: 204, 178
+  orig: 300, 300
+  offset: 62, 56
+  index: 2
+RunicShield_on_tick
+  rotate: false
+  xy: 651, 520
+  size: 204, 178
+  orig: 300, 300
+  offset: 62, 56
+  index: 3
+RunicShield_on_tick
+  rotate: false
+  xy: 1, 542
+  size: 201, 181
+  orig: 300, 300
+  offset: 62, 56
+  index: 4
+RunicShield_on_tick
+  rotate: false
+  xy: 412, 695
+  size: 201, 181
+  orig: 300, 300
+  offset: 62, 56
+  index: 5
+RunicShield_on_tick
+  rotate: false
+  xy: 201, 894
+  size: 197, 184
+  orig: 300, 300
+  offset: 61, 56
+  index: 6
+RunicShield_on_tick
+  rotate: false
+  xy: 1, 919
+  size: 197, 184
+  orig: 300, 300
+  offset: 61, 56
+  index: 7
+RunicShield_on_tick
+  rotate: false
+  xy: 615, 700
+  size: 197, 188
+  orig: 300, 300
+  offset: 60, 55
+  index: 8
+RunicShield_on_tick
+  rotate: false
+  xy: 404, 878
+  size: 197, 188
+  orig: 300, 300
+  offset: 60, 55
+  index: 9
+RunicShield_on_tick
+  rotate: false
+  xy: 814, 700
+  size: 193, 191
+  orig: 300, 300
+  offset: 59, 55
+  index: 10
+RunicShield_on_tick
+  rotate: false
+  xy: 603, 890
+  size: 193, 191
+  orig: 300, 300
+  offset: 59, 55
+  index: 11
+RunicShield_on_tick
+  rotate: false
+  xy: 204, 700
+  size: 198, 192
+  orig: 300, 300
+  offset: 57, 55
+  index: 12
+RunicShield_on_tick
+  rotate: false
+  xy: 1, 725
+  size: 198, 192
+  orig: 300, 300
+  offset: 57, 55
+  index: 13
+RunicShield_on_tick
+  rotate: false
+  xy: 433, 525
+  size: 203, 168
+  orig: 300, 300
+  offset: 55, 55
+  index: 14
+RunicShield_on_tick
+  rotate: false
+  xy: 207, 530
+  size: 203, 168
+  orig: 300, 300
+  offset: 55, 55
+  index: 15
+RunicShield_on_tick
+  rotate: false
+  xy: 441, 355
+  size: 208, 168
+  orig: 300, 300
+  offset: 53, 55
+  index: 16
+RunicShield_on_tick
+  rotate: false
+  xy: 223, 360
+  size: 208, 168
+  orig: 300, 300
+  offset: 53, 55
+  index: 17
+RunicShield_on_tick
+  rotate: false
+  xy: 667, 350
+  size: 212, 168
+  orig: 300, 300
+  offset: 52, 56
+  index: 18
+RunicShield_on_tick
+  rotate: false
+  xy: 667, 176
+  size: 213, 172
+  orig: 300, 300
+  offset: 51, 56
+  index: 19
+RunicShield_on_tick
+  rotate: false
+  xy: 223, 185
+  size: 216, 173
+  orig: 300, 300
+  offset: 51, 55
+  index: 20
+RunicShield_on_tick
+  rotate: false
+  xy: 448, 176
+  size: 217, 177
+  orig: 300, 300
+  offset: 50, 55
+  index: 21
+RunicShield_on_tick
+  rotate: false
+  xy: 1, 183
+  size: 220, 177
+  orig: 300, 300
+  offset: 49, 55
+  index: 22
+RunicShield_on_tick
+  rotate: false
+  xy: 225, 1
+  size: 221, 182
+  orig: 300, 300
+  offset: 48, 54
+  index: 23
+RunicShield_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 222, 180
+  orig: 300, 300
+  offset: 47, 55
+  index: 24

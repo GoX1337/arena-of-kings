@@ -1,0 +1,131 @@
+InfernalStrike_on_tick_0.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+InfernalStrike_on_tick
+  rotate: true
+  xy: 329, 837
+  size: 100, 97
+  orig: 220, 220
+  offset: 119, 118
+  index: 0
+InfernalStrike_on_tick
+  rotate: false
+  xy: 822, 1
+  size: 100, 97
+  orig: 220, 220
+  offset: 119, 118
+  index: 1
+InfernalStrike_on_tick
+  rotate: true
+  xy: 408, 204
+  size: 198, 193
+  orig: 220, 220
+  offset: 14, 15
+  index: 2
+InfernalStrike_on_tick
+  rotate: true
+  xy: 428, 811
+  size: 197, 193
+  orig: 220, 220
+  offset: 12, 13
+  index: 3
+InfernalStrike_on_tick
+  rotate: false
+  xy: 623, 1
+  size: 197, 192
+  orig: 220, 220
+  offset: 11, 12
+  index: 4
+InfernalStrike_on_tick
+  rotate: true
+  xy: 407, 412
+  size: 198, 194
+  orig: 220, 220
+  offset: 8, 10
+  index: 5
+InfernalStrike_on_tick
+  rotate: false
+  xy: 408, 612
+  size: 197, 197
+  orig: 220, 220
+  offset: 7, 9
+  index: 6
+InfernalStrike_on_tick
+  rotate: false
+  xy: 206, 412
+  size: 199, 200
+  orig: 220, 220
+  offset: 5, 6
+  index: 7
+InfernalStrike_on_tick
+  rotate: false
+  xy: 205, 207
+  size: 201, 203
+  orig: 220, 220
+  offset: 3, 5
+  index: 8
+InfernalStrike_on_tick
+  rotate: false
+  xy: 204, 631
+  size: 202, 204
+  orig: 220, 220
+  offset: 2, 4
+  index: 9
+InfernalStrike_on_tick
+  rotate: false
+  xy: 1, 422
+  size: 203, 207
+  orig: 220, 220
+  offset: 0, 2
+  index: 10
+InfernalStrike_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 202, 209
+  orig: 220, 220
+  offset: 0, 0
+  index: 11
+InfernalStrike_on_tick
+  rotate: false
+  xy: 1, 212
+  size: 202, 208
+  orig: 220, 220
+  offset: 0, 0
+  index: 12
+InfernalStrike_on_tick
+  rotate: false
+  xy: 1, 631
+  size: 201, 207
+  orig: 220, 220
+  offset: 0, 0
+  index: 13
+InfernalStrike_on_tick
+  rotate: false
+  xy: 205, 1
+  size: 200, 204
+  orig: 220, 220
+  offset: 0, 2
+  index: 14
+InfernalStrike_on_tick
+  rotate: false
+  xy: 407, 1
+  size: 196, 201
+  orig: 220, 220
+  offset: 3, 5
+  index: 15
+InfernalStrike_on_tick
+  rotate: false
+  xy: 1, 840
+  size: 165, 170
+  orig: 220, 220
+  offset: 27, 30
+  index: 16
+InfernalStrike_on_tick
+  rotate: false
+  xy: 168, 840
+  size: 159, 163
+  orig: 220, 220
+  offset: 30, 33
+  index: 17

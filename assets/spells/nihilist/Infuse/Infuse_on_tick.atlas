@@ -1,0 +1,194 @@
+Infuse_on_tick_0.png
+size: 1024, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Infuse_on_tick
+  rotate: true
+  xy: 663, 1
+  size: 284, 329
+  orig: 300, 350
+  offset: 14, 21
+  index: 0
+Infuse_on_tick
+  rotate: true
+  xy: 332, 1
+  size: 290, 329
+  orig: 300, 350
+  offset: 8, 21
+  index: 1
+Infuse_on_tick
+  rotate: true
+  xy: 1, 1
+  size: 295, 329
+  orig: 300, 350
+  offset: 5, 21
+  index: 2
+Infuse_on_tick
+  rotate: true
+  xy: 663, 287
+  size: 284, 329
+  orig: 300, 350
+  offset: 7, 21
+  index: 3
+Infuse_on_tick
+  rotate: true
+  xy: 332, 293
+  size: 281, 327
+  orig: 300, 350
+  offset: 10, 21
+  index: 4
+Infuse_on_tick
+  rotate: true
+  xy: 1, 298
+  size: 256, 286
+  orig: 300, 350
+  offset: 24, 51
+  index: 5
+Infuse_on_tick
+  rotate: false
+  xy: 784, 976
+  size: 238, 251
+  orig: 300, 350
+  offset: 33, 76
+  index: 6
+Infuse_on_tick
+  rotate: true
+  xy: 1, 556
+  size: 218, 270
+  orig: 300, 350
+  offset: 43, 49
+  index: 7
+Infuse_on_tick
+  rotate: true
+  xy: 661, 573
+  size: 208, 269
+  orig: 300, 350
+  offset: 53, 43
+  index: 8
+Infuse_on_tick
+  rotate: true
+  xy: 273, 576
+  size: 227, 264
+  orig: 300, 350
+  offset: 43, 41
+  index: 9
+Infuse_on_tick
+  rotate: true
+  xy: 525, 976
+  size: 234, 257
+  orig: 300, 350
+  offset: 41, 41
+  index: 10
+Infuse_on_tick
+  rotate: false
+  xy: 780, 1229
+  size: 234, 255
+  orig: 300, 350
+  offset: 41, 41
+  index: 11
+Infuse_on_tick
+  rotate: true
+  xy: 1, 1176
+  size: 207, 257
+  orig: 300, 350
+  offset: 51, 39
+  index: 12
+Infuse_on_tick
+  rotate: true
+  xy: 1, 776
+  size: 214, 261
+  orig: 300, 350
+  offset: 49, 35
+  index: 13
+Infuse_on_tick
+  rotate: true
+  xy: 264, 805
+  size: 222, 259
+  orig: 300, 350
+  offset: 41, 37
+  index: 14
+Infuse_on_tick
+  rotate: true
+  xy: 262, 1029
+  size: 209, 257
+  orig: 300, 350
+  offset: 43, 39
+  index: 15
+Infuse_on_tick
+  rotate: true
+  xy: 260, 1240
+  size: 180, 257
+  orig: 300, 350
+  offset: 60, 39
+  index: 16
+Infuse_on_tick
+  rotate: true
+  xy: 646, 783
+  size: 191, 258
+  orig: 300, 350
+  offset: 52, 38
+  index: 17
+Infuse_on_tick
+  rotate: true
+  xy: 521, 1212
+  size: 189, 257
+  orig: 300, 350
+  offset: 54, 39
+  index: 18
+Infuse_on_tick
+  rotate: true
+  xy: 1, 1385
+  size: 172, 257
+  orig: 300, 350
+  offset: 64, 39
+  index: 19
+Infuse_on_tick
+  rotate: true
+  xy: 1, 992
+  size: 182, 259
+  orig: 300, 350
+  offset: 57, 37
+  index: 20
+Infuse_on_tick
+  rotate: true
+  xy: 1, 1559
+  size: 179, 255
+  orig: 300, 350
+  offset: 59, 41
+  index: 21
+Infuse_on_tick
+  rotate: true
+  xy: 260, 1422
+  size: 147, 256
+  orig: 300, 350
+  offset: 81, 40
+  index: 22
+Infuse_on_tick
+  rotate: false
+  xy: 1, 1740
+  size: 153, 255
+  orig: 300, 350
+  offset: 78, 41
+  index: 23
+Infuse_on_tick
+  rotate: false
+  xy: 156, 1740
+  size: 152, 254
+  orig: 300, 350
+  offset: 80, 42
+  index: 24
+Infuse_on_tick
+  rotate: true
+  xy: 519, 1403
+  size: 152, 256
+  orig: 300, 350
+  offset: 80, 40
+  index: 25
+Infuse_on_tick
+  rotate: false
+  xy: 539, 576
+  size: 105, 254
+  orig: 300, 350
+  offset: 100, 42
+  index: 26

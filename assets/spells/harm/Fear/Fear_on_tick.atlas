@@ -1,0 +1,145 @@
+Fear_on_tick-0.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fear_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 0
+Fear_on_tick
+  rotate: false
+  xy: 1, 153
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 1
+Fear_on_tick
+  rotate: false
+  xy: 1, 305
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 2
+Fear_on_tick
+  rotate: false
+  xy: 1, 457
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 3
+Fear_on_tick
+  rotate: false
+  xy: 1, 609
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 4
+Fear_on_tick
+  rotate: false
+  xy: 1, 761
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 5
+Fear_on_tick
+  rotate: false
+  xy: 153, 1
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 6
+Fear_on_tick
+  rotate: false
+  xy: 305, 1
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 7
+Fear_on_tick
+  rotate: false
+  xy: 457, 1
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 8
+Fear_on_tick
+  rotate: false
+  xy: 609, 1
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 9
+Fear_on_tick
+  rotate: false
+  xy: 761, 1
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 10
+Fear_on_tick
+  rotate: false
+  xy: 153, 153
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 11
+Fear_on_tick
+  rotate: false
+  xy: 153, 305
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 12
+Fear_on_tick
+  rotate: false
+  xy: 153, 457
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 13
+Fear_on_tick
+  rotate: false
+  xy: 153, 609
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 14
+Fear_on_tick
+  rotate: false
+  xy: 153, 761
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 15
+Fear_on_tick
+  rotate: false
+  xy: 305, 153
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 16
+Fear_on_tick
+  rotate: false
+  xy: 457, 153
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 17
+Fear_on_tick
+  rotate: false
+  xy: 609, 153
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 18
+Fear_on_tick
+  rotate: false
+  xy: 761, 153
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 19

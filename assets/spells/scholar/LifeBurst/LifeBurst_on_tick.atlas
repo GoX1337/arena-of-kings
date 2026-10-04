@@ -1,0 +1,208 @@
+LifeBurst_on_tick_0.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LifeBurst_on_tick
+  rotate: false
+  xy: 85, 969
+  size: 57, 54
+  orig: 300, 300
+  offset: 126, 108
+  index: 0
+LifeBurst_on_tick
+  rotate: true
+  xy: 407, 858
+  size: 71, 69
+  orig: 300, 300
+  offset: 120, 99
+  index: 1
+LifeBurst_on_tick
+  rotate: false
+  xy: 85, 892
+  size: 87, 75
+  orig: 300, 300
+  offset: 112, 97
+  index: 2
+LifeBurst_on_tick
+  rotate: true
+  xy: 1, 892
+  size: 99, 82
+  orig: 300, 300
+  offset: 107, 93
+  index: 3
+LifeBurst_on_tick
+  rotate: false
+  xy: 886, 184
+  size: 126, 90
+  orig: 300, 300
+  offset: 92, 90
+  index: 4
+LifeBurst_on_tick
+  rotate: false
+  xy: 882, 276
+  size: 141, 95
+  orig: 300, 300
+  offset: 89, 89
+  index: 5
+LifeBurst_on_tick
+  rotate: true
+  xy: 882, 373
+  size: 159, 109
+  orig: 300, 300
+  offset: 81, 84
+  index: 6
+LifeBurst_on_tick
+  rotate: true
+  xy: 886, 1
+  size: 181, 127
+  orig: 300, 300
+  offset: 70, 74
+  index: 7
+LifeBurst_on_tick
+  rotate: false
+  xy: 631, 584
+  size: 200, 144
+  orig: 300, 300
+  offset: 62, 63
+  index: 8
+LifeBurst_on_tick
+  rotate: false
+  xy: 207, 858
+  size: 198, 153
+  orig: 300, 300
+  offset: 62, 60
+  index: 9
+LifeBurst_on_tick
+  rotate: false
+  xy: 1, 730
+  size: 204, 160
+  orig: 300, 300
+  offset: 56, 58
+  index: 10
+LifeBurst_on_tick
+  rotate: false
+  xy: 1, 567
+  size: 208, 161
+  orig: 300, 300
+  offset: 51, 58
+  index: 11
+LifeBurst_on_tick
+  rotate: false
+  xy: 213, 503
+  size: 208, 164
+  orig: 300, 300
+  offset: 51, 58
+  index: 12
+LifeBurst_on_tick
+  rotate: false
+  xy: 1, 201
+  size: 212, 164
+  orig: 300, 300
+  offset: 49, 58
+  index: 13
+LifeBurst_on_tick
+  rotate: true
+  xy: 847, 534
+  size: 206, 176
+  orig: 300, 300
+  offset: 48, 51
+  index: 14
+LifeBurst_on_tick
+  rotate: false
+  xy: 211, 669
+  size: 205, 187
+  orig: 300, 300
+  offset: 47, 43
+  index: 15
+LifeBurst_on_tick
+  rotate: false
+  xy: 423, 544
+  size: 206, 194
+  orig: 300, 300
+  offset: 48, 38
+  index: 16
+LifeBurst_on_tick
+  rotate: false
+  xy: 215, 201
+  size: 210, 198
+  orig: 300, 300
+  offset: 46, 35
+  index: 17
+LifeBurst_on_tick
+  rotate: false
+  xy: 1, 367
+  size: 210, 198
+  orig: 300, 300
+  offset: 46, 35
+  index: 18
+LifeBurst_on_tick
+  rotate: false
+  xy: 670, 1
+  size: 214, 197
+  orig: 300, 300
+  offset: 42, 35
+  index: 19
+LifeBurst_on_tick
+  rotate: false
+  xy: 229, 1
+  size: 222, 198
+  orig: 300, 300
+  offset: 37, 33
+  index: 20
+LifeBurst_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 226, 198
+  orig: 300, 300
+  offset: 36, 32
+  index: 21
+LifeBurst_on_tick
+  rotate: false
+  xy: 453, 1
+  size: 215, 194
+  orig: 300, 300
+  offset: 45, 32
+  index: 22
+LifeBurst_on_tick
+  rotate: false
+  xy: 453, 197
+  size: 213, 185
+  orig: 300, 300
+  offset: 46, 36
+  index: 23
+LifeBurst_on_tick
+  rotate: false
+  xy: 668, 200
+  size: 212, 184
+  orig: 300, 300
+  offset: 48, 36
+  index: 24
+LifeBurst_on_tick
+  rotate: false
+  xy: 427, 384
+  size: 209, 158
+  orig: 300, 300
+  offset: 51, 45
+  index: 25
+LifeBurst_on_tick
+  rotate: false
+  xy: 213, 401
+  size: 209, 100
+  orig: 300, 300
+  offset: 49, 80
+  index: 26
+LifeBurst_on_tick
+  rotate: false
+  xy: 638, 386
+  size: 207, 97
+  orig: 300, 300
+  offset: 48, 83
+  index: 27
+LifeBurst_on_tick
+  rotate: false
+  xy: 638, 485
+  size: 207, 97
+  orig: 300, 300
+  offset: 48, 83
+  index: 28

@@ -1,0 +1,1292 @@
+play_ui_core-v21-0.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1857, 797
+  size: 111, 217
+  orig: 111, 217
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1857, 543
+  size: 132, 252
+  orig: 132, 252
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 1923, 1760
+  size: 117, 244
+  orig: 117, 244
+  offset: 0, 0
+  index: -1
+add_friend
+  rotate: false
+  xy: 1995, 1702
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Assassin
+  rotate: false
+  xy: 1923, 1237
+  size: 46, 74
+  orig: 46, 74
+  offset: 0, 0
+  index: -1
+Assassin_Icon
+  rotate: false
+  xy: 2020, 1312
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+background_frame
+  rotate: false
+  xy: 1792, 377
+  size: 221, 78
+  orig: 221, 78
+  offset: 0, 0
+  index: -1
+bottom_bar_dark
+  rotate: false
+  xy: 1, 1932
+  size: 1920, 78
+  orig: 1920, 78
+  offset: 0, 0
+  index: -1
+bottom_chunk_dark
+  rotate: false
+  xy: 1176, 184
+  size: 592, 148
+  orig: 592, 148
+  offset: 0, 0
+  index: -1
+bottom_energy_full
+  rotate: false
+  xy: 1857, 1140
+  size: 171, 18
+  orig: 171, 18
+  offset: 0, 0
+  index: -1
+bottom_health_full
+  rotate: false
+  xy: 1857, 1085
+  size: 171, 53
+  orig: 171, 53
+  offset: 0, 0
+  index: -1
+bottom_health_grayed
+  rotate: false
+  xy: 1623, 543
+  size: 171, 53
+  orig: 171, 53
+  offset: 0, 0
+  index: -1
+bottom_mana_full
+  rotate: false
+  xy: 1623, 707
+  size: 171, 18
+  orig: 171, 18
+  offset: 0, 0
+  index: -1
+bottom_panel
+  rotate: false
+  xy: 1, 1763
+  size: 1920, 167
+  orig: 1920, 167
+  offset: 0, 0
+  index: -1
+bottom_rage_full
+  rotate: false
+  xy: 1619, 727
+  size: 171, 18
+  orig: 171, 18
+  offset: 0, 0
+  index: -1
+Champion
+  rotate: false
+  xy: 1768, 598
+  size: 46, 75
+  orig: 46, 75
+  offset: 0, 0
+  index: -1
+Champion_Icon
+  rotate: false
+  xy: 2018, 1227
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+channel_backdrop
+  rotate: false
+  xy: 1713, 146
+  size: 172, 30
+  orig: 172, 30
+  offset: 0, 0
+  index: -1
+channel_backdrop_hovered
+  rotate: false
+  xy: 1623, 675
+  size: 172, 30
+  orig: 172, 30
+  offset: 0, 0
+  index: -1
+channel_notification_bubble
+  rotate: false
+  xy: 2015, 430
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+channel_players_backdrop_default
+  rotate: false
+  xy: 1770, 1702
+  size: 223, 27
+  orig: 223, 27
+  offset: 0, 0
+  index: -1
+channel_players_backdrop_hovered
+  rotate: false
+  xy: 1770, 1731
+  size: 223, 27
+  orig: 223, 27
+  offset: 0, 0
+  index: -1
+channel_toggle
+  rotate: false
+  xy: 2029, 774
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+chatframeLarge
+  rotate: false
+  xy: 1176, 1
+  size: 535, 181
+  orig: 535, 181
+  offset: 0, 0
+  index: -1
+chatframeSmall
+  rotate: false
+  xy: 1176, 543
+  size: 445, 181
+  orig: 445, 181
+  offset: 0, 0
+  index: -1
+debuff_separator
+  rotate: false
+  xy: 2015, 377
+  size: 17, 51
+  orig: 17, 51
+  offset: 0, 0
+  index: -1
+detail
+  rotate: false
+  xy: 2019, 892
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+dragon
+  rotate: false
+  xy: 1970, 797
+  size: 68, 93
+  orig: 1920, 246
+  offset: 239, 0
+  index: -1
+Elder
+  rotate: false
+  xy: 1923, 1313
+  size: 45, 74
+  orig: 45, 74
+  offset: 0, 0
+  index: -1
+Elder_Icon
+  rotate: false
+  xy: 2018, 1253
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+enemy_reticle
+  rotate: false
+  xy: 1792, 178
+  size: 236, 197
+  orig: 236, 197
+  offset: 0, 0
+  index: -1
+fight
+  rotate: false
+  xy: 1, 748
+  size: 1854, 420
+  orig: 1854, 420
+  offset: 0, 0
+  index: -1
+friend_icon_hovered
+  rotate: false
+  xy: 1713, 412
+  size: 54, 39
+  orig: 54, 39
+  offset: 0, 0
+  index: -1
+gold_star
+  rotate: false
+  xy: 1998, 1287
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+inspect
+  rotate: false
+  xy: 1796, 543
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+invite_to_party
+  rotate: false
+  xy: 1970, 1313
+  size: 48, 47
+  orig: 48, 48
+  offset: 0, 1
+  index: -1
+Lich
+  rotate: false
+  xy: 1713, 334
+  size: 47, 76
+  orig: 47, 76
+  offset: 0, 0
+  index: -1
+Lich_Icon
+  rotate: false
+  xy: 2024, 1279
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+main_panel
+  rotate: false
+  xy: 1, 1170
+  size: 1920, 398
+  orig: 1920, 398
+  offset: 0, 0
+  index: -1
+modern_ally_glow
+  rotate: false
+  xy: 2019, 950
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+modern_detail
+  rotate: false
+  xy: 2019, 921
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+modern_dragon_flipped
+  rotate: false
+  xy: 1797, 675
+  size: 45, 62
+  orig: 45, 62
+  offset: 0, 0
+  index: -1
+modern_enemy_glow
+  rotate: false
+  xy: 1816, 660
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+modern_frame
+  rotate: false
+  xy: 1878, 457
+  size: 159, 67
+  orig: 159, 67
+  offset: 0, 0
+  index: -1
+modern_frame_flipped
+  rotate: false
+  xy: 1857, 1016
+  size: 159, 67
+  orig: 159, 67
+  offset: 0, 0
+  index: -1
+modern_health_assassin_full
+  rotate: false
+  xy: 1777, 2012
+  size: 143, 35
+  orig: 143, 35
+  offset: 0, 0
+  index: -1
+modern_health_background
+  rotate: false
+  xy: 1623, 598
+  size: 143, 35
+  orig: 143, 35
+  offset: 0, 0
+  index: -1
+modern_health_champion_full
+  rotate: false
+  xy: 1623, 635
+  size: 143, 35
+  orig: 143, 35
+  offset: 0, 0
+  index: -1
+mvp_label
+  rotate: false
+  xy: 1971, 1434
+  size: 36, 14
+  orig: 36, 14
+  offset: 0, 0
+  index: -1
+my_energy_bar
+  rotate: false
+  xy: 1713, 86
+  size: 331, 13
+  orig: 331, 13
+  offset: 0, 0
+  index: -1
+my_energy_bar_v2
+  rotate: false
+  xy: 1176, 433
+  size: 369, 17
+  orig: 369, 17
+  offset: 0, 0
+  index: -1
+my_energy_vial_v2
+  rotate: false
+  xy: 1176, 384
+  size: 369, 17
+  orig: 369, 17
+  offset: 0, 0
+  index: -1
+my_health_bar
+  rotate: false
+  xy: 1713, 101
+  size: 331, 13
+  orig: 331, 13
+  offset: 0, 0
+  index: -1
+my_health_bar_v2
+  rotate: false
+  xy: 1406, 2012
+  size: 369, 27
+  orig: 369, 27
+  offset: 0, 0
+  index: -1
+my_health_vial_v2
+  rotate: false
+  xy: 1176, 355
+  size: 369, 27
+  orig: 369, 27
+  offset: 0, 0
+  index: -1
+my_mana_bar
+  rotate: false
+  xy: 1713, 116
+  size: 331, 13
+  orig: 331, 13
+  offset: 0, 0
+  index: -1
+my_mana_bar_v2
+  rotate: false
+  xy: 1176, 726
+  size: 369, 17
+  orig: 369, 17
+  offset: 0, 0
+  index: -1
+my_rage_bar
+  rotate: false
+  xy: 1713, 131
+  size: 331, 13
+  orig: 331, 13
+  offset: 0, 0
+  index: -1
+Mystic
+  rotate: false
+  xy: 1991, 540
+  size: 46, 76
+  orig: 46, 76
+  offset: 0, 0
+  index: -1
+nameplate_ally_backdrop
+  rotate: false
+  xy: 1923, 1463
+  size: 102, 48
+  orig: 102, 48
+  offset: 0, 0
+  index: -1
+nameplate_ally_left_curl
+  rotate: false
+  xy: 1816, 593
+  size: 33, 65
+  orig: 33, 65
+  offset: 0, 0
+  index: -1
+nameplate_ally_right_curl
+  rotate: false
+  xy: 1971, 1160
+  size: 33, 65
+  orig: 33, 65
+  offset: 0, 0
+  index: -1
+nameplate_cast_bar
+  rotate: false
+  xy: 1582, 2041
+  size: 70, 6
+  orig: 70, 6
+  offset: 0, 0
+  index: -1
+nameplate_cast_flare
+  rotate: false
+  xy: 1695, 355
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+nameplate_enemy_health_bar
+  rotate: false
+  xy: 1547, 726
+  size: 70, 10
+  orig: 70, 10
+  offset: 0, 0
+  index: -1
+nameplate_enemy_left_curl
+  rotate: false
+  xy: 2006, 1160
+  size: 33, 65
+  orig: 33, 65
+  offset: 0, 0
+  index: -1
+nameplate_energy_bar
+  rotate: false
+  xy: 1176, 403
+  size: 70, 7
+  orig: 70, 7
+  offset: 0, 0
+  index: -1
+nameplate_frame_casting
+  rotate: false
+  xy: 1970, 970
+  size: 72, 24
+  orig: 72, 24
+  offset: 0, 0
+  index: -1
+nameplate_frame_default
+  rotate: false
+  xy: 1970, 996
+  size: 72, 18
+  orig: 72, 18
+  offset: 0, 0
+  index: -1
+nameplate_health_bar
+  rotate: false
+  xy: 1970, 1362
+  size: 70, 10
+  orig: 70, 10
+  offset: 0, 0
+  index: -1
+nameplate_mana_bar
+  rotate: false
+  xy: 1248, 403
+  size: 70, 7
+  orig: 70, 7
+  offset: 0, 0
+  index: -1
+nameplate_rage_bar
+  rotate: false
+  xy: 1320, 403
+  size: 70, 7
+  orig: 70, 7
+  offset: 0, 0
+  index: -1
+Nihilist
+  rotate: false
+  xy: 1970, 892
+  size: 47, 76
+  orig: 47, 76
+  offset: 0, 0
+  index: -1
+Paladin
+  rotate: false
+  xy: 1923, 1160
+  size: 46, 75
+  orig: 46, 75
+  offset: 0, 0
+  index: -1
+plus_default
+  rotate: false
+  xy: 1971, 1287
+  size: 25, 24
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+plus_grayed
+  rotate: false
+  xy: 2027, 1462
+  size: 19, 20
+  orig: 25, 26
+  offset: 3, 3
+  index: -1
+plus_hovered
+  rotate: false
+  xy: 2018, 1374
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+portrait_ally
+  rotate: false
+  xy: 1713, 1
+  size: 318, 83
+  orig: 1920, 246
+  offset: 253, 0
+  index: -1
+portrait_cast_background
+  rotate: false
+  xy: 1547, 433
+  size: 153, 16
+  orig: 153, 16
+  offset: 0, 0
+  index: -1
+portrait_cast_flare
+  rotate: false
+  xy: 2018, 1402
+  size: 25, 25
+  orig: 1920, 246
+  offset: 750, 19
+  index: -1
+portrait_cast_full
+  rotate: false
+  xy: 1878, 526
+  size: 154, 12
+  orig: 154, 12
+  offset: 0, 0
+  index: -1
+portrait_target
+  rotate: false
+  xy: 1176, 458
+  size: 700, 83
+  orig: 1920, 246
+  offset: 1215, 0
+  index: -1
+Ranger
+  rotate: false
+  xy: 1923, 1389
+  size: 46, 72
+  orig: 46, 72
+  offset: 0, 0
+  index: -1
+Scholar
+  rotate: false
+  xy: 1991, 618
+  size: 46, 76
+  orig: 46, 76
+  offset: 0, 0
+  index: -1
+scoreboard_panel
+  rotate: false
+  xy: 1, 1
+  size: 1173, 745
+  orig: 1173, 745
+  offset: 0, 0
+  index: -1
+scoreboard_row
+  rotate: false
+  xy: 1, 2012
+  size: 1403, 32
+  orig: 1403, 32
+  offset: 0, 0
+  index: -1
+scrollknob
+  rotate: false
+  xy: 2033, 1
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+send_hovered
+  rotate: false
+  xy: 1923, 1513
+  size: 105, 34
+  orig: 105, 34
+  offset: 0, 0
+  index: -1
+sendframe_empty
+  rotate: false
+  xy: 1176, 334
+  size: 535, 19
+  orig: 535, 19
+  offset: 0, 0
+  index: -1
+sendframe_withprompt
+  rotate: false
+  xy: 1176, 412
+  size: 535, 19
+  orig: 535, 19
+  offset: 0, 0
+  index: -1
+social_scrollbar
+  rotate: false
+  xy: 1770, 178
+  size: 20, 278
+  orig: 20, 278
+  offset: 0, 0
+  index: -1
+sudden_death
+  rotate: false
+  xy: 1, 1570
+  size: 1767, 191
+  orig: 1767, 191
+  offset: 0, 0
+  index: -1
+tab
+  rotate: false
+  xy: 1991, 774
+  size: 36, 15
+  orig: 36, 15
+  offset: 0, 0
+  index: -1
+tab_frame
+  rotate: false
+  xy: 1547, 355
+  size: 146, 52
+  orig: 146, 52
+  offset: 0, 0
+  index: -1
+tab_frame_glow
+  rotate: false
+  xy: 1887, 146
+  size: 149, 24
+  orig: 149, 24
+  offset: 0, 0
+  index: -1
+target_ally
+  rotate: false
+  xy: 1971, 1374
+  size: 45, 58
+  orig: 45, 58
+  offset: 0, 0
+  index: -1
+target_enemy
+  rotate: false
+  xy: 1971, 1227
+  size: 45, 58
+  orig: 45, 58
+  offset: 0, 0
+  index: -1
+v3_nameplate_ally_glow
+  rotate: false
+  xy: 1923, 2006
+  size: 120, 30
+  orig: 120, 30
+  offset: 0, 0
+  index: -1
+v3_nameplate_cast_bar
+  rotate: false
+  xy: 1923, 1549
+  size: 92, 11
+  orig: 92, 11
+  offset: 0, 0
+  index: -1
+v3_nameplate_energy_bar
+  rotate: false
+  xy: 1922, 2038
+  size: 86, 4
+  orig: 86, 4
+  offset: 0, 0
+  index: -1
+v3_nameplate_mana_bar
+  rotate: false
+  xy: 1406, 2041
+  size: 86, 4
+  orig: 86, 4
+  offset: 0, 0
+  index: -1
+v3_nameplate_rage_bar
+  rotate: false
+  xy: 1494, 2041
+  size: 86, 4
+  orig: 86, 4
+  offset: 0, 0
+  index: -1
+victory_label
+  rotate: false
+  xy: 1770, 1570
+  size: 261, 130
+  orig: 261, 130
+  offset: 0, 0
+  index: -1
+Wizard
+  rotate: false
+  xy: 1991, 696
+  size: 45, 76
+  orig: 45, 76
+  offset: 0, 0
+  index: -1
+x_button_default
+  rotate: false
+  xy: 2018, 1048
+  size: 27, 29
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+x_button_hovered
+  rotate: false
+  xy: 2018, 1016
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+x_default
+  rotate: false
+  xy: 2017, 1549
+  size: 21, 19
+  orig: 26, 26
+  offset: 3, 3
+  index: -1
+x_grayed
+  rotate: false
+  xy: 2020, 1338
+  size: 21, 19
+  orig: 26, 26
+  offset: 3, 3
+  index: -1
+x_hovered
+  rotate: false
+  xy: 2009, 1434
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+
+play_ui_core-v21-1.png
+size: 2048, 512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Assassin_square
+  rotate: false
+  xy: 1521, 294
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+bottom_resource_grayed
+  rotate: false
+  xy: 1832, 393
+  size: 171, 18
+  orig: 171, 18
+  offset: 0, 0
+  index: -1
+Champion_square
+  rotate: false
+  xy: 1906, 287
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+defeat_label
+  rotate: false
+  xy: 1316, 84
+  size: 233, 130
+  orig: 261, 130
+  offset: 14, 0
+  index: -1
+Elder_square
+  rotate: false
+  xy: 1931, 287
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+exp_bar_filled
+  rotate: false
+  xy: 1495, 338
+  size: 341, 21
+  orig: 341, 21
+  offset: 0, 0
+  index: -1
+exp_bar_unfilled
+  rotate: false
+  xy: 1461, 362
+  size: 341, 21
+  orig: 341, 21
+  offset: 0, 0
+  index: -1
+friend_icon_unhovered
+  rotate: false
+  xy: 1354, 216
+  size: 54, 39
+  orig: 54, 39
+  offset: 0, 0
+  index: -1
+friendly_reticle
+  rotate: false
+  xy: 1663, 1
+  size: 236, 197
+  orig: 236, 197
+  offset: 0, 0
+  index: -1
+Lich_square
+  rotate: false
+  xy: 1981, 274
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+modern_health_elder_full
+  rotate: false
+  xy: 1901, 110
+  size: 143, 35
+  orig: 143, 35
+  offset: 0, 0
+  index: -1
+modern_health_lich_full
+  rotate: false
+  xy: 1901, 147
+  size: 143, 35
+  orig: 143, 35
+  offset: 0, 0
+  index: -1
+modern_health_mystic_full
+  rotate: false
+  xy: 1404, 257
+  size: 143, 35
+  orig: 143, 35
+  offset: 0, 0
+  index: -1
+modern_health_nihilist_full
+  rotate: false
+  xy: 1316, 297
+  size: 143, 35
+  orig: 143, 35
+  offset: 0, 0
+  index: -1
+modern_health_paladin_full
+  rotate: false
+  xy: 1316, 334
+  size: 143, 35
+  orig: 143, 35
+  offset: 0, 0
+  index: -1
+modern_health_ranger_full
+  rotate: false
+  xy: 1866, 319
+  size: 143, 35
+  orig: 143, 35
+  offset: 0, 0
+  index: -1
+modern_health_scholar_full
+  rotate: false
+  xy: 1838, 356
+  size: 143, 35
+  orig: 143, 35
+  offset: 0, 0
+  index: -1
+modern_health_wizard_full
+  rotate: false
+  xy: 1316, 371
+  size: 143, 35
+  orig: 143, 35
+  offset: 0, 0
+  index: -1
+modern_resource_background
+  rotate: false
+  xy: 1832, 413
+  size: 143, 18
+  orig: 143, 18
+  offset: 0, 0
+  index: -1
+modern_resource_energy_full
+  rotate: false
+  xy: 1171, 388
+  size: 143, 18
+  orig: 143, 18
+  offset: 0, 0
+  index: -1
+modern_resource_mana_full
+  rotate: false
+  xy: 1171, 426
+  size: 143, 18
+  orig: 143, 18
+  offset: 0, 0
+  index: -1
+modern_resource_rage_full
+  rotate: false
+  xy: 1171, 446
+  size: 143, 18
+  orig: 143, 18
+  offset: 0, 0
+  index: -1
+my_energy_vial
+  rotate: false
+  xy: 1326, 423
+  size: 339, 15
+  orig: 339, 15
+  offset: 0, 0
+  index: -1
+my_health_vial
+  rotate: false
+  xy: 1667, 433
+  size: 339, 15
+  orig: 339, 15
+  offset: 0, 0
+  index: -1
+my_mana_vial
+  rotate: false
+  xy: 1316, 440
+  size: 339, 15
+  orig: 339, 15
+  offset: 0, 0
+  index: -1
+my_mana_vial_v2
+  rotate: false
+  xy: 1495, 319
+  size: 369, 17
+  orig: 369, 17
+  offset: 0, 0
+  index: -1
+my_rage_bar_v2
+  rotate: false
+  xy: 1461, 385
+  size: 369, 17
+  orig: 369, 17
+  offset: 0, 0
+  index: -1
+my_rage_vial
+  rotate: false
+  xy: 1657, 450
+  size: 339, 15
+  orig: 339, 15
+  offset: 0, 0
+  index: -1
+my_rage_vial_v2
+  rotate: false
+  xy: 1461, 404
+  size: 369, 17
+  orig: 369, 17
+  offset: 0, 0
+  index: -1
+Mystic_Icon
+  rotate: false
+  xy: 1957, 196
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+Mystic_square
+  rotate: false
+  xy: 1982, 196
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+nameplate_enemy_backdrop
+  rotate: false
+  xy: 1551, 84
+  size: 102, 48
+  orig: 102, 48
+  offset: 0, 0
+  index: -1
+nameplate_enemy_right_curl
+  rotate: false
+  xy: 1901, 1
+  size: 33, 65
+  orig: 33, 65
+  offset: 0, 0
+  index: -1
+Nihilist_Icon
+  rotate: false
+  xy: 1957, 222
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+Nihilist_square
+  rotate: false
+  xy: 1982, 221
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+orange_star
+  rotate: false
+  xy: 1495, 294
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+Paladin_Icon
+  rotate: false
+  xy: 1957, 248
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+Paladin_square
+  rotate: false
+  xy: 1982, 246
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+play_nameplate
+  rotate: false
+  xy: 1316, 1
+  size: 345, 81
+  orig: 345, 81
+  offset: 0, 0
+  index: -1
+portrait_energy_background
+  rotate: false
+  xy: 1171, 408
+  size: 153, 16
+  orig: 153, 16
+  offset: 0, 0
+  index: -1
+portrait_energy_full
+  rotate: false
+  xy: 1, 456
+  size: 150, 12
+  orig: 150, 12
+  offset: 0, 0
+  index: -1
+portrait_health_background
+  rotate: false
+  xy: 1316, 457
+  size: 153, 16
+  orig: 153, 16
+  offset: 0, 0
+  index: -1
+portrait_health_full
+  rotate: false
+  xy: 153, 456
+  size: 148, 12
+  orig: 148, 12
+  offset: 0, 0
+  index: -1
+portrait_mana_background
+  rotate: false
+  xy: 1471, 457
+  size: 153, 16
+  orig: 153, 16
+  offset: 0, 0
+  index: -1
+portrait_mana_full
+  rotate: false
+  xy: 1781, 481
+  size: 150, 14
+  orig: 150, 14
+  offset: 0, 0
+  index: -1
+portrait_rage_background
+  rotate: false
+  xy: 1626, 467
+  size: 153, 16
+  orig: 153, 16
+  offset: 0, 0
+  index: -1
+portrait_rage_full
+  rotate: false
+  xy: 1781, 467
+  size: 152, 12
+  orig: 155, 12
+  offset: 1, 0
+  index: -1
+Ranger_Icon
+  rotate: false
+  xy: 1906, 261
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+Ranger_square
+  rotate: false
+  xy: 2006, 271
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Scholar_Icon
+  rotate: false
+  xy: 1931, 261
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+Scholar_square
+  rotate: false
+  xy: 2007, 184
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+scoreboard_row_ally
+  rotate: false
+  xy: 1, 388
+  size: 1168, 32
+  orig: 1168, 32
+  offset: 0, 0
+  index: -1
+scoreboard_row_enemy
+  rotate: false
+  xy: 1, 422
+  size: 1168, 32
+  orig: 1168, 32
+  offset: 0, 0
+  index: -1
+send_default
+  rotate: false
+  xy: 1551, 134
+  size: 101, 30
+  orig: 105, 34
+  offset: 2, 2
+  index: -1
+send_grayed
+  rotate: false
+  xy: 1551, 166
+  size: 101, 30
+  orig: 105, 34
+  offset: 2, 2
+  index: -1
+send_private_message
+  rotate: false
+  xy: 1354, 257
+  size: 48, 38
+  orig: 48, 48
+  offset: 0, 2
+  index: -1
+social_backdrop
+  rotate: false
+  xy: 1549, 261
+  size: 355, 27
+  orig: 355, 27
+  offset: 0, 0
+  index: -1
+social_backdrop_hovered
+  rotate: false
+  xy: 1549, 290
+  size: 355, 27
+  orig: 355, 27
+  offset: 0, 0
+  index: -1
+top_bar_ally_globe
+  rotate: false
+  xy: 1316, 263
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+top_bar_empty_globe
+  rotate: false
+  xy: 1461, 294
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+top_bar_enemy_globe
+  rotate: false
+  xy: 1461, 328
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+top_bar_panel
+  rotate: false
+  xy: 1551, 200
+  size: 404, 59
+  orig: 404, 59
+  offset: 0, 0
+  index: -1
+top_bar_skull
+  rotate: false
+  xy: 1316, 216
+  size: 36, 45
+  orig: 36, 45
+  offset: 0, 0
+  index: -1
+top_bar_streakbox
+  rotate: false
+  xy: 1901, 68
+  size: 56, 40
+  orig: 56, 40
+  offset: 0, 0
+  index: -1
+v3_nameplate_cc_bar
+  rotate: false
+  xy: 1936, 54
+  size: 92, 10
+  orig: 92, 10
+  offset: 0, 0
+  index: -1
+v3_nameplate_cc_bar_background
+  rotate: false
+  xy: 1901, 184
+  size: 92, 10
+  orig: 92, 10
+  offset: 0, 0
+  index: -1
+v3_nameplate_enemy_glow
+  rotate: false
+  xy: 1410, 216
+  size: 120, 30
+  orig: 120, 30
+  offset: 0, 0
+  index: -1
+v3_nameplate_enemy_health_bar
+  rotate: false
+  xy: 1959, 66
+  size: 86, 12
+  orig: 86, 12
+  offset: 0, 0
+  index: -1
+v3_nameplate_frame_casting
+  rotate: false
+  xy: 1936, 1
+  size: 90, 27
+  orig: 90, 27
+  offset: 0, 0
+  index: -1
+v3_nameplate_frame_default
+  rotate: false
+  xy: 1936, 30
+  size: 90, 22
+  orig: 90, 27
+  offset: 0, 5
+  index: -1
+v3_nameplate_health_bar
+  rotate: false
+  xy: 1959, 80
+  size: 86, 12
+  orig: 86, 12
+  offset: 0, 0
+  index: -1
+waiting_for_players
+  rotate: false
+  xy: 1, 1
+  size: 1313, 385
+  orig: 1313, 385
+  offset: 0, 0
+  index: -1
+Wizard_Icon
+  rotate: false
+  xy: 1956, 274
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+Wizard_square
+  rotate: false
+  xy: 2007, 209
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1

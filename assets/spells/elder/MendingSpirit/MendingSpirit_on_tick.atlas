@@ -1,0 +1,278 @@
+MendingSpirit_on_tick_0.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MendingSpirit_on_tick
+  rotate: false
+  xy: 428, 1399
+  size: 216, 337
+  orig: 400, 400
+  offset: 88, 9
+  index: 0
+MendingSpirit_on_tick
+  rotate: false
+  xy: 218, 1404
+  size: 208, 340
+  orig: 400, 400
+  offset: 99, 9
+  index: 1
+MendingSpirit_on_tick
+  rotate: false
+  xy: 646, 1378
+  size: 212, 328
+  orig: 400, 400
+  offset: 98, 9
+  index: 2
+MendingSpirit_on_tick
+  rotate: false
+  xy: 1, 1404
+  size: 215, 341
+  orig: 400, 400
+  offset: 98, 9
+  index: 3
+MendingSpirit_on_tick
+  rotate: false
+  xy: 209, 713
+  size: 216, 343
+  orig: 400, 400
+  offset: 98, 9
+  index: 4
+MendingSpirit_on_tick
+  rotate: false
+  xy: 1, 1059
+  size: 217, 343
+  orig: 400, 400
+  offset: 97, 9
+  index: 5
+MendingSpirit_on_tick
+  rotate: false
+  xy: 855, 966
+  size: 215, 316
+  orig: 400, 400
+  offset: 96, 9
+  index: 6
+MendingSpirit_on_tick
+  rotate: false
+  xy: 416, 1746
+  size: 204, 287
+  orig: 400, 400
+  offset: 95, 10
+  index: 7
+MendingSpirit_on_tick
+  rotate: false
+  xy: 210, 1747
+  size: 204, 297
+  orig: 400, 400
+  offset: 95, 10
+  index: 8
+MendingSpirit_on_tick
+  rotate: false
+  xy: 1265, 637
+  size: 204, 312
+  orig: 400, 400
+  offset: 95, 7
+  index: 9
+MendingSpirit_on_tick
+  rotate: false
+  xy: 637, 331
+  size: 205, 322
+  orig: 400, 400
+  offset: 94, 1
+  index: 10
+MendingSpirit_on_tick
+  rotate: false
+  xy: 654, 1
+  size: 205, 322
+  orig: 400, 400
+  offset: 94, 1
+  index: 11
+MendingSpirit_on_tick
+  rotate: false
+  xy: 1072, 964
+  size: 205, 312
+  orig: 400, 400
+  offset: 94, 1
+  index: 12
+MendingSpirit_on_tick
+  rotate: false
+  xy: 1070, 1
+  size: 205, 315
+  orig: 400, 400
+  offset: 93, 2
+  index: 13
+MendingSpirit_on_tick
+  rotate: false
+  xy: 844, 647
+  size: 205, 317
+  orig: 400, 400
+  offset: 93, 2
+  index: 14
+MendingSpirit_on_tick
+  rotate: false
+  xy: 431, 345
+  size: 204, 329
+  orig: 400, 400
+  offset: 93, 3
+  index: 15
+MendingSpirit_on_tick
+  rotate: false
+  xy: 225, 358
+  size: 204, 343
+  orig: 400, 400
+  offset: 93, 3
+  index: 16
+MendingSpirit_on_tick
+  rotate: false
+  xy: 226, 1
+  size: 204, 342
+  orig: 400, 400
+  offset: 93, 4
+  index: 17
+MendingSpirit_on_tick
+  rotate: false
+  xy: 1, 713
+  size: 206, 344
+  orig: 400, 400
+  offset: 92, 5
+  index: 18
+MendingSpirit_on_tick
+  rotate: false
+  xy: 844, 325
+  size: 206, 320
+  orig: 400, 400
+  offset: 92, 4
+  index: 19
+MendingSpirit_on_tick
+  rotate: false
+  xy: 1066, 1284
+  size: 207, 313
+  orig: 400, 400
+  offset: 91, 5
+  index: 20
+MendingSpirit_on_tick
+  rotate: false
+  xy: 861, 1
+  size: 207, 317
+  orig: 400, 400
+  offset: 91, 6
+  index: 21
+MendingSpirit_on_tick
+  rotate: false
+  xy: 1, 1747
+  size: 207, 300
+  orig: 400, 400
+  offset: 91, 6
+  index: 22
+MendingSpirit_on_tick
+  rotate: false
+  xy: 1266, 318
+  size: 205, 311
+  orig: 400, 400
+  offset: 93, 7
+  index: 23
+MendingSpirit_on_tick
+  rotate: false
+  xy: 860, 1284
+  size: 204, 315
+  orig: 400, 400
+  offset: 94, 8
+  index: 24
+MendingSpirit_on_tick
+  rotate: false
+  xy: 622, 1738
+  size: 204, 307
+  orig: 400, 400
+  offset: 93, 9
+  index: 25
+MendingSpirit_on_tick
+  rotate: false
+  xy: 649, 978
+  size: 204, 321
+  orig: 400, 400
+  offset: 93, 8
+  index: 26
+MendingSpirit_on_tick
+  rotate: false
+  xy: 637, 655
+  size: 205, 321
+  orig: 400, 400
+  offset: 92, 8
+  index: 27
+MendingSpirit_on_tick
+  rotate: false
+  xy: 440, 1042
+  size: 207, 334
+  orig: 400, 400
+  offset: 92, 8
+  index: 28
+MendingSpirit_on_tick
+  rotate: false
+  xy: 427, 703
+  size: 208, 337
+  orig: 400, 400
+  offset: 91, 8
+  index: 29
+MendingSpirit_on_tick
+  rotate: false
+  xy: 1046, 1601
+  size: 209, 313
+  orig: 400, 400
+  offset: 91, 8
+  index: 30
+MendingSpirit_on_tick
+  rotate: false
+  xy: 1277, 1
+  size: 210, 302
+  orig: 400, 400
+  offset: 90, 8
+  index: 31
+MendingSpirit_on_tick
+  rotate: false
+  xy: 1051, 647
+  size: 212, 315
+  orig: 400, 400
+  offset: 90, 8
+  index: 32
+MendingSpirit_on_tick
+  rotate: false
+  xy: 1052, 320
+  size: 212, 315
+  orig: 400, 400
+  offset: 90, 8
+  index: 33
+MendingSpirit_on_tick
+  rotate: false
+  xy: 828, 1708
+  size: 216, 327
+  orig: 400, 400
+  offset: 89, 8
+  index: 34
+MendingSpirit_on_tick
+  rotate: false
+  xy: 220, 1058
+  size: 218, 339
+  orig: 400, 400
+  offset: 89, 8
+  index: 35
+MendingSpirit_on_tick
+  rotate: false
+  xy: 1, 358
+  size: 222, 353
+  orig: 400, 400
+  offset: 88, 8
+  index: 36
+MendingSpirit_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 223, 355
+  orig: 400, 400
+  offset: 88, 8
+  index: 37
+MendingSpirit_on_tick
+  rotate: false
+  xy: 432, 1
+  size: 220, 328
+  orig: 400, 400
+  offset: 88, 8
+  index: 38

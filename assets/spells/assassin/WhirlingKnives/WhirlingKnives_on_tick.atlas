@@ -1,0 +1,208 @@
+WhirlingKnives_on_tick_0.png
+size: 1024, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+WhirlingKnives_on_tick
+  rotate: false
+  xy: 881, 387
+  size: 100, 85
+  orig: 300, 300
+  offset: 110, 62
+  index: 0
+WhirlingKnives_on_tick
+  rotate: true
+  xy: 881, 474
+  size: 155, 97
+  orig: 300, 300
+  offset: 52, 54
+  index: 1
+WhirlingKnives_on_tick
+  rotate: true
+  xy: 849, 631
+  size: 178, 145
+  orig: 300, 300
+  offset: 43, 50
+  index: 2
+WhirlingKnives_on_tick
+  rotate: false
+  xy: 218, 1407
+  size: 188, 176
+  orig: 300, 300
+  offset: 33, 47
+  index: 3
+WhirlingKnives_on_tick
+  rotate: false
+  xy: 1, 1369
+  size: 215, 185
+  orig: 300, 300
+  offset: 29, 45
+  index: 4
+WhirlingKnives_on_tick
+  rotate: false
+  xy: 1, 973
+  size: 257, 190
+  orig: 300, 300
+  offset: 22, 43
+  index: 5
+WhirlingKnives_on_tick
+  rotate: true
+  xy: 829, 811
+  size: 266, 193
+  orig: 300, 300
+  offset: 21, 42
+  index: 6
+WhirlingKnives_on_tick
+  rotate: false
+  xy: 559, 743
+  size: 268, 233
+  orig: 300, 300
+  offset: 21, 39
+  index: 7
+WhirlingKnives_on_tick
+  rotate: false
+  xy: 1, 738
+  size: 270, 233
+  orig: 300, 300
+  offset: 19, 39
+  index: 8
+WhirlingKnives_on_tick
+  rotate: false
+  xy: 284, 728
+  size: 273, 223
+  orig: 300, 300
+  offset: 16, 39
+  index: 9
+WhirlingKnives_on_tick
+  rotate: false
+  xy: 574, 501
+  size: 273, 240
+  orig: 300, 300
+  offset: 16, 35
+  index: 10
+WhirlingKnives_on_tick
+  rotate: false
+  xy: 1, 495
+  size: 281, 241
+  orig: 300, 300
+  offset: 15, 39
+  index: 11
+WhirlingKnives_on_tick
+  rotate: false
+  xy: 602, 1
+  size: 293, 245
+  orig: 300, 300
+  offset: 4, 35
+  index: 12
+WhirlingKnives_on_tick
+  rotate: false
+  xy: 303, 1
+  size: 297, 239
+  orig: 300, 300
+  offset: 0, 41
+  index: 13
+WhirlingKnives_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 300, 240
+  orig: 300, 300
+  offset: 0, 39
+  index: 14
+WhirlingKnives_on_tick
+  rotate: false
+  xy: 303, 242
+  size: 291, 245
+  orig: 300, 300
+  offset: 0, 39
+  index: 15
+WhirlingKnives_on_tick
+  rotate: false
+  xy: 1, 243
+  size: 286, 250
+  orig: 300, 300
+  offset: 6, 39
+  index: 16
+WhirlingKnives_on_tick
+  rotate: false
+  xy: 596, 248
+  size: 283, 251
+  orig: 300, 300
+  offset: 2, 39
+  index: 17
+WhirlingKnives_on_tick
+  rotate: false
+  xy: 289, 489
+  size: 283, 237
+  orig: 300, 300
+  offset: 2, 53
+  index: 18
+WhirlingKnives_on_tick
+  rotate: false
+  xy: 1, 1165
+  size: 256, 202
+  orig: 300, 300
+  offset: 23, 52
+  index: 19
+WhirlingKnives_on_tick
+  rotate: false
+  xy: 259, 1203
+  size: 238, 202
+  orig: 300, 300
+  offset: 33, 52
+  index: 20
+WhirlingKnives_on_tick
+  rotate: false
+  xy: 532, 978
+  size: 255, 248
+  orig: 300, 300
+  offset: 15, 52
+  index: 21
+WhirlingKnives_on_tick
+  rotate: false
+  xy: 273, 953
+  size: 257, 248
+  orig: 300, 300
+  offset: 13, 52
+  index: 22
+WhirlingKnives_on_tick
+  rotate: false
+  xy: 789, 1079
+  size: 231, 188
+  orig: 300, 300
+  offset: 39, 53
+  index: 23
+WhirlingKnives_on_tick
+  rotate: true
+  xy: 499, 1228
+  size: 187, 188
+  orig: 300, 300
+  offset: 39, 53
+  index: 24
+WhirlingKnives_on_tick
+  rotate: false
+  xy: 897, 1
+  size: 105, 188
+  orig: 300, 300
+  offset: 40, 53
+  index: 25
+WhirlingKnives_on_tick
+  rotate: false
+  xy: 897, 191
+  size: 102, 139
+  orig: 300, 300
+  offset: 40, 101
+  index: 26
+WhirlingKnives_on_tick
+  rotate: false
+  xy: 881, 332
+  size: 101, 53
+  orig: 300, 300
+  offset: 41, 187
+  index: 27
+WhirlingKnives_on_tick
+  rotate: true
+  xy: 289, 243
+  size: 5, 6
+  orig: 300, 300
+  offset: 136, 233
+  index: 28

@@ -1,0 +1,173 @@
+MarkOfDeath_on_tick-0.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MarkOfDeath_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: 0
+MarkOfDeath_on_tick
+  rotate: false
+  xy: 1, 353
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: 1
+MarkOfDeath_on_tick
+  rotate: false
+  xy: 1, 705
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: 2
+MarkOfDeath_on_tick
+  rotate: false
+  xy: 1, 705
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: 3
+MarkOfDeath_on_tick
+  rotate: false
+  xy: 1, 1057
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: 4
+MarkOfDeath_on_tick
+  rotate: false
+  xy: 1, 1409
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: 5
+MarkOfDeath_on_tick
+  rotate: false
+  xy: 353, 1
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: 6
+MarkOfDeath_on_tick
+  rotate: false
+  xy: 705, 1
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: 7
+MarkOfDeath_on_tick
+  rotate: false
+  xy: 1057, 1
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: 8
+MarkOfDeath_on_tick
+  rotate: false
+  xy: 1057, 1
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: 9
+MarkOfDeath_on_tick
+  rotate: false
+  xy: 1409, 1
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: 10
+MarkOfDeath_on_tick
+  rotate: false
+  xy: 353, 353
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: 11
+MarkOfDeath_on_tick
+  rotate: false
+  xy: 353, 705
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: 12
+MarkOfDeath_on_tick
+  rotate: false
+  xy: 353, 1057
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: 13
+MarkOfDeath_on_tick
+  rotate: false
+  xy: 353, 1409
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: 14
+MarkOfDeath_on_tick
+  rotate: false
+  xy: 353, 1409
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: 15
+MarkOfDeath_on_tick
+  rotate: false
+  xy: 705, 353
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: 16
+MarkOfDeath_on_tick
+  rotate: false
+  xy: 1057, 353
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: 17
+MarkOfDeath_on_tick
+  rotate: false
+  xy: 1409, 353
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: 18
+MarkOfDeath_on_tick
+  rotate: false
+  xy: 705, 705
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: 19
+MarkOfDeath_on_tick
+  rotate: false
+  xy: 705, 1057
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: 20
+MarkOfDeath_on_tick
+  rotate: false
+  xy: 705, 1057
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: 21
+MarkOfDeath_on_tick
+  rotate: false
+  xy: 705, 1409
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: 22
+MarkOfDeath_on_tick
+  rotate: false
+  xy: 1057, 705
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: 23

@@ -1,0 +1,145 @@
+Basic-0.png
+size: 512, 128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Basic
+  rotate: false
+  xy: 1, 1
+  size: 150, 60
+  orig: 150, 60
+  offset: 0, 0
+  index: 0
+Basic
+  rotate: false
+  xy: 1, 1
+  size: 150, 60
+  orig: 150, 60
+  offset: 0, 0
+  index: 1
+Basic
+  rotate: false
+  xy: 1, 63
+  size: 150, 60
+  orig: 150, 60
+  offset: 0, 0
+  index: 2
+Basic
+  rotate: false
+  xy: 1, 63
+  size: 150, 60
+  orig: 150, 60
+  offset: 0, 0
+  index: 3
+Basic
+  rotate: false
+  xy: 153, 1
+  size: 150, 60
+  orig: 150, 60
+  offset: 0, 0
+  index: 4
+Basic
+  rotate: false
+  xy: 153, 1
+  size: 150, 60
+  orig: 150, 60
+  offset: 0, 0
+  index: 5
+Basic
+  rotate: false
+  xy: 1, 63
+  size: 150, 60
+  orig: 150, 60
+  offset: 0, 0
+  index: 6
+Basic
+  rotate: false
+  xy: 1, 63
+  size: 150, 60
+  orig: 150, 60
+  offset: 0, 0
+  index: 7
+Basic
+  rotate: false
+  xy: 153, 1
+  size: 150, 60
+  orig: 150, 60
+  offset: 0, 0
+  index: 8
+Basic
+  rotate: false
+  xy: 153, 1
+  size: 150, 60
+  orig: 150, 60
+  offset: 0, 0
+  index: 9
+Basic
+  rotate: false
+  xy: 153, 63
+  size: 150, 60
+  orig: 150, 60
+  offset: 0, 0
+  index: 10
+Basic
+  rotate: false
+  xy: 153, 63
+  size: 150, 60
+  orig: 150, 60
+  offset: 0, 0
+  index: 11
+Basic
+  rotate: false
+  xy: 305, 1
+  size: 150, 60
+  orig: 150, 60
+  offset: 0, 0
+  index: 12
+Basic
+  rotate: false
+  xy: 305, 1
+  size: 150, 60
+  orig: 150, 60
+  offset: 0, 0
+  index: 13
+Basic
+  rotate: false
+  xy: 305, 63
+  size: 150, 60
+  orig: 150, 60
+  offset: 0, 0
+  index: 14
+Basic
+  rotate: false
+  xy: 305, 63
+  size: 150, 60
+  orig: 150, 60
+  offset: 0, 0
+  index: 15
+Basic
+  rotate: false
+  xy: 153, 63
+  size: 150, 60
+  orig: 150, 60
+  offset: 0, 0
+  index: 16
+Basic
+  rotate: false
+  xy: 153, 63
+  size: 150, 60
+  orig: 150, 60
+  offset: 0, 0
+  index: 17
+Basic
+  rotate: false
+  xy: 1, 63
+  size: 150, 60
+  orig: 150, 60
+  offset: 0, 0
+  index: 18
+Basic
+  rotate: false
+  xy: 1, 63
+  size: 150, 60
+  orig: 150, 60
+  offset: 0, 0
+  index: 19

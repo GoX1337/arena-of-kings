@@ -1,0 +1,264 @@
+ClassIcons-v4-0.png
+size: 512, 512
+format: RGBA8888
+filter: MipMapLinearNearest,Linear
+repeat: none
+Adept
+  rotate: false
+  xy: 1, 65
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Assassin
+  rotate: false
+  xy: 79, 331
+  size: 76, 75
+  orig: 76, 75
+  offset: 0, 0
+  index: -1
+assassin_label
+  rotate: false
+  xy: 306, 1
+  size: 131, 30
+  orig: 131, 30
+  offset: 0, 0
+  index: -1
+Challenger
+  rotate: false
+  xy: 1, 143
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Champion
+  rotate: false
+  xy: 101, 408
+  size: 76, 75
+  orig: 76, 75
+  offset: 0, 0
+  index: -1
+champion_label
+  rotate: false
+  xy: 1, 1
+  size: 164, 30
+  orig: 164, 30
+  offset: 0, 0
+  index: -1
+Conqueror
+  rotate: false
+  xy: 1, 221
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Elder
+  rotate: false
+  xy: 157, 253
+  size: 76, 75
+  orig: 76, 75
+  offset: 0, 0
+  index: -1
+elder_label
+  rotate: false
+  xy: 216, 65
+  size: 88, 30
+  orig: 88, 30
+  offset: 0, 0
+  index: -1
+Emperor
+  rotate: false
+  xy: 1, 299
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Eternal
+  rotate: false
+  xy: 1, 377
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Hero
+  rotate: false
+  xy: 306, 65
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Immortal
+  rotate: false
+  xy: 384, 65
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Journeyman
+  rotate: false
+  xy: 101, 97
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+King
+  rotate: false
+  xy: 179, 97
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Lich
+  rotate: false
+  xy: 157, 330
+  size: 76, 75
+  orig: 76, 75
+  offset: 0, 0
+  index: -1
+lich_label
+  rotate: false
+  xy: 439, 1
+  size: 66, 30
+  orig: 66, 30
+  offset: 0, 0
+  index: -1
+Liege
+  rotate: false
+  xy: 257, 143
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Mystic
+  rotate: false
+  xy: 179, 407
+  size: 76, 75
+  orig: 76, 75
+  offset: 0, 0
+  index: -1
+mystic_label
+  rotate: false
+  xy: 101, 65
+  size: 113, 30
+  orig: 113, 30
+  offset: 0, 0
+  index: -1
+Nihilist
+  rotate: false
+  xy: 235, 253
+  size: 76, 75
+  orig: 76, 75
+  offset: 0, 0
+  index: -1
+nihilist_label
+  rotate: false
+  xy: 250, 33
+  size: 121, 30
+  orig: 121, 30
+  offset: 0, 0
+  index: -1
+Paladin
+  rotate: false
+  xy: 235, 330
+  size: 76, 75
+  orig: 76, 75
+  offset: 0, 0
+  index: -1
+paladin_label
+  rotate: false
+  xy: 1, 33
+  size: 123, 30
+  orig: 123, 30
+  offset: 0, 0
+  index: -1
+Ranger
+  rotate: false
+  xy: 257, 407
+  size: 76, 75
+  orig: 76, 75
+  offset: 0, 0
+  index: -1
+ranger_label
+  rotate: false
+  xy: 373, 33
+  size: 119, 30
+  orig: 119, 30
+  offset: 0, 0
+  index: -1
+Scholar
+  rotate: false
+  xy: 335, 221
+  size: 76, 75
+  orig: 76, 75
+  offset: 0, 0
+  index: -1
+scholar_label
+  rotate: false
+  xy: 167, 1
+  size: 137, 30
+  orig: 137, 30
+  offset: 0, 0
+  index: -1
+SilverCoin
+  rotate: false
+  xy: 1, 455
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Sorcerer
+  rotate: false
+  xy: 101, 175
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Transcendent
+  rotate: false
+  xy: 179, 175
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+VillainCoin
+  rotate: false
+  xy: 51, 455
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Wanderer
+  rotate: false
+  xy: 335, 143
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Warlock
+  rotate: false
+  xy: 413, 143
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Warlord
+  rotate: false
+  xy: 79, 253
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+Wizard
+  rotate: false
+  xy: 413, 221
+  size: 76, 75
+  orig: 76, 75
+  offset: 0, 0
+  index: -1
+wizard_label
+  rotate: false
+  xy: 126, 33
+  size: 122, 30
+  orig: 122, 30
+  offset: 0, 0
+  index: -1

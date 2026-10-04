@@ -1,0 +1,82 @@
+DisruptingBlade_on_tick_0.png
+size: 512, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DisruptingBlade_on_tick
+  rotate: true
+  xy: 394, 406
+  size: 103, 104
+  orig: 210, 210
+  offset: 104, 102
+  index: 0
+DisruptingBlade_on_tick
+  rotate: true
+  xy: 394, 406
+  size: 103, 104
+  orig: 210, 210
+  offset: 104, 102
+  index: 1
+DisruptingBlade_on_tick
+  rotate: true
+  xy: 1, 1
+  size: 203, 204
+  orig: 210, 210
+  offset: 4, 1
+  index: 2
+DisruptingBlade_on_tick
+  rotate: false
+  xy: 207, 1
+  size: 202, 202
+  orig: 210, 210
+  offset: 3, 0
+  index: 3
+DisruptingBlade_on_tick
+  rotate: false
+  xy: 207, 205
+  size: 200, 199
+  orig: 210, 210
+  offset: 1, 0
+  index: 4
+DisruptingBlade_on_tick
+  rotate: false
+  xy: 1, 206
+  size: 199, 196
+  orig: 210, 210
+  offset: 0, 0
+  index: 5
+DisruptingBlade_on_tick
+  rotate: false
+  xy: 1, 404
+  size: 196, 193
+  orig: 210, 210
+  offset: 0, 0
+  index: 6
+DisruptingBlade_on_tick
+  rotate: false
+  xy: 199, 406
+  size: 193, 190
+  orig: 210, 210
+  offset: 0, 0
+  index: 7
+DisruptingBlade_on_tick
+  rotate: false
+  xy: 199, 598
+  size: 190, 187
+  orig: 210, 210
+  offset: 0, 0
+  index: 8
+DisruptingBlade_on_tick
+  rotate: false
+  xy: 1, 599
+  size: 187, 185
+  orig: 210, 210
+  offset: 1, 0
+  index: 9
+DisruptingBlade_on_tick
+  rotate: false
+  xy: 1, 786
+  size: 179, 179
+  orig: 210, 210
+  offset: 3, 0
+  index: 10

@@ -1,0 +1,187 @@
+TempleStrike_on_tick_0.png
+size: 1024, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TempleStrike_on_tick
+  rotate: false
+  xy: 619, 958
+  size: 86, 159
+  orig: 200, 300
+  offset: 55, 4
+  index: 0
+TempleStrike_on_tick
+  rotate: false
+  xy: 916, 944
+  size: 90, 164
+  orig: 200, 300
+  offset: 53, 1
+  index: 1
+TempleStrike_on_tick
+  rotate: false
+  xy: 916, 1110
+  size: 90, 164
+  orig: 200, 300
+  offset: 53, 1
+  index: 2
+TempleStrike_on_tick
+  rotate: true
+  xy: 453, 958
+  size: 90, 164
+  orig: 200, 300
+  offset: 53, 29
+  index: 3
+TempleStrike_on_tick
+  rotate: true
+  xy: 1, 789
+  size: 124, 208
+  orig: 200, 300
+  offset: 41, 13
+  index: 4
+TempleStrike_on_tick
+  rotate: true
+  xy: 788, 203
+  size: 143, 234
+  orig: 200, 300
+  offset: 33, 14
+  index: 5
+TempleStrike_on_tick
+  rotate: true
+  xy: 528, 1
+  size: 165, 260
+  orig: 200, 300
+  offset: 22, 14
+  index: 6
+TempleStrike_on_tick
+  rotate: true
+  xy: 265, 1
+  size: 185, 261
+  orig: 200, 300
+  offset: 13, 13
+  index: 7
+TempleStrike_on_tick
+  rotate: true
+  xy: 1, 1
+  size: 190, 262
+  orig: 200, 300
+  offset: 10, 12
+  index: 8
+TempleStrike_on_tick
+  rotate: true
+  xy: 1, 915
+  size: 195, 207
+  orig: 200, 300
+  offset: 5, 11
+  index: 9
+TempleStrike_on_tick
+  rotate: true
+  xy: 708, 944
+  size: 198, 206
+  orig: 200, 300
+  offset: 2, 11
+  index: 10
+TempleStrike_on_tick
+  rotate: true
+  xy: 242, 778
+  size: 200, 209
+  orig: 200, 300
+  offset: 0, 9
+  index: 11
+TempleStrike_on_tick
+  rotate: true
+  xy: 496, 756
+  size: 200, 210
+  orig: 200, 300
+  offset: 0, 8
+  index: 12
+TempleStrike_on_tick
+  rotate: true
+  xy: 757, 742
+  size: 200, 213
+  orig: 200, 300
+  offset: 0, 6
+  index: 13
+TempleStrike_on_tick
+  rotate: true
+  xy: 790, 1
+  size: 200, 227
+  orig: 200, 300
+  offset: 0, 3
+  index: 14
+TempleStrike_on_tick
+  rotate: true
+  xy: 1, 587
+  size: 200, 239
+  orig: 200, 300
+  offset: 0, 1
+  index: 15
+TempleStrike_on_tick
+  rotate: true
+  xy: 775, 541
+  size: 199, 247
+  orig: 200, 300
+  offset: 1, 0
+  index: 16
+TempleStrike_on_tick
+  rotate: true
+  xy: 1, 193
+  size: 197, 254
+  orig: 200, 300
+  offset: 1, 0
+  index: 17
+TempleStrike_on_tick
+  rotate: true
+  xy: 257, 386
+  size: 194, 251
+  orig: 200, 300
+  offset: 5, 1
+  index: 18
+TempleStrike_on_tick
+  rotate: true
+  xy: 265, 188
+  size: 196, 255
+  orig: 200, 300
+  offset: 4, 0
+  index: 19
+TempleStrike_on_tick
+  rotate: true
+  xy: 510, 559
+  size: 195, 245
+  orig: 200, 300
+  offset: 4, 9
+  index: 20
+TempleStrike_on_tick
+  rotate: true
+  xy: 522, 362
+  size: 195, 251
+  orig: 200, 300
+  offset: 5, 13
+  index: 21
+TempleStrike_on_tick
+  rotate: true
+  xy: 528, 168
+  size: 192, 258
+  orig: 200, 300
+  offset: 5, 12
+  index: 22
+TempleStrike_on_tick
+  rotate: true
+  xy: 249, 582
+  size: 194, 245
+  orig: 200, 300
+  offset: 5, 16
+  index: 23
+TempleStrike_on_tick
+  rotate: true
+  xy: 1, 392
+  size: 193, 246
+  orig: 200, 300
+  offset: 6, 21
+  index: 24
+TempleStrike_on_tick
+  rotate: true
+  xy: 788, 348
+  size: 191, 220
+  orig: 200, 300
+  offset: 5, 40
+  index: 25

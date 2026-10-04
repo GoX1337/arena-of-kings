@@ -1,0 +1,284 @@
+Precision_on_tick-0.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Precision_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 500, 300
+  orig: 500, 300
+  offset: 0, 0
+  index: 0
+Precision_on_tick
+  rotate: false
+  xy: 503, 1
+  size: 500, 300
+  orig: 500, 300
+  offset: 0, 0
+  index: 1
+Precision_on_tick
+  rotate: false
+  xy: 1005, 1
+  size: 500, 300
+  orig: 500, 300
+  offset: 0, 0
+  index: 2
+Precision_on_tick
+  rotate: false
+  xy: 1507, 1
+  size: 500, 300
+  orig: 500, 300
+  offset: 0, 0
+  index: 3
+Precision_on_tick
+  rotate: false
+  xy: 1, 303
+  size: 500, 300
+  orig: 500, 300
+  offset: 0, 0
+  index: 4
+Precision_on_tick
+  rotate: false
+  xy: 503, 303
+  size: 500, 300
+  orig: 500, 300
+  offset: 0, 0
+  index: 5
+Precision_on_tick
+  rotate: false
+  xy: 1005, 303
+  size: 500, 300
+  orig: 500, 300
+  offset: 0, 0
+  index: 6
+Precision_on_tick
+  rotate: false
+  xy: 1507, 303
+  size: 500, 300
+  orig: 500, 300
+  offset: 0, 0
+  index: 7
+Precision_on_tick
+  rotate: false
+  xy: 1, 605
+  size: 500, 300
+  orig: 500, 300
+  offset: 0, 0
+  index: 8
+Precision_on_tick
+  rotate: false
+  xy: 1, 907
+  size: 500, 300
+  orig: 500, 300
+  offset: 0, 0
+  index: 9
+Precision_on_tick
+  rotate: false
+  xy: 1, 1209
+  size: 500, 300
+  orig: 500, 300
+  offset: 0, 0
+  index: 10
+Precision_on_tick
+  rotate: false
+  xy: 1, 1511
+  size: 500, 300
+  orig: 500, 300
+  offset: 0, 0
+  index: 11
+Precision_on_tick
+  rotate: false
+  xy: 503, 605
+  size: 500, 300
+  orig: 500, 300
+  offset: 0, 0
+  index: 12
+Precision_on_tick
+  rotate: false
+  xy: 1005, 605
+  size: 500, 300
+  orig: 500, 300
+  offset: 0, 0
+  index: 13
+Precision_on_tick
+  rotate: false
+  xy: 1507, 605
+  size: 500, 300
+  orig: 500, 300
+  offset: 0, 0
+  index: 14
+Precision_on_tick
+  rotate: false
+  xy: 503, 907
+  size: 500, 300
+  orig: 500, 300
+  offset: 0, 0
+  index: 15
+Precision_on_tick
+  rotate: false
+  xy: 503, 1209
+  size: 500, 300
+  orig: 500, 300
+  offset: 0, 0
+  index: 16
+Precision_on_tick
+  rotate: false
+  xy: 503, 1511
+  size: 500, 300
+  orig: 500, 300
+  offset: 0, 0
+  index: 17
+Precision_on_tick
+  rotate: false
+  xy: 1005, 907
+  size: 500, 300
+  orig: 500, 300
+  offset: 0, 0
+  index: 18
+Precision_on_tick
+  rotate: false
+  xy: 1507, 907
+  size: 500, 300
+  orig: 500, 300
+  offset: 0, 0
+  index: 19
+Precision_on_tick
+  rotate: false
+  xy: 1005, 1209
+  size: 500, 300
+  orig: 500, 300
+  offset: 0, 0
+  index: 20
+Precision_on_tick
+  rotate: false
+  xy: 1507, 1209
+  size: 500, 300
+  orig: 500, 300
+  offset: 0, 0
+  index: 21
+Precision_on_tick
+  rotate: false
+  xy: 1005, 1511
+  size: 500, 300
+  orig: 500, 300
+  offset: 0, 0
+  index: 22
+Precision_on_tick
+  rotate: false
+  xy: 1507, 1511
+  size: 500, 300
+  orig: 500, 300
+  offset: 0, 0
+  index: 23
+
+Precision_on_tick-1.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Precision_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 500, 300
+  orig: 500, 300
+  offset: 0, 0
+  index: 24
+Precision_on_tick
+  rotate: false
+  xy: 503, 1
+  size: 500, 300
+  orig: 500, 300
+  offset: 0, 0
+  index: 25
+Precision_on_tick
+  rotate: false
+  xy: 1005, 1
+  size: 500, 300
+  orig: 500, 300
+  offset: 0, 0
+  index: 26
+Precision_on_tick
+  rotate: false
+  xy: 1507, 1
+  size: 500, 300
+  orig: 500, 300
+  offset: 0, 0
+  index: 27
+Precision_on_tick
+  rotate: false
+  xy: 1, 303
+  size: 500, 300
+  orig: 500, 300
+  offset: 0, 0
+  index: 28
+Precision_on_tick
+  rotate: false
+  xy: 503, 303
+  size: 500, 300
+  orig: 500, 300
+  offset: 0, 0
+  index: 29
+Precision_on_tick
+  rotate: false
+  xy: 1005, 303
+  size: 500, 300
+  orig: 500, 300
+  offset: 0, 0
+  index: 30
+Precision_on_tick
+  rotate: false
+  xy: 1507, 303
+  size: 500, 300
+  orig: 500, 300
+  offset: 0, 0
+  index: 31
+Precision_on_tick
+  rotate: false
+  xy: 1, 605
+  size: 500, 300
+  orig: 500, 300
+  offset: 0, 0
+  index: 32
+Precision_on_tick
+  rotate: false
+  xy: 1, 907
+  size: 500, 300
+  orig: 500, 300
+  offset: 0, 0
+  index: 33
+Precision_on_tick
+  rotate: false
+  xy: 1, 1209
+  size: 500, 300
+  orig: 500, 300
+  offset: 0, 0
+  index: 34
+Precision_on_tick
+  rotate: false
+  xy: 1, 1511
+  size: 500, 300
+  orig: 500, 300
+  offset: 0, 0
+  index: 35
+Precision_on_tick
+  rotate: false
+  xy: 503, 605
+  size: 500, 300
+  orig: 500, 300
+  offset: 0, 0
+  index: 36
+Precision_on_tick
+  rotate: false
+  xy: 1005, 605
+  size: 500, 300
+  orig: 500, 300
+  offset: 0, 0
+  index: 37
+Precision_on_tick
+  rotate: false
+  xy: 1507, 605
+  size: 500, 300
+  orig: 500, 300
+  offset: 0, 0
+  index: 38

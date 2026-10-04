@@ -1,0 +1,194 @@
+LifeStream_on_tick_0.png
+size: 512, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LifeStream_on_tick
+  rotate: true
+  xy: 1, 1
+  size: 115, 147
+  orig: 120, 170
+  offset: 5, 2
+  index: 0
+LifeStream_on_tick
+  rotate: true
+  xy: 1, 1
+  size: 115, 147
+  orig: 120, 170
+  offset: 5, 2
+  index: 1
+LifeStream_on_tick
+  rotate: false
+  xy: 1, 541
+  size: 117, 78
+  orig: 120, 170
+  offset: 3, 1
+  index: 2
+LifeStream_on_tick
+  rotate: false
+  xy: 122, 455
+  size: 118, 80
+  orig: 120, 170
+  offset: 2, 1
+  index: 3
+LifeStream_on_tick
+  rotate: false
+  xy: 271, 339
+  size: 119, 86
+  orig: 120, 170
+  offset: 1, 1
+  index: 4
+LifeStream_on_tick
+  rotate: false
+  xy: 392, 400
+  size: 119, 85
+  orig: 120, 170
+  offset: 1, 2
+  index: 5
+LifeStream_on_tick
+  rotate: false
+  xy: 391, 487
+  size: 118, 85
+  orig: 120, 170
+  offset: 1, 2
+  index: 6
+LifeStream_on_tick
+  rotate: false
+  xy: 391, 487
+  size: 118, 85
+  orig: 120, 170
+  offset: 1, 2
+  index: 7
+LifeStream_on_tick
+  rotate: false
+  xy: 271, 427
+  size: 118, 94
+  orig: 120, 170
+  offset: 1, 2
+  index: 8
+LifeStream_on_tick
+  rotate: false
+  xy: 122, 537
+  size: 117, 107
+  orig: 120, 170
+  offset: 1, 2
+  index: 9
+LifeStream_on_tick
+  rotate: true
+  xy: 242, 523
+  size: 115, 117
+  orig: 120, 170
+  offset: 2, 2
+  index: 10
+LifeStream_on_tick
+  rotate: true
+  xy: 143, 339
+  size: 114, 126
+  orig: 120, 170
+  offset: 3, 2
+  index: 11
+LifeStream_on_tick
+  rotate: true
+  xy: 290, 118
+  size: 115, 135
+  orig: 120, 170
+  offset: 3, 4
+  index: 12
+LifeStream_on_tick
+  rotate: true
+  xy: 150, 1
+  size: 115, 146
+  orig: 120, 170
+  offset: 3, 4
+  index: 13
+LifeStream_on_tick
+  rotate: true
+  xy: 298, 1
+  size: 115, 143
+  orig: 120, 170
+  offset: 3, 8
+  index: 14
+LifeStream_on_tick
+  rotate: true
+  xy: 146, 118
+  size: 113, 142
+  orig: 120, 170
+  offset: 4, 14
+  index: 15
+LifeStream_on_tick
+  rotate: true
+  xy: 1, 118
+  size: 111, 143
+  orig: 120, 170
+  offset: 4, 20
+  index: 16
+LifeStream_on_tick
+  rotate: true
+  xy: 1, 231
+  size: 107, 140
+  orig: 120, 170
+  offset: 5, 25
+  index: 17
+LifeStream_on_tick
+  rotate: true
+  xy: 143, 233
+  size: 104, 135
+  orig: 120, 170
+  offset: 6, 31
+  index: 18
+LifeStream_on_tick
+  rotate: true
+  xy: 143, 233
+  size: 104, 135
+  orig: 120, 170
+  offset: 6, 31
+  index: 19
+LifeStream_on_tick
+  rotate: true
+  xy: 280, 235
+  size: 102, 132
+  orig: 120, 170
+  offset: 8, 34
+  index: 20
+LifeStream_on_tick
+  rotate: true
+  xy: 1, 340
+  size: 99, 126
+  orig: 120, 170
+  offset: 11, 39
+  index: 21
+LifeStream_on_tick
+  rotate: true
+  xy: 1, 441
+  size: 98, 119
+  orig: 120, 170
+  offset: 11, 45
+  index: 22
+LifeStream_on_tick
+  rotate: false
+  xy: 414, 286
+  size: 95, 112
+  orig: 120, 170
+  offset: 13, 51
+  index: 23
+LifeStream_on_tick
+  rotate: true
+  xy: 427, 118
+  size: 83, 84
+  orig: 120, 170
+  offset: 18, 74
+  index: 24
+LifeStream_on_tick
+  rotate: false
+  xy: 427, 203
+  size: 81, 81
+  orig: 120, 170
+  offset: 20, 75
+  index: 25
+LifeStream_on_tick
+  rotate: true
+  xy: 443, 1
+  size: 33, 36
+  orig: 120, 170
+  offset: 44, 77
+  index: 26

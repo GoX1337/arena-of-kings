@@ -1,0 +1,271 @@
+HealingVision_on_tick_0.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HealingVision_on_tick
+  rotate: true
+  xy: 259, 799
+  size: 133, 130
+  orig: 200, 200
+  offset: 32, 38
+  index: 0
+HealingVision_on_tick
+  rotate: true
+  xy: 728, 650
+  size: 124, 137
+  orig: 200, 200
+  offset: 36, 29
+  index: 1
+HealingVision_on_tick
+  rotate: true
+  xy: 588, 558
+  size: 123, 138
+  orig: 200, 200
+  offset: 37, 27
+  index: 2
+HealingVision_on_tick
+  rotate: true
+  xy: 590, 433
+  size: 123, 140
+  orig: 200, 200
+  offset: 37, 25
+  index: 3
+HealingVision_on_tick
+  rotate: true
+  xy: 768, 261
+  size: 125, 143
+  orig: 200, 200
+  offset: 34, 23
+  index: 4
+HealingVision_on_tick
+  rotate: true
+  xy: 772, 131
+  size: 128, 146
+  orig: 200, 200
+  offset: 32, 22
+  index: 5
+HealingVision_on_tick
+  rotate: true
+  xy: 314, 261
+  size: 130, 147
+  orig: 200, 200
+  offset: 30, 22
+  index: 6
+HealingVision_on_tick
+  rotate: true
+  xy: 754, 388
+  size: 133, 140
+  orig: 200, 200
+  offset: 30, 31
+  index: 7
+HealingVision_on_tick
+  rotate: true
+  xy: 1, 424
+  size: 136, 143
+  orig: 200, 200
+  offset: 29, 29
+  index: 8
+HealingVision_on_tick
+  rotate: true
+  xy: 149, 408
+  size: 140, 143
+  orig: 200, 200
+  offset: 27, 29
+  index: 9
+HealingVision_on_tick
+  rotate: true
+  xy: 1, 278
+  size: 144, 146
+  orig: 200, 200
+  offset: 25, 28
+  index: 10
+HealingVision_on_tick
+  rotate: false
+  xy: 622, 1
+  size: 148, 148
+  orig: 200, 200
+  offset: 23, 26
+  index: 11
+HealingVision_on_tick
+  rotate: false
+  xy: 471, 129
+  size: 148, 142
+  orig: 200, 200
+  offset: 23, 23
+  index: 12
+HealingVision_on_tick
+  rotate: true
+  xy: 301, 393
+  size: 141, 144
+  orig: 200, 200
+  offset: 32, 22
+  index: 13
+HealingVision_on_tick
+  rotate: true
+  xy: 621, 151
+  size: 144, 145
+  orig: 200, 200
+  offset: 31, 21
+  index: 14
+HealingVision_on_tick
+  rotate: false
+  xy: 153, 262
+  size: 146, 144
+  orig: 200, 200
+  offset: 31, 21
+  index: 15
+HealingVision_on_tick
+  rotate: false
+  xy: 1, 132
+  size: 150, 144
+  orig: 200, 200
+  offset: 29, 21
+  index: 16
+HealingVision_on_tick
+  rotate: false
+  xy: 316, 1
+  size: 153, 129
+  orig: 200, 200
+  offset: 27, 36
+  index: 17
+HealingVision_on_tick
+  rotate: false
+  xy: 160, 1
+  size: 154, 128
+  orig: 200, 200
+  offset: 26, 36
+  index: 18
+HealingVision_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 157, 129
+  orig: 200, 200
+  offset: 24, 35
+  index: 19
+HealingVision_on_tick
+  rotate: false
+  xy: 610, 297
+  size: 142, 134
+  orig: 200, 200
+  offset: 23, 33
+  index: 20
+HealingVision_on_tick
+  rotate: false
+  xy: 872, 530
+  size: 137, 136
+  orig: 200, 200
+  offset: 23, 31
+  index: 21
+HealingVision_on_tick
+  rotate: true
+  xy: 732, 523
+  size: 125, 138
+  orig: 200, 200
+  offset: 35, 29
+  index: 22
+HealingVision_on_tick
+  rotate: false
+  xy: 131, 799
+  size: 126, 136
+  orig: 200, 200
+  offset: 36, 29
+  index: 23
+HealingVision_on_tick
+  rotate: true
+  xy: 867, 668
+  size: 129, 136
+  orig: 200, 200
+  offset: 34, 29
+  index: 24
+HealingVision_on_tick
+  rotate: true
+  xy: 286, 663
+  size: 133, 127
+  orig: 200, 200
+  offset: 32, 38
+  index: 25
+HealingVision_on_tick
+  rotate: false
+  xy: 146, 550
+  size: 138, 128
+  orig: 200, 200
+  offset: 30, 38
+  index: 26
+HealingVision_on_tick
+  rotate: false
+  xy: 1, 562
+  size: 138, 128
+  orig: 200, 200
+  offset: 30, 38
+  index: 27
+HealingVision_on_tick
+  rotate: true
+  xy: 896, 388
+  size: 140, 127
+  orig: 200, 200
+  offset: 29, 39
+  index: 28
+HealingVision_on_tick
+  rotate: false
+  xy: 463, 273
+  size: 145, 128
+  orig: 200, 200
+  offset: 27, 40
+  index: 29
+HealingVision_on_tick
+  rotate: false
+  xy: 314, 132
+  size: 148, 127
+  orig: 200, 200
+  offset: 26, 41
+  index: 30
+HealingVision_on_tick
+  rotate: true
+  xy: 1, 799
+  size: 136, 128
+  orig: 200, 200
+  offset: 39, 41
+  index: 31
+HealingVision_on_tick
+  rotate: false
+  xy: 447, 531
+  size: 139, 130
+  orig: 200, 200
+  offset: 39, 41
+  index: 32
+HealingVision_on_tick
+  rotate: false
+  xy: 294, 536
+  size: 139, 125
+  orig: 200, 200
+  offset: 39, 41
+  index: 33
+HealingVision_on_tick
+  rotate: false
+  xy: 447, 403
+  size: 141, 126
+  orig: 200, 200
+  offset: 38, 41
+  index: 34
+HealingVision_on_tick
+  rotate: false
+  xy: 772, 1
+  size: 146, 128
+  orig: 200, 200
+  offset: 35, 40
+  index: 35
+HealingVision_on_tick
+  rotate: false
+  xy: 471, 1
+  size: 149, 126
+  orig: 200, 200
+  offset: 34, 40
+  index: 36
+HealingVision_on_tick
+  rotate: false
+  xy: 160, 131
+  size: 152, 129
+  orig: 200, 200
+  offset: 32, 39
+  index: 37

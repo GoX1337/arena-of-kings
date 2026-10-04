@@ -1,0 +1,348 @@
+OrbOfSmoke_on_tick_0.png
+size: 1024, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+OrbOfSmoke_on_tick
+  rotate: true
+  xy: 537, 1210
+  size: 150, 171
+  orig: 150, 200
+  offset: 0, 0
+  index: 0
+OrbOfSmoke_on_tick
+  rotate: true
+  xy: 1, 1195
+  size: 150, 173
+  orig: 150, 200
+  offset: 0, 0
+  index: 1
+OrbOfSmoke_on_tick
+  rotate: true
+  xy: 361, 1067
+  size: 150, 174
+  orig: 150, 200
+  offset: 0, 0
+  index: 2
+OrbOfSmoke_on_tick
+  rotate: true
+  xy: 733, 1056
+  size: 150, 176
+  orig: 150, 200
+  offset: 0, 0
+  index: 3
+OrbOfSmoke_on_tick
+  rotate: true
+  xy: 182, 1034
+  size: 149, 177
+  orig: 150, 200
+  offset: 1, 0
+  index: 4
+OrbOfSmoke_on_tick
+  rotate: true
+  xy: 553, 908
+  size: 148, 178
+  orig: 150, 200
+  offset: 2, 0
+  index: 5
+OrbOfSmoke_on_tick
+  rotate: true
+  xy: 1, 895
+  size: 147, 179
+  orig: 150, 200
+  offset: 3, 0
+  index: 6
+OrbOfSmoke_on_tick
+  rotate: true
+  xy: 371, 770
+  size: 145, 180
+  orig: 150, 200
+  offset: 4, 0
+  index: 7
+OrbOfSmoke_on_tick
+  rotate: true
+  xy: 753, 762
+  size: 143, 181
+  orig: 150, 200
+  offset: 5, 0
+  index: 8
+OrbOfSmoke_on_tick
+  rotate: true
+  xy: 187, 744
+  size: 141, 182
+  orig: 150, 200
+  offset: 6, 0
+  index: 9
+OrbOfSmoke_on_tick
+  rotate: true
+  xy: 760, 621
+  size: 139, 183
+  orig: 150, 200
+  offset: 7, 0
+  index: 10
+OrbOfSmoke_on_tick
+  rotate: true
+  xy: 376, 631
+  size: 137, 183
+  orig: 150, 200
+  offset: 8, 0
+  index: 11
+OrbOfSmoke_on_tick
+  rotate: true
+  xy: 381, 494
+  size: 135, 185
+  orig: 150, 200
+  offset: 9, 0
+  index: 12
+OrbOfSmoke_on_tick
+  rotate: true
+  xy: 1, 479
+  size: 133, 186
+  orig: 150, 200
+  offset: 10, 0
+  index: 13
+OrbOfSmoke_on_tick
+  rotate: true
+  xy: 572, 489
+  size: 131, 186
+  orig: 150, 200
+  offset: 11, 0
+  index: 14
+OrbOfSmoke_on_tick
+  rotate: true
+  xy: 192, 477
+  size: 129, 187
+  orig: 150, 200
+  offset: 12, 0
+  index: 15
+OrbOfSmoke_on_tick
+  rotate: true
+  xy: 767, 358
+  size: 127, 188
+  orig: 150, 200
+  offset: 13, 0
+  index: 16
+OrbOfSmoke_on_tick
+  rotate: true
+  xy: 385, 235
+  size: 125, 189
+  orig: 150, 200
+  offset: 14, 0
+  index: 17
+OrbOfSmoke_on_tick
+  rotate: true
+  xy: 192, 352
+  size: 123, 189
+  orig: 150, 200
+  offset: 15, 1
+  index: 18
+OrbOfSmoke_on_tick
+  rotate: true
+  xy: 767, 235
+  size: 121, 189
+  orig: 150, 200
+  offset: 16, 2
+  index: 19
+OrbOfSmoke_on_tick
+  rotate: true
+  xy: 387, 114
+  size: 119, 190
+  orig: 150, 200
+  offset: 17, 2
+  index: 20
+OrbOfSmoke_on_tick
+  rotate: true
+  xy: 1, 116
+  size: 117, 190
+  orig: 150, 200
+  offset: 18, 3
+  index: 21
+OrbOfSmoke_on_tick
+  rotate: true
+  xy: 1, 235
+  size: 115, 190
+  orig: 150, 200
+  offset: 19, 4
+  index: 22
+OrbOfSmoke_on_tick
+  rotate: true
+  xy: 1, 1
+  size: 113, 191
+  orig: 150, 200
+  offset: 20, 4
+  index: 23
+OrbOfSmoke_on_tick
+  rotate: true
+  xy: 387, 1
+  size: 111, 191
+  orig: 150, 200
+  offset: 21, 5
+  index: 24
+OrbOfSmoke_on_tick
+  rotate: true
+  xy: 773, 1
+  size: 109, 191
+  orig: 150, 200
+  offset: 22, 6
+  index: 25
+OrbOfSmoke_on_tick
+  rotate: true
+  xy: 580, 1
+  size: 111, 191
+  orig: 150, 200
+  offset: 21, 5
+  index: 26
+OrbOfSmoke_on_tick
+  rotate: true
+  xy: 194, 1
+  size: 113, 191
+  orig: 150, 200
+  offset: 20, 4
+  index: 27
+OrbOfSmoke_on_tick
+  rotate: true
+  xy: 193, 235
+  size: 115, 190
+  orig: 150, 200
+  offset: 19, 4
+  index: 28
+OrbOfSmoke_on_tick
+  rotate: true
+  xy: 193, 116
+  size: 117, 190
+  orig: 150, 200
+  offset: 18, 3
+  index: 29
+OrbOfSmoke_on_tick
+  rotate: true
+  xy: 579, 114
+  size: 119, 190
+  orig: 150, 200
+  offset: 17, 2
+  index: 30
+OrbOfSmoke_on_tick
+  rotate: true
+  xy: 773, 112
+  size: 121, 190
+  orig: 150, 200
+  offset: 16, 1
+  index: 31
+OrbOfSmoke_on_tick
+  rotate: true
+  xy: 576, 235
+  size: 123, 189
+  orig: 150, 200
+  offset: 15, 1
+  index: 32
+OrbOfSmoke_on_tick
+  rotate: true
+  xy: 1, 352
+  size: 125, 189
+  orig: 150, 200
+  offset: 14, 0
+  index: 33
+OrbOfSmoke_on_tick
+  rotate: true
+  xy: 576, 360
+  size: 127, 188
+  orig: 150, 200
+  offset: 13, 0
+  index: 34
+OrbOfSmoke_on_tick
+  rotate: true
+  xy: 383, 362
+  size: 130, 187
+  orig: 150, 200
+  offset: 11, 0
+  index: 35
+OrbOfSmoke_on_tick
+  rotate: true
+  xy: 766, 487
+  size: 132, 186
+  orig: 150, 200
+  offset: 10, 0
+  index: 36
+OrbOfSmoke_on_tick
+  rotate: true
+  xy: 189, 608
+  size: 134, 185
+  orig: 150, 200
+  offset: 9, 0
+  index: 37
+OrbOfSmoke_on_tick
+  rotate: true
+  xy: 1, 614
+  size: 136, 184
+  orig: 150, 200
+  offset: 8, 0
+  index: 38
+OrbOfSmoke_on_tick
+  rotate: true
+  xy: 568, 622
+  size: 139, 183
+  orig: 150, 200
+  offset: 7, 0
+  index: 39
+OrbOfSmoke_on_tick
+  rotate: true
+  xy: 1, 752
+  size: 141, 182
+  orig: 150, 200
+  offset: 6, 0
+  index: 40
+OrbOfSmoke_on_tick
+  rotate: true
+  xy: 561, 763
+  size: 143, 181
+  orig: 150, 200
+  offset: 5, 0
+  index: 41
+OrbOfSmoke_on_tick
+  rotate: true
+  xy: 185, 887
+  size: 145, 180
+  orig: 150, 200
+  offset: 4, 0
+  index: 42
+OrbOfSmoke_on_tick
+  rotate: true
+  xy: 744, 907
+  size: 147, 179
+  orig: 150, 200
+  offset: 3, 0
+  index: 43
+OrbOfSmoke_on_tick
+  rotate: true
+  xy: 367, 917
+  size: 148, 178
+  orig: 150, 200
+  offset: 2, 0
+  index: 44
+OrbOfSmoke_on_tick
+  rotate: true
+  xy: 1, 1044
+  size: 149, 177
+  orig: 150, 200
+  offset: 1, 0
+  index: 45
+OrbOfSmoke_on_tick
+  rotate: true
+  xy: 547, 1058
+  size: 150, 175
+  orig: 150, 200
+  offset: 0, 0
+  index: 46
+OrbOfSmoke_on_tick
+  rotate: true
+  xy: 180, 1185
+  size: 150, 174
+  orig: 150, 200
+  offset: 0, 0
+  index: 47
+OrbOfSmoke_on_tick
+  rotate: true
+  xy: 724, 1208
+  size: 150, 173
+  orig: 150, 200
+  offset: 0, 0
+  index: 48

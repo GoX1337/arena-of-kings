@@ -1,0 +1,117 @@
+ThundersWrath_on_tick_0.png
+size: 512, 512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ThundersWrath_on_tick
+  rotate: true
+  xy: 64, 141
+  size: 46, 59
+  orig: 150, 200
+  offset: 62, 137
+  index: 0
+ThundersWrath_on_tick
+  rotate: true
+  xy: 398, 234
+  size: 46, 95
+  orig: 150, 200
+  offset: 62, 100
+  index: 1
+ThundersWrath_on_tick
+  rotate: false
+  xy: 425, 1
+  size: 61, 125
+  orig: 150, 200
+  offset: 47, 70
+  index: 2
+ThundersWrath_on_tick
+  rotate: false
+  xy: 1, 143
+  size: 61, 139
+  orig: 150, 200
+  offset: 47, 57
+  index: 3
+ThundersWrath_on_tick
+  rotate: false
+  xy: 1, 284
+  size: 61, 139
+  orig: 150, 200
+  offset: 47, 57
+  index: 4
+ThundersWrath_on_tick
+  rotate: true
+  xy: 153, 1
+  size: 61, 138
+  orig: 150, 200
+  offset: 47, 57
+  index: 5
+ThundersWrath_on_tick
+  rotate: false
+  xy: 64, 1
+  size: 61, 138
+  orig: 150, 200
+  offset: 47, 57
+  index: 6
+ThundersWrath_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 61, 140
+  orig: 150, 200
+  offset: 47, 55
+  index: 7
+ThundersWrath_on_tick
+  rotate: true
+  xy: 284, 223
+  size: 54, 112
+  orig: 150, 200
+  offset: 47, 53
+  index: 8
+ThundersWrath_on_tick
+  rotate: false
+  xy: 1, 425
+  size: 55, 75
+  orig: 150, 200
+  offset: 47, 46
+  index: 9
+ThundersWrath_on_tick
+  rotate: true
+  xy: 58, 425
+  size: 64, 93
+  orig: 150, 200
+  offset: 43, 28
+  index: 10
+ThundersWrath_on_tick
+  rotate: false
+  xy: 417, 128
+  size: 94, 104
+  orig: 150, 200
+  offset: 27, 16
+  index: 11
+ThundersWrath_on_tick
+  rotate: false
+  xy: 293, 1
+  size: 130, 120
+  orig: 150, 200
+  offset: 9, 0
+  index: 12
+ThundersWrath_on_tick
+  rotate: false
+  xy: 153, 64
+  size: 130, 119
+  orig: 150, 200
+  offset: 9, 1
+  index: 13
+ThundersWrath_on_tick
+  rotate: false
+  xy: 153, 185
+  size: 129, 98
+  orig: 150, 200
+  offset: 10, 2
+  index: 14
+ThundersWrath_on_tick
+  rotate: false
+  xy: 285, 123
+  size: 130, 98
+  orig: 150, 200
+  offset: 9, 1
+  index: 15

@@ -1,0 +1,215 @@
+NetherBolt-0.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NetherBolt_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 0
+NetherBolt_on_tick
+  rotate: false
+  xy: 1, 163
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+NetherBolt_on_tick
+  rotate: false
+  xy: 1, 325
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+NetherBolt_on_tick
+  rotate: false
+  xy: 1, 487
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+NetherBolt_on_tick
+  rotate: false
+  xy: 1, 649
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 4
+NetherBolt_on_tick
+  rotate: false
+  xy: 1, 811
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 5
+NetherBolt_on_tick
+  rotate: false
+  xy: 163, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 6
+NetherBolt_on_tick
+  rotate: false
+  xy: 325, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 7
+NetherBolt_on_tick
+  rotate: false
+  xy: 487, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 8
+NetherBolt_on_tick
+  rotate: false
+  xy: 649, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 9
+NetherBolt_on_tick
+  rotate: false
+  xy: 811, 1
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 10
+NetherBolt_on_tick
+  rotate: false
+  xy: 163, 163
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 11
+NetherBolt_on_tick
+  rotate: false
+  xy: 163, 325
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 12
+NetherBolt_on_tick
+  rotate: false
+  xy: 163, 487
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 13
+NetherBolt_on_tick
+  rotate: false
+  xy: 163, 649
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 14
+NetherBolt_on_tick
+  rotate: false
+  xy: 163, 811
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 15
+NetherBolt_on_tick
+  rotate: false
+  xy: 325, 163
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 16
+NetherBolt_on_tick
+  rotate: false
+  xy: 487, 163
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 17
+NetherBolt_on_tick
+  rotate: false
+  xy: 649, 163
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 18
+NetherBolt_on_tick
+  rotate: false
+  xy: 811, 163
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 19
+NetherBolt_on_tick
+  rotate: false
+  xy: 325, 325
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 20
+NetherBolt_on_tick
+  rotate: false
+  xy: 325, 487
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 21
+NetherBolt_on_tick
+  rotate: false
+  xy: 325, 649
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 22
+NetherBolt_on_tick
+  rotate: false
+  xy: 325, 811
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 23
+NetherBolt_on_tick
+  rotate: false
+  xy: 487, 325
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 24
+NetherBolt_on_tick
+  rotate: false
+  xy: 649, 325
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 25
+NetherBolt_on_tick
+  rotate: false
+  xy: 811, 325
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 26
+NetherBolt_on_tick
+  rotate: false
+  xy: 487, 487
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 27
+NetherBolt_on_tick
+  rotate: false
+  xy: 487, 649
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 28
+NetherBolt_on_tick
+  rotate: false
+  xy: 487, 811
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 29

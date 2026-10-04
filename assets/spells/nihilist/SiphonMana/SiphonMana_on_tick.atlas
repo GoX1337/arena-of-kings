@@ -1,0 +1,187 @@
+SiphonMana_on_tick_0.png
+size: 512, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SiphonMana_on_tick
+  rotate: true
+  xy: 1, 129
+  size: 124, 149
+  orig: 140, 150
+  offset: 9, 1
+  index: 0
+SiphonMana_on_tick
+  rotate: true
+  xy: 150, 255
+  size: 124, 146
+  orig: 140, 150
+  offset: 9, 4
+  index: 1
+SiphonMana_on_tick
+  rotate: true
+  xy: 1, 502
+  size: 123, 142
+  orig: 140, 150
+  offset: 9, 8
+  index: 2
+SiphonMana_on_tick
+  rotate: false
+  xy: 130, 887
+  size: 124, 136
+  orig: 140, 150
+  offset: 8, 14
+  index: 3
+SiphonMana_on_tick
+  rotate: false
+  xy: 1, 887
+  size: 127, 136
+  orig: 140, 150
+  offset: 5, 14
+  index: 4
+SiphonMana_on_tick
+  rotate: true
+  xy: 371, 880
+  size: 128, 132
+  orig: 140, 150
+  offset: 5, 18
+  index: 5
+SiphonMana_on_tick
+  rotate: true
+  xy: 145, 507
+  size: 127, 141
+  orig: 140, 150
+  offset: 5, 9
+  index: 6
+SiphonMana_on_tick
+  rotate: true
+  xy: 304, 251
+  size: 125, 147
+  orig: 140, 150
+  offset: 8, 0
+  index: 7
+SiphonMana_on_tick
+  rotate: true
+  xy: 291, 502
+  size: 121, 142
+  orig: 140, 150
+  offset: 9, 0
+  index: 8
+SiphonMana_on_tick
+  rotate: true
+  xy: 298, 378
+  size: 122, 145
+  orig: 140, 150
+  offset: 11, 0
+  index: 9
+SiphonMana_on_tick
+  rotate: true
+  xy: 153, 1
+  size: 125, 150
+  orig: 140, 150
+  offset: 9, 0
+  index: 10
+SiphonMana_on_tick
+  rotate: true
+  xy: 153, 128
+  size: 125, 149
+  orig: 140, 150
+  offset: 9, 1
+  index: 11
+SiphonMana_on_tick
+  rotate: true
+  xy: 1, 255
+  size: 124, 147
+  orig: 140, 150
+  offset: 9, 3
+  index: 12
+SiphonMana_on_tick
+  rotate: true
+  xy: 147, 381
+  size: 124, 142
+  orig: 140, 150
+  offset: 9, 8
+  index: 13
+SiphonMana_on_tick
+  rotate: true
+  xy: 143, 636
+  size: 125, 139
+  orig: 140, 150
+  offset: 8, 11
+  index: 14
+SiphonMana_on_tick
+  rotate: true
+  xy: 1, 757
+  size: 128, 138
+  orig: 140, 150
+  offset: 5, 12
+  index: 15
+SiphonMana_on_tick
+  rotate: true
+  xy: 1, 627
+  size: 128, 140
+  orig: 140, 150
+  offset: 5, 10
+  index: 16
+SiphonMana_on_tick
+  rotate: true
+  xy: 288, 625
+  size: 127, 140
+  orig: 140, 150
+  offset: 6, 10
+  index: 17
+SiphonMana_on_tick
+  rotate: true
+  xy: 1, 1
+  size: 126, 150
+  orig: 140, 150
+  offset: 6, 0
+  index: 18
+SiphonMana_on_tick
+  rotate: true
+  xy: 305, 1
+  size: 124, 150
+  orig: 140, 150
+  offset: 7, 0
+  index: 19
+SiphonMana_on_tick
+  rotate: true
+  xy: 305, 127
+  size: 122, 150
+  orig: 140, 150
+  offset: 8, 0
+  index: 20
+SiphonMana_on_tick
+  rotate: true
+  xy: 1, 381
+  size: 119, 144
+  orig: 140, 150
+  offset: 9, 1
+  index: 21
+SiphonMana_on_tick
+  rotate: true
+  xy: 141, 763
+  size: 115, 136
+  orig: 140, 150
+  offset: 11, 4
+  index: 22
+SiphonMana_on_tick
+  rotate: false
+  xy: 256, 880
+  size: 113, 135
+  orig: 140, 150
+  offset: 15, 7
+  index: 23
+SiphonMana_on_tick
+  rotate: false
+  xy: 279, 763
+  size: 103, 115
+  orig: 140, 150
+  offset: 22, 32
+  index: 24
+SiphonMana_on_tick
+  rotate: true
+  xy: 435, 502
+  size: 68, 75
+  orig: 140, 150
+  offset: 27, 39
+  index: 25

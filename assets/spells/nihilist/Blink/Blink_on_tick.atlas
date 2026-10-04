@@ -1,0 +1,292 @@
+Blink_on_tick_0.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blink_on_tick
+  rotate: false
+  xy: 1, 937
+  size: 248, 308
+  orig: 300, 320
+  offset: 33, 0
+  index: 0
+Blink_on_tick
+  rotate: false
+  xy: 415, 309
+  size: 244, 304
+  orig: 300, 320
+  offset: 36, 0
+  index: 1
+Blink_on_tick
+  rotate: false
+  xy: 661, 307
+  size: 240, 292
+  orig: 300, 320
+  offset: 38, 0
+  index: 2
+Blink_on_tick
+  rotate: false
+  xy: 251, 936
+  size: 230, 299
+  orig: 300, 320
+  offset: 43, 0
+  index: 3
+Blink_on_tick
+  rotate: false
+  xy: 1, 1550
+  size: 218, 301
+  orig: 300, 320
+  offset: 50, 2
+  index: 4
+Blink_on_tick
+  rotate: false
+  xy: 221, 1550
+  size: 205, 301
+  orig: 300, 320
+  offset: 57, 4
+  index: 5
+Blink_on_tick
+  rotate: false
+  xy: 625, 1
+  size: 191, 304
+  orig: 300, 320
+  offset: 65, 3
+  index: 6
+Blink_on_tick
+  rotate: false
+  xy: 233, 314
+  size: 180, 307
+  orig: 300, 320
+  offset: 69, 1
+  index: 7
+Blink_on_tick
+  rotate: false
+  xy: 243, 1
+  size: 171, 306
+  orig: 300, 320
+  offset: 73, 1
+  index: 8
+Blink_on_tick
+  rotate: false
+  xy: 903, 290
+  size: 157, 285
+  orig: 300, 320
+  offset: 79, 15
+  index: 9
+Blink_on_tick
+  rotate: false
+  xy: 428, 1535
+  size: 248, 295
+  orig: 300, 320
+  offset: 33, 0
+  index: 10
+Blink_on_tick
+  rotate: false
+  xy: 467, 615
+  size: 244, 293
+  orig: 300, 320
+  offset: 36, 0
+  index: 11
+Blink_on_tick
+  rotate: false
+  xy: 454, 1237
+  size: 240, 294
+  orig: 300, 320
+  offset: 38, 0
+  index: 12
+Blink_on_tick
+  rotate: false
+  xy: 678, 1533
+  size: 230, 294
+  orig: 300, 320
+  offset: 43, 0
+  index: 13
+Blink_on_tick
+  rotate: true
+  xy: 821, 1829
+  size: 218, 291
+  orig: 300, 320
+  offset: 50, 2
+  index: 14
+Blink_on_tick
+  rotate: false
+  xy: 696, 1198
+  size: 205, 281
+  orig: 300, 320
+  offset: 57, 6
+  index: 15
+Blink_on_tick
+  rotate: true
+  xy: 1, 1853
+  size: 191, 277
+  orig: 300, 320
+  offset: 65, 10
+  index: 16
+Blink_on_tick
+  rotate: false
+  xy: 1300, 1
+  size: 188, 275
+  orig: 300, 320
+  offset: 61, 14
+  index: 17
+Blink_on_tick
+  rotate: false
+  xy: 729, 888
+  size: 181, 277
+  orig: 300, 320
+  offset: 61, 18
+  index: 18
+Blink_on_tick
+  rotate: false
+  xy: 910, 577
+  size: 174, 277
+  orig: 300, 320
+  offset: 62, 21
+  index: 19
+Blink_on_tick
+  rotate: false
+  xy: 1, 1247
+  size: 248, 301
+  orig: 300, 320
+  offset: 33, 0
+  index: 20
+Blink_on_tick
+  rotate: false
+  xy: 221, 626
+  size: 244, 308
+  orig: 300, 320
+  offset: 36, 0
+  index: 21
+Blink_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 240, 311
+  orig: 300, 320
+  offset: 38, 0
+  index: 22
+Blink_on_tick
+  rotate: false
+  xy: 1, 314
+  size: 230, 310
+  orig: 300, 320
+  offset: 43, 0
+  index: 23
+Blink_on_tick
+  rotate: false
+  xy: 1, 626
+  size: 218, 309
+  orig: 300, 320
+  offset: 50, 2
+  index: 24
+Blink_on_tick
+  rotate: false
+  xy: 416, 1
+  size: 207, 304
+  orig: 300, 320
+  offset: 55, 6
+  index: 25
+Blink_on_tick
+  rotate: false
+  xy: 251, 1237
+  size: 201, 296
+  orig: 300, 320
+  offset: 55, 10
+  index: 26
+Blink_on_tick
+  rotate: false
+  xy: 713, 601
+  size: 195, 285
+  orig: 300, 320
+  offset: 54, 14
+  index: 27
+Blink_on_tick
+  rotate: false
+  xy: 1233, 567
+  size: 188, 268
+  orig: 300, 320
+  offset: 54, 18
+  index: 28
+Blink_on_tick
+  rotate: false
+  xy: 910, 1443
+  size: 186, 263
+  orig: 300, 320
+  offset: 55, 22
+  index: 29
+Blink_on_tick
+  rotate: false
+  xy: 818, 1
+  size: 248, 287
+  orig: 300, 320
+  offset: 33, 0
+  index: 30
+Blink_on_tick
+  rotate: false
+  xy: 483, 910
+  size: 244, 286
+  orig: 300, 320
+  offset: 36, 0
+  index: 31
+Blink_on_tick
+  rotate: false
+  xy: 1062, 290
+  size: 240, 275
+  orig: 300, 320
+  offset: 38, 0
+  index: 32
+Blink_on_tick
+  rotate: false
+  xy: 1068, 1
+  size: 230, 275
+  orig: 300, 320
+  offset: 43, 0
+  index: 33
+Blink_on_tick
+  rotate: false
+  xy: 903, 1167
+  size: 218, 274
+  orig: 300, 320
+  offset: 50, 2
+  index: 34
+Blink_on_tick
+  rotate: true
+  xy: 549, 1832
+  size: 214, 270
+  orig: 300, 320
+  offset: 48, 6
+  index: 35
+Blink_on_tick
+  rotate: true
+  xy: 280, 1853
+  size: 191, 267
+  orig: 300, 320
+  offset: 65, 10
+  index: 36
+Blink_on_tick
+  rotate: false
+  xy: 1304, 278
+  size: 180, 267
+  orig: 300, 320
+  offset: 69, 11
+  index: 37
+Blink_on_tick
+  rotate: false
+  xy: 1079, 856
+  size: 169, 271
+  orig: 300, 320
+  offset: 73, 8
+  index: 38
+Blink_on_tick
+  rotate: false
+  xy: 912, 856
+  size: 165, 272
+  orig: 300, 320
+  offset: 71, 8
+  index: 39
+Blink_on_tick
+  rotate: false
+  xy: 1086, 567
+  size: 145, 269
+  orig: 300, 320
+  offset: 84, 11
+  index: 40

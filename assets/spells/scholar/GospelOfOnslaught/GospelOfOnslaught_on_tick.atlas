@@ -1,0 +1,278 @@
+GospelOfOnslaught_on_tick_0.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GospelOfOnslaught_on_tick
+  rotate: false
+  xy: 494, 219
+  size: 117, 102
+  orig: 250, 250
+  offset: 70, 69
+  index: 0
+GospelOfOnslaught_on_tick
+  rotate: false
+  xy: 1, 225
+  size: 119, 101
+  orig: 250, 250
+  offset: 67, 70
+  index: 1
+GospelOfOnslaught_on_tick
+  rotate: false
+  xy: 499, 1
+  size: 119, 100
+  orig: 250, 250
+  offset: 68, 71
+  index: 2
+GospelOfOnslaught_on_tick
+  rotate: false
+  xy: 1, 118
+  size: 122, 105
+  orig: 250, 250
+  offset: 67, 69
+  index: 3
+GospelOfOnslaught_on_tick
+  rotate: false
+  xy: 252, 1
+  size: 122, 102
+  orig: 250, 250
+  offset: 67, 70
+  index: 4
+GospelOfOnslaught_on_tick
+  rotate: false
+  xy: 125, 120
+  size: 119, 112
+  orig: 250, 250
+  offset: 68, 69
+  index: 5
+GospelOfOnslaught_on_tick
+  rotate: false
+  xy: 619, 118
+  size: 117, 111
+  orig: 250, 250
+  offset: 69, 70
+  index: 6
+GospelOfOnslaught_on_tick
+  rotate: false
+  xy: 484, 323
+  size: 114, 111
+  orig: 250, 250
+  offset: 70, 70
+  index: 7
+GospelOfOnslaught_on_tick
+  rotate: true
+  xy: 241, 338
+  size: 110, 116
+  orig: 250, 250
+  offset: 72, 65
+  index: 8
+GospelOfOnslaught_on_tick
+  rotate: true
+  xy: 1, 445
+  size: 109, 115
+  orig: 250, 250
+  offset: 73, 65
+  index: 9
+GospelOfOnslaught_on_tick
+  rotate: true
+  xy: 120, 353
+  size: 113, 115
+  orig: 250, 250
+  offset: 73, 65
+  index: 10
+GospelOfOnslaught_on_tick
+  rotate: false
+  xy: 859, 227
+  size: 114, 114
+  orig: 250, 250
+  offset: 72, 66
+  index: 11
+GospelOfOnslaught_on_tick
+  rotate: false
+  xy: 613, 231
+  size: 114, 113
+  orig: 250, 250
+  offset: 72, 66
+  index: 12
+GospelOfOnslaught_on_tick
+  rotate: false
+  xy: 359, 348
+  size: 114, 111
+  orig: 250, 250
+  offset: 72, 68
+  index: 13
+GospelOfOnslaught_on_tick
+  rotate: false
+  xy: 246, 224
+  size: 118, 112
+  orig: 250, 250
+  offset: 69, 66
+  index: 14
+GospelOfOnslaught_on_tick
+  rotate: false
+  xy: 499, 103
+  size: 118, 114
+  orig: 250, 250
+  offset: 68, 67
+  index: 15
+GospelOfOnslaught_on_tick
+  rotate: false
+  xy: 374, 119
+  size: 118, 114
+  orig: 250, 250
+  offset: 68, 67
+  index: 16
+GospelOfOnslaught_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 125, 115
+  orig: 250, 250
+  offset: 64, 66
+  index: 17
+GospelOfOnslaught_on_tick
+  rotate: false
+  xy: 128, 1
+  size: 122, 117
+  orig: 250, 250
+  offset: 64, 64
+  index: 18
+GospelOfOnslaught_on_tick
+  rotate: false
+  xy: 252, 105
+  size: 120, 117
+  orig: 250, 250
+  offset: 65, 64
+  index: 19
+GospelOfOnslaught_on_tick
+  rotate: false
+  xy: 376, 1
+  size: 121, 116
+  orig: 250, 250
+  offset: 66, 65
+  index: 20
+GospelOfOnslaught_on_tick
+  rotate: false
+  xy: 620, 1
+  size: 118, 115
+  orig: 250, 250
+  offset: 68, 66
+  index: 21
+GospelOfOnslaught_on_tick
+  rotate: false
+  xy: 740, 1
+  size: 117, 114
+  orig: 250, 250
+  offset: 68, 67
+  index: 22
+GospelOfOnslaught_on_tick
+  rotate: false
+  xy: 122, 234
+  size: 117, 117
+  orig: 250, 250
+  offset: 67, 64
+  index: 23
+GospelOfOnslaught_on_tick
+  rotate: true
+  xy: 1, 328
+  size: 115, 117
+  orig: 250, 250
+  offset: 69, 64
+  index: 24
+GospelOfOnslaught_on_tick
+  rotate: true
+  xy: 859, 1
+  size: 114, 117
+  orig: 250, 250
+  offset: 69, 64
+  index: 25
+GospelOfOnslaught_on_tick
+  rotate: true
+  xy: 740, 117
+  size: 112, 117
+  orig: 250, 250
+  offset: 70, 64
+  index: 26
+GospelOfOnslaught_on_tick
+  rotate: true
+  xy: 366, 235
+  size: 111, 116
+  orig: 250, 250
+  offset: 72, 65
+  index: 27
+GospelOfOnslaught_on_tick
+  rotate: true
+  xy: 237, 450
+  size: 112, 113
+  orig: 250, 250
+  offset: 72, 66
+  index: 28
+GospelOfOnslaught_on_tick
+  rotate: false
+  xy: 118, 468
+  size: 112, 112
+  orig: 250, 250
+  offset: 74, 65
+  index: 29
+GospelOfOnslaught_on_tick
+  rotate: false
+  xy: 475, 436
+  size: 109, 108
+  orig: 250, 250
+  offset: 76, 66
+  index: 30
+GospelOfOnslaught_on_tick
+  rotate: true
+  xy: 232, 564
+  size: 107, 108
+  orig: 250, 250
+  offset: 78, 66
+  index: 31
+GospelOfOnslaught_on_tick
+  rotate: true
+  xy: 352, 461
+  size: 105, 109
+  orig: 250, 250
+  offset: 80, 68
+  index: 32
+GospelOfOnslaught_on_tick
+  rotate: true
+  xy: 729, 231
+  size: 107, 111
+  orig: 250, 250
+  offset: 78, 69
+  index: 33
+GospelOfOnslaught_on_tick
+  rotate: true
+  xy: 859, 117
+  size: 108, 115
+  orig: 250, 250
+  offset: 76, 65
+  index: 34
+GospelOfOnslaught_on_tick
+  rotate: true
+  xy: 1, 556
+  size: 107, 112
+  orig: 250, 250
+  offset: 75, 65
+  index: 35
+GospelOfOnslaught_on_tick
+  rotate: true
+  xy: 600, 346
+  size: 106, 110
+  orig: 250, 250
+  offset: 75, 66
+  index: 36
+GospelOfOnslaught_on_tick
+  rotate: true
+  xy: 115, 582
+  size: 106, 107
+  orig: 250, 250
+  offset: 75, 66
+  index: 37
+GospelOfOnslaught_on_tick
+  rotate: false
+  xy: 729, 340
+  size: 111, 105
+  orig: 250, 250
+  offset: 74, 67
+  index: 38

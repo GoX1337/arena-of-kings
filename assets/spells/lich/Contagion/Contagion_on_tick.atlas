@@ -1,0 +1,117 @@
+Contagion_on_tick_0.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Contagion_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 250, 180
+  orig: 250, 180
+  offset: 0, 0
+  index: 0
+Contagion_on_tick
+  rotate: false
+  xy: 253, 1
+  size: 250, 180
+  orig: 250, 180
+  offset: 0, 0
+  index: 1
+Contagion_on_tick
+  rotate: false
+  xy: 505, 1
+  size: 250, 180
+  orig: 250, 180
+  offset: 0, 0
+  index: 2
+Contagion_on_tick
+  rotate: false
+  xy: 757, 1
+  size: 250, 180
+  orig: 250, 180
+  offset: 0, 0
+  index: 3
+Contagion_on_tick
+  rotate: true
+  xy: 1, 183
+  size: 250, 180
+  orig: 250, 180
+  offset: 0, 0
+  index: 4
+Contagion_on_tick
+  rotate: true
+  xy: 1, 435
+  size: 250, 180
+  orig: 250, 180
+  offset: 0, 0
+  index: 5
+Contagion_on_tick
+  rotate: true
+  xy: 1, 687
+  size: 250, 180
+  orig: 250, 180
+  offset: 0, 0
+  index: 6
+Contagion_on_tick
+  rotate: false
+  xy: 183, 183
+  size: 250, 180
+  orig: 250, 180
+  offset: 0, 0
+  index: 7
+Contagion_on_tick
+  rotate: false
+  xy: 435, 183
+  size: 250, 180
+  orig: 250, 180
+  offset: 0, 0
+  index: 8
+Contagion_on_tick
+  rotate: false
+  xy: 687, 183
+  size: 250, 180
+  orig: 250, 180
+  offset: 0, 0
+  index: 9
+Contagion_on_tick
+  rotate: true
+  xy: 183, 365
+  size: 250, 180
+  orig: 250, 180
+  offset: 0, 0
+  index: 10
+Contagion_on_tick
+  rotate: true
+  xy: 183, 617
+  size: 250, 180
+  orig: 250, 180
+  offset: 0, 0
+  index: 11
+Contagion_on_tick
+  rotate: false
+  xy: 365, 365
+  size: 250, 180
+  orig: 250, 180
+  offset: 0, 0
+  index: 12
+Contagion_on_tick
+  rotate: false
+  xy: 617, 365
+  size: 250, 180
+  orig: 250, 180
+  offset: 0, 0
+  index: 13
+Contagion_on_tick
+  rotate: true
+  xy: 365, 547
+  size: 250, 180
+  orig: 250, 180
+  offset: 0, 0
+  index: 14
+Contagion_on_tick
+  rotate: false
+  xy: 365, 799
+  size: 250, 180
+  orig: 250, 180
+  offset: 0, 0
+  index: 15

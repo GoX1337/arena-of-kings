@@ -1,0 +1,110 @@
+StreamOfLight_on_tick-0.png
+size: 512, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+StreamOfLight_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 250, 100
+  orig: 250, 100
+  offset: 0, 0
+  index: 0
+StreamOfLight_on_tick
+  rotate: false
+  xy: 253, 1
+  size: 250, 100
+  orig: 250, 100
+  offset: 0, 0
+  index: 1
+StreamOfLight_on_tick
+  rotate: false
+  xy: 1, 103
+  size: 250, 100
+  orig: 250, 100
+  offset: 0, 0
+  index: 2
+StreamOfLight_on_tick
+  rotate: false
+  xy: 253, 103
+  size: 250, 100
+  orig: 250, 100
+  offset: 0, 0
+  index: 3
+StreamOfLight_on_tick
+  rotate: false
+  xy: 1, 205
+  size: 250, 100
+  orig: 250, 100
+  offset: 0, 0
+  index: 4
+StreamOfLight_on_tick
+  rotate: false
+  xy: 253, 205
+  size: 250, 100
+  orig: 250, 100
+  offset: 0, 0
+  index: 5
+StreamOfLight_on_tick
+  rotate: false
+  xy: 1, 307
+  size: 250, 100
+  orig: 250, 100
+  offset: 0, 0
+  index: 6
+StreamOfLight_on_tick
+  rotate: false
+  xy: 253, 307
+  size: 250, 100
+  orig: 250, 100
+  offset: 0, 0
+  index: 7
+StreamOfLight_on_tick
+  rotate: false
+  xy: 1, 409
+  size: 250, 100
+  orig: 250, 100
+  offset: 0, 0
+  index: 8
+StreamOfLight_on_tick
+  rotate: false
+  xy: 253, 409
+  size: 250, 100
+  orig: 250, 100
+  offset: 0, 0
+  index: 9
+StreamOfLight_on_tick
+  rotate: false
+  xy: 1, 511
+  size: 250, 100
+  orig: 250, 100
+  offset: 0, 0
+  index: 10
+StreamOfLight_on_tick
+  rotate: false
+  xy: 253, 511
+  size: 250, 100
+  orig: 250, 100
+  offset: 0, 0
+  index: 11
+StreamOfLight_on_tick
+  rotate: false
+  xy: 1, 613
+  size: 250, 100
+  orig: 250, 100
+  offset: 0, 0
+  index: 12
+StreamOfLight_on_tick
+  rotate: false
+  xy: 253, 613
+  size: 250, 100
+  orig: 250, 100
+  offset: 0, 0
+  index: 13
+StreamOfLight_on_tick
+  rotate: false
+  xy: 1, 715
+  size: 250, 100
+  orig: 250, 100
+  offset: 0, 0
+  index: 14

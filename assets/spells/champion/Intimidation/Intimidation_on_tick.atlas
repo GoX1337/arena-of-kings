@@ -1,0 +1,180 @@
+Intimidation_on_tick_0.png
+size: 1024, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Intimidation_on_tick
+  rotate: false
+  xy: 1, 558
+  size: 210, 187
+  orig: 230, 200
+  offset: 9, 2
+  index: 0
+Intimidation_on_tick
+  rotate: false
+  xy: 219, 380
+  size: 211, 181
+  orig: 230, 200
+  offset: 7, 2
+  index: 1
+Intimidation_on_tick
+  rotate: false
+  xy: 213, 563
+  size: 210, 181
+  orig: 230, 200
+  offset: 7, 1
+  index: 2
+Intimidation_on_tick
+  rotate: false
+  xy: 423, 754
+  size: 207, 179
+  orig: 230, 200
+  offset: 9, 2
+  index: 3
+Intimidation_on_tick
+  rotate: false
+  xy: 632, 925
+  size: 206, 183
+  orig: 230, 200
+  offset: 7, 0
+  index: 4
+Intimidation_on_tick
+  rotate: false
+  xy: 425, 569
+  size: 208, 183
+  orig: 230, 200
+  offset: 7, 0
+  index: 5
+Intimidation_on_tick
+  rotate: false
+  xy: 213, 746
+  size: 208, 183
+  orig: 230, 200
+  offset: 7, 0
+  index: 6
+Intimidation_on_tick
+  rotate: false
+  xy: 649, 383
+  size: 210, 183
+  orig: 230, 200
+  offset: 5, 0
+  index: 7
+Intimidation_on_tick
+  rotate: false
+  xy: 644, 568
+  size: 209, 180
+  orig: 230, 200
+  offset: 6, 3
+  index: 8
+Intimidation_on_tick
+  rotate: false
+  xy: 1, 382
+  size: 211, 174
+  orig: 230, 200
+  offset: 4, 11
+  index: 9
+Intimidation_on_tick
+  rotate: false
+  xy: 211, 931
+  size: 207, 173
+  orig: 230, 200
+  offset: 7, 13
+  index: 10
+Intimidation_on_tick
+  rotate: false
+  xy: 635, 750
+  size: 208, 173
+  orig: 230, 200
+  offset: 5, 14
+  index: 11
+Intimidation_on_tick
+  rotate: false
+  xy: 1, 932
+  size: 207, 173
+  orig: 230, 200
+  offset: 5, 14
+  index: 12
+Intimidation_on_tick
+  rotate: true
+  xy: 845, 750
+  size: 204, 176
+  orig: 230, 200
+  offset: 8, 13
+  index: 13
+Intimidation_on_tick
+  rotate: true
+  xy: 840, 956
+  size: 206, 179
+  orig: 230, 200
+  offset: 7, 12
+  index: 14
+Intimidation_on_tick
+  rotate: false
+  xy: 1, 747
+  size: 208, 183
+  orig: 230, 200
+  offset: 7, 11
+  index: 15
+Intimidation_on_tick
+  rotate: false
+  xy: 432, 384
+  size: 210, 183
+  orig: 230, 200
+  offset: 6, 11
+  index: 16
+Intimidation_on_tick
+  rotate: false
+  xy: 435, 197
+  size: 212, 185
+  orig: 230, 200
+  offset: 6, 10
+  index: 17
+Intimidation_on_tick
+  rotate: false
+  xy: 219, 193
+  size: 214, 185
+  orig: 230, 200
+  offset: 4, 10
+  index: 18
+Intimidation_on_tick
+  rotate: false
+  xy: 1, 193
+  size: 216, 187
+  orig: 230, 200
+  offset: 2, 7
+  index: 19
+Intimidation_on_tick
+  rotate: false
+  xy: 666, 194
+  size: 219, 187
+  orig: 230, 200
+  offset: 0, 6
+  index: 20
+Intimidation_on_tick
+  rotate: false
+  xy: 666, 1
+  size: 219, 191
+  orig: 230, 200
+  offset: 0, 5
+  index: 21
+Intimidation_on_tick
+  rotate: false
+  xy: 445, 1
+  size: 219, 194
+  orig: 230, 200
+  offset: 0, 3
+  index: 22
+Intimidation_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 220, 190
+  orig: 230, 200
+  offset: 0, 3
+  index: 23
+Intimidation_on_tick
+  rotate: false
+  xy: 223, 1
+  size: 220, 190
+  orig: 230, 200
+  offset: 0, 3
+  index: 24

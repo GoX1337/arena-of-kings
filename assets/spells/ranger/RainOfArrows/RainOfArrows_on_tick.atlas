@@ -1,0 +1,228 @@
+RainOfArrows_on_tick-0.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+RainOfArrows_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 321, 550
+  orig: 321, 550
+  offset: 0, 0
+  index: 0
+RainOfArrows_on_tick
+  rotate: false
+  xy: 1, 553
+  size: 321, 550
+  orig: 321, 550
+  offset: 0, 0
+  index: 1
+RainOfArrows_on_tick
+  rotate: false
+  xy: 1, 1105
+  size: 321, 550
+  orig: 321, 550
+  offset: 0, 0
+  index: 2
+RainOfArrows_on_tick
+  rotate: false
+  xy: 324, 1
+  size: 321, 550
+  orig: 321, 550
+  offset: 0, 0
+  index: 3
+RainOfArrows_on_tick
+  rotate: false
+  xy: 324, 553
+  size: 321, 550
+  orig: 321, 550
+  offset: 0, 0
+  index: 4
+RainOfArrows_on_tick
+  rotate: false
+  xy: 324, 1105
+  size: 321, 550
+  orig: 321, 550
+  offset: 0, 0
+  index: 5
+RainOfArrows_on_tick
+  rotate: false
+  xy: 647, 1
+  size: 321, 550
+  orig: 321, 550
+  offset: 0, 0
+  index: 6
+RainOfArrows_on_tick
+  rotate: false
+  xy: 970, 1
+  size: 321, 550
+  orig: 321, 550
+  offset: 0, 0
+  index: 7
+RainOfArrows_on_tick
+  rotate: false
+  xy: 1293, 1
+  size: 321, 550
+  orig: 321, 550
+  offset: 0, 0
+  index: 8
+RainOfArrows_on_tick
+  rotate: false
+  xy: 1616, 1
+  size: 321, 550
+  orig: 321, 550
+  offset: 0, 0
+  index: 9
+RainOfArrows_on_tick
+  rotate: false
+  xy: 647, 553
+  size: 321, 550
+  orig: 321, 550
+  offset: 0, 0
+  index: 10
+RainOfArrows_on_tick
+  rotate: false
+  xy: 647, 1105
+  size: 321, 550
+  orig: 321, 550
+  offset: 0, 0
+  index: 11
+RainOfArrows_on_tick
+  rotate: false
+  xy: 970, 553
+  size: 321, 550
+  orig: 321, 550
+  offset: 0, 0
+  index: 12
+RainOfArrows_on_tick
+  rotate: false
+  xy: 970, 1105
+  size: 321, 550
+  orig: 321, 550
+  offset: 0, 0
+  index: 13
+RainOfArrows_on_tick
+  rotate: false
+  xy: 1293, 553
+  size: 321, 550
+  orig: 321, 550
+  offset: 0, 0
+  index: 14
+RainOfArrows_on_tick
+  rotate: false
+  xy: 1616, 553
+  size: 321, 550
+  orig: 321, 550
+  offset: 0, 0
+  index: 15
+RainOfArrows_on_tick
+  rotate: false
+  xy: 1293, 1105
+  size: 321, 550
+  orig: 321, 550
+  offset: 0, 0
+  index: 16
+RainOfArrows_on_tick
+  rotate: false
+  xy: 1616, 1105
+  size: 321, 550
+  orig: 321, 550
+  offset: 0, 0
+  index: 17
+
+RainOfArrows_on_tick-1.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+RainOfArrows_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 321, 550
+  orig: 321, 550
+  offset: 0, 0
+  index: 18
+RainOfArrows_on_tick
+  rotate: false
+  xy: 1, 553
+  size: 321, 550
+  orig: 321, 550
+  offset: 0, 0
+  index: 19
+RainOfArrows_on_tick
+  rotate: false
+  xy: 1, 1105
+  size: 321, 550
+  orig: 321, 550
+  offset: 0, 0
+  index: 20
+RainOfArrows_on_tick
+  rotate: false
+  xy: 324, 1
+  size: 321, 550
+  orig: 321, 550
+  offset: 0, 0
+  index: 21
+RainOfArrows_on_tick
+  rotate: false
+  xy: 324, 553
+  size: 321, 550
+  orig: 321, 550
+  offset: 0, 0
+  index: 22
+RainOfArrows_on_tick
+  rotate: false
+  xy: 324, 1105
+  size: 321, 550
+  orig: 321, 550
+  offset: 0, 0
+  index: 23
+RainOfArrows_on_tick
+  rotate: false
+  xy: 647, 1
+  size: 321, 550
+  orig: 321, 550
+  offset: 0, 0
+  index: 24
+RainOfArrows_on_tick
+  rotate: false
+  xy: 970, 1
+  size: 321, 550
+  orig: 321, 550
+  offset: 0, 0
+  index: 25
+RainOfArrows_on_tick
+  rotate: false
+  xy: 1293, 1
+  size: 321, 550
+  orig: 321, 550
+  offset: 0, 0
+  index: 26
+RainOfArrows_on_tick
+  rotate: false
+  xy: 1616, 1
+  size: 321, 550
+  orig: 321, 550
+  offset: 0, 0
+  index: 27
+RainOfArrows_on_tick
+  rotate: false
+  xy: 647, 553
+  size: 321, 550
+  orig: 321, 550
+  offset: 0, 0
+  index: 28
+RainOfArrows_on_tick
+  rotate: false
+  xy: 647, 1105
+  size: 321, 550
+  orig: 321, 550
+  offset: 0, 0
+  index: 29
+RainOfArrows_on_tick
+  rotate: false
+  xy: 970, 553
+  size: 321, 550
+  orig: 321, 550
+  offset: 0, 0
+  index: 30

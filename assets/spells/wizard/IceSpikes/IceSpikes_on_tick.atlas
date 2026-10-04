@@ -1,0 +1,201 @@
+IceSpikes_on_tick_0.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+IceSpikes_on_tick
+  rotate: true
+  xy: 690, 611
+  size: 188, 120
+  orig: 210, 190
+  offset: 10, 6
+  index: 0
+IceSpikes_on_tick
+  rotate: true
+  xy: 674, 211
+  size: 208, 133
+  orig: 210, 190
+  offset: 2, 4
+  index: 1
+IceSpikes_on_tick
+  rotate: true
+  xy: 527, 211
+  size: 208, 145
+  orig: 210, 190
+  offset: 2, 4
+  index: 2
+IceSpikes_on_tick
+  rotate: true
+  xy: 525, 421
+  size: 208, 157
+  orig: 210, 190
+  offset: 2, 4
+  index: 3
+IceSpikes_on_tick
+  rotate: true
+  xy: 524, 631
+  size: 208, 164
+  orig: 210, 190
+  offset: 2, 4
+  index: 4
+IceSpikes_on_tick
+  rotate: true
+  xy: 354, 421
+  size: 208, 169
+  orig: 210, 190
+  offset: 2, 4
+  index: 5
+IceSpikes_on_tick
+  rotate: true
+  xy: 178, 631
+  size: 208, 171
+  orig: 210, 190
+  offset: 2, 4
+  index: 6
+IceSpikes_on_tick
+  rotate: true
+  xy: 351, 631
+  size: 208, 171
+  orig: 210, 190
+  offset: 2, 4
+  index: 7
+IceSpikes_on_tick
+  rotate: true
+  xy: 179, 211
+  size: 208, 172
+  orig: 210, 190
+  offset: 2, 4
+  index: 8
+IceSpikes_on_tick
+  rotate: true
+  xy: 353, 211
+  size: 208, 172
+  orig: 210, 190
+  offset: 2, 4
+  index: 9
+IceSpikes_on_tick
+  rotate: true
+  xy: 178, 421
+  size: 208, 174
+  orig: 210, 190
+  offset: 2, 4
+  index: 10
+IceSpikes_on_tick
+  rotate: true
+  xy: 1, 421
+  size: 208, 175
+  orig: 210, 190
+  offset: 2, 4
+  index: 11
+IceSpikes_on_tick
+  rotate: true
+  xy: 1, 631
+  size: 208, 175
+  orig: 210, 190
+  offset: 2, 4
+  index: 12
+IceSpikes_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 208, 176
+  orig: 210, 190
+  offset: 2, 4
+  index: 13
+IceSpikes_on_tick
+  rotate: false
+  xy: 211, 1
+  size: 208, 176
+  orig: 210, 190
+  offset: 2, 4
+  index: 14
+IceSpikes_on_tick
+  rotate: false
+  xy: 421, 1
+  size: 208, 176
+  orig: 210, 190
+  offset: 2, 4
+  index: 15
+IceSpikes_on_tick
+  rotate: false
+  xy: 631, 1
+  size: 208, 176
+  orig: 210, 190
+  offset: 2, 4
+  index: 16
+IceSpikes_on_tick
+  rotate: true
+  xy: 841, 1
+  size: 208, 176
+  orig: 210, 190
+  offset: 2, 4
+  index: 17
+IceSpikes_on_tick
+  rotate: true
+  xy: 1, 211
+  size: 208, 176
+  orig: 210, 190
+  offset: 2, 4
+  index: 18
+IceSpikes_on_tick
+  rotate: false
+  xy: 1, 841
+  size: 207, 176
+  orig: 210, 190
+  offset: 3, 4
+  index: 19
+IceSpikes_on_tick
+  rotate: false
+  xy: 210, 841
+  size: 188, 174
+  orig: 210, 190
+  offset: 10, 6
+  index: 20
+IceSpikes_on_tick
+  rotate: false
+  xy: 400, 841
+  size: 188, 174
+  orig: 210, 190
+  offset: 10, 6
+  index: 21
+IceSpikes_on_tick
+  rotate: false
+  xy: 590, 841
+  size: 188, 172
+  orig: 210, 190
+  offset: 10, 6
+  index: 22
+IceSpikes_on_tick
+  rotate: true
+  xy: 684, 421
+  size: 188, 172
+  orig: 210, 190
+  offset: 10, 6
+  index: 23
+IceSpikes_on_tick
+  rotate: true
+  xy: 809, 211
+  size: 188, 170
+  orig: 210, 190
+  offset: 10, 7
+  index: 24
+IceSpikes_on_tick
+  rotate: false
+  xy: 858, 401
+  size: 129, 108
+  orig: 210, 190
+  offset: 32, 69
+  index: 25
+IceSpikes_on_tick
+  rotate: true
+  xy: 858, 511
+  size: 89, 108
+  orig: 210, 190
+  offset: 32, 66
+  index: 26
+IceSpikes_on_tick
+  rotate: true
+  xy: 858, 602
+  size: 89, 107
+  orig: 210, 190
+  offset: 32, 66
+  index: 27

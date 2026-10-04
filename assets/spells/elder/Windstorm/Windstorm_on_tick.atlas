@@ -1,0 +1,214 @@
+Windstorm_on_tick_0.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Windstorm_on_tick
+  rotate: false
+  xy: 1170, 1177
+  size: 574, 376
+  orig: 600, 400
+  offset: 5, 3
+  index: 6
+Windstorm_on_tick
+  rotate: false
+  xy: 1, 1562
+  size: 578, 377
+  orig: 600, 400
+  offset: 4, 5
+  index: 7
+Windstorm_on_tick
+  rotate: false
+  xy: 1, 1178
+  size: 580, 382
+  orig: 600, 400
+  offset: 4, 4
+  index: 8
+Windstorm_on_tick
+  rotate: false
+  xy: 1181, 789
+  size: 582, 386
+  orig: 600, 400
+  offset: 3, 3
+  index: 9
+Windstorm_on_tick
+  rotate: false
+  xy: 1, 398
+  size: 588, 390
+  orig: 600, 400
+  offset: 2, 0
+  index: 10
+Windstorm_on_tick
+  rotate: false
+  xy: 1199, 1
+  size: 591, 392
+  orig: 600, 400
+  offset: 1, 0
+  index: 11
+Windstorm_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 597, 395
+  orig: 600, 400
+  offset: 0, 0
+  index: 12
+Windstorm_on_tick
+  rotate: false
+  xy: 585, 790
+  size: 583, 381
+  orig: 600, 400
+  offset: 10, 8
+  index: 13
+Windstorm_on_tick
+  rotate: false
+  xy: 1165, 1556
+  size: 578, 377
+  orig: 600, 400
+  offset: 4, 5
+  index: 22
+Windstorm_on_tick
+  rotate: false
+  xy: 583, 1556
+  size: 580, 382
+  orig: 600, 400
+  offset: 4, 4
+  index: 23
+Windstorm_on_tick
+  rotate: false
+  xy: 1, 790
+  size: 582, 386
+  orig: 600, 400
+  offset: 3, 3
+  index: 24
+Windstorm_on_tick
+  rotate: false
+  xy: 591, 398
+  size: 588, 390
+  orig: 600, 400
+  offset: 2, 0
+  index: 25
+Windstorm_on_tick
+  rotate: false
+  xy: 1199, 395
+  size: 591, 392
+  orig: 600, 400
+  offset: 1, 0
+  index: 26
+Windstorm_on_tick
+  rotate: false
+  xy: 600, 1
+  size: 597, 395
+  orig: 600, 400
+  offset: 0, 0
+  index: 27
+Windstorm_on_tick
+  rotate: false
+  xy: 585, 1173
+  size: 583, 381
+  orig: 600, 400
+  offset: 10, 8
+  index: 28
+
+Windstorm_on_tick_1.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Windstorm_on_tick
+  rotate: false
+  xy: 1110, 1115
+  size: 533, 353
+  orig: 600, 400
+  offset: 24, 4
+  index: 0
+Windstorm_on_tick
+  rotate: false
+  xy: 561, 1112
+  size: 547, 356
+  orig: 600, 400
+  offset: 16, 5
+  index: 1
+Windstorm_on_tick
+  rotate: false
+  xy: 1129, 752
+  size: 550, 361
+  orig: 600, 400
+  offset: 15, 3
+  index: 2
+Windstorm_on_tick
+  rotate: false
+  xy: 569, 746
+  size: 558, 364
+  orig: 600, 400
+  offset: 11, 4
+  index: 3
+Windstorm_on_tick
+  rotate: false
+  xy: 577, 374
+  size: 566, 370
+  orig: 600, 400
+  offset: 8, 3
+  index: 4
+Windstorm_on_tick
+  rotate: false
+  xy: 577, 1
+  size: 568, 371
+  orig: 600, 400
+  offset: 8, 3
+  index: 5
+Windstorm_on_tick
+  rotate: false
+  xy: 1145, 374
+  size: 563, 376
+  orig: 600, 400
+  offset: 18, 8
+  index: 14
+Windstorm_on_tick
+  rotate: true
+  xy: 1, 1475
+  size: 533, 353
+  orig: 600, 400
+  offset: 24, 4
+  index: 15
+Windstorm_on_tick
+  rotate: false
+  xy: 1, 1117
+  size: 547, 356
+  orig: 600, 400
+  offset: 16, 5
+  index: 16
+Windstorm_on_tick
+  rotate: true
+  xy: 1681, 752
+  size: 550, 361
+  orig: 600, 400
+  offset: 15, 3
+  index: 17
+Windstorm_on_tick
+  rotate: false
+  xy: 1, 751
+  size: 558, 364
+  orig: 600, 400
+  offset: 11, 4
+  index: 18
+Windstorm_on_tick
+  rotate: false
+  xy: 1, 379
+  size: 566, 370
+  orig: 600, 400
+  offset: 8, 3
+  index: 19
+Windstorm_on_tick
+  rotate: false
+  xy: 1147, 1
+  size: 568, 371
+  orig: 600, 400
+  offset: 8, 3
+  index: 20
+Windstorm_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 574, 376
+  orig: 600, 400
+  offset: 5, 3
+  index: 21

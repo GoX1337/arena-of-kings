@@ -1,0 +1,215 @@
+SpiritForm_on_tick_0.png
+size: 1024, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SpiritForm_on_tick
+  rotate: true
+  xy: 431, 1
+  size: 176, 212
+  orig: 300, 300
+  offset: 59, 50
+  index: 0
+SpiritForm_on_tick
+  rotate: true
+  xy: 1, 1089
+  size: 177, 192
+  orig: 300, 300
+  offset: 58, 48
+  index: 1
+SpiritForm_on_tick
+  rotate: true
+  xy: 595, 908
+  size: 178, 194
+  orig: 300, 300
+  offset: 58, 48
+  index: 2
+SpiritForm_on_tick
+  rotate: false
+  xy: 845, 181
+  size: 178, 196
+  orig: 300, 300
+  offset: 58, 47
+  index: 3
+SpiritForm_on_tick
+  rotate: true
+  xy: 809, 379
+  size: 179, 198
+  orig: 300, 300
+  offset: 57, 47
+  index: 4
+SpiritForm_on_tick
+  rotate: true
+  xy: 1, 544
+  size: 180, 199
+  orig: 300, 300
+  offset: 56, 46
+  index: 5
+SpiritForm_on_tick
+  rotate: true
+  xy: 1, 362
+  size: 180, 200
+  orig: 300, 300
+  offset: 56, 46
+  index: 6
+SpiritForm_on_tick
+  rotate: true
+  xy: 1, 180
+  size: 180, 201
+  orig: 300, 300
+  offset: 56, 46
+  index: 7
+SpiritForm_on_tick
+  rotate: true
+  xy: 406, 360
+  size: 180, 200
+  orig: 300, 300
+  offset: 56, 47
+  index: 8
+SpiritForm_on_tick
+  rotate: true
+  xy: 608, 362
+  size: 180, 199
+  orig: 300, 300
+  offset: 56, 47
+  index: 9
+SpiritForm_on_tick
+  rotate: true
+  xy: 202, 546
+  size: 181, 198
+  orig: 300, 300
+  offset: 55, 47
+  index: 10
+SpiritForm_on_tick
+  rotate: true
+  xy: 1, 726
+  size: 181, 198
+  orig: 300, 300
+  offset: 55, 47
+  index: 11
+SpiritForm_on_tick
+  rotate: true
+  xy: 203, 363
+  size: 181, 199
+  orig: 300, 300
+  offset: 55, 47
+  index: 12
+SpiritForm_on_tick
+  rotate: true
+  xy: 204, 180
+  size: 181, 200
+  orig: 300, 300
+  offset: 55, 48
+  index: 13
+SpiritForm_on_tick
+  rotate: true
+  xy: 600, 725
+  size: 181, 194
+  orig: 300, 300
+  offset: 54, 48
+  index: 14
+SpiritForm_on_tick
+  rotate: true
+  xy: 399, 905
+  size: 181, 194
+  orig: 300, 300
+  offset: 54, 48
+  index: 15
+SpiritForm_on_tick
+  rotate: true
+  xy: 796, 739
+  size: 181, 194
+  orig: 300, 300
+  offset: 54, 48
+  index: 16
+SpiritForm_on_tick
+  rotate: true
+  xy: 196, 909
+  size: 181, 192
+  orig: 300, 300
+  offset: 54, 49
+  index: 17
+SpiritForm_on_tick
+  rotate: true
+  xy: 1, 909
+  size: 178, 193
+  orig: 300, 300
+  offset: 55, 49
+  index: 18
+SpiritForm_on_tick
+  rotate: true
+  xy: 791, 922
+  size: 178, 194
+  orig: 300, 300
+  offset: 55, 49
+  index: 19
+SpiritForm_on_tick
+  rotate: true
+  xy: 804, 560
+  size: 177, 196
+  orig: 300, 300
+  offset: 55, 49
+  index: 20
+SpiritForm_on_tick
+  rotate: true
+  xy: 201, 729
+  size: 178, 196
+  orig: 300, 300
+  offset: 55, 49
+  index: 21
+SpiritForm_on_tick
+  rotate: true
+  xy: 605, 544
+  size: 179, 197
+  orig: 300, 300
+  offset: 55, 48
+  index: 22
+SpiritForm_on_tick
+  rotate: true
+  xy: 402, 723
+  size: 180, 196
+  orig: 300, 300
+  offset: 55, 48
+  index: 23
+SpiritForm_on_tick
+  rotate: true
+  xy: 404, 542
+  size: 179, 199
+  orig: 300, 300
+  offset: 56, 48
+  index: 24
+SpiritForm_on_tick
+  rotate: true
+  xy: 641, 181
+  size: 179, 202
+  orig: 300, 300
+  offset: 56, 48
+  index: 25
+SpiritForm_on_tick
+  rotate: true
+  xy: 431, 179
+  size: 179, 208
+  orig: 300, 300
+  offset: 56, 48
+  index: 26
+SpiritForm_on_tick
+  rotate: true
+  xy: 645, 1
+  size: 178, 211
+  orig: 300, 300
+  offset: 57, 48
+  index: 27
+SpiritForm_on_tick
+  rotate: true
+  xy: 1, 1
+  size: 177, 213
+  orig: 300, 300
+  offset: 58, 49
+  index: 28
+SpiritForm_on_tick
+  rotate: true
+  xy: 216, 1
+  size: 177, 213
+  orig: 300, 300
+  offset: 58, 49
+  index: 29

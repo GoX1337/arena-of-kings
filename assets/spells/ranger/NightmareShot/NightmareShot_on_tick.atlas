@@ -1,0 +1,145 @@
+NightmareShot_on_tick-0.png
+size: 512, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NightmareShot_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 250, 100
+  orig: 250, 100
+  offset: 0, 0
+  index: 0
+NightmareShot_on_tick
+  rotate: false
+  xy: 253, 1
+  size: 250, 100
+  orig: 250, 100
+  offset: 0, 0
+  index: 1
+NightmareShot_on_tick
+  rotate: false
+  xy: 1, 103
+  size: 250, 100
+  orig: 250, 100
+  offset: 0, 0
+  index: 2
+NightmareShot_on_tick
+  rotate: false
+  xy: 253, 103
+  size: 250, 100
+  orig: 250, 100
+  offset: 0, 0
+  index: 3
+NightmareShot_on_tick
+  rotate: false
+  xy: 1, 205
+  size: 250, 100
+  orig: 250, 100
+  offset: 0, 0
+  index: 4
+NightmareShot_on_tick
+  rotate: false
+  xy: 253, 205
+  size: 250, 100
+  orig: 250, 100
+  offset: 0, 0
+  index: 5
+NightmareShot_on_tick
+  rotate: false
+  xy: 1, 307
+  size: 250, 100
+  orig: 250, 100
+  offset: 0, 0
+  index: 6
+NightmareShot_on_tick
+  rotate: false
+  xy: 253, 307
+  size: 250, 100
+  orig: 250, 100
+  offset: 0, 0
+  index: 7
+NightmareShot_on_tick
+  rotate: false
+  xy: 1, 409
+  size: 250, 100
+  orig: 250, 100
+  offset: 0, 0
+  index: 8
+NightmareShot_on_tick
+  rotate: false
+  xy: 253, 409
+  size: 250, 100
+  orig: 250, 100
+  offset: 0, 0
+  index: 9
+NightmareShot_on_tick
+  rotate: false
+  xy: 1, 511
+  size: 250, 100
+  orig: 250, 100
+  offset: 0, 0
+  index: 10
+NightmareShot_on_tick
+  rotate: false
+  xy: 253, 511
+  size: 250, 100
+  orig: 250, 100
+  offset: 0, 0
+  index: 11
+NightmareShot_on_tick
+  rotate: false
+  xy: 1, 613
+  size: 250, 100
+  orig: 250, 100
+  offset: 0, 0
+  index: 12
+NightmareShot_on_tick
+  rotate: false
+  xy: 253, 613
+  size: 250, 100
+  orig: 250, 100
+  offset: 0, 0
+  index: 13
+NightmareShot_on_tick
+  rotate: false
+  xy: 1, 715
+  size: 250, 100
+  orig: 250, 100
+  offset: 0, 0
+  index: 14
+NightmareShot_on_tick
+  rotate: false
+  xy: 253, 715
+  size: 250, 100
+  orig: 250, 100
+  offset: 0, 0
+  index: 15
+NightmareShot_on_tick
+  rotate: false
+  xy: 1, 817
+  size: 250, 100
+  orig: 250, 100
+  offset: 0, 0
+  index: 16
+NightmareShot_on_tick
+  rotate: false
+  xy: 1, 919
+  size: 250, 100
+  orig: 250, 100
+  offset: 0, 0
+  index: 17
+NightmareShot_on_tick
+  rotate: false
+  xy: 253, 817
+  size: 250, 100
+  orig: 250, 100
+  offset: 0, 0
+  index: 18
+NightmareShot_on_tick
+  rotate: false
+  xy: 253, 919
+  size: 250, 100
+  orig: 250, 100
+  offset: 0, 0
+  index: 19

@@ -1,0 +1,278 @@
+GraspingVines_on_tick_0.png
+size: 512, 512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GraspingVines_on_tick
+  rotate: false
+  xy: 185, 49
+  size: 11, 19
+  orig: 150, 150
+  offset: 41, 45
+  index: 0
+GraspingVines_on_tick
+  rotate: false
+  xy: 185, 49
+  size: 11, 19
+  orig: 150, 150
+  offset: 41, 45
+  index: 1
+GraspingVines_on_tick
+  rotate: true
+  xy: 475, 1
+  size: 11, 19
+  orig: 150, 150
+  offset: 41, 45
+  index: 2
+GraspingVines_on_tick
+  rotate: true
+  xy: 123, 244
+  size: 43, 42
+  orig: 150, 150
+  offset: 39, 44
+  index: 3
+GraspingVines_on_tick
+  rotate: true
+  xy: 46, 428
+  size: 74, 42
+  orig: 150, 150
+  offset: 39, 44
+  index: 4
+GraspingVines_on_tick
+  rotate: true
+  xy: 461, 131
+  size: 80, 43
+  orig: 150, 150
+  offset: 33, 44
+  index: 5
+GraspingVines_on_tick
+  rotate: true
+  xy: 1, 428
+  size: 80, 43
+  orig: 150, 150
+  offset: 33, 44
+  index: 6
+GraspingVines_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 97, 46
+  orig: 150, 150
+  offset: 33, 44
+  index: 7
+GraspingVines_on_tick
+  rotate: false
+  xy: 100, 1
+  size: 97, 46
+  orig: 150, 150
+  offset: 33, 44
+  index: 8
+GraspingVines_on_tick
+  rotate: true
+  xy: 64, 244
+  size: 89, 57
+  orig: 150, 150
+  offset: 33, 44
+  index: 9
+GraspingVines_on_tick
+  rotate: false
+  xy: 90, 428
+  size: 89, 57
+  orig: 150, 150
+  offset: 33, 44
+  index: 10
+GraspingVines_on_tick
+  rotate: true
+  xy: 119, 335
+  size: 89, 57
+  orig: 150, 150
+  offset: 33, 42
+  index: 11
+GraspingVines_on_tick
+  rotate: true
+  xy: 1, 336
+  size: 90, 57
+  orig: 150, 150
+  offset: 33, 42
+  index: 12
+GraspingVines_on_tick
+  rotate: true
+  xy: 60, 336
+  size: 90, 57
+  orig: 150, 150
+  offset: 33, 42
+  index: 13
+GraspingVines_on_tick
+  rotate: true
+  xy: 1, 244
+  size: 90, 61
+  orig: 150, 150
+  offset: 33, 42
+  index: 14
+GraspingVines_on_tick
+  rotate: true
+  xy: 1, 244
+  size: 90, 61
+  orig: 150, 150
+  offset: 33, 42
+  index: 15
+GraspingVines_on_tick
+  rotate: false
+  xy: 199, 1
+  size: 90, 63
+  orig: 150, 150
+  offset: 33, 42
+  index: 16
+GraspingVines_on_tick
+  rotate: false
+  xy: 1, 49
+  size: 90, 63
+  orig: 150, 150
+  offset: 33, 42
+  index: 17
+GraspingVines_on_tick
+  rotate: false
+  xy: 1, 49
+  size: 90, 63
+  orig: 150, 150
+  offset: 33, 42
+  index: 18
+GraspingVines_on_tick
+  rotate: false
+  xy: 93, 49
+  size: 90, 63
+  orig: 150, 150
+  offset: 33, 42
+  index: 19
+GraspingVines_on_tick
+  rotate: false
+  xy: 93, 49
+  size: 90, 63
+  orig: 150, 150
+  offset: 33, 42
+  index: 20
+GraspingVines_on_tick
+  rotate: false
+  xy: 93, 49
+  size: 90, 63
+  orig: 150, 150
+  offset: 33, 42
+  index: 21
+GraspingVines_on_tick
+  rotate: false
+  xy: 291, 1
+  size: 90, 63
+  orig: 150, 150
+  offset: 33, 42
+  index: 22
+GraspingVines_on_tick
+  rotate: false
+  xy: 383, 1
+  size: 90, 63
+  orig: 150, 150
+  offset: 33, 42
+  index: 23
+GraspingVines_on_tick
+  rotate: false
+  xy: 383, 1
+  size: 90, 63
+  orig: 150, 150
+  offset: 33, 42
+  index: 24
+GraspingVines_on_tick
+  rotate: false
+  xy: 198, 66
+  size: 90, 63
+  orig: 150, 150
+  offset: 33, 42
+  index: 25
+GraspingVines_on_tick
+  rotate: false
+  xy: 1, 114
+  size: 90, 63
+  orig: 150, 150
+  offset: 33, 42
+  index: 26
+GraspingVines_on_tick
+  rotate: false
+  xy: 1, 114
+  size: 90, 63
+  orig: 150, 150
+  offset: 33, 42
+  index: 27
+GraspingVines_on_tick
+  rotate: false
+  xy: 93, 114
+  size: 90, 63
+  orig: 150, 150
+  offset: 33, 42
+  index: 28
+GraspingVines_on_tick
+  rotate: false
+  xy: 93, 114
+  size: 90, 63
+  orig: 150, 150
+  offset: 33, 42
+  index: 29
+GraspingVines_on_tick
+  rotate: false
+  xy: 93, 114
+  size: 90, 63
+  orig: 150, 150
+  offset: 33, 42
+  index: 30
+GraspingVines_on_tick
+  rotate: false
+  xy: 290, 66
+  size: 90, 63
+  orig: 150, 150
+  offset: 33, 42
+  index: 31
+GraspingVines_on_tick
+  rotate: false
+  xy: 382, 66
+  size: 90, 63
+  orig: 150, 150
+  offset: 33, 42
+  index: 32
+GraspingVines_on_tick
+  rotate: false
+  xy: 185, 131
+  size: 90, 63
+  orig: 150, 150
+  offset: 33, 42
+  index: 33
+GraspingVines_on_tick
+  rotate: false
+  xy: 185, 131
+  size: 90, 63
+  orig: 150, 150
+  offset: 33, 42
+  index: 34
+GraspingVines_on_tick
+  rotate: false
+  xy: 1, 179
+  size: 90, 63
+  orig: 150, 150
+  offset: 33, 42
+  index: 35
+GraspingVines_on_tick
+  rotate: false
+  xy: 93, 179
+  size: 90, 63
+  orig: 150, 150
+  offset: 33, 42
+  index: 36
+GraspingVines_on_tick
+  rotate: false
+  xy: 277, 131
+  size: 90, 63
+  orig: 150, 150
+  offset: 33, 42
+  index: 37
+GraspingVines_on_tick
+  rotate: false
+  xy: 369, 131
+  size: 90, 63
+  orig: 150, 150
+  offset: 33, 42
+  index: 38

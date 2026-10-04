@@ -1,0 +1,124 @@
+AstralShock_on_tick_0.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AstralShock_on_tick
+  rotate: false
+  xy: 603, 502
+  size: 166, 164
+  orig: 250, 250
+  offset: 43, 52
+  index: 0
+AstralShock_on_tick
+  rotate: false
+  xy: 379, 515
+  size: 166, 164
+  orig: 250, 250
+  offset: 43, 52
+  index: 1
+AstralShock_on_tick
+  rotate: true
+  xy: 1, 529
+  size: 168, 173
+  orig: 250, 250
+  offset: 43, 48
+  index: 2
+AstralShock_on_tick
+  rotate: false
+  xy: 202, 505
+  size: 175, 148
+  orig: 250, 250
+  offset: 37, 57
+  index: 3
+AstralShock_on_tick
+  rotate: false
+  xy: 418, 358
+  size: 183, 155
+  orig: 250, 250
+  offset: 32, 55
+  index: 4
+AstralShock_on_tick
+  rotate: false
+  xy: 1, 360
+  size: 199, 167
+  orig: 250, 250
+  offset: 25, 49
+  index: 5
+AstralShock_on_tick
+  rotate: false
+  xy: 1, 184
+  size: 208, 174
+  orig: 250, 250
+  offset: 20, 46
+  index: 6
+AstralShock_on_tick
+  rotate: false
+  xy: 463, 178
+  size: 217, 178
+  orig: 250, 250
+  offset: 16, 44
+  index: 7
+AstralShock_on_tick
+  rotate: false
+  xy: 690, 173
+  size: 222, 182
+  orig: 250, 250
+  offset: 14, 42
+  index: 8
+AstralShock_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 229, 181
+  orig: 250, 250
+  offset: 12, 41
+  index: 9
+AstralShock_on_tick
+  rotate: false
+  xy: 232, 1
+  size: 229, 176
+  orig: 250, 250
+  offset: 14, 41
+  index: 10
+AstralShock_on_tick
+  rotate: false
+  xy: 463, 1
+  size: 225, 175
+  orig: 250, 250
+  offset: 18, 41
+  index: 11
+AstralShock_on_tick
+  rotate: false
+  xy: 690, 1
+  size: 225, 170
+  orig: 250, 250
+  offset: 16, 41
+  index: 12
+AstralShock_on_tick
+  rotate: false
+  xy: 232, 179
+  size: 214, 164
+  orig: 250, 250
+  offset: 14, 41
+  index: 13
+AstralShock_on_tick
+  rotate: false
+  xy: 211, 345
+  size: 205, 158
+  orig: 250, 250
+  offset: 14, 45
+  index: 14
+AstralShock_on_tick
+  rotate: false
+  xy: 682, 357
+  size: 197, 143
+  orig: 250, 250
+  offset: 17, 49
+  index: 15
+AstralShock_on_tick
+  rotate: true
+  xy: 881, 357
+  size: 187, 140
+  orig: 250, 250
+  offset: 21, 51
+  index: 16

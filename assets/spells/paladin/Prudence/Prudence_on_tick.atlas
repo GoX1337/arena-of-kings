@@ -1,0 +1,312 @@
+Prudence_on_tick-0.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Prudence_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 250, 350
+  orig: 250, 350
+  offset: 0, 0
+  index: 0
+Prudence_on_tick
+  rotate: false
+  xy: 1, 353
+  size: 250, 350
+  orig: 250, 350
+  offset: 0, 0
+  index: 1
+Prudence_on_tick
+  rotate: false
+  xy: 1, 705
+  size: 250, 350
+  orig: 250, 350
+  offset: 0, 0
+  index: 2
+Prudence_on_tick
+  rotate: false
+  xy: 1, 1057
+  size: 250, 350
+  orig: 250, 350
+  offset: 0, 0
+  index: 3
+Prudence_on_tick
+  rotate: false
+  xy: 1, 1409
+  size: 250, 350
+  orig: 250, 350
+  offset: 0, 0
+  index: 4
+Prudence_on_tick
+  rotate: false
+  xy: 253, 1
+  size: 250, 350
+  orig: 250, 350
+  offset: 0, 0
+  index: 5
+Prudence_on_tick
+  rotate: false
+  xy: 505, 1
+  size: 250, 350
+  orig: 250, 350
+  offset: 0, 0
+  index: 6
+Prudence_on_tick
+  rotate: false
+  xy: 757, 1
+  size: 250, 350
+  orig: 250, 350
+  offset: 0, 0
+  index: 7
+Prudence_on_tick
+  rotate: false
+  xy: 1009, 1
+  size: 250, 350
+  orig: 250, 350
+  offset: 0, 0
+  index: 8
+Prudence_on_tick
+  rotate: false
+  xy: 1261, 1
+  size: 250, 350
+  orig: 250, 350
+  offset: 0, 0
+  index: 9
+Prudence_on_tick
+  rotate: false
+  xy: 1513, 1
+  size: 250, 350
+  orig: 250, 350
+  offset: 0, 0
+  index: 10
+Prudence_on_tick
+  rotate: false
+  xy: 1765, 1
+  size: 250, 350
+  orig: 250, 350
+  offset: 0, 0
+  index: 11
+Prudence_on_tick
+  rotate: false
+  xy: 253, 353
+  size: 250, 350
+  orig: 250, 350
+  offset: 0, 0
+  index: 12
+Prudence_on_tick
+  rotate: false
+  xy: 253, 705
+  size: 250, 350
+  orig: 250, 350
+  offset: 0, 0
+  index: 13
+Prudence_on_tick
+  rotate: false
+  xy: 253, 1057
+  size: 250, 350
+  orig: 250, 350
+  offset: 0, 0
+  index: 14
+Prudence_on_tick
+  rotate: false
+  xy: 253, 1409
+  size: 250, 350
+  orig: 250, 350
+  offset: 0, 0
+  index: 15
+Prudence_on_tick
+  rotate: false
+  xy: 505, 353
+  size: 250, 350
+  orig: 250, 350
+  offset: 0, 0
+  index: 16
+Prudence_on_tick
+  rotate: false
+  xy: 505, 705
+  size: 250, 350
+  orig: 250, 350
+  offset: 0, 0
+  index: 17
+Prudence_on_tick
+  rotate: false
+  xy: 505, 1057
+  size: 250, 350
+  orig: 250, 350
+  offset: 0, 0
+  index: 18
+Prudence_on_tick
+  rotate: false
+  xy: 505, 1409
+  size: 250, 350
+  orig: 250, 350
+  offset: 0, 0
+  index: 19
+Prudence_on_tick
+  rotate: false
+  xy: 757, 353
+  size: 250, 350
+  orig: 250, 350
+  offset: 0, 0
+  index: 20
+Prudence_on_tick
+  rotate: false
+  xy: 1009, 353
+  size: 250, 350
+  orig: 250, 350
+  offset: 0, 0
+  index: 21
+Prudence_on_tick
+  rotate: false
+  xy: 1261, 353
+  size: 250, 350
+  orig: 250, 350
+  offset: 0, 0
+  index: 22
+Prudence_on_tick
+  rotate: false
+  xy: 1513, 353
+  size: 250, 350
+  orig: 250, 350
+  offset: 0, 0
+  index: 23
+Prudence_on_tick
+  rotate: false
+  xy: 1765, 353
+  size: 250, 350
+  orig: 250, 350
+  offset: 0, 0
+  index: 24
+Prudence_on_tick
+  rotate: false
+  xy: 757, 705
+  size: 250, 350
+  orig: 250, 350
+  offset: 0, 0
+  index: 25
+Prudence_on_tick
+  rotate: false
+  xy: 757, 1057
+  size: 250, 350
+  orig: 250, 350
+  offset: 0, 0
+  index: 26
+Prudence_on_tick
+  rotate: false
+  xy: 757, 1409
+  size: 250, 350
+  orig: 250, 350
+  offset: 0, 0
+  index: 27
+Prudence_on_tick
+  rotate: false
+  xy: 1009, 705
+  size: 250, 350
+  orig: 250, 350
+  offset: 0, 0
+  index: 28
+Prudence_on_tick
+  rotate: false
+  xy: 1261, 705
+  size: 250, 350
+  orig: 250, 350
+  offset: 0, 0
+  index: 29
+Prudence_on_tick
+  rotate: false
+  xy: 1513, 705
+  size: 250, 350
+  orig: 250, 350
+  offset: 0, 0
+  index: 30
+Prudence_on_tick
+  rotate: false
+  xy: 1765, 705
+  size: 250, 350
+  orig: 250, 350
+  offset: 0, 0
+  index: 31
+Prudence_on_tick
+  rotate: false
+  xy: 1009, 1057
+  size: 250, 350
+  orig: 250, 350
+  offset: 0, 0
+  index: 32
+Prudence_on_tick
+  rotate: false
+  xy: 1009, 1409
+  size: 250, 350
+  orig: 250, 350
+  offset: 0, 0
+  index: 33
+Prudence_on_tick
+  rotate: false
+  xy: 1261, 1057
+  size: 250, 350
+  orig: 250, 350
+  offset: 0, 0
+  index: 34
+Prudence_on_tick
+  rotate: false
+  xy: 1513, 1057
+  size: 250, 350
+  orig: 250, 350
+  offset: 0, 0
+  index: 35
+Prudence_on_tick
+  rotate: false
+  xy: 1765, 1057
+  size: 250, 350
+  orig: 250, 350
+  offset: 0, 0
+  index: 36
+Prudence_on_tick
+  rotate: false
+  xy: 1261, 1409
+  size: 250, 350
+  orig: 250, 350
+  offset: 0, 0
+  index: 37
+Prudence_on_tick
+  rotate: false
+  xy: 1513, 1409
+  size: 250, 350
+  orig: 250, 350
+  offset: 0, 0
+  index: 38
+Prudence_on_tick
+  rotate: false
+  xy: 1765, 1409
+  size: 250, 350
+  orig: 250, 350
+  offset: 0, 0
+  index: 39
+
+Prudence_on_tick-1.png
+size: 512, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Prudence_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 250, 350
+  orig: 250, 350
+  offset: 0, 0
+  index: 40
+Prudence_on_tick
+  rotate: false
+  xy: 253, 1
+  size: 250, 350
+  orig: 250, 350
+  offset: 0, 0
+  index: 41
+Prudence_on_tick
+  rotate: false
+  xy: 1, 353
+  size: 250, 350
+  orig: 250, 350
+  offset: 0, 0
+  index: 42

@@ -1,0 +1,278 @@
+EmbraceShadows_on_tick_0.png
+size: 1024, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EmbraceShadows_on_tick
+  rotate: false
+  xy: 907, 941
+  size: 84, 193
+  orig: 300, 300
+  offset: 101, 0
+  index: 0
+EmbraceShadows_on_tick
+  rotate: false
+  xy: 907, 729
+  size: 90, 210
+  orig: 300, 300
+  offset: 98, 0
+  index: 1
+EmbraceShadows_on_tick
+  rotate: false
+  xy: 907, 499
+  size: 96, 228
+  orig: 300, 300
+  offset: 95, 0
+  index: 2
+EmbraceShadows_on_tick
+  rotate: false
+  xy: 907, 260
+  size: 98, 237
+  orig: 300, 300
+  offset: 94, 0
+  index: 3
+EmbraceShadows_on_tick
+  rotate: false
+  xy: 907, 1
+  size: 103, 257
+  orig: 300, 300
+  offset: 91, 0
+  index: 4
+EmbraceShadows_on_tick
+  rotate: true
+  xy: 282, 1341
+  size: 120, 277
+  orig: 300, 300
+  offset: 76, 0
+  index: 5
+EmbraceShadows_on_tick
+  rotate: true
+  xy: 1, 1138
+  size: 123, 288
+  orig: 300, 300
+  offset: 74, 0
+  index: 6
+EmbraceShadows_on_tick
+  rotate: true
+  xy: 605, 820
+  size: 128, 300
+  orig: 300, 300
+  offset: 71, 0
+  index: 7
+EmbraceShadows_on_tick
+  rotate: true
+  xy: 1, 1005
+  size: 131, 290
+  orig: 300, 300
+  offset: 70, 0
+  index: 8
+EmbraceShadows_on_tick
+  rotate: true
+  xy: 605, 682
+  size: 136, 300
+  orig: 300, 300
+  offset: 68, 0
+  index: 9
+EmbraceShadows_on_tick
+  rotate: true
+  xy: 602, 950
+  size: 142, 298
+  orig: 300, 300
+  offset: 66, 0
+  index: 10
+EmbraceShadows_on_tick
+  rotate: true
+  xy: 1, 684
+  size: 147, 300
+  orig: 300, 300
+  offset: 64, 0
+  index: 11
+EmbraceShadows_on_tick
+  rotate: true
+  xy: 303, 679
+  size: 152, 300
+  orig: 300, 300
+  offset: 63, 0
+  index: 12
+EmbraceShadows_on_tick
+  rotate: true
+  xy: 302, 1004
+  size: 157, 293
+  orig: 300, 300
+  offset: 62, 0
+  index: 13
+EmbraceShadows_on_tick
+  rotate: true
+  xy: 303, 516
+  size: 161, 300
+  orig: 300, 300
+  offset: 61, 0
+  index: 14
+EmbraceShadows_on_tick
+  rotate: true
+  xy: 1, 348
+  size: 166, 300
+  orig: 300, 300
+  offset: 59, 0
+  index: 15
+EmbraceShadows_on_tick
+  rotate: true
+  xy: 605, 1
+  size: 170, 300
+  orig: 300, 300
+  offset: 58, 0
+  index: 16
+EmbraceShadows_on_tick
+  rotate: true
+  xy: 1, 178
+  size: 168, 300
+  orig: 300, 300
+  offset: 58, 0
+  index: 17
+EmbraceShadows_on_tick
+  rotate: true
+  xy: 605, 173
+  size: 169, 300
+  orig: 300, 300
+  offset: 56, 0
+  index: 18
+EmbraceShadows_on_tick
+  rotate: true
+  xy: 303, 1
+  size: 173, 300
+  orig: 300, 300
+  offset: 56, 0
+  index: 19
+EmbraceShadows_on_tick
+  rotate: true
+  xy: 1, 1
+  size: 175, 300
+  orig: 300, 300
+  offset: 55, 0
+  index: 20
+EmbraceShadows_on_tick
+  rotate: true
+  xy: 291, 1163
+  size: 176, 279
+  orig: 300, 300
+  offset: 54, 0
+  index: 21
+EmbraceShadows_on_tick
+  rotate: true
+  xy: 605, 514
+  size: 166, 300
+  orig: 300, 300
+  offset: 62, 0
+  index: 22
+EmbraceShadows_on_tick
+  rotate: true
+  xy: 605, 344
+  size: 168, 300
+  orig: 300, 300
+  offset: 61, 0
+  index: 23
+EmbraceShadows_on_tick
+  rotate: true
+  xy: 1, 833
+  size: 170, 299
+  orig: 300, 300
+  offset: 60, 1
+  index: 24
+EmbraceShadows_on_tick
+  rotate: true
+  xy: 302, 833
+  size: 169, 298
+  orig: 300, 300
+  offset: 62, 2
+  index: 25
+EmbraceShadows_on_tick
+  rotate: true
+  xy: 1, 516
+  size: 166, 300
+  orig: 300, 300
+  offset: 66, 0
+  index: 26
+EmbraceShadows_on_tick
+  rotate: true
+  xy: 303, 347
+  size: 167, 300
+  orig: 300, 300
+  offset: 65, 0
+  index: 27
+EmbraceShadows_on_tick
+  rotate: true
+  xy: 303, 176
+  size: 169, 300
+  orig: 300, 300
+  offset: 64, 0
+  index: 28
+EmbraceShadows_on_tick
+  rotate: true
+  xy: 597, 1094
+  size: 169, 287
+  orig: 300, 300
+  offset: 63, 0
+  index: 29
+EmbraceShadows_on_tick
+  rotate: false
+  xy: 852, 1376
+  size: 163, 276
+  orig: 300, 300
+  offset: 62, 0
+  index: 30
+EmbraceShadows_on_tick
+  rotate: true
+  xy: 561, 1417
+  size: 148, 264
+  orig: 300, 300
+  offset: 61, 0
+  index: 31
+EmbraceShadows_on_tick
+  rotate: true
+  xy: 572, 1265
+  size: 150, 278
+  orig: 300, 300
+  offset: 60, 0
+  index: 32
+EmbraceShadows_on_tick
+  rotate: true
+  xy: 1, 1555
+  size: 151, 256
+  orig: 300, 300
+  offset: 60, 0
+  index: 33
+EmbraceShadows_on_tick
+  rotate: true
+  xy: 1, 1406
+  size: 147, 266
+  orig: 300, 300
+  offset: 65, 0
+  index: 34
+EmbraceShadows_on_tick
+  rotate: true
+  xy: 1, 1263
+  size: 141, 279
+  orig: 300, 300
+  offset: 71, 0
+  index: 35
+EmbraceShadows_on_tick
+  rotate: true
+  xy: 269, 1463
+  size: 140, 264
+  orig: 300, 300
+  offset: 72, 0
+  index: 36
+EmbraceShadows_on_tick
+  rotate: true
+  xy: 535, 1567
+  size: 139, 238
+  orig: 300, 300
+  offset: 72, 0
+  index: 37
+EmbraceShadows_on_tick
+  rotate: false
+  xy: 886, 1136
+  size: 132, 238
+  orig: 300, 300
+  offset: 74, 0
+  index: 38

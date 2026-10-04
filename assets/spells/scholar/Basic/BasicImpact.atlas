@@ -1,0 +1,124 @@
+BasicImpact-0.png
+size: 1024, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BasicImpact_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: 0
+BasicImpact_on_tick
+  rotate: false
+  xy: 263, 1
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: 1
+BasicImpact_on_tick
+  rotate: false
+  xy: 525, 1
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: 2
+BasicImpact_on_tick
+  rotate: false
+  xy: 1, 263
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: 3
+BasicImpact_on_tick
+  rotate: false
+  xy: 263, 263
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: 4
+BasicImpact_on_tick
+  rotate: false
+  xy: 525, 263
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: 5
+BasicImpact_on_tick
+  rotate: false
+  xy: 1, 525
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: 6
+BasicImpact_on_tick
+  rotate: false
+  xy: 263, 525
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: 7
+BasicImpact_on_tick
+  rotate: false
+  xy: 525, 525
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: 8
+BasicImpact_on_tick
+  rotate: false
+  xy: 1, 787
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: 9
+BasicImpact_on_tick
+  rotate: false
+  xy: 263, 787
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: 10
+BasicImpact_on_tick
+  rotate: false
+  xy: 525, 787
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: 11
+BasicImpact_on_tick
+  rotate: false
+  xy: 1, 1049
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: 12
+BasicImpact_on_tick
+  rotate: false
+  xy: 1, 1311
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: 13
+BasicImpact_on_tick
+  rotate: false
+  xy: 1, 1573
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: 14
+BasicImpact_on_tick
+  rotate: false
+  xy: 263, 1049
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: 15
+BasicImpact_on_tick
+  rotate: false
+  xy: 525, 1049
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: 16

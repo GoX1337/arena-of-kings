@@ -1,0 +1,215 @@
+Hobble_on_tick_0.png
+size: 512, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hobble_on_tick
+  rotate: false
+  xy: 141, 1
+  size: 138, 94
+  orig: 200, 200
+  offset: 34, 48
+  index: 0
+Hobble_on_tick
+  rotate: true
+  xy: 420, 1
+  size: 136, 91
+  orig: 200, 200
+  offset: 34, 50
+  index: 1
+Hobble_on_tick
+  rotate: false
+  xy: 1, 98
+  size: 131, 88
+  orig: 200, 200
+  offset: 35, 51
+  index: 2
+Hobble_on_tick
+  rotate: true
+  xy: 418, 139
+  size: 123, 93
+  orig: 200, 200
+  offset: 38, 51
+  index: 3
+Hobble_on_tick
+  rotate: false
+  xy: 380, 328
+  size: 118, 85
+  orig: 200, 200
+  offset: 42, 57
+  index: 4
+Hobble_on_tick
+  rotate: false
+  xy: 1, 459
+  size: 111, 78
+  orig: 200, 200
+  offset: 46, 61
+  index: 5
+Hobble_on_tick
+  rotate: false
+  xy: 114, 532
+  size: 99, 69
+  orig: 200, 200
+  offset: 51, 65
+  index: 6
+Hobble_on_tick
+  rotate: false
+  xy: 102, 603
+  size: 86, 60
+  orig: 200, 200
+  offset: 57, 68
+  index: 7
+Hobble_on_tick
+  rotate: false
+  xy: 215, 539
+  size: 97, 76
+  orig: 200, 200
+  offset: 40, 46
+  index: 8
+Hobble_on_tick
+  rotate: false
+  xy: 1, 278
+  size: 125, 86
+  orig: 200, 200
+  offset: 39, 46
+  index: 9
+Hobble_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 138, 95
+  orig: 200, 200
+  offset: 34, 47
+  index: 10
+Hobble_on_tick
+  rotate: false
+  xy: 280, 99
+  size: 136, 92
+  orig: 200, 200
+  offset: 34, 49
+  index: 11
+Hobble_on_tick
+  rotate: false
+  xy: 1, 188
+  size: 131, 88
+  orig: 200, 200
+  offset: 35, 51
+  index: 12
+Hobble_on_tick
+  rotate: false
+  xy: 1, 366
+  size: 123, 91
+  orig: 200, 200
+  offset: 38, 53
+  index: 13
+Hobble_on_tick
+  rotate: false
+  xy: 248, 374
+  size: 118, 84
+  orig: 200, 200
+  offset: 42, 58
+  index: 14
+Hobble_on_tick
+  rotate: false
+  xy: 368, 415
+  size: 111, 77
+  orig: 200, 200
+  offset: 46, 62
+  index: 15
+Hobble_on_tick
+  rotate: false
+  xy: 1, 539
+  size: 99, 69
+  orig: 200, 200
+  offset: 51, 65
+  index: 16
+Hobble_on_tick
+  rotate: false
+  xy: 1, 610
+  size: 86, 60
+  orig: 200, 200
+  offset: 57, 68
+  index: 17
+Hobble_on_tick
+  rotate: false
+  xy: 394, 264
+  size: 114, 62
+  orig: 200, 200
+  offset: 46, 60
+  index: 18
+Hobble_on_tick
+  rotate: false
+  xy: 128, 280
+  size: 125, 85
+  orig: 200, 200
+  offset: 39, 46
+  index: 19
+Hobble_on_tick
+  rotate: false
+  xy: 281, 1
+  size: 137, 96
+  orig: 200, 200
+  offset: 35, 46
+  index: 20
+Hobble_on_tick
+  rotate: false
+  xy: 141, 97
+  size: 137, 92
+  orig: 200, 200
+  offset: 33, 49
+  index: 21
+Hobble_on_tick
+  rotate: false
+  xy: 134, 191
+  size: 131, 87
+  orig: 200, 200
+  offset: 35, 52
+  index: 22
+Hobble_on_tick
+  rotate: false
+  xy: 255, 281
+  size: 123, 91
+  orig: 200, 200
+  offset: 38, 53
+  index: 23
+Hobble_on_tick
+  rotate: false
+  xy: 126, 446
+  size: 118, 84
+  orig: 200, 200
+  offset: 42, 58
+  index: 24
+Hobble_on_tick
+  rotate: false
+  xy: 246, 460
+  size: 111, 77
+  orig: 200, 200
+  offset: 46, 62
+  index: 25
+Hobble_on_tick
+  rotate: false
+  xy: 359, 494
+  size: 99, 69
+  orig: 200, 200
+  offset: 51, 65
+  index: 26
+Hobble_on_tick
+  rotate: false
+  xy: 314, 565
+  size: 86, 60
+  orig: 200, 200
+  offset: 57, 68
+  index: 27
+Hobble_on_tick
+  rotate: false
+  xy: 126, 367
+  size: 120, 77
+  orig: 200, 200
+  offset: 40, 45
+  index: 28
+Hobble_on_tick
+  rotate: false
+  xy: 267, 193
+  size: 125, 86
+  orig: 200, 200
+  offset: 39, 46
+  index: 29

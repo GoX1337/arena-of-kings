@@ -1,0 +1,187 @@
+Combust_on_tick_0.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Combust_on_tick
+  rotate: true
+  xy: 139, 978
+  size: 41, 37
+  orig: 150, 150
+  offset: 60, 56
+  index: 0
+Combust_on_tick
+  rotate: true
+  xy: 362, 943
+  size: 67, 62
+  orig: 150, 150
+  offset: 47, 44
+  index: 1
+Combust_on_tick
+  rotate: false
+  xy: 275, 943
+  size: 85, 75
+  orig: 150, 150
+  offset: 37, 39
+  index: 2
+Combust_on_tick
+  rotate: true
+  xy: 400, 690
+  size: 121, 109
+  orig: 150, 150
+  offset: 16, 24
+  index: 3
+Combust_on_tick
+  rotate: false
+  xy: 139, 841
+  size: 134, 135
+  orig: 150, 150
+  offset: 7, 8
+  index: 4
+Combust_on_tick
+  rotate: false
+  xy: 136, 565
+  size: 134, 136
+  orig: 150, 150
+  offset: 7, 7
+  index: 5
+Combust_on_tick
+  rotate: false
+  xy: 1, 707
+  size: 136, 138
+  orig: 150, 150
+  offset: 6, 7
+  index: 6
+Combust_on_tick
+  rotate: false
+  xy: 138, 1
+  size: 135, 139
+  orig: 150, 150
+  offset: 6, 6
+  index: 7
+Combust_on_tick
+  rotate: false
+  xy: 136, 425
+  size: 134, 138
+  orig: 150, 150
+  offset: 7, 7
+  index: 8
+Combust_on_tick
+  rotate: false
+  xy: 1, 425
+  size: 133, 139
+  orig: 150, 150
+  offset: 8, 6
+  index: 9
+Combust_on_tick
+  rotate: false
+  xy: 1, 566
+  size: 133, 139
+  orig: 150, 150
+  offset: 8, 6
+  index: 10
+Combust_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 135, 140
+  orig: 150, 150
+  offset: 8, 5
+  index: 11
+Combust_on_tick
+  rotate: false
+  xy: 1, 284
+  size: 135, 139
+  orig: 150, 150
+  offset: 8, 6
+  index: 12
+Combust_on_tick
+  rotate: false
+  xy: 1, 143
+  size: 137, 139
+  orig: 150, 150
+  offset: 7, 6
+  index: 13
+Combust_on_tick
+  rotate: false
+  xy: 1, 847
+  size: 136, 138
+  orig: 150, 150
+  offset: 8, 6
+  index: 14
+Combust_on_tick
+  rotate: false
+  xy: 138, 284
+  size: 136, 137
+  orig: 150, 150
+  offset: 8, 7
+  index: 15
+Combust_on_tick
+  rotate: false
+  xy: 140, 142
+  size: 136, 137
+  orig: 150, 150
+  offset: 8, 7
+  index: 16
+Combust_on_tick
+  rotate: false
+  xy: 275, 1
+  size: 134, 137
+  orig: 150, 150
+  offset: 9, 7
+  index: 17
+Combust_on_tick
+  rotate: false
+  xy: 139, 703
+  size: 134, 136
+  orig: 150, 150
+  offset: 9, 7
+  index: 18
+Combust_on_tick
+  rotate: false
+  xy: 272, 423
+  size: 133, 134
+  orig: 150, 150
+  offset: 9, 8
+  index: 19
+Combust_on_tick
+  rotate: true
+  xy: 276, 281
+  size: 133, 132
+  orig: 150, 150
+  offset: 9, 9
+  index: 20
+Combust_on_tick
+  rotate: true
+  xy: 278, 140
+  size: 131, 130
+  orig: 150, 150
+  offset: 10, 9
+  index: 21
+Combust_on_tick
+  rotate: true
+  xy: 272, 559
+  size: 129, 128
+  orig: 150, 150
+  offset: 11, 10
+  index: 22
+Combust_on_tick
+  rotate: true
+  xy: 275, 690
+  size: 126, 123
+  orig: 150, 150
+  offset: 13, 14
+  index: 23
+Combust_on_tick
+  rotate: true
+  xy: 275, 818
+  size: 123, 119
+  orig: 150, 150
+  offset: 15, 16
+  index: 24
+Combust_on_tick
+  rotate: true
+  xy: 396, 818
+  size: 121, 116
+  orig: 150, 150
+  offset: 16, 18
+  index: 25

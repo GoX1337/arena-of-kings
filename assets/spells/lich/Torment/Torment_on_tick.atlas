@@ -1,0 +1,243 @@
+Torment_on_tick_0.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Torment_on_tick
+  rotate: false
+  xy: 778, 116
+  size: 151, 53
+  orig: 300, 300
+  offset: 77, 57
+  index: 0
+Torment_on_tick
+  rotate: false
+  xy: 625, 91
+  size: 151, 72
+  orig: 300, 300
+  offset: 77, 51
+  index: 1
+Torment_on_tick
+  rotate: false
+  xy: 625, 1
+  size: 152, 88
+  orig: 300, 300
+  offset: 77, 45
+  index: 2
+Torment_on_tick
+  rotate: false
+  xy: 470, 1
+  size: 153, 104
+  orig: 300, 300
+  offset: 77, 37
+  index: 3
+Torment_on_tick
+  rotate: false
+  xy: 314, 1
+  size: 154, 109
+  orig: 300, 300
+  offset: 77, 37
+  index: 4
+Torment_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 155, 112
+  orig: 300, 300
+  offset: 77, 37
+  index: 5
+Torment_on_tick
+  rotate: false
+  xy: 158, 1
+  size: 154, 112
+  orig: 300, 300
+  offset: 79, 37
+  index: 6
+Torment_on_tick
+  rotate: false
+  xy: 779, 1
+  size: 151, 113
+  orig: 300, 300
+  offset: 81, 36
+  index: 7
+Torment_on_tick
+  rotate: false
+  xy: 470, 107
+  size: 149, 114
+  orig: 300, 300
+  offset: 81, 35
+  index: 8
+Torment_on_tick
+  rotate: false
+  xy: 314, 112
+  size: 149, 114
+  orig: 300, 300
+  offset: 80, 35
+  index: 9
+Torment_on_tick
+  rotate: true
+  xy: 909, 190
+  size: 138, 114
+  orig: 300, 300
+  offset: 79, 35
+  index: 10
+Torment_on_tick
+  rotate: false
+  xy: 609, 300
+  size: 139, 123
+  orig: 300, 300
+  offset: 78, 34
+  index: 11
+Torment_on_tick
+  rotate: false
+  xy: 765, 292
+  size: 140, 131
+  orig: 300, 300
+  offset: 77, 34
+  index: 12
+Torment_on_tick
+  rotate: false
+  xy: 621, 165
+  size: 142, 133
+  orig: 300, 300
+  offset: 75, 36
+  index: 13
+Torment_on_tick
+  rotate: false
+  xy: 465, 223
+  size: 142, 126
+  orig: 300, 300
+  offset: 75, 47
+  index: 14
+Torment_on_tick
+  rotate: false
+  xy: 765, 171
+  size: 142, 119
+  orig: 300, 300
+  offset: 75, 54
+  index: 15
+Torment_on_tick
+  rotate: true
+  xy: 907, 330
+  size: 140, 116
+  orig: 300, 300
+  offset: 75, 57
+  index: 16
+Torment_on_tick
+  rotate: false
+  xy: 1, 115
+  size: 136, 99
+  orig: 300, 300
+  offset: 77, 77
+  index: 17
+Torment_on_tick
+  rotate: false
+  xy: 1, 216
+  size: 130, 113
+  orig: 300, 300
+  offset: 78, 77
+  index: 18
+Torment_on_tick
+  rotate: false
+  xy: 253, 347
+  size: 123, 118
+  orig: 300, 300
+  offset: 86, 77
+  index: 19
+Torment_on_tick
+  rotate: false
+  xy: 127, 439
+  size: 123, 117
+  orig: 300, 300
+  offset: 86, 83
+  index: 20
+Torment_on_tick
+  rotate: false
+  xy: 1, 331
+  size: 124, 120
+  orig: 300, 300
+  offset: 86, 85
+  index: 21
+Torment_on_tick
+  rotate: false
+  xy: 261, 228
+  size: 125, 117
+  orig: 300, 300
+  offset: 86, 89
+  index: 22
+Torment_on_tick
+  rotate: false
+  xy: 1, 453
+  size: 123, 117
+  orig: 300, 300
+  offset: 89, 104
+  index: 23
+Torment_on_tick
+  rotate: false
+  xy: 378, 351
+  size: 120, 112
+  orig: 300, 300
+  offset: 91, 110
+  index: 24
+Torment_on_tick
+  rotate: true
+  xy: 378, 465
+  size: 112, 120
+  orig: 300, 300
+  offset: 96, 120
+  index: 25
+Torment_on_tick
+  rotate: true
+  xy: 139, 115
+  size: 107, 132
+  orig: 300, 300
+  offset: 97, 122
+  index: 26
+Torment_on_tick
+  rotate: true
+  xy: 133, 224
+  size: 105, 126
+  orig: 300, 300
+  offset: 95, 128
+  index: 27
+Torment_on_tick
+  rotate: true
+  xy: 127, 331
+  size: 106, 124
+  orig: 300, 300
+  offset: 94, 131
+  index: 28
+Torment_on_tick
+  rotate: false
+  xy: 500, 351
+  size: 106, 117
+  orig: 300, 300
+  offset: 94, 139
+  index: 29
+Torment_on_tick
+  rotate: true
+  xy: 252, 467
+  size: 98, 113
+  orig: 300, 300
+  offset: 97, 143
+  index: 30
+Torment_on_tick
+  rotate: true
+  xy: 932, 89
+  size: 99, 89
+  orig: 300, 300
+  offset: 97, 168
+  index: 31
+Torment_on_tick
+  rotate: false
+  xy: 932, 1
+  size: 90, 86
+  orig: 300, 300
+  offset: 109, 172
+  index: 32
+Torment_on_tick
+  rotate: true
+  xy: 388, 228
+  size: 84, 66
+  orig: 300, 300
+  offset: 114, 190
+  index: 33

@@ -1,0 +1,277 @@
+WrathOfHeaven_on_tick-0.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+WrathOfHeaven_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 300, 500
+  orig: 300, 500
+  offset: 0, 0
+  index: 0
+WrathOfHeaven_on_tick
+  rotate: false
+  xy: 1, 503
+  size: 300, 500
+  orig: 300, 500
+  offset: 0, 0
+  index: 1
+WrathOfHeaven_on_tick
+  rotate: false
+  xy: 1, 1005
+  size: 300, 500
+  orig: 300, 500
+  offset: 0, 0
+  index: 2
+WrathOfHeaven_on_tick
+  rotate: false
+  xy: 1, 1507
+  size: 300, 500
+  orig: 300, 500
+  offset: 0, 0
+  index: 3
+WrathOfHeaven_on_tick
+  rotate: false
+  xy: 303, 1
+  size: 300, 500
+  orig: 300, 500
+  offset: 0, 0
+  index: 4
+WrathOfHeaven_on_tick
+  rotate: false
+  xy: 303, 503
+  size: 300, 500
+  orig: 300, 500
+  offset: 0, 0
+  index: 5
+WrathOfHeaven_on_tick
+  rotate: false
+  xy: 303, 1005
+  size: 300, 500
+  orig: 300, 500
+  offset: 0, 0
+  index: 6
+WrathOfHeaven_on_tick
+  rotate: false
+  xy: 303, 1507
+  size: 300, 500
+  orig: 300, 500
+  offset: 0, 0
+  index: 7
+WrathOfHeaven_on_tick
+  rotate: false
+  xy: 605, 1
+  size: 300, 500
+  orig: 300, 500
+  offset: 0, 0
+  index: 8
+WrathOfHeaven_on_tick
+  rotate: false
+  xy: 907, 1
+  size: 300, 500
+  orig: 300, 500
+  offset: 0, 0
+  index: 9
+WrathOfHeaven_on_tick
+  rotate: false
+  xy: 1209, 1
+  size: 300, 500
+  orig: 300, 500
+  offset: 0, 0
+  index: 10
+WrathOfHeaven_on_tick
+  rotate: false
+  xy: 1511, 1
+  size: 300, 500
+  orig: 300, 500
+  offset: 0, 0
+  index: 11
+WrathOfHeaven_on_tick
+  rotate: false
+  xy: 605, 503
+  size: 300, 500
+  orig: 300, 500
+  offset: 0, 0
+  index: 12
+WrathOfHeaven_on_tick
+  rotate: false
+  xy: 605, 1005
+  size: 300, 500
+  orig: 300, 500
+  offset: 0, 0
+  index: 13
+WrathOfHeaven_on_tick
+  rotate: false
+  xy: 605, 1507
+  size: 300, 500
+  orig: 300, 500
+  offset: 0, 0
+  index: 14
+WrathOfHeaven_on_tick
+  rotate: false
+  xy: 907, 503
+  size: 300, 500
+  orig: 300, 500
+  offset: 0, 0
+  index: 15
+WrathOfHeaven_on_tick
+  rotate: false
+  xy: 1209, 503
+  size: 300, 500
+  orig: 300, 500
+  offset: 0, 0
+  index: 16
+WrathOfHeaven_on_tick
+  rotate: false
+  xy: 1511, 503
+  size: 300, 500
+  orig: 300, 500
+  offset: 0, 0
+  index: 17
+WrathOfHeaven_on_tick
+  rotate: false
+  xy: 907, 1005
+  size: 300, 500
+  orig: 300, 500
+  offset: 0, 0
+  index: 18
+WrathOfHeaven_on_tick
+  rotate: false
+  xy: 907, 1507
+  size: 300, 500
+  orig: 300, 500
+  offset: 0, 0
+  index: 19
+WrathOfHeaven_on_tick
+  rotate: false
+  xy: 1209, 1005
+  size: 300, 500
+  orig: 300, 500
+  offset: 0, 0
+  index: 20
+WrathOfHeaven_on_tick
+  rotate: false
+  xy: 1209, 1507
+  size: 300, 500
+  orig: 300, 500
+  offset: 0, 0
+  index: 21
+WrathOfHeaven_on_tick
+  rotate: false
+  xy: 1511, 1005
+  size: 300, 500
+  orig: 300, 500
+  offset: 0, 0
+  index: 22
+WrathOfHeaven_on_tick
+  rotate: false
+  xy: 1511, 1507
+  size: 300, 500
+  orig: 300, 500
+  offset: 0, 0
+  index: 23
+
+WrathOfHeaven_on_tick-1.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+WrathOfHeaven_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 300, 500
+  orig: 300, 500
+  offset: 0, 0
+  index: 24
+WrathOfHeaven_on_tick
+  rotate: false
+  xy: 1, 503
+  size: 300, 500
+  orig: 300, 500
+  offset: 0, 0
+  index: 25
+WrathOfHeaven_on_tick
+  rotate: false
+  xy: 1, 1005
+  size: 300, 500
+  orig: 300, 500
+  offset: 0, 0
+  index: 26
+WrathOfHeaven_on_tick
+  rotate: false
+  xy: 1, 1507
+  size: 300, 500
+  orig: 300, 500
+  offset: 0, 0
+  index: 27
+WrathOfHeaven_on_tick
+  rotate: false
+  xy: 303, 1
+  size: 300, 500
+  orig: 300, 500
+  offset: 0, 0
+  index: 28
+WrathOfHeaven_on_tick
+  rotate: false
+  xy: 303, 503
+  size: 300, 500
+  orig: 300, 500
+  offset: 0, 0
+  index: 29
+WrathOfHeaven_on_tick
+  rotate: false
+  xy: 303, 1005
+  size: 300, 500
+  orig: 300, 500
+  offset: 0, 0
+  index: 30
+WrathOfHeaven_on_tick
+  rotate: false
+  xy: 303, 1507
+  size: 300, 500
+  orig: 300, 500
+  offset: 0, 0
+  index: 31
+WrathOfHeaven_on_tick
+  rotate: false
+  xy: 605, 1
+  size: 300, 500
+  orig: 300, 500
+  offset: 0, 0
+  index: 32
+WrathOfHeaven_on_tick
+  rotate: false
+  xy: 907, 1
+  size: 300, 500
+  orig: 300, 500
+  offset: 0, 0
+  index: 33
+WrathOfHeaven_on_tick
+  rotate: false
+  xy: 1209, 1
+  size: 300, 500
+  orig: 300, 500
+  offset: 0, 0
+  index: 34
+WrathOfHeaven_on_tick
+  rotate: false
+  xy: 1511, 1
+  size: 300, 500
+  orig: 300, 500
+  offset: 0, 0
+  index: 35
+WrathOfHeaven_on_tick
+  rotate: false
+  xy: 605, 503
+  size: 300, 500
+  orig: 300, 500
+  offset: 0, 0
+  index: 36
+WrathOfHeaven_on_tick
+  rotate: false
+  xy: 605, 1005
+  size: 300, 500
+  orig: 300, 500
+  offset: 0, 0
+  index: 37

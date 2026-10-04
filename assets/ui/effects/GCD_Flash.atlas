@@ -1,0 +1,425 @@
+GCD_Flash_0.png
+size: 1024, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GCD_Flash
+  rotate: false
+  xy: 1, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 0
+GCD_Flash
+  rotate: false
+  xy: 183, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 1
+GCD_Flash
+  rotate: false
+  xy: 365, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 2
+GCD_Flash
+  rotate: false
+  xy: 547, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 3
+GCD_Flash
+  rotate: false
+  xy: 729, 1
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 4
+GCD_Flash
+  rotate: false
+  xy: 1, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 5
+GCD_Flash
+  rotate: false
+  xy: 183, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 6
+GCD_Flash
+  rotate: false
+  xy: 365, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 7
+GCD_Flash
+  rotate: false
+  xy: 547, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 8
+GCD_Flash
+  rotate: false
+  xy: 729, 183
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 9
+GCD_Flash
+  rotate: false
+  xy: 1, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 10
+GCD_Flash
+  rotate: false
+  xy: 183, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 11
+GCD_Flash
+  rotate: false
+  xy: 365, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 12
+GCD_Flash
+  rotate: false
+  xy: 547, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 13
+GCD_Flash
+  rotate: false
+  xy: 729, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 14
+GCD_Flash
+  rotate: false
+  xy: 1, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 15
+GCD_Flash
+  rotate: false
+  xy: 183, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 16
+GCD_Flash
+  rotate: false
+  xy: 365, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 17
+GCD_Flash
+  rotate: false
+  xy: 547, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 18
+GCD_Flash
+  rotate: false
+  xy: 729, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 19
+GCD_Flash
+  rotate: false
+  xy: 1, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 20
+GCD_Flash
+  rotate: false
+  xy: 183, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 21
+GCD_Flash
+  rotate: false
+  xy: 365, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 22
+GCD_Flash
+  rotate: false
+  xy: 547, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 23
+GCD_Flash
+  rotate: false
+  xy: 729, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 24
+GCD_Flash
+  rotate: false
+  xy: 1, 911
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 25
+GCD_Flash
+  rotate: false
+  xy: 183, 911
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 26
+GCD_Flash
+  rotate: false
+  xy: 365, 911
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 27
+GCD_Flash
+  rotate: false
+  xy: 547, 911
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 28
+GCD_Flash
+  rotate: false
+  xy: 729, 911
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 29
+GCD_Flash
+  rotate: false
+  xy: 1, 1093
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 30
+GCD_Flash
+  rotate: false
+  xy: 1, 1275
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 31
+GCD_Flash
+  rotate: false
+  xy: 365, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 32
+GCD_Flash
+  rotate: false
+  xy: 547, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 33
+GCD_Flash
+  rotate: false
+  xy: 729, 365
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 34
+GCD_Flash
+  rotate: false
+  xy: 1, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 35
+GCD_Flash
+  rotate: false
+  xy: 183, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 36
+GCD_Flash
+  rotate: false
+  xy: 365, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 37
+GCD_Flash
+  rotate: false
+  xy: 547, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 38
+GCD_Flash
+  rotate: false
+  xy: 729, 547
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 39
+GCD_Flash
+  rotate: false
+  xy: 1, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 40
+GCD_Flash
+  rotate: false
+  xy: 183, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 41
+GCD_Flash
+  rotate: false
+  xy: 365, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 42
+GCD_Flash
+  rotate: false
+  xy: 547, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 43
+GCD_Flash
+  rotate: false
+  xy: 729, 729
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 44
+GCD_Flash
+  rotate: false
+  xy: 1, 911
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 45
+GCD_Flash
+  rotate: false
+  xy: 1, 1457
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 46
+GCD_Flash
+  rotate: false
+  xy: 1, 1639
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 47
+GCD_Flash
+  rotate: false
+  xy: 1, 1821
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 48
+GCD_Flash
+  rotate: false
+  xy: 183, 1093
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 49
+GCD_Flash
+  rotate: false
+  xy: 365, 1093
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 50
+GCD_Flash
+  rotate: false
+  xy: 547, 1093
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 51
+GCD_Flash
+  rotate: false
+  xy: 729, 1093
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 52
+GCD_Flash
+  rotate: false
+  xy: 183, 1275
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 53
+GCD_Flash
+  rotate: false
+  xy: 183, 1457
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 54
+GCD_Flash
+  rotate: false
+  xy: 183, 1639
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 55
+GCD_Flash
+  rotate: false
+  xy: 183, 1821
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 56
+GCD_Flash
+  rotate: false
+  xy: 365, 1275
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 57
+GCD_Flash
+  rotate: false
+  xy: 547, 1275
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 58
+GCD_Flash
+  rotate: false
+  xy: 729, 1275
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: 59

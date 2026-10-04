@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="150" height="75" tilewidth="20" tileheight="20" nextobjectid="20">
+ <objectgroup name="collision">
+  <object id="1" x="0" y="628">
+   <polygon points="-4,15.3333 102,15.3333 270,-356.666 2730.67,-355.333 2902.66,16 3001.33,16 3000,-628 0,-628"/>
+  </object>
+  <object id="3" x="2566.5" y="461">
+   <polygon points="-4,1.5 34.75,24.25 59.25,2.25 59.3097,-7.0625 23.25,-30.25 -4.03125,-7.59375"/>
+  </object>
+  <object id="5" x="1458.5" y="729.5">
+   <polygon points="-6.5,-4.83333 93.3333,-5.5 97.6667,99.8333 101.5,147.833 98,154.5 88.8333,162.5 86.1667,164.5 77.6667,166.5 2,166.5 -6,162.5 -11.3333,154.833 -14,147.833 -10.5,100.333"/>
+  </object>
+  <object id="7" x="1596.97" y="1472.73" height="9.09091"/>
+  <object id="18" x="0" y="1440" width="3000" height="60"/>
+ </objectgroup>
+</map>

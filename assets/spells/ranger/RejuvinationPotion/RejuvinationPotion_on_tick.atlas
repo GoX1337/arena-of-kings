@@ -1,0 +1,215 @@
+RejuvinationPotion_on_tick-0.png
+size: 1024, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+RejuvinationPotion_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 0
+RejuvinationPotion_on_tick
+  rotate: false
+  xy: 253, 1
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 1
+RejuvinationPotion_on_tick
+  rotate: false
+  xy: 505, 1
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 2
+RejuvinationPotion_on_tick
+  rotate: false
+  xy: 757, 1
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 3
+RejuvinationPotion_on_tick
+  rotate: false
+  xy: 1, 253
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 4
+RejuvinationPotion_on_tick
+  rotate: false
+  xy: 253, 253
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 5
+RejuvinationPotion_on_tick
+  rotate: false
+  xy: 505, 253
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 6
+RejuvinationPotion_on_tick
+  rotate: false
+  xy: 757, 253
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 7
+RejuvinationPotion_on_tick
+  rotate: false
+  xy: 1, 505
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 8
+RejuvinationPotion_on_tick
+  rotate: false
+  xy: 253, 505
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 9
+RejuvinationPotion_on_tick
+  rotate: false
+  xy: 505, 505
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 10
+RejuvinationPotion_on_tick
+  rotate: false
+  xy: 757, 505
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 11
+RejuvinationPotion_on_tick
+  rotate: false
+  xy: 1, 757
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 12
+RejuvinationPotion_on_tick
+  rotate: false
+  xy: 253, 757
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 13
+RejuvinationPotion_on_tick
+  rotate: false
+  xy: 505, 757
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 14
+RejuvinationPotion_on_tick
+  rotate: false
+  xy: 757, 757
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 15
+RejuvinationPotion_on_tick
+  rotate: false
+  xy: 1, 1009
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 16
+RejuvinationPotion_on_tick
+  rotate: false
+  xy: 253, 1009
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 17
+RejuvinationPotion_on_tick
+  rotate: false
+  xy: 505, 1009
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 18
+RejuvinationPotion_on_tick
+  rotate: false
+  xy: 757, 1009
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 19
+RejuvinationPotion_on_tick
+  rotate: false
+  xy: 1, 1261
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 20
+RejuvinationPotion_on_tick
+  rotate: false
+  xy: 1, 1513
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 21
+RejuvinationPotion_on_tick
+  rotate: false
+  xy: 1, 1765
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 22
+RejuvinationPotion_on_tick
+  rotate: false
+  xy: 253, 1261
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 23
+RejuvinationPotion_on_tick
+  rotate: false
+  xy: 505, 1261
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 24
+RejuvinationPotion_on_tick
+  rotate: false
+  xy: 757, 1261
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 25
+RejuvinationPotion_on_tick
+  rotate: false
+  xy: 253, 1513
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 26
+RejuvinationPotion_on_tick
+  rotate: false
+  xy: 253, 1765
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 27
+RejuvinationPotion_on_tick
+  rotate: false
+  xy: 505, 1513
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 28
+RejuvinationPotion_on_tick
+  rotate: false
+  xy: 757, 1513
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 29

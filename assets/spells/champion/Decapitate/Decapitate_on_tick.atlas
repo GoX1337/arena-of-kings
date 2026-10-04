@@ -1,0 +1,173 @@
+Decapitate_on_tick_0.png
+size: 1024, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Decapitate_on_tick
+  rotate: false
+  xy: 907, 766
+  size: 100, 97
+  orig: 240, 240
+  offset: 128, 132
+  index: 0
+Decapitate_on_tick
+  rotate: false
+  xy: 907, 766
+  size: 100, 97
+  orig: 240, 240
+  offset: 128, 132
+  index: 1
+Decapitate_on_tick
+  rotate: true
+  xy: 690, 766
+  size: 198, 215
+  orig: 240, 240
+  offset: 23, 7
+  index: 2
+Decapitate_on_tick
+  rotate: true
+  xy: 455, 877
+  size: 197, 213
+  orig: 240, 240
+  offset: 21, 7
+  index: 3
+Decapitate_on_tick
+  rotate: true
+  xy: 220, 1037
+  size: 197, 212
+  orig: 240, 240
+  offset: 20, 6
+  index: 4
+Decapitate_on_tick
+  rotate: true
+  xy: 1, 825
+  size: 198, 228
+  orig: 240, 240
+  offset: 17, 6
+  index: 5
+Decapitate_on_tick
+  rotate: true
+  xy: 706, 363
+  size: 212, 229
+  orig: 240, 240
+  offset: 16, 6
+  index: 6
+Decapitate_on_tick
+  rotate: true
+  xy: 232, 622
+  size: 202, 228
+  orig: 240, 240
+  offset: 14, 6
+  index: 7
+Decapitate_on_tick
+  rotate: true
+  xy: 231, 826
+  size: 209, 222
+  orig: 240, 240
+  offset: 12, 6
+  index: 8
+Decapitate_on_tick
+  rotate: true
+  xy: 237, 179
+  size: 210, 233
+  orig: 240, 240
+  offset: 11, 7
+  index: 9
+Decapitate_on_tick
+  rotate: true
+  xy: 1, 1
+  size: 215, 234
+  orig: 240, 240
+  offset: 9, 6
+  index: 10
+Decapitate_on_tick
+  rotate: true
+  xy: 469, 460
+  size: 227, 228
+  orig: 240, 240
+  offset: 7, 7
+  index: 11
+Decapitate_on_tick
+  rotate: false
+  xy: 1, 595
+  size: 229, 228
+  orig: 240, 240
+  offset: 5, 7
+  index: 12
+Decapitate_on_tick
+  rotate: true
+  xy: 236, 391
+  size: 229, 231
+  orig: 240, 240
+  offset: 3, 7
+  index: 13
+Decapitate_on_tick
+  rotate: true
+  xy: 472, 229
+  size: 229, 232
+  orig: 240, 240
+  offset: 9, 7
+  index: 14
+Decapitate_on_tick
+  rotate: true
+  xy: 473, 1
+  size: 226, 233
+  orig: 240, 240
+  offset: 12, 7
+  index: 15
+Decapitate_on_tick
+  rotate: true
+  xy: 1, 218
+  size: 190, 233
+  orig: 240, 240
+  offset: 44, 7
+  index: 16
+Decapitate_on_tick
+  rotate: true
+  xy: 462, 689
+  size: 186, 226
+  orig: 240, 240
+  offset: 44, 7
+  index: 17
+Decapitate_on_tick
+  rotate: true
+  xy: 708, 1
+  size: 185, 233
+  orig: 240, 240
+  offset: 45, 7
+  index: 18
+Decapitate_on_tick
+  rotate: true
+  xy: 699, 577
+  size: 187, 227
+  orig: 240, 240
+  offset: 43, 7
+  index: 19
+Decapitate_on_tick
+  rotate: true
+  xy: 1, 410
+  size: 183, 230
+  orig: 240, 240
+  offset: 43, 7
+  index: 20
+Decapitate_on_tick
+  rotate: true
+  xy: 708, 188
+  size: 173, 233
+  orig: 240, 240
+  offset: 46, 7
+  index: 21
+Decapitate_on_tick
+  rotate: true
+  xy: 237, 1
+  size: 176, 234
+  orig: 240, 240
+  offset: 43, 6
+  index: 22
+Decapitate_on_tick
+  rotate: true
+  xy: 1, 1025
+  size: 172, 217
+  orig: 240, 240
+  offset: 43, 6
+  index: 23

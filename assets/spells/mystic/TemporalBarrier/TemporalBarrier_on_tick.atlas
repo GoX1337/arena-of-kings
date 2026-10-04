@@ -1,0 +1,75 @@
+TemporalBarrier_on_tick_0.png
+size: 512, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TemporalBarrier_on_tick
+  rotate: false
+  xy: 319, 158
+  size: 156, 156
+  orig: 200, 200
+  offset: 19, 22
+  index: 0
+TemporalBarrier_on_tick
+  rotate: false
+  xy: 1, 159
+  size: 156, 156
+  orig: 200, 200
+  offset: 19, 22
+  index: 1
+TemporalBarrier_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 157, 156
+  orig: 200, 200
+  offset: 19, 22
+  index: 2
+TemporalBarrier_on_tick
+  rotate: false
+  xy: 160, 1
+  size: 157, 156
+  orig: 200, 200
+  offset: 19, 22
+  index: 3
+TemporalBarrier_on_tick
+  rotate: false
+  xy: 319, 1
+  size: 157, 155
+  orig: 200, 200
+  offset: 19, 23
+  index: 4
+TemporalBarrier_on_tick
+  rotate: false
+  xy: 159, 159
+  size: 156, 155
+  orig: 200, 200
+  offset: 20, 23
+  index: 5
+TemporalBarrier_on_tick
+  rotate: true
+  xy: 159, 316
+  size: 155, 156
+  orig: 200, 200
+  offset: 20, 22
+  index: 6
+TemporalBarrier_on_tick
+  rotate: true
+  xy: 1, 317
+  size: 155, 156
+  orig: 200, 200
+  offset: 20, 22
+  index: 7
+TemporalBarrier_on_tick
+  rotate: true
+  xy: 317, 316
+  size: 155, 156
+  orig: 200, 200
+  offset: 20, 22
+  index: 8
+TemporalBarrier_on_tick
+  rotate: true
+  xy: 159, 473
+  size: 155, 156
+  orig: 200, 200
+  offset: 20, 22
+  index: 9

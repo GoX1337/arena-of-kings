@@ -1,0 +1,271 @@
+Symbiosis_on_tick_0.png
+size: 1024, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Symbiosis_on_tick
+  rotate: true
+  xy: 555, 1068
+  size: 170, 180
+  orig: 300, 300
+  offset: 67, 58
+  index: 0
+Symbiosis_on_tick
+  rotate: true
+  xy: 743, 1062
+  size: 172, 181
+  orig: 300, 300
+  offset: 66, 58
+  index: 1
+Symbiosis_on_tick
+  rotate: true
+  xy: 187, 1060
+  size: 173, 183
+  orig: 300, 300
+  offset: 66, 58
+  index: 2
+Symbiosis_on_tick
+  rotate: true
+  xy: 1, 1078
+  size: 173, 183
+  orig: 300, 300
+  offset: 66, 58
+  index: 3
+Symbiosis_on_tick
+  rotate: true
+  xy: 559, 893
+  size: 173, 182
+  orig: 300, 300
+  offset: 66, 59
+  index: 4
+Symbiosis_on_tick
+  rotate: true
+  xy: 186, 1235
+  size: 173, 181
+  orig: 300, 300
+  offset: 66, 61
+  index: 5
+Symbiosis_on_tick
+  rotate: true
+  xy: 1, 1253
+  size: 173, 181
+  orig: 300, 300
+  offset: 66, 61
+  index: 6
+Symbiosis_on_tick
+  rotate: true
+  xy: 369, 1237
+  size: 174, 179
+  orig: 300, 300
+  offset: 65, 62
+  index: 7
+Symbiosis_on_tick
+  rotate: true
+  xy: 372, 1061
+  size: 174, 181
+  orig: 300, 300
+  offset: 65, 60
+  index: 8
+Symbiosis_on_tick
+  rotate: true
+  xy: 374, 883
+  size: 176, 183
+  orig: 300, 300
+  offset: 63, 58
+  index: 9
+Symbiosis_on_tick
+  rotate: true
+  xy: 774, 351
+  size: 170, 188
+  orig: 300, 300
+  offset: 63, 57
+  index: 10
+Symbiosis_on_tick
+  rotate: true
+  xy: 193, 530
+  size: 171, 189
+  orig: 300, 300
+  offset: 63, 56
+  index: 11
+Symbiosis_on_tick
+  rotate: true
+  xy: 583, 177
+  size: 171, 190
+  orig: 300, 300
+  offset: 63, 56
+  index: 12
+Symbiosis_on_tick
+  rotate: true
+  xy: 197, 177
+  size: 172, 192
+  orig: 300, 300
+  offset: 62, 55
+  index: 13
+Symbiosis_on_tick
+  rotate: true
+  xy: 588, 1
+  size: 174, 192
+  orig: 300, 300
+  offset: 60, 55
+  index: 14
+Symbiosis_on_tick
+  rotate: true
+  xy: 782, 1
+  size: 173, 192
+  orig: 300, 300
+  offset: 62, 55
+  index: 15
+Symbiosis_on_tick
+  rotate: true
+  xy: 782, 176
+  size: 173, 192
+  orig: 300, 300
+  offset: 62, 55
+  index: 16
+Symbiosis_on_tick
+  rotate: true
+  xy: 1, 1
+  size: 180, 194
+  orig: 300, 300
+  offset: 62, 54
+  index: 17
+Symbiosis_on_tick
+  rotate: true
+  xy: 393, 1
+  size: 174, 193
+  orig: 300, 300
+  offset: 62, 54
+  index: 18
+Symbiosis_on_tick
+  rotate: true
+  xy: 197, 1
+  size: 174, 194
+  orig: 300, 300
+  offset: 62, 53
+  index: 19
+Symbiosis_on_tick
+  rotate: true
+  xy: 1, 364
+  size: 173, 190
+  orig: 300, 300
+  offset: 62, 55
+  index: 20
+Symbiosis_on_tick
+  rotate: true
+  xy: 774, 523
+  size: 173, 187
+  orig: 300, 300
+  offset: 62, 56
+  index: 21
+Symbiosis_on_tick
+  rotate: true
+  xy: 384, 533
+  size: 173, 186
+  orig: 300, 300
+  offset: 62, 56
+  index: 22
+Symbiosis_on_tick
+  rotate: true
+  xy: 191, 703
+  size: 173, 186
+  orig: 300, 300
+  offset: 62, 56
+  index: 23
+Symbiosis_on_tick
+  rotate: true
+  xy: 379, 708
+  size: 173, 185
+  orig: 300, 300
+  offset: 62, 57
+  index: 24
+Symbiosis_on_tick
+  rotate: true
+  xy: 1, 904
+  size: 172, 184
+  orig: 300, 300
+  offset: 62, 62
+  index: 25
+Symbiosis_on_tick
+  rotate: true
+  xy: 385, 357
+  size: 174, 189
+  orig: 300, 300
+  offset: 62, 57
+  index: 26
+Symbiosis_on_tick
+  rotate: true
+  xy: 193, 351
+  size: 177, 190
+  orig: 300, 300
+  offset: 62, 58
+  index: 27
+Symbiosis_on_tick
+  rotate: true
+  xy: 391, 177
+  size: 178, 190
+  orig: 300, 300
+  offset: 61, 58
+  index: 28
+Symbiosis_on_tick
+  rotate: true
+  xy: 583, 350
+  size: 178, 189
+  orig: 300, 300
+  offset: 61, 59
+  index: 29
+Symbiosis_on_tick
+  rotate: true
+  xy: 1, 183
+  size: 179, 190
+  orig: 300, 300
+  offset: 60, 56
+  index: 30
+Symbiosis_on_tick
+  rotate: true
+  xy: 576, 530
+  size: 179, 186
+  orig: 300, 300
+  offset: 60, 56
+  index: 31
+Symbiosis_on_tick
+  rotate: true
+  xy: 751, 880
+  size: 180, 182
+  orig: 300, 300
+  offset: 59, 63
+  index: 32
+Symbiosis_on_tick
+  rotate: true
+  xy: 764, 698
+  size: 180, 183
+  orig: 300, 300
+  offset: 59, 63
+  index: 33
+Symbiosis_on_tick
+  rotate: true
+  xy: 1, 720
+  size: 182, 185
+  orig: 300, 300
+  offset: 57, 63
+  index: 34
+Symbiosis_on_tick
+  rotate: true
+  xy: 188, 878
+  size: 180, 184
+  orig: 300, 300
+  offset: 59, 64
+  index: 35
+Symbiosis_on_tick
+  rotate: true
+  xy: 566, 711
+  size: 180, 183
+  orig: 300, 300
+  offset: 59, 64
+  index: 36
+Symbiosis_on_tick
+  rotate: true
+  xy: 1, 539
+  size: 179, 188
+  orig: 300, 300
+  offset: 60, 64
+  index: 37

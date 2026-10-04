@@ -1,0 +1,180 @@
+CrushingBlow_on_tick_0.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CrushingBlow_on_tick
+  rotate: true
+  xy: 1, 954
+  size: 60, 59
+  orig: 200, 230
+  offset: 70, 80
+  index: 0
+CrushingBlow_on_tick
+  rotate: true
+  xy: 1, 954
+  size: 60, 59
+  orig: 200, 230
+  offset: 70, 80
+  index: 1
+CrushingBlow_on_tick
+  rotate: false
+  xy: 470, 523
+  size: 153, 156
+  orig: 200, 230
+  offset: 17, 39
+  index: 2
+CrushingBlow_on_tick
+  rotate: false
+  xy: 326, 362
+  size: 145, 159
+  orig: 200, 230
+  offset: 25, 39
+  index: 3
+CrushingBlow_on_tick
+  rotate: false
+  xy: 442, 726
+  size: 147, 158
+  orig: 200, 230
+  offset: 23, 39
+  index: 4
+CrushingBlow_on_tick
+  rotate: false
+  xy: 319, 563
+  size: 149, 161
+  orig: 200, 230
+  offset: 27, 38
+  index: 5
+CrushingBlow_on_tick
+  rotate: false
+  xy: 460, 1
+  size: 150, 170
+  orig: 200, 230
+  offset: 25, 33
+  index: 6
+CrushingBlow_on_tick
+  rotate: false
+  xy: 290, 767
+  size: 150, 170
+  orig: 200, 230
+  offset: 25, 33
+  index: 7
+CrushingBlow_on_tick
+  rotate: false
+  xy: 141, 771
+  size: 147, 179
+  orig: 200, 230
+  offset: 29, 30
+  index: 8
+CrushingBlow_on_tick
+  rotate: false
+  xy: 159, 198
+  size: 152, 185
+  orig: 200, 230
+  offset: 24, 29
+  index: 9
+CrushingBlow_on_tick
+  rotate: false
+  xy: 1, 395
+  size: 157, 190
+  orig: 200, 230
+  offset: 21, 29
+  index: 10
+CrushingBlow_on_tick
+  rotate: false
+  xy: 308, 1
+  size: 150, 182
+  orig: 200, 230
+  offset: 29, 22
+  index: 11
+CrushingBlow_on_tick
+  rotate: false
+  xy: 1, 587
+  size: 150, 182
+  orig: 200, 230
+  offset: 29, 22
+  index: 12
+CrushingBlow_on_tick
+  rotate: false
+  xy: 1, 198
+  size: 156, 195
+  orig: 200, 230
+  offset: 29, 16
+  index: 13
+CrushingBlow_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 157, 195
+  orig: 200, 230
+  offset: 28, 16
+  index: 14
+CrushingBlow_on_tick
+  rotate: false
+  xy: 313, 185
+  size: 164, 175
+  orig: 200, 230
+  offset: 27, 42
+  index: 15
+CrushingBlow_on_tick
+  rotate: false
+  xy: 160, 385
+  size: 164, 176
+  orig: 200, 230
+  offset: 27, 41
+  index: 16
+CrushingBlow_on_tick
+  rotate: false
+  xy: 153, 587
+  size: 164, 178
+  orig: 200, 230
+  offset: 27, 39
+  index: 17
+CrushingBlow_on_tick
+  rotate: false
+  xy: 160, 1
+  size: 146, 183
+  orig: 200, 230
+  offset: 29, 38
+  index: 18
+CrushingBlow_on_tick
+  rotate: false
+  xy: 1, 771
+  size: 138, 181
+  orig: 200, 230
+  offset: 31, 40
+  index: 19
+CrushingBlow_on_tick
+  rotate: false
+  xy: 473, 362
+  size: 138, 146
+  orig: 200, 230
+  offset: 31, 40
+  index: 20
+CrushingBlow_on_tick
+  rotate: true
+  xy: 479, 173
+  size: 138, 136
+  orig: 200, 230
+  offset: 31, 40
+  index: 21
+CrushingBlow_on_tick
+  rotate: false
+  xy: 442, 886
+  size: 140, 136
+  orig: 200, 230
+  offset: 30, 40
+  index: 22
+CrushingBlow_on_tick
+  rotate: false
+  xy: 584, 886
+  size: 140, 136
+  orig: 200, 230
+  offset: 30, 40
+  index: 23
+CrushingBlow_on_tick
+  rotate: true
+  xy: 612, 1
+  size: 132, 129
+  orig: 200, 230
+  offset: 35, 44
+  index: 24

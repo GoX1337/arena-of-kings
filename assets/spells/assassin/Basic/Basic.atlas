@@ -1,0 +1,89 @@
+Basic-0.png
+size: 512, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Basic
+  rotate: false
+  xy: 1, 1
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 0
+Basic
+  rotate: false
+  xy: 153, 1
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 1
+Basic
+  rotate: false
+  xy: 305, 1
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 2
+Basic
+  rotate: false
+  xy: 1, 153
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 3
+Basic
+  rotate: false
+  xy: 153, 153
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 4
+Basic
+  rotate: false
+  xy: 305, 153
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 5
+Basic
+  rotate: false
+  xy: 1, 305
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 6
+Basic
+  rotate: false
+  xy: 153, 305
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 7
+Basic
+  rotate: false
+  xy: 305, 305
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 8
+Basic
+  rotate: false
+  xy: 1, 457
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 9
+Basic
+  rotate: false
+  xy: 153, 457
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 10
+Basic
+  rotate: false
+  xy: 305, 457
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 11

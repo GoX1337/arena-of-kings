@@ -1,0 +1,116 @@
+PoolOfSouls_on_tick-0.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PoolOfSouls_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 700, 500
+  orig: 700, 500
+  offset: 0, 0
+  index: 0
+PoolOfSouls_on_tick
+  rotate: false
+  xy: 703, 1
+  size: 700, 500
+  orig: 700, 500
+  offset: 0, 0
+  index: 1
+PoolOfSouls_on_tick
+  rotate: false
+  xy: 1, 503
+  size: 700, 500
+  orig: 700, 500
+  offset: 0, 0
+  index: 2
+PoolOfSouls_on_tick
+  rotate: false
+  xy: 1, 1005
+  size: 700, 500
+  orig: 700, 500
+  offset: 0, 0
+  index: 3
+PoolOfSouls_on_tick
+  rotate: false
+  xy: 1, 1507
+  size: 700, 500
+  orig: 700, 500
+  offset: 0, 0
+  index: 4
+PoolOfSouls_on_tick
+  rotate: false
+  xy: 703, 503
+  size: 700, 500
+  orig: 700, 500
+  offset: 0, 0
+  index: 5
+PoolOfSouls_on_tick
+  rotate: false
+  xy: 703, 1005
+  size: 700, 500
+  orig: 700, 500
+  offset: 0, 0
+  index: 6
+PoolOfSouls_on_tick
+  rotate: false
+  xy: 703, 1507
+  size: 700, 500
+  orig: 700, 500
+  offset: 0, 0
+  index: 7
+
+PoolOfSouls_on_tick-1.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PoolOfSouls_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 700, 500
+  orig: 700, 500
+  offset: 0, 0
+  index: 8
+PoolOfSouls_on_tick
+  rotate: false
+  xy: 703, 1
+  size: 700, 500
+  orig: 700, 500
+  offset: 0, 0
+  index: 9
+PoolOfSouls_on_tick
+  rotate: false
+  xy: 1, 503
+  size: 700, 500
+  orig: 700, 500
+  offset: 0, 0
+  index: 10
+PoolOfSouls_on_tick
+  rotate: false
+  xy: 1, 1005
+  size: 700, 500
+  orig: 700, 500
+  offset: 0, 0
+  index: 11
+PoolOfSouls_on_tick
+  rotate: false
+  xy: 1, 1507
+  size: 700, 500
+  orig: 700, 500
+  offset: 0, 0
+  index: 12
+PoolOfSouls_on_tick
+  rotate: false
+  xy: 703, 503
+  size: 700, 500
+  orig: 700, 500
+  offset: 0, 0
+  index: 13
+PoolOfSouls_on_tick
+  rotate: false
+  xy: 703, 1005
+  size: 700, 500
+  orig: 700, 500
+  offset: 0, 0
+  index: 14

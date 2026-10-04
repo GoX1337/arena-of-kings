@@ -1,0 +1,215 @@
+Amalgamation_on_tick_0.png
+size: 1024, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Amalgamation_on_tick
+  rotate: false
+  xy: 501, 675
+  size: 247, 168
+  orig: 300, 250
+  offset: 29, 33
+  index: 0
+Amalgamation_on_tick
+  rotate: false
+  xy: 501, 675
+  size: 247, 168
+  orig: 300, 250
+  offset: 29, 33
+  index: 1
+Amalgamation_on_tick
+  rotate: false
+  xy: 1, 676
+  size: 247, 165
+  orig: 300, 250
+  offset: 29, 35
+  index: 2
+Amalgamation_on_tick
+  rotate: false
+  xy: 250, 676
+  size: 247, 165
+  orig: 300, 250
+  offset: 29, 35
+  index: 3
+Amalgamation_on_tick
+  rotate: false
+  xy: 1, 843
+  size: 247, 165
+  orig: 300, 250
+  offset: 29, 35
+  index: 4
+Amalgamation_on_tick
+  rotate: false
+  xy: 250, 843
+  size: 247, 165
+  orig: 300, 250
+  offset: 29, 35
+  index: 5
+Amalgamation_on_tick
+  rotate: false
+  xy: 750, 675
+  size: 247, 166
+  orig: 300, 250
+  offset: 29, 35
+  index: 6
+Amalgamation_on_tick
+  rotate: false
+  xy: 750, 675
+  size: 247, 166
+  orig: 300, 250
+  offset: 29, 35
+  index: 7
+Amalgamation_on_tick
+  rotate: false
+  xy: 750, 843
+  size: 247, 166
+  orig: 300, 250
+  offset: 29, 35
+  index: 8
+Amalgamation_on_tick
+  rotate: false
+  xy: 751, 171
+  size: 248, 166
+  orig: 300, 250
+  offset: 29, 35
+  index: 9
+Amalgamation_on_tick
+  rotate: false
+  xy: 751, 339
+  size: 248, 166
+  orig: 300, 250
+  offset: 29, 35
+  index: 10
+Amalgamation_on_tick
+  rotate: false
+  xy: 501, 340
+  size: 248, 166
+  orig: 300, 250
+  offset: 29, 35
+  index: 11
+Amalgamation_on_tick
+  rotate: false
+  xy: 751, 507
+  size: 248, 166
+  orig: 300, 250
+  offset: 29, 35
+  index: 12
+Amalgamation_on_tick
+  rotate: false
+  xy: 751, 507
+  size: 248, 166
+  orig: 300, 250
+  offset: 29, 35
+  index: 13
+Amalgamation_on_tick
+  rotate: false
+  xy: 501, 508
+  size: 248, 165
+  orig: 300, 250
+  offset: 29, 35
+  index: 14
+Amalgamation_on_tick
+  rotate: false
+  xy: 1, 509
+  size: 248, 165
+  orig: 300, 250
+  offset: 29, 35
+  index: 15
+Amalgamation_on_tick
+  rotate: false
+  xy: 251, 509
+  size: 248, 165
+  orig: 300, 250
+  offset: 29, 35
+  index: 16
+Amalgamation_on_tick
+  rotate: false
+  xy: 499, 845
+  size: 247, 165
+  orig: 300, 250
+  offset: 29, 35
+  index: 17
+Amalgamation_on_tick
+  rotate: false
+  xy: 748, 1011
+  size: 247, 165
+  orig: 300, 250
+  offset: 29, 35
+  index: 18
+Amalgamation_on_tick
+  rotate: false
+  xy: 748, 1011
+  size: 247, 165
+  orig: 300, 250
+  offset: 29, 35
+  index: 19
+Amalgamation_on_tick
+  rotate: false
+  xy: 1, 341
+  size: 248, 166
+  orig: 300, 250
+  offset: 28, 35
+  index: 20
+Amalgamation_on_tick
+  rotate: false
+  xy: 251, 341
+  size: 248, 166
+  orig: 300, 250
+  offset: 28, 35
+  index: 21
+Amalgamation_on_tick
+  rotate: false
+  xy: 501, 171
+  size: 248, 167
+  orig: 300, 250
+  offset: 28, 34
+  index: 22
+Amalgamation_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 248, 168
+  orig: 300, 250
+  offset: 28, 33
+  index: 23
+Amalgamation_on_tick
+  rotate: false
+  xy: 251, 1
+  size: 248, 168
+  orig: 300, 250
+  offset: 28, 33
+  index: 24
+Amalgamation_on_tick
+  rotate: false
+  xy: 251, 1
+  size: 248, 168
+  orig: 300, 250
+  offset: 28, 33
+  index: 25
+Amalgamation_on_tick
+  rotate: false
+  xy: 501, 1
+  size: 248, 168
+  orig: 300, 250
+  offset: 28, 33
+  index: 26
+Amalgamation_on_tick
+  rotate: false
+  xy: 751, 1
+  size: 248, 168
+  orig: 300, 250
+  offset: 28, 33
+  index: 27
+Amalgamation_on_tick
+  rotate: false
+  xy: 1, 171
+  size: 248, 168
+  orig: 300, 250
+  offset: 28, 33
+  index: 28
+Amalgamation_on_tick
+  rotate: false
+  xy: 251, 171
+  size: 248, 168
+  orig: 300, 250
+  offset: 28, 33
+  index: 29

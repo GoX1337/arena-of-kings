@@ -1,0 +1,159 @@
+AbyssalSpike_on_tick_0.png
+size: 512, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AbyssalSpike_on_tick
+  rotate: false
+  xy: 319, 752
+  size: 34, 45
+  orig: 300, 300
+  offset: 135, 103
+  index: 0
+AbyssalSpike_on_tick
+  rotate: true
+  xy: 51, 752
+  size: 69, 99
+  orig: 300, 300
+  offset: 119, 88
+  index: 1
+AbyssalSpike_on_tick
+  rotate: true
+  xy: 359, 722
+  size: 103, 149
+  orig: 300, 300
+  offset: 105, 85
+  index: 2
+AbyssalSpike_on_tick
+  rotate: false
+  xy: 384, 386
+  size: 124, 160
+  orig: 300, 300
+  offset: 104, 83
+  index: 3
+AbyssalSpike_on_tick
+  rotate: false
+  xy: 369, 548
+  size: 137, 172
+  orig: 300, 300
+  offset: 91, 79
+  index: 4
+AbyssalSpike_on_tick
+  rotate: true
+  xy: 1, 827
+  size: 175, 169
+  orig: 300, 300
+  offset: 54, 74
+  index: 5
+AbyssalSpike_on_tick
+  rotate: false
+  xy: 1, 587
+  size: 178, 163
+  orig: 300, 300
+  offset: 50, 71
+  index: 6
+AbyssalSpike_on_tick
+  rotate: false
+  xy: 1, 431
+  size: 182, 154
+  orig: 300, 300
+  offset: 46, 69
+  index: 7
+AbyssalSpike_on_tick
+  rotate: false
+  xy: 1, 287
+  size: 188, 142
+  orig: 300, 300
+  offset: 50, 69
+  index: 8
+AbyssalSpike_on_tick
+  rotate: false
+  xy: 1, 135
+  size: 190, 150
+  orig: 300, 300
+  offset: 54, 66
+  index: 9
+AbyssalSpike_on_tick
+  rotate: false
+  xy: 185, 512
+  size: 182, 150
+  orig: 300, 300
+  offset: 63, 61
+  index: 10
+AbyssalSpike_on_tick
+  rotate: false
+  xy: 193, 244
+  size: 189, 154
+  orig: 300, 300
+  offset: 57, 54
+  index: 11
+AbyssalSpike_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 195, 132
+  orig: 300, 300
+  offset: 54, 48
+  index: 12
+AbyssalSpike_on_tick
+  rotate: false
+  xy: 198, 1
+  size: 192, 128
+  orig: 300, 300
+  offset: 54, 53
+  index: 13
+AbyssalSpike_on_tick
+  rotate: true
+  xy: 392, 1
+  size: 191, 111
+  orig: 300, 300
+  offset: 54, 70
+  index: 14
+AbyssalSpike_on_tick
+  rotate: false
+  xy: 198, 131
+  size: 191, 111
+  orig: 300, 300
+  offset: 54, 70
+  index: 15
+AbyssalSpike_on_tick
+  rotate: true
+  xy: 391, 194
+  size: 190, 110
+  orig: 300, 300
+  offset: 54, 70
+  index: 16
+AbyssalSpike_on_tick
+  rotate: false
+  xy: 191, 400
+  size: 185, 110
+  orig: 300, 300
+  offset: 56, 70
+  index: 17
+AbyssalSpike_on_tick
+  rotate: false
+  xy: 181, 664
+  size: 176, 86
+  orig: 300, 300
+  offset: 60, 72
+  index: 18
+AbyssalSpike_on_tick
+  rotate: false
+  xy: 152, 752
+  size: 97, 69
+  orig: 300, 300
+  offset: 102, 89
+  index: 19
+AbyssalSpike_on_tick
+  rotate: true
+  xy: 1, 752
+  size: 70, 48
+  orig: 300, 300
+  offset: 128, 109
+  index: 20
+AbyssalSpike_on_tick
+  rotate: false
+  xy: 251, 752
+  size: 66, 49
+  orig: 300, 300
+  offset: 132, 109
+  index: 21

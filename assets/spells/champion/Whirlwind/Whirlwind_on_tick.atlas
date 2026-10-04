@@ -1,0 +1,187 @@
+Whirlwind_on_tick_0.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Whirlwind_on_tick
+  rotate: false
+  xy: 1, 450
+  size: 306, 244
+  orig: 330, 250
+  offset: 7, 0
+  index: 0
+Whirlwind_on_tick
+  rotate: false
+  xy: 1572, 1
+  size: 305, 243
+  orig: 330, 250
+  offset: 5, 0
+  index: 1
+Whirlwind_on_tick
+  rotate: false
+  xy: 309, 923
+  size: 303, 238
+  orig: 330, 250
+  offset: 4, 0
+  index: 2
+Whirlwind_on_tick
+  rotate: false
+  xy: 1239, 492
+  size: 302, 230
+  orig: 330, 250
+  offset: 3, 2
+  index: 3
+Whirlwind_on_tick
+  rotate: false
+  xy: 633, 1
+  size: 312, 223
+  orig: 330, 250
+  offset: 4, 2
+  index: 4
+Whirlwind_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 314, 222
+  orig: 330, 250
+  offset: 8, 1
+  index: 5
+Whirlwind_on_tick
+  rotate: false
+  xy: 315, 225
+  size: 311, 219
+  orig: 330, 250
+  offset: 14, 1
+  index: 6
+Whirlwind_on_tick
+  rotate: false
+  xy: 628, 226
+  size: 307, 229
+  orig: 330, 250
+  offset: 20, 2
+  index: 7
+Whirlwind_on_tick
+  rotate: false
+  xy: 1, 696
+  size: 306, 237
+  orig: 330, 250
+  offset: 22, 1
+  index: 8
+Whirlwind_on_tick
+  rotate: false
+  xy: 1564, 491
+  size: 302, 242
+  orig: 330, 250
+  offset: 26, 0
+  index: 9
+Whirlwind_on_tick
+  rotate: false
+  xy: 1572, 246
+  size: 305, 243
+  orig: 330, 250
+  offset: 21, 0
+  index: 10
+Whirlwind_on_tick
+  rotate: false
+  xy: 1260, 1
+  size: 310, 244
+  orig: 330, 250
+  offset: 11, 0
+  index: 11
+Whirlwind_on_tick
+  rotate: false
+  xy: 624, 457
+  size: 306, 244
+  orig: 330, 250
+  offset: 7, 0
+  index: 12
+Whirlwind_on_tick
+  rotate: false
+  xy: 1257, 247
+  size: 305, 243
+  orig: 330, 250
+  offset: 5, 0
+  index: 13
+Whirlwind_on_tick
+  rotate: false
+  xy: 1, 935
+  size: 303, 238
+  orig: 330, 250
+  offset: 4, 0
+  index: 14
+Whirlwind_on_tick
+  rotate: false
+  xy: 924, 712
+  size: 302, 230
+  orig: 330, 250
+  offset: 3, 2
+  index: 15
+Whirlwind_on_tick
+  rotate: false
+  xy: 1, 225
+  size: 312, 223
+  orig: 330, 250
+  offset: 4, 2
+  index: 16
+Whirlwind_on_tick
+  rotate: false
+  xy: 317, 1
+  size: 314, 222
+  orig: 330, 250
+  offset: 8, 1
+  index: 17
+Whirlwind_on_tick
+  rotate: false
+  xy: 947, 1
+  size: 311, 219
+  orig: 330, 250
+  offset: 14, 1
+  index: 18
+Whirlwind_on_tick
+  rotate: false
+  xy: 315, 446
+  size: 307, 229
+  orig: 330, 250
+  offset: 20, 2
+  index: 19
+Whirlwind_on_tick
+  rotate: false
+  xy: 617, 703
+  size: 305, 237
+  orig: 330, 250
+  offset: 22, 1
+  index: 20
+Whirlwind_on_tick
+  rotate: false
+  xy: 614, 942
+  size: 301, 240
+  orig: 330, 250
+  offset: 26, 1
+  index: 21
+Whirlwind_on_tick
+  rotate: false
+  xy: 932, 468
+  size: 305, 242
+  orig: 330, 250
+  offset: 21, 1
+  index: 22
+Whirlwind_on_tick
+  rotate: false
+  xy: 947, 222
+  size: 308, 244
+  orig: 330, 250
+  offset: 12, 0
+  index: 23
+Whirlwind_on_tick
+  rotate: false
+  xy: 309, 677
+  size: 306, 244
+  orig: 330, 250
+  offset: 7, 0
+  index: 24
+Whirlwind_on_tick
+  rotate: false
+  xy: 306, 1163
+  size: 297, 230
+  orig: 330, 250
+  offset: 6, 4
+  index: 25

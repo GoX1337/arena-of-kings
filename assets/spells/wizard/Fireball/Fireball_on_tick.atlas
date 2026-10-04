@@ -1,0 +1,145 @@
+Fireball_on_tick_0.png
+size: 512, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fireball_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 180, 100
+  orig: 180, 100
+  offset: 0, 0
+  index: 0
+Fireball_on_tick
+  rotate: false
+  xy: 183, 1
+  size: 180, 100
+  orig: 180, 100
+  offset: 0, 0
+  index: 1
+Fireball_on_tick
+  rotate: false
+  xy: 1, 103
+  size: 180, 100
+  orig: 180, 100
+  offset: 0, 0
+  index: 2
+Fireball_on_tick
+  rotate: false
+  xy: 183, 103
+  size: 180, 100
+  orig: 180, 100
+  offset: 0, 0
+  index: 3
+Fireball_on_tick
+  rotate: false
+  xy: 1, 205
+  size: 180, 100
+  orig: 180, 100
+  offset: 0, 0
+  index: 4
+Fireball_on_tick
+  rotate: false
+  xy: 183, 205
+  size: 180, 100
+  orig: 180, 100
+  offset: 0, 0
+  index: 5
+Fireball_on_tick
+  rotate: false
+  xy: 1, 307
+  size: 180, 100
+  orig: 180, 100
+  offset: 0, 0
+  index: 6
+Fireball_on_tick
+  rotate: false
+  xy: 183, 307
+  size: 180, 100
+  orig: 180, 100
+  offset: 0, 0
+  index: 7
+Fireball_on_tick
+  rotate: false
+  xy: 1, 409
+  size: 180, 100
+  orig: 180, 100
+  offset: 0, 0
+  index: 8
+Fireball_on_tick
+  rotate: false
+  xy: 183, 409
+  size: 180, 100
+  orig: 180, 100
+  offset: 0, 0
+  index: 9
+Fireball_on_tick
+  rotate: false
+  xy: 1, 511
+  size: 180, 100
+  orig: 180, 100
+  offset: 0, 0
+  index: 10
+Fireball_on_tick
+  rotate: false
+  xy: 183, 511
+  size: 180, 100
+  orig: 180, 100
+  offset: 0, 0
+  index: 11
+Fireball_on_tick
+  rotate: false
+  xy: 1, 613
+  size: 180, 100
+  orig: 180, 100
+  offset: 0, 0
+  index: 12
+Fireball_on_tick
+  rotate: false
+  xy: 183, 613
+  size: 180, 100
+  orig: 180, 100
+  offset: 0, 0
+  index: 13
+Fireball_on_tick
+  rotate: false
+  xy: 1, 715
+  size: 180, 100
+  orig: 180, 100
+  offset: 0, 0
+  index: 14
+Fireball_on_tick
+  rotate: false
+  xy: 1, 817
+  size: 180, 100
+  orig: 180, 100
+  offset: 0, 0
+  index: 15
+Fireball_on_tick
+  rotate: false
+  xy: 1, 919
+  size: 180, 100
+  orig: 180, 100
+  offset: 0, 0
+  index: 16
+Fireball_on_tick
+  rotate: false
+  xy: 183, 715
+  size: 180, 100
+  orig: 180, 100
+  offset: 0, 0
+  index: 17
+Fireball_on_tick
+  rotate: false
+  xy: 183, 817
+  size: 180, 100
+  orig: 180, 100
+  offset: 0, 0
+  index: 18
+Fireball_on_tick
+  rotate: false
+  xy: 183, 919
+  size: 180, 100
+  orig: 180, 100
+  offset: 0, 0
+  index: 19

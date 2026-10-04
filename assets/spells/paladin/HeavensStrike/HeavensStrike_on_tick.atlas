@@ -1,0 +1,89 @@
+HeavensStrike_on_tick-0.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HeavensStrike_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 300, 600
+  orig: 300, 600
+  offset: 0, 0
+  index: 0
+HeavensStrike_on_tick
+  rotate: false
+  xy: 1, 603
+  size: 300, 600
+  orig: 300, 600
+  offset: 0, 0
+  index: 1
+HeavensStrike_on_tick
+  rotate: false
+  xy: 1, 1205
+  size: 300, 600
+  orig: 300, 600
+  offset: 0, 0
+  index: 2
+HeavensStrike_on_tick
+  rotate: false
+  xy: 303, 1
+  size: 300, 600
+  orig: 300, 600
+  offset: 0, 0
+  index: 3
+HeavensStrike_on_tick
+  rotate: false
+  xy: 303, 603
+  size: 300, 600
+  orig: 300, 600
+  offset: 0, 0
+  index: 4
+HeavensStrike_on_tick
+  rotate: false
+  xy: 303, 1205
+  size: 300, 600
+  orig: 300, 600
+  offset: 0, 0
+  index: 5
+HeavensStrike_on_tick
+  rotate: false
+  xy: 605, 1
+  size: 300, 600
+  orig: 300, 600
+  offset: 0, 0
+  index: 6
+HeavensStrike_on_tick
+  rotate: false
+  xy: 907, 1
+  size: 300, 600
+  orig: 300, 600
+  offset: 0, 0
+  index: 7
+HeavensStrike_on_tick
+  rotate: false
+  xy: 1209, 1
+  size: 300, 600
+  orig: 300, 600
+  offset: 0, 0
+  index: 8
+HeavensStrike_on_tick
+  rotate: false
+  xy: 1511, 1
+  size: 300, 600
+  orig: 300, 600
+  offset: 0, 0
+  index: 9
+HeavensStrike_on_tick
+  rotate: false
+  xy: 605, 603
+  size: 300, 600
+  orig: 300, 600
+  offset: 0, 0
+  index: 10
+HeavensStrike_on_tick
+  rotate: false
+  xy: 605, 1205
+  size: 300, 600
+  orig: 300, 600
+  offset: 0, 0
+  index: 11

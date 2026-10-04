@@ -1,0 +1,215 @@
+SacrificeSoul_on_tick_0.png
+size: 1024, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SacrificeSoul_on_tick
+  rotate: true
+  xy: 861, 773
+  size: 118, 158
+  orig: 300, 300
+  offset: 88, 63
+  index: 0
+SacrificeSoul_on_tick
+  rotate: true
+  xy: 853, 1064
+  size: 123, 163
+  orig: 300, 300
+  offset: 85, 57
+  index: 1
+SacrificeSoul_on_tick
+  rotate: false
+  xy: 554, 771
+  size: 126, 163
+  orig: 300, 300
+  offset: 82, 57
+  index: 2
+SacrificeSoul_on_tick
+  rotate: false
+  xy: 555, 595
+  size: 128, 174
+  orig: 300, 300
+  offset: 79, 57
+  index: 3
+SacrificeSoul_on_tick
+  rotate: true
+  xy: 367, 902
+  size: 133, 173
+  orig: 300, 300
+  offset: 74, 58
+  index: 4
+SacrificeSoul_on_tick
+  rotate: false
+  xy: 542, 936
+  size: 139, 166
+  orig: 300, 300
+  offset: 68, 56
+  index: 5
+SacrificeSoul_on_tick
+  rotate: true
+  xy: 372, 757
+  size: 143, 180
+  orig: 300, 300
+  offset: 65, 55
+  index: 6
+SacrificeSoul_on_tick
+  rotate: false
+  xy: 872, 588
+  size: 147, 183
+  orig: 300, 300
+  offset: 62, 52
+  index: 7
+SacrificeSoul_on_tick
+  rotate: true
+  xy: 683, 938
+  size: 153, 168
+  orig: 300, 300
+  offset: 59, 49
+  index: 8
+SacrificeSoul_on_tick
+  rotate: false
+  xy: 861, 893
+  size: 157, 169
+  orig: 300, 300
+  offset: 57, 48
+  index: 9
+SacrificeSoul_on_tick
+  rotate: true
+  xy: 372, 595
+  size: 160, 181
+  orig: 300, 300
+  offset: 54, 48
+  index: 10
+SacrificeSoul_on_tick
+  rotate: true
+  xy: 189, 595
+  size: 166, 181
+  orig: 300, 300
+  offset: 53, 48
+  index: 11
+SacrificeSoul_on_tick
+  rotate: true
+  xy: 685, 766
+  size: 170, 174
+  orig: 300, 300
+  offset: 51, 48
+  index: 12
+SacrificeSoul_on_tick
+  rotate: false
+  xy: 189, 763
+  size: 176, 176
+  orig: 300, 300
+  offset: 48, 51
+  index: 13
+SacrificeSoul_on_tick
+  rotate: false
+  xy: 687, 588
+  size: 183, 176
+  orig: 300, 300
+  offset: 46, 51
+  index: 14
+SacrificeSoul_on_tick
+  rotate: false
+  xy: 1, 587
+  size: 186, 176
+  orig: 300, 300
+  offset: 45, 47
+  index: 15
+SacrificeSoul_on_tick
+  rotate: false
+  xy: 1, 407
+  size: 188, 178
+  orig: 300, 300
+  offset: 45, 43
+  index: 16
+SacrificeSoul_on_tick
+  rotate: true
+  xy: 237, 405
+  size: 188, 203
+  orig: 300, 300
+  offset: 46, 38
+  index: 17
+SacrificeSoul_on_tick
+  rotate: true
+  xy: 471, 404
+  size: 189, 214
+  orig: 300, 300
+  offset: 45, 35
+  index: 18
+SacrificeSoul_on_tick
+  rotate: true
+  xy: 704, 401
+  size: 185, 218
+  orig: 300, 300
+  offset: 52, 31
+  index: 19
+SacrificeSoul_on_tick
+  rotate: true
+  xy: 704, 208
+  size: 191, 229
+  orig: 300, 300
+  offset: 50, 28
+  index: 20
+SacrificeSoul_on_tick
+  rotate: true
+  xy: 471, 204
+  size: 198, 231
+  orig: 300, 300
+  offset: 48, 26
+  index: 21
+SacrificeSoul_on_tick
+  rotate: true
+  xy: 237, 203
+  size: 200, 232
+  orig: 300, 300
+  offset: 48, 23
+  index: 22
+SacrificeSoul_on_tick
+  rotate: true
+  xy: 1, 203
+  size: 202, 234
+  orig: 300, 300
+  offset: 46, 21
+  index: 23
+SacrificeSoul_on_tick
+  rotate: true
+  xy: 722, 1
+  size: 205, 235
+  orig: 300, 300
+  offset: 43, 21
+  index: 24
+SacrificeSoul_on_tick
+  rotate: true
+  xy: 483, 1
+  size: 201, 237
+  orig: 300, 300
+  offset: 46, 21
+  index: 25
+SacrificeSoul_on_tick
+  rotate: true
+  xy: 1, 1
+  size: 200, 239
+  orig: 300, 300
+  offset: 47, 21
+  index: 26
+SacrificeSoul_on_tick
+  rotate: true
+  xy: 242, 1
+  size: 200, 239
+  orig: 300, 300
+  offset: 47, 22
+  index: 27
+SacrificeSoul_on_tick
+  rotate: false
+  xy: 935, 208
+  size: 69, 110
+  orig: 300, 300
+  offset: 122, 149
+  index: 28
+SacrificeSoul_on_tick
+  rotate: false
+  xy: 935, 320
+  size: 68, 106
+  orig: 300, 300
+  offset: 124, 147
+  index: 29

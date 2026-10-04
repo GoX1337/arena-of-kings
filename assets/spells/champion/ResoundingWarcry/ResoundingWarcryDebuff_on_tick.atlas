@@ -1,0 +1,145 @@
+ResoundingWarcryDebuff_on_tick-0.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ResoundingWarcryBuff _on_tick
+  rotate: false
+  xy: 1, 1
+  size: 200, 150
+  orig: 200, 150
+  offset: 0, 0
+  index: 0
+ResoundingWarcryBuff _on_tick
+  rotate: false
+  xy: 203, 1
+  size: 200, 150
+  orig: 200, 150
+  offset: 0, 0
+  index: 1
+ResoundingWarcryBuff _on_tick
+  rotate: false
+  xy: 405, 1
+  size: 200, 150
+  orig: 200, 150
+  offset: 0, 0
+  index: 2
+ResoundingWarcryBuff _on_tick
+  rotate: false
+  xy: 607, 1
+  size: 200, 150
+  orig: 200, 150
+  offset: 0, 0
+  index: 3
+ResoundingWarcryBuff _on_tick
+  rotate: false
+  xy: 809, 1
+  size: 200, 150
+  orig: 200, 150
+  offset: 0, 0
+  index: 4
+ResoundingWarcryBuff _on_tick
+  rotate: false
+  xy: 1, 153
+  size: 200, 150
+  orig: 200, 150
+  offset: 0, 0
+  index: 5
+ResoundingWarcryBuff _on_tick
+  rotate: false
+  xy: 1, 305
+  size: 200, 150
+  orig: 200, 150
+  offset: 0, 0
+  index: 6
+ResoundingWarcryBuff _on_tick
+  rotate: false
+  xy: 1, 457
+  size: 200, 150
+  orig: 200, 150
+  offset: 0, 0
+  index: 7
+ResoundingWarcryBuff _on_tick
+  rotate: false
+  xy: 1, 609
+  size: 200, 150
+  orig: 200, 150
+  offset: 0, 0
+  index: 8
+ResoundingWarcryBuff _on_tick
+  rotate: false
+  xy: 1, 761
+  size: 200, 150
+  orig: 200, 150
+  offset: 0, 0
+  index: 9
+ResoundingWarcryBuff _on_tick
+  rotate: false
+  xy: 203, 153
+  size: 200, 150
+  orig: 200, 150
+  offset: 0, 0
+  index: 10
+ResoundingWarcryBuff _on_tick
+  rotate: false
+  xy: 405, 153
+  size: 200, 150
+  orig: 200, 150
+  offset: 0, 0
+  index: 11
+ResoundingWarcryBuff _on_tick
+  rotate: false
+  xy: 607, 153
+  size: 200, 150
+  orig: 200, 150
+  offset: 0, 0
+  index: 12
+ResoundingWarcryBuff _on_tick
+  rotate: false
+  xy: 809, 153
+  size: 200, 150
+  orig: 200, 150
+  offset: 0, 0
+  index: 13
+ResoundingWarcryBuff _on_tick
+  rotate: false
+  xy: 203, 305
+  size: 200, 150
+  orig: 200, 150
+  offset: 0, 0
+  index: 14
+ResoundingWarcryBuff _on_tick
+  rotate: false
+  xy: 203, 457
+  size: 200, 150
+  orig: 200, 150
+  offset: 0, 0
+  index: 15
+ResoundingWarcryBuff _on_tick
+  rotate: false
+  xy: 203, 609
+  size: 200, 150
+  orig: 200, 150
+  offset: 0, 0
+  index: 16
+ResoundingWarcryBuff _on_tick
+  rotate: false
+  xy: 203, 761
+  size: 200, 150
+  orig: 200, 150
+  offset: 0, 0
+  index: 17
+ResoundingWarcryBuff _on_tick
+  rotate: false
+  xy: 405, 305
+  size: 200, 150
+  orig: 200, 150
+  offset: 0, 0
+  index: 18
+ResoundingWarcryBuff _on_tick
+  rotate: false
+  xy: 607, 305
+  size: 200, 150
+  orig: 200, 150
+  offset: 0, 0
+  index: 19

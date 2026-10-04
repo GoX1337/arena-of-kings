@@ -1,0 +1,145 @@
+Sanctuary_on_tick_0.png
+size: 1024, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Sanctuary_on_tick
+  rotate: false
+  xy: 303, 1011
+  size: 298, 200
+  orig: 300, 200
+  offset: 2, 0
+  index: 0
+Sanctuary_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: 1
+Sanctuary_on_tick
+  rotate: false
+  xy: 303, 1
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: 2
+Sanctuary_on_tick
+  rotate: false
+  xy: 605, 1
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: 3
+Sanctuary_on_tick
+  rotate: false
+  xy: 1, 203
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: 4
+Sanctuary_on_tick
+  rotate: false
+  xy: 303, 203
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: 5
+Sanctuary_on_tick
+  rotate: false
+  xy: 605, 203
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: 6
+Sanctuary_on_tick
+  rotate: false
+  xy: 1, 405
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: 7
+Sanctuary_on_tick
+  rotate: false
+  xy: 303, 405
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: 8
+Sanctuary_on_tick
+  rotate: false
+  xy: 603, 1011
+  size: 298, 200
+  orig: 300, 200
+  offset: 2, 0
+  index: 9
+Sanctuary_on_tick
+  rotate: true
+  xy: 1, 1213
+  size: 298, 200
+  orig: 300, 200
+  offset: 2, 0
+  index: 10
+Sanctuary_on_tick
+  rotate: false
+  xy: 605, 405
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: 11
+Sanctuary_on_tick
+  rotate: false
+  xy: 1, 607
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: 12
+Sanctuary_on_tick
+  rotate: false
+  xy: 303, 607
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: 13
+Sanctuary_on_tick
+  rotate: false
+  xy: 605, 607
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: 14
+Sanctuary_on_tick
+  rotate: false
+  xy: 1, 809
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: 15
+Sanctuary_on_tick
+  rotate: false
+  xy: 303, 809
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: 16
+Sanctuary_on_tick
+  rotate: false
+  xy: 605, 809
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: 17
+Sanctuary_on_tick
+  rotate: false
+  xy: 1, 1011
+  size: 300, 200
+  orig: 300, 200
+  offset: 0, 0
+  index: 18
+Sanctuary_on_tick
+  rotate: true
+  xy: 1, 1513
+  size: 298, 200
+  orig: 300, 200
+  offset: 2, 0
+  index: 19

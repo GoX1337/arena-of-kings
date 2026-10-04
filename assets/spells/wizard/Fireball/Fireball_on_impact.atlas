@@ -1,0 +1,180 @@
+Fireball_on_impact-0.png
+size: 1024, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FireballImpact_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 0
+FireballImpact_on_tick
+  rotate: false
+  xy: 253, 1
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 1
+FireballImpact_on_tick
+  rotate: false
+  xy: 505, 1
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 2
+FireballImpact_on_tick
+  rotate: false
+  xy: 757, 1
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 3
+FireballImpact_on_tick
+  rotate: false
+  xy: 1, 253
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 4
+FireballImpact_on_tick
+  rotate: false
+  xy: 253, 253
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 5
+FireballImpact_on_tick
+  rotate: false
+  xy: 505, 253
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 6
+FireballImpact_on_tick
+  rotate: false
+  xy: 757, 253
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 7
+FireballImpact_on_tick
+  rotate: false
+  xy: 1, 505
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 8
+FireballImpact_on_tick
+  rotate: false
+  xy: 253, 505
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 9
+FireballImpact_on_tick
+  rotate: false
+  xy: 505, 505
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 10
+FireballImpact_on_tick
+  rotate: false
+  xy: 757, 505
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 11
+FireballImpact_on_tick
+  rotate: false
+  xy: 1, 757
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 12
+FireballImpact_on_tick
+  rotate: false
+  xy: 253, 757
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 13
+FireballImpact_on_tick
+  rotate: false
+  xy: 505, 757
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 14
+FireballImpact_on_tick
+  rotate: false
+  xy: 757, 757
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 15
+FireballImpact_on_tick
+  rotate: false
+  xy: 1, 1009
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 16
+FireballImpact_on_tick
+  rotate: false
+  xy: 253, 1009
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 17
+FireballImpact_on_tick
+  rotate: false
+  xy: 505, 1009
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 18
+FireballImpact_on_tick
+  rotate: false
+  xy: 757, 1009
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 19
+FireballImpact_on_tick
+  rotate: false
+  xy: 1, 1261
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 20
+FireballImpact_on_tick
+  rotate: false
+  xy: 1, 1513
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 21
+FireballImpact_on_tick
+  rotate: false
+  xy: 1, 1765
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 22
+FireballImpact_on_tick
+  rotate: false
+  xy: 253, 1261
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 23
+FireballImpact_on_tick
+  rotate: false
+  xy: 505, 1261
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 24

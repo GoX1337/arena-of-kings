@@ -1,0 +1,291 @@
+Revitalize_on_tick_0.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Revitalize_on_tick
+  rotate: true
+  xy: 742, 1389
+  size: 298, 215
+  orig: 400, 500
+  offset: 57, 81
+  index: 0
+Revitalize_on_tick
+  rotate: true
+  xy: 1765, 1051
+  size: 310, 218
+  orig: 400, 500
+  offset: 46, 81
+  index: 1
+Revitalize_on_tick
+  rotate: false
+  xy: 1322, 1389
+  size: 317, 240
+  orig: 400, 500
+  offset: 39, 67
+  index: 2
+Revitalize_on_tick
+  rotate: true
+  xy: 1196, 731
+  size: 318, 261
+  orig: 400, 500
+  offset: 39, 51
+  index: 3
+Revitalize_on_tick
+  rotate: true
+  xy: 1127, 1051
+  size: 336, 263
+  orig: 400, 500
+  offset: 21, 51
+  index: 4
+Revitalize_on_tick
+  rotate: false
+  xy: 959, 1389
+  size: 361, 286
+  orig: 400, 500
+  offset: 21, 33
+  index: 5
+Revitalize_on_tick
+  rotate: false
+  xy: 379, 1389
+  size: 361, 300
+  orig: 400, 500
+  offset: 21, 33
+  index: 6
+Revitalize_on_tick
+  rotate: false
+  xy: 1641, 1388
+  size: 376, 304
+  orig: 400, 500
+  offset: 13, 28
+  index: 8
+Revitalize_on_tick
+  rotate: false
+  xy: 1, 1384
+  size: 376, 307
+  orig: 400, 500
+  offset: 13, 28
+  index: 9
+Revitalize_on_tick
+  rotate: false
+  xy: 1, 724
+  size: 392, 316
+  orig: 400, 500
+  offset: 3, 23
+  index: 10
+Revitalize_on_tick
+  rotate: false
+  xy: 400, 723
+  size: 392, 324
+  orig: 400, 500
+  offset: 3, 23
+  index: 11
+Revitalize_on_tick
+  rotate: false
+  xy: 802, 718
+  size: 392, 331
+  orig: 400, 500
+  offset: 3, 23
+  index: 12
+Revitalize_on_tick
+  rotate: false
+  xy: 1609, 1
+  size: 400, 338
+  orig: 400, 500
+  offset: 0, 19
+  index: 13
+Revitalize_on_tick
+  rotate: false
+  xy: 1207, 1
+  size: 400, 341
+  orig: 400, 500
+  offset: 0, 19
+  index: 14
+Revitalize_on_tick
+  rotate: false
+  xy: 805, 1
+  size: 400, 345
+  orig: 400, 500
+  offset: 0, 18
+  index: 15
+Revitalize_on_tick
+  rotate: false
+  xy: 403, 1
+  size: 400, 352
+  orig: 400, 500
+  offset: 0, 18
+  index: 16
+Revitalize_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 400, 356
+  orig: 400, 500
+  offset: 0, 18
+  index: 17
+Revitalize_on_tick
+  rotate: false
+  xy: 1, 359
+  size: 397, 363
+  orig: 400, 500
+  offset: 3, 18
+  index: 18
+Revitalize_on_tick
+  rotate: false
+  xy: 403, 355
+  size: 397, 366
+  orig: 400, 500
+  offset: 3, 18
+  index: 19
+Revitalize_on_tick
+  rotate: false
+  xy: 805, 348
+  size: 397, 368
+  orig: 400, 500
+  offset: 3, 21
+  index: 20
+Revitalize_on_tick
+  rotate: false
+  xy: 1207, 344
+  size: 397, 385
+  orig: 400, 500
+  offset: 3, 21
+  index: 21
+Revitalize_on_tick
+  rotate: false
+  xy: 1609, 341
+  size: 397, 386
+  orig: 400, 500
+  offset: 3, 21
+  index: 22
+Revitalize_on_tick
+  rotate: false
+  xy: 1, 1693
+  size: 360, 352
+  orig: 400, 500
+  offset: 23, 67
+  index: 25
+Revitalize_on_tick
+  rotate: false
+  xy: 762, 1051
+  size: 363, 336
+  orig: 400, 500
+  offset: 22, 92
+  index: 27
+Revitalize_on_tick
+  rotate: false
+  xy: 1432, 1694
+  size: 368, 341
+  orig: 400, 500
+  offset: 19, 84
+  index: 29
+Revitalize_on_tick
+  rotate: false
+  xy: 730, 1691
+  size: 367, 342
+  orig: 400, 500
+  offset: 21, 81
+  index: 30
+Revitalize_on_tick
+  rotate: false
+  xy: 1, 1042
+  size: 379, 340
+  orig: 400, 500
+  offset: 21, 86
+  index: 31
+Revitalize_on_tick
+  rotate: false
+  xy: 382, 1049
+  size: 378, 338
+  orig: 400, 500
+  offset: 22, 89
+  index: 32
+Revitalize_on_tick
+  rotate: false
+  xy: 1392, 1051
+  size: 371, 335
+  orig: 400, 500
+  offset: 21, 92
+  index: 33
+Revitalize_on_tick
+  rotate: true
+  xy: 1099, 1677
+  size: 370, 331
+  orig: 400, 500
+  offset: 21, 95
+  index: 34
+Revitalize_on_tick
+  rotate: false
+  xy: 1606, 729
+  size: 365, 320
+  orig: 400, 500
+  offset: 23, 104
+  index: 35
+Revitalize_on_tick
+  rotate: false
+  xy: 363, 1693
+  size: 365, 343
+  orig: 400, 500
+  offset: 23, 85
+  index: 36
+Revitalize_on_tick
+  rotate: false
+  xy: 1802, 1694
+  size: 234, 157
+  orig: 400, 500
+  offset: 124, 211
+  index: 38
+Revitalize_on_tick
+  rotate: true
+  xy: 1459, 731
+  size: 228, 123
+  orig: 400, 500
+  offset: 127, 247
+  index: 39
+
+Revitalize_on_tick_1.png
+size: 1024, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Revitalize_on_tick
+  rotate: false
+  xy: 1, 722
+  size: 357, 303
+  orig: 400, 500
+  offset: 25, 33
+  index: 7
+Revitalize_on_tick
+  rotate: true
+  xy: 374, 1
+  size: 359, 365
+  orig: 400, 500
+  offset: 24, 43
+  index: 23
+Revitalize_on_tick
+  rotate: true
+  xy: 1, 1
+  size: 360, 371
+  orig: 400, 500
+  offset: 23, 43
+  index: 24
+Revitalize_on_tick
+  rotate: false
+  xy: 1, 363
+  size: 361, 357
+  orig: 400, 500
+  offset: 23, 67
+  index: 26
+Revitalize_on_tick
+  rotate: false
+  xy: 374, 362
+  size: 364, 328
+  orig: 400, 500
+  offset: 22, 94
+  index: 28
+Revitalize_on_tick
+  rotate: false
+  xy: 364, 692
+  size: 360, 333
+  orig: 400, 500
+  offset: 25, 84
+  index: 37

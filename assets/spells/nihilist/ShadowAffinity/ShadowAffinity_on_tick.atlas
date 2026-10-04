@@ -1,0 +1,222 @@
+ShadowAffinity_on_tick_0.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ShadowAffinity_on_tick
+  rotate: false
+  xy: 345, 1
+  size: 170, 110
+  orig: 180, 180
+  offset: 4, 6
+  index: 0
+ShadowAffinity_on_tick
+  rotate: false
+  xy: 517, 1
+  size: 170, 110
+  orig: 180, 180
+  offset: 4, 6
+  index: 1
+ShadowAffinity_on_tick
+  rotate: false
+  xy: 515, 113
+  size: 166, 112
+  orig: 180, 180
+  offset: 6, 4
+  index: 2
+ShadowAffinity_on_tick
+  rotate: false
+  xy: 507, 384
+  size: 159, 133
+  orig: 180, 180
+  offset: 9, 2
+  index: 3
+ShadowAffinity_on_tick
+  rotate: false
+  xy: 323, 584
+  size: 151, 137
+  orig: 180, 180
+  offset: 13, 2
+  index: 4
+ShadowAffinity_on_tick
+  rotate: false
+  xy: 493, 519
+  size: 152, 141
+  orig: 180, 180
+  offset: 15, 2
+  index: 5
+ShadowAffinity_on_tick
+  rotate: false
+  xy: 841, 328
+  size: 155, 141
+  orig: 180, 180
+  offset: 14, 4
+  index: 6
+ShadowAffinity_on_tick
+  rotate: false
+  xy: 841, 471
+  size: 155, 141
+  orig: 180, 180
+  offset: 14, 4
+  index: 7
+ShadowAffinity_on_tick
+  rotate: false
+  xy: 164, 483
+  size: 157, 145
+  orig: 180, 180
+  offset: 12, 2
+  index: 8
+ShadowAffinity_on_tick
+  rotate: false
+  xy: 680, 325
+  size: 159, 147
+  orig: 180, 180
+  offset: 10, 1
+  index: 9
+ShadowAffinity_on_tick
+  rotate: false
+  xy: 333, 433
+  size: 158, 149
+  orig: 180, 180
+  offset: 10, 0
+  index: 10
+ShadowAffinity_on_tick
+  rotate: false
+  xy: 1, 476
+  size: 161, 152
+  orig: 180, 180
+  offset: 10, 1
+  index: 11
+ShadowAffinity_on_tick
+  rotate: false
+  xy: 515, 227
+  size: 163, 155
+  orig: 180, 180
+  offset: 10, 2
+  index: 12
+ShadowAffinity_on_tick
+  rotate: false
+  xy: 342, 276
+  size: 163, 155
+  orig: 180, 180
+  offset: 10, 2
+  index: 13
+ShadowAffinity_on_tick
+  rotate: false
+  xy: 1, 164
+  size: 166, 155
+  orig: 180, 180
+  offset: 7, 5
+  index: 14
+ShadowAffinity_on_tick
+  rotate: false
+  xy: 1, 321
+  size: 166, 153
+  orig: 180, 180
+  offset: 6, 9
+  index: 15
+ShadowAffinity_on_tick
+  rotate: false
+  xy: 859, 1
+  size: 164, 157
+  orig: 180, 180
+  offset: 7, 7
+  index: 16
+ShadowAffinity_on_tick
+  rotate: false
+  xy: 683, 164
+  size: 165, 159
+  orig: 180, 180
+  offset: 9, 6
+  index: 17
+ShadowAffinity_on_tick
+  rotate: false
+  xy: 689, 1
+  size: 168, 161
+  orig: 180, 180
+  offset: 7, 5
+  index: 18
+ShadowAffinity_on_tick
+  rotate: false
+  xy: 345, 113
+  size: 168, 161
+  orig: 180, 180
+  offset: 7, 5
+  index: 19
+ShadowAffinity_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 170, 161
+  orig: 180, 180
+  offset: 5, 6
+  index: 20
+ShadowAffinity_on_tick
+  rotate: false
+  xy: 173, 1
+  size: 170, 160
+  orig: 180, 180
+  offset: 4, 7
+  index: 21
+ShadowAffinity_on_tick
+  rotate: true
+  xy: 859, 160
+  size: 166, 163
+  orig: 180, 180
+  offset: 5, 4
+  index: 22
+ShadowAffinity_on_tick
+  rotate: false
+  xy: 173, 163
+  size: 167, 161
+  orig: 180, 180
+  offset: 6, 3
+  index: 23
+ShadowAffinity_on_tick
+  rotate: false
+  xy: 169, 326
+  size: 162, 155
+  orig: 180, 180
+  offset: 11, 3
+  index: 24
+ShadowAffinity_on_tick
+  rotate: false
+  xy: 668, 474
+  size: 152, 150
+  orig: 180, 180
+  offset: 16, 8
+  index: 25
+ShadowAffinity_on_tick
+  rotate: true
+  xy: 822, 614
+  size: 76, 128
+  orig: 180, 180
+  offset: 49, 28
+  index: 26
+ShadowAffinity_on_tick
+  rotate: false
+  xy: 952, 614
+  size: 63, 122
+  orig: 180, 180
+  offset: 58, 30
+  index: 27
+ShadowAffinity_on_tick
+  rotate: true
+  xy: 647, 626
+  size: 54, 118
+  orig: 180, 180
+  offset: 61, 34
+  index: 28
+ShadowAffinity_on_tick
+  rotate: false
+  xy: 767, 626
+  size: 35, 110
+  orig: 180, 180
+  offset: 79, 41
+  index: 29
+ShadowAffinity_on_tick
+  rotate: false
+  xy: 998, 328
+  size: 24, 30
+  orig: 180, 180
+  offset: 87, 66
+  index: 30

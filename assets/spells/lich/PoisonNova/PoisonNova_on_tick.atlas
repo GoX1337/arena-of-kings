@@ -1,0 +1,208 @@
+PoisonNova_on_tick_0.png
+size: 1024, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PoisonNova_on_tick
+  rotate: false
+  xy: 196, 1983
+  size: 106, 62
+  orig: 350, 250
+  offset: 123, 103
+  index: 0
+PoisonNova_on_tick
+  rotate: false
+  xy: 165, 1266
+  size: 135, 79
+  orig: 350, 250
+  offset: 109, 94
+  index: 1
+PoisonNova_on_tick
+  rotate: false
+  xy: 1, 1266
+  size: 162, 96
+  orig: 350, 250
+  offset: 95, 86
+  index: 2
+PoisonNova_on_tick
+  rotate: false
+  xy: 206, 1583
+  size: 193, 115
+  orig: 350, 250
+  offset: 79, 76
+  index: 3
+PoisonNova_on_tick
+  rotate: false
+  xy: 348, 1423
+  size: 212, 127
+  orig: 350, 250
+  offset: 71, 69
+  index: 4
+PoisonNova_on_tick
+  rotate: true
+  xy: 206, 1347
+  size: 234, 140
+  orig: 350, 250
+  offset: 59, 61
+  index: 5
+PoisonNova_on_tick
+  rotate: false
+  xy: 363, 1266
+  size: 257, 155
+  orig: 350, 250
+  offset: 49, 53
+  index: 6
+PoisonNova_on_tick
+  rotate: true
+  xy: 196, 1704
+  size: 277, 165
+  orig: 350, 250
+  offset: 38, 47
+  index: 7
+PoisonNova_on_tick
+  rotate: false
+  xy: 703, 380
+  size: 291, 173
+  orig: 350, 250
+  offset: 31, 42
+  index: 8
+PoisonNova_on_tick
+  rotate: false
+  xy: 704, 194
+  size: 306, 184
+  orig: 350, 250
+  offset: 24, 36
+  index: 9
+PoisonNova_on_tick
+  rotate: false
+  xy: 704, 1
+  size: 317, 191
+  orig: 350, 250
+  offset: 18, 31
+  index: 10
+PoisonNova_on_tick
+  rotate: false
+  xy: 697, 555
+  size: 326, 197
+  orig: 350, 250
+  offset: 14, 28
+  index: 11
+PoisonNova_on_tick
+  rotate: false
+  xy: 1, 1062
+  size: 338, 202
+  orig: 350, 250
+  offset: 8, 24
+  index: 12
+PoisonNova_on_tick
+  rotate: false
+  xy: 345, 851
+  size: 342, 206
+  orig: 350, 250
+  offset: 6, 21
+  index: 13
+PoisonNova_on_tick
+  rotate: false
+  xy: 349, 431
+  size: 346, 208
+  orig: 350, 250
+  offset: 4, 20
+  index: 14
+PoisonNova_on_tick
+  rotate: false
+  xy: 1, 217
+  size: 348, 211
+  orig: 350, 250
+  offset: 2, 18
+  index: 15
+PoisonNova_on_tick
+  rotate: false
+  xy: 353, 1
+  size: 349, 212
+  orig: 350, 250
+  offset: 1, 17
+  index: 16
+PoisonNova_on_tick
+  rotate: false
+  xy: 353, 215
+  size: 348, 214
+  orig: 350, 250
+  offset: 2, 16
+  index: 17
+PoisonNova_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 350, 214
+  orig: 350, 250
+  offset: 0, 16
+  index: 18
+PoisonNova_on_tick
+  rotate: false
+  xy: 1, 430
+  size: 346, 212
+  orig: 350, 250
+  offset: 4, 17
+  index: 19
+PoisonNova_on_tick
+  rotate: false
+  xy: 349, 641
+  size: 343, 208
+  orig: 350, 250
+  offset: 6, 19
+  index: 20
+PoisonNova_on_tick
+  rotate: false
+  xy: 1, 644
+  size: 342, 208
+  orig: 350, 250
+  offset: 6, 19
+  index: 21
+PoisonNova_on_tick
+  rotate: false
+  xy: 1, 854
+  size: 341, 206
+  orig: 350, 250
+  offset: 6, 20
+  index: 22
+PoisonNova_on_tick
+  rotate: false
+  xy: 344, 1059
+  size: 339, 205
+  orig: 350, 250
+  offset: 7, 20
+  index: 23
+PoisonNova_on_tick
+  rotate: false
+  xy: 685, 1160
+  size: 338, 205
+  orig: 350, 250
+  offset: 8, 20
+  index: 24
+PoisonNova_on_tick
+  rotate: true
+  xy: 1, 1367
+  size: 335, 203
+  orig: 350, 250
+  offset: 10, 20
+  index: 25
+PoisonNova_on_tick
+  rotate: false
+  xy: 689, 956
+  size: 332, 202
+  orig: 350, 250
+  offset: 11, 20
+  index: 26
+PoisonNova_on_tick
+  rotate: false
+  xy: 694, 754
+  size: 329, 200
+  orig: 350, 250
+  offset: 13, 20
+  index: 27
+PoisonNova_on_tick
+  rotate: true
+  xy: 1, 1704
+  size: 322, 193
+  orig: 350, 250
+  offset: 16, 23
+  index: 28

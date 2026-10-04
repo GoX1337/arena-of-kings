@@ -1,0 +1,145 @@
+BasicImpact-0.png
+size: 1024, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BasicImpact_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 0
+BasicImpact_on_tick
+  rotate: false
+  xy: 253, 1
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 1
+BasicImpact_on_tick
+  rotate: false
+  xy: 505, 1
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 2
+BasicImpact_on_tick
+  rotate: false
+  xy: 757, 1
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 3
+BasicImpact_on_tick
+  rotate: false
+  xy: 1, 253
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 4
+BasicImpact_on_tick
+  rotate: false
+  xy: 253, 253
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 5
+BasicImpact_on_tick
+  rotate: false
+  xy: 505, 253
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 6
+BasicImpact_on_tick
+  rotate: false
+  xy: 757, 253
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 7
+BasicImpact_on_tick
+  rotate: false
+  xy: 1, 505
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 8
+BasicImpact_on_tick
+  rotate: false
+  xy: 253, 505
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 9
+BasicImpact_on_tick
+  rotate: false
+  xy: 505, 505
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 10
+BasicImpact_on_tick
+  rotate: false
+  xy: 757, 505
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 11
+BasicImpact_on_tick
+  rotate: false
+  xy: 1, 757
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 12
+BasicImpact_on_tick
+  rotate: false
+  xy: 253, 757
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 13
+BasicImpact_on_tick
+  rotate: false
+  xy: 505, 757
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 14
+BasicImpact_on_tick
+  rotate: false
+  xy: 757, 757
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 15
+BasicImpact_on_tick
+  rotate: false
+  xy: 1, 1009
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 16
+BasicImpact_on_tick
+  rotate: false
+  xy: 253, 1009
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 17
+BasicImpact_on_tick
+  rotate: false
+  xy: 505, 1009
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 18
+BasicImpact_on_tick
+  rotate: false
+  xy: 757, 1009
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 19

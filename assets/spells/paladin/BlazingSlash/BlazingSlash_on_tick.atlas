@@ -1,0 +1,152 @@
+BlazingSlash_on_tick_0.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BlazingSlash_on_tick
+  rotate: true
+  xy: 876, 1
+  size: 129, 136
+  orig: 200, 200
+  offset: 61, 63
+  index: 0
+BlazingSlash_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 180, 200
+  orig: 200, 200
+  offset: 6, 0
+  index: 1
+BlazingSlash_on_tick
+  rotate: false
+  xy: 1, 203
+  size: 178, 200
+  orig: 200, 200
+  offset: 6, 0
+  index: 2
+BlazingSlash_on_tick
+  rotate: false
+  xy: 1, 405
+  size: 179, 196
+  orig: 200, 200
+  offset: 6, 0
+  index: 3
+BlazingSlash_on_tick
+  rotate: false
+  xy: 181, 203
+  size: 176, 195
+  orig: 200, 200
+  offset: 7, 0
+  index: 4
+BlazingSlash_on_tick
+  rotate: false
+  xy: 184, 594
+  size: 177, 191
+  orig: 200, 200
+  offset: 6, 0
+  index: 5
+BlazingSlash_on_tick
+  rotate: false
+  xy: 1, 603
+  size: 181, 192
+  orig: 200, 200
+  offset: 4, 0
+  index: 6
+BlazingSlash_on_tick
+  rotate: false
+  xy: 182, 400
+  size: 181, 192
+  orig: 200, 200
+  offset: 3, 0
+  index: 7
+BlazingSlash_on_tick
+  rotate: false
+  xy: 359, 196
+  size: 180, 192
+  orig: 200, 200
+  offset: 4, 0
+  index: 8
+BlazingSlash_on_tick
+  rotate: false
+  xy: 364, 1
+  size: 180, 192
+  orig: 200, 200
+  offset: 4, 0
+  index: 9
+BlazingSlash_on_tick
+  rotate: false
+  xy: 183, 1
+  size: 179, 193
+  orig: 200, 200
+  offset: 4, 0
+  index: 10
+BlazingSlash_on_tick
+  rotate: false
+  xy: 1, 797
+  size: 178, 192
+  orig: 200, 200
+  offset: 5, 0
+  index: 11
+BlazingSlash_on_tick
+  rotate: false
+  xy: 181, 797
+  size: 178, 191
+  orig: 200, 200
+  offset: 6, 0
+  index: 12
+BlazingSlash_on_tick
+  rotate: false
+  xy: 361, 787
+  size: 177, 191
+  orig: 200, 200
+  offset: 7, 0
+  index: 13
+BlazingSlash_on_tick
+  rotate: false
+  xy: 363, 594
+  size: 177, 190
+  orig: 200, 200
+  offset: 8, 0
+  index: 14
+BlazingSlash_on_tick
+  rotate: false
+  xy: 365, 390
+  size: 175, 190
+  orig: 200, 200
+  offset: 10, 0
+  index: 15
+BlazingSlash_on_tick
+  rotate: false
+  xy: 541, 195
+  size: 171, 190
+  orig: 200, 200
+  offset: 12, 0
+  index: 16
+BlazingSlash_on_tick
+  rotate: false
+  xy: 546, 1
+  size: 166, 187
+  orig: 200, 200
+  offset: 16, 4
+  index: 17
+BlazingSlash_on_tick
+  rotate: false
+  xy: 540, 786
+  size: 162, 184
+  orig: 200, 200
+  offset: 19, 7
+  index: 18
+BlazingSlash_on_tick
+  rotate: true
+  xy: 714, 1
+  size: 136, 160
+  orig: 200, 200
+  offset: 36, 22
+  index: 19
+BlazingSlash_on_tick
+  rotate: true
+  xy: 876, 132
+  size: 120, 135
+  orig: 200, 200
+  offset: 47, 35
+  index: 20

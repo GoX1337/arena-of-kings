@@ -1,0 +1,26 @@
+snowy_arena_core.png
+size: 1024, 4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fence
+  rotate: true
+  xy: 1, 1
+  size: 2998, 652
+  orig: 2998, 652
+  offset: 0, 0
+  index: -1
+left_statue
+  rotate: false
+  xy: 655, 1
+  size: 291, 428
+  orig: 291, 428
+  offset: 0, 0
+  index: -1
+right_statue
+  rotate: false
+  xy: 655, 431
+  size: 291, 418
+  orig: 291, 418
+  offset: 0, 0
+  index: -1

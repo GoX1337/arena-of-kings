@@ -1,0 +1,75 @@
+Interrupt_on_tick_0.png
+size: 256, 256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Interrupt_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 110, 110
+  orig: 200, 200
+  offset: 53, 58
+  index: 0
+Interrupt_on_tick
+  rotate: false
+  xy: 1, 113
+  size: 99, 99
+  orig: 200, 200
+  offset: 56, 59
+  index: 1
+Interrupt_on_tick
+  rotate: false
+  xy: 113, 1
+  size: 88, 88
+  orig: 200, 200
+  offset: 59, 60
+  index: 2
+Interrupt_on_tick
+  rotate: false
+  xy: 113, 91
+  size: 78, 77
+  orig: 200, 200
+  offset: 61, 61
+  index: 3
+Interrupt_on_tick
+  rotate: false
+  xy: 102, 170
+  size: 67, 66
+  orig: 200, 200
+  offset: 64, 62
+  index: 4
+Interrupt_on_tick
+  rotate: false
+  xy: 171, 170
+  size: 56, 56
+  orig: 200, 200
+  offset: 67, 63
+  index: 5
+Interrupt_on_tick
+  rotate: false
+  xy: 102, 170
+  size: 67, 66
+  orig: 200, 200
+  offset: 64, 62
+  index: 6
+Interrupt_on_tick
+  rotate: false
+  xy: 113, 91
+  size: 78, 77
+  orig: 200, 200
+  offset: 61, 61
+  index: 7
+Interrupt_on_tick
+  rotate: false
+  xy: 113, 1
+  size: 88, 88
+  orig: 200, 200
+  offset: 59, 60
+  index: 8
+Interrupt_on_tick
+  rotate: false
+  xy: 1, 113
+  size: 99, 99
+  orig: 200, 200
+  offset: 56, 59
+  index: 9

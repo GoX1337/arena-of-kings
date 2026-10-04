@@ -1,0 +1,166 @@
+Rockslide_on_tick_0.png
+size: 1024, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rockslide_on_tick
+  rotate: false
+  xy: 335, 353
+  size: 67, 133
+  orig: 480, 450
+  offset: 186, 168
+  index: 0
+Rockslide_on_tick
+  rotate: false
+  xy: 335, 488
+  size: 62, 129
+  orig: 480, 450
+  offset: 187, 135
+  index: 1
+Rockslide_on_tick
+  rotate: true
+  xy: 1, 353
+  size: 286, 332
+  orig: 480, 450
+  offset: 173, 46
+  index: 2
+Rockslide_on_tick
+  rotate: true
+  xy: 728, 663
+  size: 255, 292
+  orig: 480, 450
+  offset: 171, 46
+  index: 3
+Rockslide_on_tick
+  rotate: true
+  xy: 407, 1
+  size: 257, 384
+  orig: 480, 450
+  offset: 170, 46
+  index: 4
+Rockslide_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 404, 350
+  orig: 480, 450
+  offset: 30, 31
+  index: 5
+Rockslide_on_tick
+  rotate: false
+  xy: 407, 260
+  size: 351, 299
+  orig: 480, 450
+  offset: 54, 39
+  index: 6
+Rockslide_on_tick
+  rotate: false
+  xy: 399, 561
+  size: 327, 272
+  orig: 480, 450
+  offset: 72, 39
+  index: 7
+Rockslide_on_tick
+  rotate: false
+  xy: 1, 641
+  size: 315, 266
+  orig: 480, 450
+  offset: 70, 39
+  index: 8
+Rockslide_on_tick
+  rotate: false
+  xy: 318, 835
+  size: 297, 275
+  orig: 480, 450
+  offset: 82, 31
+  index: 9
+Rockslide_on_tick
+  rotate: false
+  xy: 1, 909
+  size: 296, 273
+  orig: 480, 450
+  offset: 85, 31
+  index: 10
+Rockslide_on_tick
+  rotate: false
+  xy: 299, 1112
+  size: 278, 272
+  orig: 480, 450
+  offset: 85, 31
+  index: 11
+Rockslide_on_tick
+  rotate: false
+  xy: 1, 1184
+  size: 272, 266
+  orig: 480, 450
+  offset: 88, 39
+  index: 12
+Rockslide_on_tick
+  rotate: true
+  xy: 617, 920
+  size: 273, 282
+  orig: 480, 450
+  offset: 89, 31
+  index: 13
+Rockslide_on_tick
+  rotate: true
+  xy: 579, 1195
+  size: 246, 268
+  orig: 480, 450
+  offset: 118, 31
+  index: 14
+Rockslide_on_tick
+  rotate: true
+  xy: 793, 210
+  size: 250, 220
+  orig: 480, 450
+  offset: 116, 39
+  index: 15
+Rockslide_on_tick
+  rotate: false
+  xy: 275, 1386
+  size: 257, 204
+  orig: 480, 450
+  offset: 112, 39
+  index: 16
+Rockslide_on_tick
+  rotate: false
+  xy: 760, 462
+  size: 260, 199
+  orig: 480, 450
+  offset: 111, 39
+  index: 17
+Rockslide_on_tick
+  rotate: false
+  xy: 1, 1452
+  size: 249, 212
+  orig: 480, 450
+  offset: 124, 31
+  index: 18
+Rockslide_on_tick
+  rotate: false
+  xy: 534, 1443
+  size: 238, 212
+  orig: 480, 450
+  offset: 135, 31
+  index: 19
+Rockslide_on_tick
+  rotate: false
+  xy: 793, 1
+  size: 221, 207
+  orig: 480, 450
+  offset: 133, 34
+  index: 20
+Rockslide_on_tick
+  rotate: true
+  xy: 849, 1195
+  size: 205, 171
+  orig: 480, 450
+  offset: 150, 33
+  index: 21
+Rockslide_on_tick
+  rotate: false
+  xy: 849, 1402
+  size: 160, 135
+  orig: 480, 450
+  offset: 196, 31
+  index: 22

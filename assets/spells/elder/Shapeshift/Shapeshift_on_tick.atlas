@@ -1,0 +1,159 @@
+Shapeshift_on_tick_0.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shapeshift_on_tick
+  rotate: true
+  xy: 1, 1
+  size: 41, 57
+  orig: 250, 250
+  offset: 108, 106
+  index: 0
+Shapeshift_on_tick
+  rotate: false
+  xy: 60, 1
+  size: 125, 123
+  orig: 250, 250
+  offset: 66, 73
+  index: 1
+Shapeshift_on_tick
+  rotate: false
+  xy: 187, 1
+  size: 199, 167
+  orig: 250, 250
+  offset: 29, 51
+  index: 2
+Shapeshift_on_tick
+  rotate: false
+  xy: 388, 1
+  size: 203, 169
+  orig: 250, 250
+  offset: 27, 50
+  index: 3
+Shapeshift_on_tick
+  rotate: false
+  xy: 593, 1
+  size: 209, 173
+  orig: 250, 250
+  offset: 24, 48
+  index: 4
+Shapeshift_on_tick
+  rotate: false
+  xy: 804, 1
+  size: 213, 177
+  orig: 250, 250
+  offset: 22, 46
+  index: 5
+Shapeshift_on_tick
+  rotate: true
+  xy: 1, 126
+  size: 221, 183
+  orig: 250, 250
+  offset: 18, 43
+  index: 6
+Shapeshift_on_tick
+  rotate: false
+  xy: 186, 172
+  size: 225, 187
+  orig: 250, 250
+  offset: 16, 41
+  index: 7
+Shapeshift_on_tick
+  rotate: false
+  xy: 413, 176
+  size: 229, 189
+  orig: 250, 250
+  offset: 14, 40
+  index: 8
+Shapeshift_on_tick
+  rotate: false
+  xy: 644, 180
+  size: 231, 193
+  orig: 250, 250
+  offset: 13, 38
+  index: 9
+Shapeshift_on_tick
+  rotate: false
+  xy: 1, 361
+  size: 239, 197
+  orig: 250, 250
+  offset: 9, 36
+  index: 10
+Shapeshift_on_tick
+  rotate: false
+  xy: 242, 367
+  size: 243, 199
+  orig: 250, 250
+  offset: 7, 35
+  index: 11
+Shapeshift_on_tick
+  rotate: false
+  xy: 487, 375
+  size: 244, 203
+  orig: 250, 250
+  offset: 6, 33
+  index: 12
+Shapeshift_on_tick
+  rotate: false
+  xy: 733, 375
+  size: 246, 205
+  orig: 250, 250
+  offset: 4, 32
+  index: 13
+Shapeshift_on_tick
+  rotate: false
+  xy: 1, 568
+  size: 249, 209
+  orig: 250, 250
+  offset: 1, 30
+  index: 14
+Shapeshift_on_tick
+  rotate: false
+  xy: 252, 580
+  size: 250, 211
+  orig: 250, 250
+  offset: 0, 29
+  index: 15
+Shapeshift_on_tick
+  rotate: false
+  xy: 504, 582
+  size: 250, 213
+  orig: 250, 250
+  offset: 0, 28
+  index: 16
+Shapeshift_on_tick
+  rotate: false
+  xy: 756, 582
+  size: 250, 213
+  orig: 250, 250
+  offset: 0, 28
+  index: 17
+Shapeshift_on_tick
+  rotate: false
+  xy: 248, 793
+  size: 250, 215
+  orig: 250, 250
+  offset: 0, 27
+  index: 18
+Shapeshift_on_tick
+  rotate: false
+  xy: 500, 797
+  size: 250, 217
+  orig: 250, 250
+  offset: 0, 26
+  index: 19
+Shapeshift_on_tick
+  rotate: false
+  xy: 1, 779
+  size: 245, 219
+  orig: 250, 250
+  offset: 5, 25
+  index: 20
+Shapeshift_on_tick
+  rotate: false
+  xy: 752, 797
+  size: 245, 221
+  orig: 250, 250
+  offset: 5, 24
+  index: 21

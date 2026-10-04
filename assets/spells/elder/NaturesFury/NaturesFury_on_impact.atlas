@@ -1,0 +1,145 @@
+NaturesFury_on_impact-0.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NaturesFuryImpact_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 0
+NaturesFuryImpact_on_tick
+  rotate: false
+  xy: 1, 303
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 1
+NaturesFuryImpact_on_tick
+  rotate: false
+  xy: 1, 605
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 2
+NaturesFuryImpact_on_tick
+  rotate: false
+  xy: 1, 907
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 3
+NaturesFuryImpact_on_tick
+  rotate: false
+  xy: 1, 1209
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 4
+NaturesFuryImpact_on_tick
+  rotate: false
+  xy: 1, 1511
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 5
+NaturesFuryImpact_on_tick
+  rotate: false
+  xy: 303, 1
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 6
+NaturesFuryImpact_on_tick
+  rotate: false
+  xy: 605, 1
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 7
+NaturesFuryImpact_on_tick
+  rotate: false
+  xy: 907, 1
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 8
+NaturesFuryImpact_on_tick
+  rotate: false
+  xy: 1209, 1
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 9
+NaturesFuryImpact_on_tick
+  rotate: false
+  xy: 1511, 1
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 10
+NaturesFuryImpact_on_tick
+  rotate: false
+  xy: 303, 303
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 11
+NaturesFuryImpact_on_tick
+  rotate: false
+  xy: 303, 605
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 12
+NaturesFuryImpact_on_tick
+  rotate: false
+  xy: 303, 907
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 13
+NaturesFuryImpact_on_tick
+  rotate: false
+  xy: 303, 1209
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 14
+NaturesFuryImpact_on_tick
+  rotate: false
+  xy: 303, 1511
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 15
+NaturesFuryImpact_on_tick
+  rotate: false
+  xy: 605, 303
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 16
+NaturesFuryImpact_on_tick
+  rotate: false
+  xy: 907, 303
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 17
+NaturesFuryImpact_on_tick
+  rotate: false
+  xy: 1209, 303
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 18
+NaturesFuryImpact_on_tick
+  rotate: false
+  xy: 1511, 303
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 19

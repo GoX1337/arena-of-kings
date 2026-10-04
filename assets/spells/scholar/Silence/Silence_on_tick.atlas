@@ -1,0 +1,166 @@
+Silence_on_tick_0.png
+size: 256, 512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Silence_on_tick
+  rotate: true
+  xy: 75, 1
+  size: 60, 70
+  orig: 80, 80
+  offset: 10, 5
+  index: 0
+Silence_on_tick
+  rotate: true
+  xy: 1, 1
+  size: 67, 72
+  orig: 80, 80
+  offset: 8, 3
+  index: 1
+Silence_on_tick
+  rotate: true
+  xy: 147, 1
+  size: 60, 70
+  orig: 80, 80
+  offset: 10, 5
+  index: 2
+Silence_on_tick
+  rotate: true
+  xy: 75, 63
+  size: 60, 70
+  orig: 80, 80
+  offset: 10, 5
+  index: 3
+Silence_on_tick
+  rotate: true
+  xy: 1, 70
+  size: 60, 70
+  orig: 80, 80
+  offset: 10, 5
+  index: 4
+Silence_on_tick
+  rotate: true
+  xy: 147, 63
+  size: 60, 70
+  orig: 80, 80
+  offset: 10, 5
+  index: 5
+Silence_on_tick
+  rotate: true
+  xy: 73, 125
+  size: 60, 70
+  orig: 80, 80
+  offset: 10, 5
+  index: 6
+Silence_on_tick
+  rotate: true
+  xy: 1, 132
+  size: 60, 70
+  orig: 80, 80
+  offset: 10, 5
+  index: 7
+Silence_on_tick
+  rotate: true
+  xy: 145, 125
+  size: 60, 70
+  orig: 80, 80
+  offset: 10, 5
+  index: 8
+Silence_on_tick
+  rotate: true
+  xy: 73, 187
+  size: 60, 70
+  orig: 80, 80
+  offset: 10, 5
+  index: 9
+Silence_on_tick
+  rotate: true
+  xy: 1, 194
+  size: 60, 70
+  orig: 80, 80
+  offset: 10, 5
+  index: 10
+Silence_on_tick
+  rotate: true
+  xy: 145, 187
+  size: 60, 70
+  orig: 80, 80
+  offset: 10, 5
+  index: 11
+Silence_on_tick
+  rotate: true
+  xy: 73, 249
+  size: 60, 70
+  orig: 80, 80
+  offset: 10, 5
+  index: 12
+Silence_on_tick
+  rotate: true
+  xy: 1, 256
+  size: 60, 70
+  orig: 80, 80
+  offset: 10, 5
+  index: 13
+Silence_on_tick
+  rotate: true
+  xy: 145, 249
+  size: 60, 70
+  orig: 80, 80
+  offset: 10, 5
+  index: 14
+Silence_on_tick
+  rotate: true
+  xy: 73, 311
+  size: 60, 70
+  orig: 80, 80
+  offset: 10, 5
+  index: 15
+Silence_on_tick
+  rotate: true
+  xy: 1, 318
+  size: 60, 70
+  orig: 80, 80
+  offset: 10, 5
+  index: 16
+Silence_on_tick
+  rotate: true
+  xy: 145, 311
+  size: 60, 70
+  orig: 80, 80
+  offset: 10, 5
+  index: 17
+Silence_on_tick
+  rotate: false
+  xy: 1, 380
+  size: 60, 70
+  orig: 80, 80
+  offset: 10, 5
+  index: 18
+Silence_on_tick
+  rotate: false
+  xy: 63, 380
+  size: 60, 70
+  orig: 80, 80
+  offset: 10, 5
+  index: 19
+Silence_on_tick
+  rotate: false
+  xy: 125, 373
+  size: 60, 70
+  orig: 80, 80
+  offset: 10, 5
+  index: 20
+Silence_on_tick
+  rotate: true
+  xy: 1, 452
+  size: 55, 63
+  orig: 80, 80
+  offset: 13, 9
+  index: 21
+Silence_on_tick
+  rotate: true
+  xy: 66, 452
+  size: 53, 60
+  orig: 80, 80
+  offset: 14, 10
+  index: 22

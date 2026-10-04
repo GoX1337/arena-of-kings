@@ -1,0 +1,236 @@
+Bandage_on_tick_0.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bandage_on_tick
+  rotate: false
+  xy: 129, 245
+  size: 164, 240
+  orig: 300, 300
+  offset: 63, 9
+  index: 0
+Bandage_on_tick
+  rotate: false
+  xy: 1, 507
+  size: 154, 241
+  orig: 300, 300
+  offset: 64, 11
+  index: 1
+Bandage_on_tick
+  rotate: false
+  xy: 233, 1
+  size: 150, 240
+  orig: 300, 300
+  offset: 69, 13
+  index: 2
+Bandage_on_tick
+  rotate: false
+  xy: 385, 1
+  size: 141, 235
+  orig: 300, 300
+  offset: 78, 18
+  index: 3
+Bandage_on_tick
+  rotate: false
+  xy: 1, 750
+  size: 137, 239
+  orig: 300, 300
+  offset: 82, 15
+  index: 4
+Bandage_on_tick
+  rotate: false
+  xy: 157, 487
+  size: 136, 236
+  orig: 300, 300
+  offset: 82, 18
+  index: 5
+Bandage_on_tick
+  rotate: false
+  xy: 295, 481
+  size: 136, 235
+  orig: 300, 300
+  offset: 82, 18
+  index: 6
+Bandage_on_tick
+  rotate: false
+  xy: 140, 750
+  size: 134, 238
+  orig: 300, 300
+  offset: 84, 14
+  index: 7
+Bandage_on_tick
+  rotate: false
+  xy: 409, 238
+  size: 131, 232
+  orig: 300, 300
+  offset: 87, 19
+  index: 8
+Bandage_on_tick
+  rotate: false
+  xy: 542, 235
+  size: 127, 228
+  orig: 300, 300
+  offset: 89, 19
+  index: 9
+Bandage_on_tick
+  rotate: true
+  xy: 760, 1
+  size: 124, 228
+  orig: 300, 300
+  offset: 89, 19
+  index: 10
+Bandage_on_tick
+  rotate: false
+  xy: 106, 1
+  size: 125, 242
+  orig: 300, 300
+  offset: 88, 16
+  index: 11
+Bandage_on_tick
+  rotate: false
+  xy: 1, 263
+  size: 126, 242
+  orig: 300, 300
+  offset: 87, 16
+  index: 12
+Bandage_on_tick
+  rotate: false
+  xy: 433, 472
+  size: 126, 229
+  orig: 300, 300
+  offset: 87, 16
+  index: 13
+Bandage_on_tick
+  rotate: false
+  xy: 632, 1
+  size: 126, 228
+  orig: 300, 300
+  offset: 87, 16
+  index: 14
+Bandage_on_tick
+  rotate: true
+  xy: 757, 243
+  size: 125, 226
+  orig: 300, 300
+  offset: 87, 17
+  index: 15
+Bandage_on_tick
+  rotate: true
+  xy: 757, 370
+  size: 124, 226
+  orig: 300, 300
+  offset: 87, 18
+  index: 16
+Bandage_on_tick
+  rotate: true
+  xy: 757, 496
+  size: 121, 226
+  orig: 300, 300
+  offset: 88, 19
+  index: 17
+Bandage_on_tick
+  rotate: true
+  xy: 757, 619
+  size: 117, 226
+  orig: 300, 300
+  offset: 89, 19
+  index: 18
+Bandage_on_tick
+  rotate: true
+  xy: 760, 127
+  size: 114, 227
+  orig: 300, 300
+  offset: 91, 18
+  index: 19
+Bandage_on_tick
+  rotate: false
+  xy: 276, 725
+  size: 112, 236
+  orig: 300, 300
+  offset: 94, 17
+  index: 20
+Bandage_on_tick
+  rotate: false
+  xy: 295, 243
+  size: 112, 236
+  orig: 300, 300
+  offset: 94, 17
+  index: 21
+Bandage_on_tick
+  rotate: false
+  xy: 561, 465
+  size: 102, 223
+  orig: 300, 300
+  offset: 94, 21
+  index: 22
+Bandage_on_tick
+  rotate: false
+  xy: 528, 1
+  size: 102, 232
+  orig: 300, 300
+  offset: 95, 22
+  index: 23
+Bandage_on_tick
+  rotate: false
+  xy: 390, 718
+  size: 102, 232
+  orig: 300, 300
+  offset: 95, 22
+  index: 24
+Bandage_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 103, 260
+  orig: 300, 300
+  offset: 95, 23
+  index: 25
+Bandage_on_tick
+  rotate: false
+  xy: 561, 690
+  size: 102, 211
+  orig: 300, 300
+  offset: 96, 22
+  index: 26
+Bandage_on_tick
+  rotate: false
+  xy: 665, 812
+  size: 102, 211
+  orig: 300, 300
+  offset: 96, 21
+  index: 27
+Bandage_on_tick
+  rotate: true
+  xy: 769, 738
+  size: 83, 203
+  orig: 300, 300
+  offset: 112, 19
+  index: 28
+Bandage_on_tick
+  rotate: false
+  xy: 671, 231
+  size: 84, 203
+  orig: 300, 300
+  offset: 111, 18
+  index: 29
+Bandage_on_tick
+  rotate: false
+  xy: 671, 436
+  size: 84, 186
+  orig: 300, 300
+  offset: 111, 35
+  index: 30
+Bandage_on_tick
+  rotate: false
+  xy: 665, 624
+  size: 84, 186
+  orig: 300, 300
+  offset: 112, 33
+  index: 31
+Bandage_on_tick
+  rotate: true
+  xy: 276, 963
+  size: 49, 183
+  orig: 300, 300
+  offset: 143, 35
+  index: 32

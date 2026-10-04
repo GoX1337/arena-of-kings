@@ -1,0 +1,348 @@
+OrbOfWisdom_on_tick_0.png
+size: 1024, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+OrbOfWisdom_on_tick
+  rotate: true
+  xy: 1, 1215
+  size: 150, 172
+  orig: 150, 200
+  offset: 0, 0
+  index: 0
+OrbOfWisdom_on_tick
+  rotate: true
+  xy: 534, 1221
+  size: 150, 171
+  orig: 150, 200
+  offset: 0, 0
+  index: 1
+OrbOfWisdom_on_tick
+  rotate: true
+  xy: 354, 1248
+  size: 150, 171
+  orig: 150, 200
+  offset: 0, 0
+  index: 2
+OrbOfWisdom_on_tick
+  rotate: true
+  xy: 719, 1095
+  size: 149, 172
+  orig: 150, 200
+  offset: 1, 0
+  index: 3
+OrbOfWisdom_on_tick
+  rotate: true
+  xy: 358, 1098
+  size: 148, 174
+  orig: 150, 200
+  offset: 2, 0
+  index: 4
+OrbOfWisdom_on_tick
+  rotate: true
+  xy: 549, 921
+  size: 147, 177
+  orig: 150, 200
+  offset: 3, 0
+  index: 5
+OrbOfWisdom_on_tick
+  rotate: true
+  xy: 755, 653
+  size: 146, 179
+  orig: 150, 200
+  offset: 4, 0
+  index: 6
+OrbOfWisdom_on_tick
+  rotate: true
+  xy: 572, 631
+  size: 144, 181
+  orig: 150, 200
+  offset: 5, 0
+  index: 7
+OrbOfWisdom_on_tick
+  rotate: true
+  xy: 191, 624
+  size: 142, 183
+  orig: 150, 200
+  offset: 6, 0
+  index: 8
+OrbOfWisdom_on_tick
+  rotate: true
+  xy: 385, 537
+  size: 140, 185
+  orig: 150, 200
+  offset: 7, 0
+  index: 9
+OrbOfWisdom_on_tick
+  rotate: true
+  xy: 780, 385
+  size: 138, 187
+  orig: 150, 200
+  offset: 8, 0
+  index: 10
+OrbOfWisdom_on_tick
+  rotate: true
+  xy: 1, 523
+  size: 136, 188
+  orig: 150, 200
+  offset: 9, 0
+  index: 11
+OrbOfWisdom_on_tick
+  rotate: true
+  xy: 391, 399
+  size: 136, 189
+  orig: 150, 200
+  offset: 8, 0
+  index: 12
+OrbOfWisdom_on_tick
+  rotate: true
+  xy: 1, 385
+  size: 136, 191
+  orig: 150, 200
+  offset: 7, 0
+  index: 13
+OrbOfWisdom_on_tick
+  rotate: true
+  xy: 394, 262
+  size: 135, 192
+  orig: 150, 200
+  offset: 7, 0
+  index: 14
+OrbOfWisdom_on_tick
+  rotate: true
+  xy: 787, 248
+  size: 135, 193
+  orig: 150, 200
+  offset: 6, 0
+  index: 15
+OrbOfWisdom_on_tick
+  rotate: true
+  xy: 395, 126
+  size: 134, 194
+  orig: 150, 200
+  offset: 6, 0
+  index: 16
+OrbOfWisdom_on_tick
+  rotate: true
+  xy: 1, 126
+  size: 134, 195
+  orig: 150, 200
+  offset: 5, 0
+  index: 17
+OrbOfWisdom_on_tick
+  rotate: true
+  xy: 598, 1
+  size: 132, 196
+  orig: 150, 200
+  offset: 6, 0
+  index: 18
+OrbOfWisdom_on_tick
+  rotate: true
+  xy: 198, 250
+  size: 129, 194
+  orig: 150, 200
+  offset: 8, 0
+  index: 19
+OrbOfWisdom_on_tick
+  rotate: true
+  xy: 591, 258
+  size: 125, 193
+  orig: 150, 200
+  offset: 11, 0
+  index: 20
+OrbOfWisdom_on_tick
+  rotate: true
+  xy: 1, 262
+  size: 121, 194
+  orig: 150, 200
+  offset: 14, 0
+  index: 21
+OrbOfWisdom_on_tick
+  rotate: true
+  xy: 198, 126
+  size: 122, 195
+  orig: 150, 200
+  offset: 13, 0
+  index: 22
+OrbOfWisdom_on_tick
+  rotate: true
+  xy: 796, 125
+  size: 121, 196
+  orig: 150, 200
+  offset: 14, 0
+  index: 23
+OrbOfWisdom_on_tick
+  rotate: true
+  xy: 796, 1
+  size: 122, 196
+  orig: 150, 200
+  offset: 13, 1
+  index: 24
+OrbOfWisdom_on_tick
+  rotate: true
+  xy: 1, 1
+  size: 123, 197
+  orig: 150, 200
+  offset: 13, 2
+  index: 25
+OrbOfWisdom_on_tick
+  rotate: true
+  xy: 200, 1
+  size: 123, 197
+  orig: 150, 200
+  offset: 13, 1
+  index: 26
+OrbOfWisdom_on_tick
+  rotate: true
+  xy: 399, 1
+  size: 123, 197
+  orig: 150, 200
+  offset: 13, 0
+  index: 27
+OrbOfWisdom_on_tick
+  rotate: true
+  xy: 591, 135
+  size: 121, 194
+  orig: 150, 200
+  offset: 15, 0
+  index: 28
+OrbOfWisdom_on_tick
+  rotate: true
+  xy: 197, 381
+  size: 119, 192
+  orig: 150, 200
+  offset: 16, 0
+  index: 29
+OrbOfWisdom_on_tick
+  rotate: true
+  xy: 588, 385
+  size: 120, 190
+  orig: 150, 200
+  offset: 16, 0
+  index: 30
+OrbOfWisdom_on_tick
+  rotate: true
+  xy: 194, 502
+  size: 120, 189
+  orig: 150, 200
+  offset: 17, 0
+  index: 31
+OrbOfWisdom_on_tick
+  rotate: true
+  xy: 582, 507
+  size: 122, 186
+  orig: 150, 200
+  offset: 16, 0
+  index: 32
+OrbOfWisdom_on_tick
+  rotate: true
+  xy: 1, 661
+  size: 124, 183
+  orig: 150, 200
+  offset: 15, 0
+  index: 33
+OrbOfWisdom_on_tick
+  rotate: true
+  xy: 770, 525
+  size: 126, 182
+  orig: 150, 200
+  offset: 14, 0
+  index: 34
+OrbOfWisdom_on_tick
+  rotate: true
+  xy: 376, 679
+  size: 129, 181
+  orig: 150, 200
+  offset: 12, 0
+  index: 35
+OrbOfWisdom_on_tick
+  rotate: true
+  xy: 1, 787
+  size: 131, 180
+  orig: 150, 200
+  offset: 11, 0
+  index: 36
+OrbOfWisdom_on_tick
+  rotate: true
+  xy: 186, 768
+  size: 133, 180
+  orig: 150, 200
+  offset: 10, 0
+  index: 37
+OrbOfWisdom_on_tick
+  rotate: true
+  xy: 183, 903
+  size: 135, 179
+  orig: 150, 200
+  offset: 9, 0
+  index: 38
+OrbOfWisdom_on_tick
+  rotate: true
+  xy: 368, 810
+  size: 138, 179
+  orig: 150, 200
+  offset: 8, 0
+  index: 39
+OrbOfWisdom_on_tick
+  rotate: true
+  xy: 740, 801
+  size: 140, 178
+  orig: 150, 200
+  offset: 7, 0
+  index: 40
+OrbOfWisdom_on_tick
+  rotate: true
+  xy: 559, 777
+  size: 142, 179
+  orig: 150, 200
+  offset: 6, 0
+  index: 41
+OrbOfWisdom_on_tick
+  rotate: true
+  xy: 1, 920
+  size: 144, 178
+  orig: 150, 200
+  offset: 5, 0
+  index: 42
+OrbOfWisdom_on_tick
+  rotate: true
+  xy: 364, 950
+  size: 146, 177
+  orig: 150, 200
+  offset: 4, 0
+  index: 43
+OrbOfWisdom_on_tick
+  rotate: true
+  xy: 1, 1066
+  size: 147, 175
+  orig: 150, 200
+  offset: 3, 0
+  index: 44
+OrbOfWisdom_on_tick
+  rotate: true
+  xy: 178, 1192
+  size: 148, 174
+  orig: 150, 200
+  offset: 2, 0
+  index: 45
+OrbOfWisdom_on_tick
+  rotate: true
+  xy: 543, 1070
+  size: 149, 174
+  orig: 150, 200
+  offset: 1, 0
+  index: 46
+OrbOfWisdom_on_tick
+  rotate: true
+  xy: 181, 1040
+  size: 150, 175
+  orig: 150, 200
+  offset: 0, 0
+  index: 47
+OrbOfWisdom_on_tick
+  rotate: true
+  xy: 728, 943
+  size: 150, 174
+  orig: 150, 200
+  offset: 0, 0
+  index: 48

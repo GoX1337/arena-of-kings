@@ -1,0 +1,26 @@
+indoor_arena_core.png
+size: 256, 512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+altar
+  rotate: false
+  xy: 1, 1
+  size: 120, 188
+  orig: 120, 188
+  offset: 0, 0
+  index: -1
+left_phoenix
+  rotate: false
+  xy: 123, 1
+  size: 118, 177
+  orig: 118, 177
+  offset: 0, 0
+  index: -1
+right_phoenix
+  rotate: false
+  xy: 123, 180
+  size: 118, 177
+  orig: 118, 177
+  offset: 0, 0
+  index: -1

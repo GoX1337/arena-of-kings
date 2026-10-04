@@ -1,0 +1,221 @@
+AcidRain_on_tick_0.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AcidRain_on_tick
+  rotate: false
+  xy: 1, 1298
+  size: 343, 646
+  orig: 500, 800
+  offset: 84, 63
+  index: 0
+AcidRain_on_tick
+  rotate: false
+  xy: 702, 1293
+  size: 366, 638
+  orig: 500, 800
+  offset: 84, 63
+  index: 2
+AcidRain_on_tick
+  rotate: false
+  xy: 1136, 1
+  size: 381, 632
+  orig: 500, 800
+  offset: 84, 63
+  index: 3
+AcidRain_on_tick
+  rotate: false
+  xy: 755, 641
+  size: 378, 636
+  orig: 500, 800
+  offset: 84, 63
+  index: 4
+AcidRain_on_tick
+  rotate: false
+  xy: 1, 650
+  size: 376, 646
+  orig: 500, 800
+  offset: 84, 63
+  index: 5
+AcidRain_on_tick
+  rotate: false
+  xy: 1525, 631
+  size: 394, 627
+  orig: 500, 800
+  offset: 84, 63
+  index: 8
+AcidRain_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 391, 647
+  orig: 500, 800
+  offset: 84, 63
+  index: 9
+AcidRain_on_tick
+  rotate: false
+  xy: 1135, 638
+  size: 388, 632
+  orig: 500, 800
+  offset: 84, 63
+  index: 10
+AcidRain_on_tick
+  rotate: false
+  xy: 1070, 1279
+  size: 385, 634
+  orig: 500, 800
+  offset: 84, 63
+  index: 11
+AcidRain_on_tick
+  rotate: false
+  xy: 394, 1
+  size: 382, 638
+  orig: 500, 800
+  offset: 84, 63
+  index: 12
+AcidRain_on_tick
+  rotate: false
+  xy: 379, 650
+  size: 374, 641
+  orig: 500, 800
+  offset: 84, 63
+  index: 15
+AcidRain_on_tick
+  rotate: false
+  xy: 778, 1
+  size: 356, 635
+  orig: 500, 800
+  offset: 84, 63
+  index: 24
+AcidRain_on_tick
+  rotate: false
+  xy: 1519, 1
+  size: 357, 628
+  orig: 500, 800
+  offset: 84, 63
+  index: 26
+AcidRain_on_tick
+  rotate: false
+  xy: 346, 1298
+  size: 354, 644
+  orig: 500, 800
+  offset: 84, 63
+  index: 27
+AcidRain_on_tick
+  rotate: false
+  xy: 1457, 1272
+  size: 363, 617
+  orig: 500, 800
+  offset: 84, 63
+  index: 29
+
+AcidRain_on_tick_1.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AcidRain_on_tick
+  rotate: false
+  xy: 372, 1285
+  size: 367, 635
+  orig: 500, 800
+  offset: 84, 63
+  index: 1
+AcidRain_on_tick
+  rotate: false
+  xy: 1450, 1
+  size: 370, 631
+  orig: 500, 800
+  offset: 84, 63
+  index: 6
+AcidRain_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 368, 643
+  orig: 500, 800
+  offset: 84, 63
+  index: 7
+AcidRain_on_tick
+  rotate: false
+  xy: 1103, 1274
+  size: 380, 632
+  orig: 500, 800
+  offset: 84, 63
+  index: 13
+AcidRain_on_tick
+  rotate: false
+  xy: 732, 638
+  size: 377, 634
+  orig: 500, 800
+  offset: 84, 63
+  index: 14
+AcidRain_on_tick
+  rotate: false
+  xy: 1474, 634
+  size: 372, 629
+  orig: 500, 800
+  offset: 84, 63
+  index: 16
+AcidRain_on_tick
+  rotate: false
+  xy: 1, 1290
+  size: 369, 639
+  orig: 500, 800
+  offset: 84, 63
+  index: 17
+AcidRain_on_tick
+  rotate: false
+  xy: 1, 646
+  size: 366, 642
+  orig: 500, 800
+  offset: 84, 63
+  index: 18
+AcidRain_on_tick
+  rotate: false
+  xy: 1485, 1265
+  size: 363, 629
+  orig: 500, 800
+  offset: 84, 63
+  index: 19
+AcidRain_on_tick
+  rotate: false
+  xy: 1111, 636
+  size: 361, 632
+  orig: 500, 800
+  offset: 84, 63
+  index: 20
+AcidRain_on_tick
+  rotate: false
+  xy: 1084, 1
+  size: 364, 633
+  orig: 500, 800
+  offset: 84, 63
+  index: 21
+AcidRain_on_tick
+  rotate: false
+  xy: 369, 646
+  size: 361, 637
+  orig: 500, 800
+  offset: 84, 63
+  index: 22
+AcidRain_on_tick
+  rotate: false
+  xy: 371, 1
+  size: 359, 636
+  orig: 500, 800
+  offset: 84, 63
+  index: 23
+AcidRain_on_tick
+  rotate: false
+  xy: 741, 1274
+  size: 360, 633
+  orig: 500, 800
+  offset: 84, 63
+  index: 25
+AcidRain_on_tick
+  rotate: false
+  xy: 732, 1
+  size: 350, 635
+  orig: 500, 800
+  offset: 84, 63
+  index: 28

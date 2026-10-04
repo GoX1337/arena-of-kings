@@ -1,0 +1,215 @@
+Divination_on_tick_0.png
+size: 512, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Divination_on_tick
+  rotate: false
+  xy: 426, 480
+  size: 85, 86
+  orig: 150, 150
+  offset: 32, 33
+  index: 0
+Divination_on_tick
+  rotate: false
+  xy: 1, 509
+  size: 100, 88
+  orig: 150, 150
+  offset: 17, 33
+  index: 1
+Divination_on_tick
+  rotate: false
+  xy: 1, 417
+  size: 104, 90
+  orig: 150, 150
+  offset: 13, 33
+  index: 2
+Divination_on_tick
+  rotate: false
+  xy: 360, 284
+  size: 109, 93
+  orig: 150, 150
+  offset: 8, 33
+  index: 3
+Divination_on_tick
+  rotate: false
+  xy: 251, 96
+  size: 115, 97
+  orig: 150, 150
+  offset: 5, 32
+  index: 4
+Divination_on_tick
+  rotate: false
+  xy: 128, 1
+  size: 121, 102
+  orig: 150, 150
+  offset: 2, 30
+  index: 5
+Divination_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 125, 109
+  orig: 150, 150
+  offset: 1, 27
+  index: 6
+Divination_on_tick
+  rotate: true
+  xy: 114, 288
+  size: 98, 111
+  orig: 150, 150
+  offset: 30, 24
+  index: 7
+Divination_on_tick
+  rotate: true
+  xy: 1, 317
+  size: 98, 111
+  orig: 150, 150
+  offset: 31, 22
+  index: 8
+Divination_on_tick
+  rotate: false
+  xy: 336, 379
+  size: 102, 99
+  orig: 150, 150
+  offset: 32, 21
+  index: 9
+Divination_on_tick
+  rotate: false
+  xy: 114, 388
+  size: 107, 96
+  orig: 150, 150
+  offset: 32, 26
+  index: 10
+Divination_on_tick
+  rotate: false
+  xy: 117, 199
+  size: 112, 87
+  orig: 150, 150
+  offset: 32, 33
+  index: 11
+Divination_on_tick
+  rotate: false
+  xy: 370, 1
+  size: 116, 86
+  orig: 150, 150
+  offset: 31, 33
+  index: 12
+Divination_on_tick
+  rotate: false
+  xy: 370, 89
+  size: 116, 86
+  orig: 150, 150
+  offset: 30, 33
+  index: 13
+Divination_on_tick
+  rotate: false
+  xy: 98, 680
+  size: 88, 88
+  orig: 150, 150
+  offset: 32, 32
+  index: 14
+Divination_on_tick
+  rotate: true
+  xy: 308, 574
+  size: 87, 94
+  orig: 150, 150
+  offset: 30, 29
+  index: 15
+Divination_on_tick
+  rotate: true
+  xy: 107, 486
+  size: 96, 100
+  orig: 150, 150
+  offset: 21, 23
+  index: 16
+Divination_on_tick
+  rotate: true
+  xy: 227, 300
+  size: 100, 107
+  orig: 150, 150
+  offset: 17, 19
+  index: 17
+Divination_on_tick
+  rotate: true
+  xy: 245, 195
+  size: 103, 113
+  orig: 150, 150
+  offset: 14, 14
+  index: 18
+Divination_on_tick
+  rotate: true
+  xy: 368, 177
+  size: 105, 113
+  orig: 150, 150
+  offset: 12, 14
+  index: 19
+Divination_on_tick
+  rotate: false
+  xy: 1, 211
+  size: 111, 104
+  orig: 150, 150
+  offset: 8, 23
+  index: 20
+Divination_on_tick
+  rotate: false
+  xy: 1, 112
+  size: 114, 97
+  orig: 150, 150
+  offset: 7, 23
+  index: 21
+Divination_on_tick
+  rotate: false
+  xy: 251, 1
+  size: 117, 93
+  orig: 150, 150
+  offset: 6, 26
+  index: 22
+Divination_on_tick
+  rotate: false
+  xy: 128, 105
+  size: 115, 92
+  orig: 150, 150
+  offset: 7, 27
+  index: 23
+Divination_on_tick
+  rotate: false
+  xy: 1, 599
+  size: 95, 90
+  orig: 150, 150
+  offset: 22, 30
+  index: 24
+Divination_on_tick
+  rotate: false
+  xy: 326, 480
+  size: 98, 92
+  orig: 150, 150
+  offset: 20, 29
+  index: 25
+Divination_on_tick
+  rotate: false
+  xy: 209, 497
+  size: 97, 95
+  orig: 150, 150
+  offset: 23, 27
+  index: 26
+Divination_on_tick
+  rotate: false
+  xy: 103, 584
+  size: 97, 94
+  orig: 150, 150
+  offset: 24, 29
+  index: 27
+Divination_on_tick
+  rotate: false
+  xy: 223, 402
+  size: 101, 93
+  orig: 150, 150
+  offset: 21, 31
+  index: 28
+Divination_on_tick
+  rotate: false
+  xy: 202, 594
+  size: 91, 89
+  orig: 150, 150
+  offset: 32, 33
+  index: 29

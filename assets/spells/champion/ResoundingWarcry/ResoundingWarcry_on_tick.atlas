@@ -1,0 +1,191 @@
+ResoundingWarcry_on_tick_0.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ResoundingWarcry_on_tick
+  rotate: false
+  xy: 1, 1657
+  size: 392, 331
+  orig: 1000, 850
+  offset: 309, 313
+  index: 0
+ResoundingWarcry_on_tick
+  rotate: false
+  xy: 1482, 753
+  size: 481, 404
+  orig: 1000, 850
+  offset: 265, 272
+  index: 1
+ResoundingWarcry_on_tick
+  rotate: true
+  xy: 1482, 1159
+  size: 570, 477
+  orig: 1000, 850
+  offset: 221, 229
+  index: 2
+ResoundingWarcry_on_tick
+  rotate: true
+  xy: 748, 753
+  size: 890, 732
+  orig: 1000, 850
+  offset: 60, 57
+  index: 16
+ResoundingWarcry_on_tick
+  rotate: true
+  xy: 1, 753
+  size: 902, 745
+  orig: 1000, 850
+  offset: 54, 47
+  index: 18
+ResoundingWarcry_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 910, 750
+  orig: 1000, 850
+  offset: 50, 44
+  index: 19
+ResoundingWarcry_on_tick
+  rotate: false
+  xy: 913, 1
+  size: 910, 750
+  orig: 1000, 850
+  offset: 50, 44
+  index: 20
+ResoundingWarcry_on_tick
+  rotate: false
+  xy: 1825, 1
+  size: 25, 301
+  orig: 1000, 850
+  offset: 157, 337
+  index: 23
+
+ResoundingWarcry_on_tick_1.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ResoundingWarcry_on_tick
+  rotate: false
+  xy: 1315, 1462
+  size: 688, 575
+  orig: 1000, 850
+  offset: 161, 169
+  index: 3
+ResoundingWarcry_on_tick
+  rotate: false
+  xy: 1315, 1462
+  size: 688, 575
+  orig: 1000, 850
+  offset: 161, 169
+  index: 4
+ResoundingWarcry_on_tick
+  rotate: false
+  xy: 881, 740
+  size: 859, 720
+  orig: 1000, 850
+  offset: 76, 77
+  index: 13
+ResoundingWarcry_on_tick
+  rotate: false
+  xy: 893, 1
+  size: 878, 737
+  orig: 1000, 850
+  offset: 67, 65
+  index: 14
+ResoundingWarcry_on_tick
+  rotate: false
+  xy: 1, 735
+  size: 878, 737
+  orig: 1000, 850
+  offset: 67, 65
+  index: 15
+ResoundingWarcry_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 890, 732
+  orig: 1000, 850
+  offset: 60, 57
+  index: 17
+ResoundingWarcry_on_tick
+  rotate: false
+  xy: 1, 1474
+  size: 655, 438
+  orig: 1000, 850
+  offset: 105, 325
+  index: 21
+ResoundingWarcry_on_tick
+  rotate: false
+  xy: 658, 1474
+  size: 655, 438
+  orig: 1000, 850
+  offset: 105, 325
+  index: 22
+
+ResoundingWarcry_on_tick_2.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ResoundingWarcry_on_tick
+  rotate: true
+  xy: 1331, 702
+  size: 777, 650
+  orig: 1000, 850
+  offset: 117, 122
+  index: 8
+ResoundingWarcry_on_tick
+  rotate: true
+  xy: 679, 702
+  size: 778, 650
+  orig: 1000, 850
+  offset: 117, 122
+  index: 9
+ResoundingWarcry_on_tick
+  rotate: true
+  xy: 1, 702
+  size: 807, 676
+  orig: 1000, 850
+  offset: 102, 106
+  index: 10
+ResoundingWarcry_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 835, 699
+  orig: 1000, 850
+  offset: 88, 90
+  index: 11
+ResoundingWarcry_on_tick
+  rotate: false
+  xy: 838, 1
+  size: 835, 699
+  orig: 1000, 850
+  offset: 88, 90
+  index: 12
+
+ResoundingWarcry_on_tick_3.png
+size: 1024, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ResoundingWarcry_on_tick
+  rotate: true
+  xy: 1, 1230
+  size: 718, 600
+  orig: 1000, 850
+  offset: 147, 153
+  index: 5
+ResoundingWarcry_on_tick
+  rotate: false
+  xy: 1, 628
+  size: 719, 600
+  orig: 1000, 850
+  offset: 147, 153
+  index: 6
+ResoundingWarcry_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 747, 625
+  orig: 1000, 850
+  offset: 132, 138
+  index: 7

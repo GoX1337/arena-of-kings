@@ -1,0 +1,263 @@
+Meteor_on_tick_0.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Meteor_on_tick
+  rotate: false
+  xy: 1745, 352
+  size: 285, 327
+  orig: 800, 850
+  offset: 142, 419
+  index: 9
+Meteor_on_tick
+  rotate: false
+  xy: 1745, 1
+  size: 300, 349
+  orig: 800, 850
+  offset: 145, 391
+  index: 10
+Meteor_on_tick
+  rotate: false
+  xy: 1679, 1537
+  size: 341, 406
+  orig: 800, 850
+  offset: 156, 321
+  index: 13
+Meteor_on_tick
+  rotate: false
+  xy: 1678, 681
+  size: 361, 431
+  orig: 800, 850
+  offset: 160, 299
+  index: 14
+Meteor_on_tick
+  rotate: false
+  xy: 1165, 687
+  size: 511, 631
+  orig: 800, 850
+  offset: 176, 116
+  index: 20
+Meteor_on_tick
+  rotate: false
+  xy: 1150, 1367
+  size: 527, 657
+  orig: 800, 850
+  offset: 171, 92
+  index: 21
+Meteor_on_tick
+  rotate: false
+  xy: 586, 1367
+  size: 562, 666
+  orig: 800, 850
+  offset: 167, 80
+  index: 22
+Meteor_on_tick
+  rotate: false
+  xy: 1173, 1
+  size: 570, 670
+  orig: 800, 850
+  offset: 177, 69
+  index: 23
+Meteor_on_tick
+  rotate: false
+  xy: 591, 687
+  size: 572, 678
+  orig: 800, 850
+  offset: 177, 59
+  index: 24
+Meteor_on_tick
+  rotate: false
+  xy: 599, 1
+  size: 572, 684
+  orig: 800, 850
+  offset: 177, 48
+  index: 25
+Meteor_on_tick
+  rotate: false
+  xy: 1, 1367
+  size: 583, 669
+  orig: 800, 850
+  offset: 177, 29
+  index: 26
+Meteor_on_tick
+  rotate: false
+  xy: 1, 687
+  size: 588, 678
+  orig: 800, 850
+  offset: 177, 19
+  index: 27
+Meteor_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 596, 684
+  orig: 800, 850
+  offset: 178, 13
+  index: 28
+Meteor_on_tick
+  rotate: false
+  xy: 1679, 1114
+  size: 360, 421
+  orig: 800, 850
+  offset: 320, 136
+  index: 33
+
+Meteor_on_tick_1.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Meteor_on_tick
+  rotate: false
+  xy: 1369, 408
+  size: 180, 167
+  orig: 800, 850
+  offset: 88, 639
+  index: 0
+Meteor_on_tick
+  rotate: false
+  xy: 1369, 1
+  size: 196, 190
+  orig: 800, 850
+  offset: 88, 616
+  index: 1
+Meteor_on_tick
+  rotate: false
+  xy: 1361, 193
+  size: 209, 213
+  orig: 800, 850
+  offset: 90, 592
+  index: 2
+Meteor_on_tick
+  rotate: true
+  xy: 1699, 704
+  size: 227, 235
+  orig: 800, 850
+  offset: 96, 562
+  index: 3
+Meteor_on_tick
+  rotate: false
+  xy: 514, 1786
+  size: 233, 242
+  orig: 800, 850
+  offset: 106, 540
+  index: 4
+Meteor_on_tick
+  rotate: false
+  xy: 275, 1786
+  size: 237, 250
+  orig: 800, 850
+  offset: 118, 518
+  index: 5
+Meteor_on_tick
+  rotate: true
+  xy: 1, 1786
+  size: 250, 272
+  orig: 800, 850
+  offset: 124, 491
+  index: 6
+Meteor_on_tick
+  rotate: true
+  xy: 1067, 1
+  size: 265, 292
+  orig: 800, 850
+  offset: 131, 465
+  index: 7
+Meteor_on_tick
+  rotate: false
+  xy: 1067, 268
+  size: 277, 307
+  orig: 800, 850
+  offset: 138, 445
+  index: 8
+Meteor_on_tick
+  rotate: true
+  xy: 1573, 384
+  size: 318, 372
+  orig: 800, 850
+  offset: 149, 363
+  index: 11
+Meteor_on_tick
+  rotate: false
+  xy: 749, 1636
+  size: 331, 393
+  orig: 800, 850
+  offset: 153, 336
+  index: 12
+Meteor_on_tick
+  rotate: true
+  xy: 1573, 1
+  size: 381, 460
+  orig: 800, 850
+  offset: 163, 274
+  index: 15
+Meteor_on_tick
+  rotate: true
+  xy: 1082, 1621
+  size: 386, 489
+  orig: 800, 850
+  offset: 167, 248
+  index: 16
+Meteor_on_tick
+  rotate: false
+  xy: 560, 1116
+  size: 399, 518
+  orig: 800, 850
+  offset: 171, 223
+  index: 17
+Meteor_on_tick
+  rotate: false
+  xy: 1, 615
+  size: 506, 608
+  orig: 800, 850
+  offset: 174, 136
+  index: 18
+Meteor_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 504, 612
+  orig: 800, 850
+  offset: 176, 133
+  index: 19
+Meteor_on_tick
+  rotate: true
+  xy: 507, 1
+  size: 561, 558
+  orig: 800, 850
+  offset: 186, 136
+  index: 29
+Meteor_on_tick
+  rotate: true
+  xy: 1, 1225
+  size: 559, 557
+  orig: 800, 850
+  offset: 188, 135
+  index: 30
+Meteor_on_tick
+  rotate: false
+  xy: 509, 564
+  size: 526, 550
+  orig: 800, 850
+  offset: 214, 136
+  index: 31
+Meteor_on_tick
+  rotate: false
+  xy: 961, 1116
+  size: 459, 503
+  orig: 800, 850
+  offset: 221, 136
+  index: 32
+Meteor_on_tick
+  rotate: false
+  xy: 1037, 704
+  size: 330, 366
+  orig: 800, 850
+  offset: 349, 136
+  index: 34
+Meteor_on_tick
+  rotate: false
+  xy: 1369, 704
+  size: 328, 361
+  orig: 800, 850
+  offset: 350, 136
+  index: 35

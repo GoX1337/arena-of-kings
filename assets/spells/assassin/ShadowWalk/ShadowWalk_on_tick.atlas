@@ -1,0 +1,299 @@
+ShadowWalk_on_tick_0.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ShadowWalk_on_tick
+  rotate: true
+  xy: 489, 868
+  size: 27, 112
+  orig: 300, 300
+  offset: 125, 80
+  index: 0
+ShadowWalk_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 248, 300
+  orig: 300, 300
+  offset: 23, 0
+  index: 1
+ShadowWalk_on_tick
+  rotate: false
+  xy: 1, 605
+  size: 244, 300
+  orig: 300, 300
+  offset: 26, 0
+  index: 2
+ShadowWalk_on_tick
+  rotate: false
+  xy: 608, 1499
+  size: 240, 294
+  orig: 300, 300
+  offset: 28, 0
+  index: 3
+ShadowWalk_on_tick
+  rotate: false
+  xy: 1, 1511
+  size: 230, 300
+  orig: 300, 300
+  offset: 33, 0
+  index: 4
+ShadowWalk_on_tick
+  rotate: false
+  xy: 247, 903
+  size: 218, 296
+  orig: 300, 300
+  offset: 40, 4
+  index: 5
+ShadowWalk_on_tick
+  rotate: false
+  xy: 634, 1200
+  size: 205, 294
+  orig: 300, 300
+  offset: 47, 6
+  index: 6
+ShadowWalk_on_tick
+  rotate: false
+  xy: 415, 1499
+  size: 191, 295
+  orig: 300, 300
+  offset: 55, 5
+  index: 7
+ShadowWalk_on_tick
+  rotate: false
+  xy: 233, 1511
+  size: 180, 297
+  orig: 300, 300
+  offset: 59, 3
+  index: 8
+ShadowWalk_on_tick
+  rotate: false
+  xy: 243, 1209
+  size: 169, 297
+  orig: 300, 300
+  offset: 63, 3
+  index: 9
+ShadowWalk_on_tick
+  rotate: false
+  xy: 671, 582
+  size: 157, 283
+  orig: 300, 300
+  offset: 69, 17
+  index: 10
+ShadowWalk_on_tick
+  rotate: true
+  xy: 601, 1796
+  size: 248, 294
+  orig: 300, 300
+  offset: 23, 0
+  index: 11
+ShadowWalk_on_tick
+  rotate: false
+  xy: 467, 903
+  size: 244, 295
+  orig: 300, 300
+  offset: 26, 0
+  index: 12
+ShadowWalk_on_tick
+  rotate: false
+  xy: 247, 605
+  size: 240, 296
+  orig: 300, 300
+  offset: 28, 0
+  index: 13
+ShadowWalk_on_tick
+  rotate: true
+  xy: 303, 1810
+  size: 230, 296
+  orig: 300, 300
+  offset: 33, 0
+  index: 14
+ShadowWalk_on_tick
+  rotate: false
+  xy: 251, 295
+  size: 218, 291
+  orig: 300, 300
+  offset: 40, 4
+  index: 15
+ShadowWalk_on_tick
+  rotate: false
+  xy: 717, 291
+  size: 205, 282
+  orig: 300, 300
+  offset: 47, 8
+  index: 16
+ShadowWalk_on_tick
+  rotate: false
+  xy: 830, 575
+  size: 191, 277
+  orig: 300, 300
+  offset: 55, 12
+  index: 17
+ShadowWalk_on_tick
+  rotate: false
+  xy: 1023, 563
+  size: 180, 275
+  orig: 300, 300
+  offset: 59, 16
+  index: 18
+ShadowWalk_on_tick
+  rotate: false
+  xy: 924, 284
+  size: 169, 277
+  orig: 300, 300
+  offset: 63, 20
+  index: 19
+ShadowWalk_on_tick
+  rotate: false
+  xy: 841, 1149
+  size: 159, 277
+  orig: 300, 300
+  offset: 67, 23
+  index: 20
+ShadowWalk_on_tick
+  rotate: false
+  xy: 1, 303
+  size: 248, 300
+  orig: 300, 300
+  offset: 23, 0
+  index: 21
+ShadowWalk_on_tick
+  rotate: false
+  xy: 1, 907
+  size: 244, 300
+  orig: 300, 300
+  offset: 26, 0
+  index: 22
+ShadowWalk_on_tick
+  rotate: false
+  xy: 1, 1209
+  size: 240, 300
+  orig: 300, 300
+  offset: 28, 0
+  index: 23
+ShadowWalk_on_tick
+  rotate: true
+  xy: 1, 1813
+  size: 230, 300
+  orig: 300, 300
+  offset: 33, 0
+  index: 24
+ShadowWalk_on_tick
+  rotate: false
+  xy: 414, 1201
+  size: 218, 296
+  orig: 300, 300
+  offset: 40, 4
+  index: 25
+ShadowWalk_on_tick
+  rotate: false
+  xy: 251, 1
+  size: 205, 292
+  orig: 300, 300
+  offset: 47, 8
+  index: 26
+ShadowWalk_on_tick
+  rotate: false
+  xy: 708, 1
+  size: 191, 288
+  orig: 300, 300
+  offset: 55, 12
+  index: 27
+ShadowWalk_on_tick
+  rotate: false
+  xy: 489, 582
+  size: 180, 284
+  orig: 300, 300
+  offset: 59, 16
+  index: 28
+ShadowWalk_on_tick
+  rotate: false
+  xy: 897, 1700
+  size: 169, 268
+  orig: 300, 300
+  offset: 63, 20
+  index: 29
+ShadowWalk_on_tick
+  rotate: false
+  xy: 1165, 840
+  size: 160, 264
+  orig: 300, 300
+  offset: 66, 24
+  index: 30
+ShadowWalk_on_tick
+  rotate: false
+  xy: 458, 1
+  size: 248, 289
+  orig: 300, 300
+  offset: 23, 0
+  index: 31
+ShadowWalk_on_tick
+  rotate: false
+  xy: 471, 292
+  size: 244, 288
+  orig: 300, 300
+  offset: 26, 0
+  index: 32
+ShadowWalk_on_tick
+  rotate: false
+  xy: 901, 1
+  size: 240, 281
+  orig: 300, 300
+  offset: 28, 0
+  index: 33
+ShadowWalk_on_tick
+  rotate: false
+  xy: 713, 867
+  size: 230, 280
+  orig: 300, 300
+  offset: 33, 0
+  index: 34
+ShadowWalk_on_tick
+  rotate: false
+  xy: 945, 854
+  size: 218, 275
+  orig: 300, 300
+  offset: 40, 4
+  index: 35
+ShadowWalk_on_tick
+  rotate: false
+  xy: 850, 1428
+  size: 205, 270
+  orig: 300, 300
+  offset: 47, 8
+  index: 36
+ShadowWalk_on_tick
+  rotate: false
+  xy: 1057, 1402
+  size: 191, 267
+  orig: 300, 300
+  offset: 55, 12
+  index: 37
+ShadowWalk_on_tick
+  rotate: false
+  xy: 1149, 1131
+  size: 180, 267
+  orig: 300, 300
+  offset: 59, 13
+  index: 38
+ShadowWalk_on_tick
+  rotate: false
+  xy: 1143, 1
+  size: 169, 271
+  orig: 300, 300
+  offset: 63, 10
+  index: 39
+ShadowWalk_on_tick
+  rotate: false
+  xy: 1095, 284
+  size: 166, 272
+  orig: 300, 300
+  offset: 60, 10
+  index: 40
+ShadowWalk_on_tick
+  rotate: false
+  xy: 1002, 1131
+  size: 145, 269
+  orig: 300, 300
+  offset: 74, 13
+  index: 41

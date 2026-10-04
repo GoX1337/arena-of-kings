@@ -1,0 +1,201 @@
+Enrage_on_tick_0.png
+size: 256, 512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Enrage_on_tick
+  rotate: true
+  xy: 1, 1
+  size: 58, 71
+  orig: 80, 80
+  offset: 10, 1
+  index: 0
+Enrage_on_tick
+  rotate: true
+  xy: 190, 441
+  size: 59, 63
+  orig: 80, 80
+  offset: 10, 9
+  index: 1
+Enrage_on_tick
+  rotate: false
+  xy: 67, 445
+  size: 60, 64
+  orig: 80, 80
+  offset: 10, 8
+  index: 2
+Enrage_on_tick
+  rotate: true
+  xy: 1, 450
+  size: 61, 64
+  orig: 80, 80
+  offset: 9, 8
+  index: 3
+Enrage_on_tick
+  rotate: true
+  xy: 67, 381
+  size: 62, 64
+  orig: 80, 80
+  offset: 8, 8
+  index: 4
+Enrage_on_tick
+  rotate: true
+  xy: 1, 386
+  size: 62, 64
+  orig: 80, 80
+  offset: 8, 8
+  index: 5
+Enrage_on_tick
+  rotate: false
+  xy: 68, 316
+  size: 64, 63
+  orig: 80, 80
+  offset: 7, 9
+  index: 6
+Enrage_on_tick
+  rotate: false
+  xy: 1, 321
+  size: 64, 63
+  orig: 80, 80
+  offset: 7, 9
+  index: 7
+Enrage_on_tick
+  rotate: false
+  xy: 1, 193
+  size: 65, 64
+  orig: 80, 80
+  offset: 6, 8
+  index: 8
+Enrage_on_tick
+  rotate: false
+  xy: 1, 126
+  size: 66, 65
+  orig: 80, 80
+  offset: 6, 7
+  index: 9
+Enrage_on_tick
+  rotate: false
+  xy: 69, 126
+  size: 66, 62
+  orig: 80, 80
+  offset: 6, 10
+  index: 10
+Enrage_on_tick
+  rotate: false
+  xy: 141, 65
+  size: 67, 60
+  orig: 80, 80
+  offset: 6, 12
+  index: 11
+Enrage_on_tick
+  rotate: false
+  xy: 69, 190
+  size: 66, 60
+  orig: 80, 80
+  offset: 8, 12
+  index: 12
+Enrage_on_tick
+  rotate: false
+  xy: 137, 127
+  size: 66, 61
+  orig: 80, 80
+  offset: 8, 11
+  index: 13
+Enrage_on_tick
+  rotate: false
+  xy: 71, 63
+  size: 68, 61
+  orig: 80, 80
+  offset: 7, 11
+  index: 14
+Enrage_on_tick
+  rotate: false
+  xy: 146, 1
+  size: 68, 62
+  orig: 80, 80
+  offset: 7, 10
+  index: 15
+Enrage_on_tick
+  rotate: false
+  xy: 137, 190
+  size: 65, 62
+  orig: 80, 80
+  offset: 8, 10
+  index: 16
+Enrage_on_tick
+  rotate: false
+  xy: 68, 252
+  size: 65, 62
+  orig: 80, 80
+  offset: 8, 10
+  index: 17
+Enrage_on_tick
+  rotate: false
+  xy: 1, 61
+  size: 68, 63
+  orig: 80, 80
+  offset: 6, 9
+  index: 18
+Enrage_on_tick
+  rotate: false
+  xy: 134, 376
+  size: 64, 63
+  orig: 80, 80
+  offset: 11, 8
+  index: 19
+Enrage_on_tick
+  rotate: true
+  xy: 129, 445
+  size: 64, 59
+  orig: 80, 80
+  offset: 12, 8
+  index: 20
+Enrage_on_tick
+  rotate: false
+  xy: 135, 254
+  size: 65, 59
+  orig: 80, 80
+  offset: 11, 7
+  index: 21
+Enrage_on_tick
+  rotate: false
+  xy: 135, 315
+  size: 65, 59
+  orig: 80, 80
+  offset: 12, 6
+  index: 22
+Enrage_on_tick
+  rotate: false
+  xy: 1, 259
+  size: 65, 60
+  orig: 80, 80
+  offset: 12, 5
+  index: 23
+Enrage_on_tick
+  rotate: false
+  xy: 74, 1
+  size: 70, 60
+  orig: 80, 80
+  offset: 7, 4
+  index: 24
+Enrage_on_tick
+  rotate: true
+  xy: 205, 127
+  size: 46, 48
+  orig: 80, 80
+  offset: 13, 4
+  index: 25
+Enrage_on_tick
+  rotate: true
+  xy: 205, 127
+  size: 46, 48
+  orig: 80, 80
+  offset: 13, 4
+  index: 26
+Enrage_on_tick
+  rotate: true
+  xy: 210, 65
+  size: 46, 44
+  orig: 80, 80
+  offset: 13, 8
+  index: 27

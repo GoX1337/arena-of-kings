@@ -1,0 +1,68 @@
+MurderousInstincts_on_tick_0.png
+size: 128, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MurderousInstincts_on_tick
+  rotate: true
+  xy: 1, 874
+  size: 79, 80
+  orig: 200, 200
+  offset: 67, 63
+  index: 0
+MurderousInstincts_on_tick
+  rotate: false
+  xy: 1, 781
+  size: 95, 91
+  orig: 200, 200
+  offset: 60, 56
+  index: 1
+MurderousInstincts_on_tick
+  rotate: false
+  xy: 1, 680
+  size: 105, 99
+  orig: 200, 200
+  offset: 55, 51
+  index: 2
+MurderousInstincts_on_tick
+  rotate: false
+  xy: 1, 458
+  size: 116, 107
+  orig: 200, 200
+  offset: 49, 47
+  index: 3
+MurderousInstincts_on_tick
+  rotate: false
+  xy: 1, 231
+  size: 121, 110
+  orig: 200, 200
+  offset: 46, 45
+  index: 4
+MurderousInstincts_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 124, 113
+  orig: 200, 200
+  offset: 45, 44
+  index: 5
+MurderousInstincts_on_tick
+  rotate: false
+  xy: 1, 116
+  size: 124, 113
+  orig: 200, 200
+  offset: 43, 45
+  index: 6
+MurderousInstincts_on_tick
+  rotate: false
+  xy: 1, 343
+  size: 120, 113
+  orig: 200, 200
+  offset: 43, 45
+  index: 7
+MurderousInstincts_on_tick
+  rotate: false
+  xy: 1, 567
+  size: 114, 111
+  orig: 200, 200
+  offset: 45, 45
+  index: 8

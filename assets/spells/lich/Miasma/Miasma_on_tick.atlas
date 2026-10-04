@@ -1,0 +1,285 @@
+Miasma_on_tick_0.png
+size: 1024, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Miasma_on_tick
+  rotate: false
+  xy: 574, 701
+  size: 46, 80
+  orig: 300, 300
+  offset: 126, 205
+  index: 0
+Miasma_on_tick
+  rotate: false
+  xy: 574, 608
+  size: 50, 91
+  orig: 300, 300
+  offset: 124, 196
+  index: 1
+Miasma_on_tick
+  rotate: false
+  xy: 586, 494
+  size: 54, 112
+  orig: 300, 300
+  offset: 123, 179
+  index: 2
+Miasma_on_tick
+  rotate: false
+  xy: 586, 370
+  size: 56, 122
+  orig: 300, 300
+  offset: 122, 169
+  index: 3
+Miasma_on_tick
+  rotate: true
+  xy: 347, 1045
+  size: 115, 127
+  orig: 300, 300
+  offset: 104, 163
+  index: 4
+Miasma_on_tick
+  rotate: false
+  xy: 494, 1042
+  size: 138, 132
+  orig: 300, 300
+  offset: 89, 154
+  index: 5
+Miasma_on_tick
+  rotate: false
+  xy: 844, 1171
+  size: 143, 139
+  orig: 300, 300
+  offset: 86, 142
+  index: 6
+Miasma_on_tick
+  rotate: false
+  xy: 844, 1033
+  size: 144, 136
+  orig: 300, 300
+  offset: 85, 141
+  index: 7
+Miasma_on_tick
+  rotate: false
+  xy: 698, 1033
+  size: 144, 139
+  orig: 300, 300
+  offset: 85, 131
+  index: 8
+Miasma_on_tick
+  rotate: true
+  xy: 549, 896
+  size: 144, 147
+  orig: 300, 300
+  offset: 85, 116
+  index: 9
+Miasma_on_tick
+  rotate: false
+  xy: 347, 899
+  size: 145, 144
+  orig: 300, 300
+  offset: 84, 115
+  index: 10
+Miasma_on_tick
+  rotate: true
+  xy: 1, 732
+  size: 151, 178
+  orig: 300, 300
+  offset: 80, 79
+  index: 11
+Miasma_on_tick
+  rotate: false
+  xy: 861, 158
+  size: 156, 187
+  orig: 300, 300
+  offset: 77, 70
+  index: 12
+Miasma_on_tick
+  rotate: true
+  xy: 389, 562
+  size: 166, 183
+  orig: 300, 300
+  offset: 70, 71
+  index: 13
+Miasma_on_tick
+  rotate: true
+  xy: 836, 532
+  size: 167, 184
+  orig: 300, 300
+  offset: 69, 69
+  index: 14
+Miasma_on_tick
+  rotate: true
+  xy: 1, 885
+  size: 167, 173
+  orig: 300, 300
+  offset: 69, 73
+  index: 15
+Miasma_on_tick
+  rotate: false
+  xy: 622, 738
+  size: 166, 156
+  orig: 300, 300
+  offset: 70, 80
+  index: 16
+Miasma_on_tick
+  rotate: true
+  xy: 176, 891
+  size: 166, 169
+  orig: 300, 300
+  offset: 70, 66
+  index: 17
+Miasma_on_tick
+  rotate: true
+  xy: 1, 1054
+  size: 166, 169
+  orig: 300, 300
+  offset: 70, 66
+  index: 18
+Miasma_on_tick
+  rotate: true
+  xy: 195, 723
+  size: 166, 179
+  orig: 300, 300
+  offset: 70, 56
+  index: 19
+Miasma_on_tick
+  rotate: false
+  xy: 855, 347
+  size: 168, 183
+  orig: 300, 300
+  offset: 68, 52
+  index: 20
+Miasma_on_tick
+  rotate: true
+  xy: 834, 701
+  size: 172, 188
+  orig: 300, 300
+  offset: 64, 47
+  index: 21
+Miasma_on_tick
+  rotate: true
+  xy: 1, 559
+  size: 171, 192
+  orig: 300, 300
+  offset: 65, 44
+  index: 22
+Miasma_on_tick
+  rotate: true
+  xy: 1, 197
+  size: 167, 194
+  orig: 300, 300
+  offset: 69, 42
+  index: 23
+Miasma_on_tick
+  rotate: true
+  xy: 197, 365
+  size: 169, 193
+  orig: 300, 300
+  offset: 67, 42
+  index: 24
+Miasma_on_tick
+  rotate: true
+  xy: 197, 197
+  size: 166, 194
+  orig: 300, 300
+  offset: 70, 41
+  index: 25
+Miasma_on_tick
+  rotate: true
+  xy: 437, 194
+  size: 174, 197
+  orig: 300, 300
+  offset: 67, 38
+  index: 26
+Miasma_on_tick
+  rotate: true
+  xy: 650, 190
+  size: 180, 203
+  orig: 300, 300
+  offset: 62, 32
+  index: 27
+Miasma_on_tick
+  rotate: true
+  xy: 650, 1
+  size: 187, 209
+  orig: 300, 300
+  offset: 55, 26
+  index: 28
+Miasma_on_tick
+  rotate: true
+  xy: 1, 1
+  size: 194, 216
+  orig: 300, 300
+  offset: 52, 19
+  index: 29
+Miasma_on_tick
+  rotate: true
+  xy: 219, 1
+  size: 194, 216
+  orig: 300, 300
+  offset: 52, 19
+  index: 30
+Miasma_on_tick
+  rotate: true
+  xy: 437, 1
+  size: 191, 211
+  orig: 300, 300
+  offset: 52, 24
+  index: 31
+Miasma_on_tick
+  rotate: true
+  xy: 1, 366
+  size: 191, 192
+  orig: 300, 300
+  offset: 51, 43
+  index: 32
+Miasma_on_tick
+  rotate: true
+  xy: 392, 370
+  size: 190, 192
+  orig: 300, 300
+  offset: 52, 43
+  index: 33
+Miasma_on_tick
+  rotate: true
+  xy: 195, 536
+  size: 185, 192
+  orig: 300, 300
+  offset: 54, 43
+  index: 34
+Miasma_on_tick
+  rotate: true
+  xy: 644, 372
+  size: 182, 190
+  orig: 300, 300
+  offset: 56, 45
+  index: 35
+Miasma_on_tick
+  rotate: true
+  xy: 642, 556
+  size: 180, 190
+  orig: 300, 300
+  offset: 56, 45
+  index: 36
+Miasma_on_tick
+  rotate: true
+  xy: 376, 730
+  size: 167, 171
+  orig: 300, 300
+  offset: 69, 64
+  index: 37
+Miasma_on_tick
+  rotate: true
+  xy: 790, 875
+  size: 156, 165
+  orig: 300, 300
+  offset: 77, 68
+  index: 38
+Miasma_on_tick
+  rotate: true
+  xy: 861, 1
+  size: 155, 162
+  orig: 300, 300
+  offset: 76, 70
+  index: 39

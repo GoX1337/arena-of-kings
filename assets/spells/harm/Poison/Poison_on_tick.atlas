@@ -1,0 +1,180 @@
+Poison_on_tick_0.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Poison_on_tick
+  rotate: false
+  xy: 642, 497
+  size: 173, 167
+  orig: 300, 300
+  offset: 58, 73
+  index: 0
+Poison_on_tick
+  rotate: false
+  xy: 642, 333
+  size: 175, 162
+  orig: 300, 300
+  offset: 57, 69
+  index: 1
+Poison_on_tick
+  rotate: false
+  xy: 649, 162
+  size: 176, 169
+  orig: 300, 300
+  offset: 57, 66
+  index: 2
+Poison_on_tick
+  rotate: true
+  xy: 834, 1
+  size: 152, 178
+  orig: 300, 300
+  offset: 79, 62
+  index: 3
+Poison_on_tick
+  rotate: false
+  xy: 490, 777
+  size: 150, 184
+  orig: 300, 300
+  offset: 78, 58
+  index: 4
+Poison_on_tick
+  rotate: false
+  xy: 170, 412
+  size: 154, 193
+  orig: 300, 300
+  offset: 76, 55
+  index: 5
+Poison_on_tick
+  rotate: false
+  xy: 332, 195
+  size: 157, 187
+  orig: 300, 300
+  offset: 75, 53
+  index: 6
+Poison_on_tick
+  rotate: false
+  xy: 331, 1
+  size: 153, 192
+  orig: 300, 300
+  offset: 74, 50
+  index: 7
+Poison_on_tick
+  rotate: false
+  xy: 1, 814
+  size: 156, 197
+  orig: 300, 300
+  offset: 71, 49
+  index: 8
+Poison_on_tick
+  rotate: true
+  xy: 834, 155
+  size: 160, 177
+  orig: 300, 300
+  offset: 67, 47
+  index: 9
+Poison_on_tick
+  rotate: true
+  xy: 649, 1
+  size: 159, 183
+  orig: 300, 300
+  offset: 64, 46
+  index: 10
+Poison_on_tick
+  rotate: false
+  xy: 325, 809
+  size: 163, 191
+  orig: 300, 300
+  offset: 61, 44
+  index: 11
+Poison_on_tick
+  rotate: false
+  xy: 335, 590
+  size: 164, 185
+  orig: 300, 300
+  offset: 59, 55
+  index: 12
+Poison_on_tick
+  rotate: false
+  xy: 326, 397
+  size: 163, 191
+  orig: 300, 300
+  offset: 58, 53
+  index: 13
+Poison_on_tick
+  rotate: false
+  xy: 1, 614
+  size: 165, 198
+  orig: 300, 300
+  offset: 58, 51
+  index: 14
+Poison_on_tick
+  rotate: false
+  xy: 168, 614
+  size: 165, 193
+  orig: 300, 300
+  offset: 59, 49
+  index: 15
+Poison_on_tick
+  rotate: false
+  xy: 162, 1
+  size: 167, 200
+  orig: 300, 300
+  offset: 59, 46
+  index: 16
+Poison_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 159, 205
+  orig: 300, 300
+  offset: 69, 45
+  index: 17
+Poison_on_tick
+  rotate: false
+  xy: 486, 1
+  size: 161, 186
+  orig: 300, 300
+  offset: 67, 44
+  index: 18
+Poison_on_tick
+  rotate: false
+  xy: 171, 203
+  size: 159, 192
+  orig: 300, 300
+  offset: 65, 44
+  index: 19
+Poison_on_tick
+  rotate: false
+  xy: 159, 814
+  size: 164, 196
+  orig: 300, 300
+  offset: 63, 44
+  index: 20
+Poison_on_tick
+  rotate: false
+  xy: 1, 412
+  size: 167, 200
+  orig: 300, 300
+  offset: 61, 43
+  index: 21
+Poison_on_tick
+  rotate: false
+  xy: 1, 208
+  size: 168, 202
+  orig: 300, 300
+  offset: 60, 45
+  index: 22
+Poison_on_tick
+  rotate: true
+  xy: 827, 317
+  size: 170, 175
+  orig: 300, 300
+  offset: 58, 69
+  index: 23
+Poison_on_tick
+  rotate: false
+  xy: 819, 489
+  size: 174, 169
+  orig: 300, 300
+  offset: 56, 70
+  index: 24

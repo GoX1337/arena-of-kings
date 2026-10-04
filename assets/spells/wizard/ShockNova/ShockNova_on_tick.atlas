@@ -1,0 +1,117 @@
+ShockNova_on_tick-0.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ShockNova_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 500, 400
+  orig: 500, 400
+  offset: 0, 0
+  index: 0
+ShockNova_on_tick
+  rotate: false
+  xy: 503, 1
+  size: 500, 400
+  orig: 500, 400
+  offset: 0, 0
+  index: 1
+ShockNova_on_tick
+  rotate: false
+  xy: 1005, 1
+  size: 500, 400
+  orig: 500, 400
+  offset: 0, 0
+  index: 2
+ShockNova_on_tick
+  rotate: false
+  xy: 1507, 1
+  size: 500, 400
+  orig: 500, 400
+  offset: 0, 0
+  index: 3
+ShockNova_on_tick
+  rotate: false
+  xy: 1, 403
+  size: 500, 400
+  orig: 500, 400
+  offset: 0, 0
+  index: 4
+ShockNova_on_tick
+  rotate: false
+  xy: 1, 805
+  size: 500, 400
+  orig: 500, 400
+  offset: 0, 0
+  index: 5
+ShockNova_on_tick
+  rotate: false
+  xy: 1, 1207
+  size: 500, 400
+  orig: 500, 400
+  offset: 0, 0
+  index: 6
+ShockNova_on_tick
+  rotate: false
+  xy: 1, 1609
+  size: 500, 400
+  orig: 500, 400
+  offset: 0, 0
+  index: 7
+ShockNova_on_tick
+  rotate: false
+  xy: 503, 403
+  size: 500, 400
+  orig: 500, 400
+  offset: 0, 0
+  index: 8
+ShockNova_on_tick
+  rotate: false
+  xy: 1005, 403
+  size: 500, 400
+  orig: 500, 400
+  offset: 0, 0
+  index: 9
+ShockNova_on_tick
+  rotate: false
+  xy: 1507, 403
+  size: 500, 400
+  orig: 500, 400
+  offset: 0, 0
+  index: 10
+ShockNova_on_tick
+  rotate: false
+  xy: 503, 805
+  size: 500, 400
+  orig: 500, 400
+  offset: 0, 0
+  index: 11
+ShockNova_on_tick
+  rotate: false
+  xy: 503, 1207
+  size: 500, 400
+  orig: 500, 400
+  offset: 0, 0
+  index: 12
+ShockNova_on_tick
+  rotate: false
+  xy: 503, 1609
+  size: 500, 400
+  orig: 500, 400
+  offset: 0, 0
+  index: 13
+ShockNova_on_tick
+  rotate: false
+  xy: 1005, 805
+  size: 500, 400
+  orig: 500, 400
+  offset: 0, 0
+  index: 14
+ShockNova_on_tick
+  rotate: false
+  xy: 1507, 805
+  size: 500, 400
+  orig: 500, 400
+  offset: 0, 0
+  index: 15

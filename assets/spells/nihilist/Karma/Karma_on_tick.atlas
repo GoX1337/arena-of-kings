@@ -1,0 +1,215 @@
+Karma_on_tick_0.png
+size: 512, 512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Karma_on_tick
+  rotate: true
+  xy: 1, 348
+  size: 83, 82
+  orig: 100, 100
+  offset: 9, 7
+  index: 0
+Karma_on_tick
+  rotate: true
+  xy: 169, 169
+  size: 81, 80
+  orig: 100, 100
+  offset: 11, 8
+  index: 1
+Karma_on_tick
+  rotate: true
+  xy: 83, 433
+  size: 78, 79
+  orig: 100, 100
+  offset: 14, 9
+  index: 2
+Karma_on_tick
+  rotate: true
+  xy: 164, 433
+  size: 78, 79
+  orig: 100, 100
+  offset: 15, 10
+  index: 3
+Karma_on_tick
+  rotate: false
+  xy: 168, 261
+  size: 79, 83
+  orig: 100, 100
+  offset: 14, 7
+  index: 4
+Karma_on_tick
+  rotate: false
+  xy: 1, 175
+  size: 82, 85
+  orig: 100, 100
+  offset: 11, 6
+  index: 5
+Karma_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 83, 85
+  orig: 100, 100
+  offset: 9, 5
+  index: 6
+Karma_on_tick
+  rotate: false
+  xy: 1, 88
+  size: 83, 85
+  orig: 100, 100
+  offset: 9, 5
+  index: 7
+Karma_on_tick
+  rotate: false
+  xy: 86, 1
+  size: 80, 82
+  orig: 100, 100
+  offset: 10, 5
+  index: 8
+Karma_on_tick
+  rotate: false
+  xy: 330, 83
+  size: 77, 79
+  orig: 100, 100
+  offset: 12, 5
+  index: 9
+Karma_on_tick
+  rotate: true
+  xy: 409, 81
+  size: 78, 75
+  orig: 100, 100
+  offset: 12, 5
+  index: 10
+Karma_on_tick
+  rotate: false
+  xy: 1, 433
+  size: 80, 78
+  orig: 100, 100
+  offset: 11, 4
+  index: 11
+Karma_on_tick
+  rotate: true
+  xy: 168, 1
+  size: 82, 80
+  orig: 100, 100
+  offset: 9, 4
+  index: 12
+Karma_on_tick
+  rotate: true
+  xy: 85, 348
+  size: 83, 82
+  orig: 100, 100
+  offset: 8, 4
+  index: 13
+Karma_on_tick
+  rotate: true
+  xy: 169, 346
+  size: 82, 81
+  orig: 100, 100
+  offset: 8, 6
+  index: 14
+Karma_on_tick
+  rotate: false
+  xy: 250, 1
+  size: 80, 80
+  orig: 100, 100
+  offset: 8, 8
+  index: 15
+Karma_on_tick
+  rotate: true
+  xy: 252, 334
+  size: 78, 77
+  orig: 100, 100
+  offset: 7, 9
+  index: 16
+Karma_on_tick
+  rotate: false
+  xy: 411, 1
+  size: 74, 76
+  orig: 100, 100
+  offset: 8, 10
+  index: 17
+Karma_on_tick
+  rotate: false
+  xy: 332, 1
+  size: 77, 78
+  orig: 100, 100
+  offset: 6, 8
+  index: 18
+Karma_on_tick
+  rotate: false
+  xy: 249, 252
+  size: 79, 80
+  orig: 100, 100
+  offset: 6, 8
+  index: 19
+Karma_on_tick
+  rotate: false
+  xy: 168, 85
+  size: 79, 82
+  orig: 100, 100
+  offset: 7, 7
+  index: 20
+Karma_on_tick
+  rotate: false
+  xy: 86, 85
+  size: 80, 82
+  orig: 100, 100
+  offset: 8, 8
+  index: 21
+Karma_on_tick
+  rotate: false
+  xy: 245, 430
+  size: 81, 81
+  orig: 100, 100
+  offset: 9, 9
+  index: 22
+Karma_on_tick
+  rotate: false
+  xy: 251, 168
+  size: 79, 79
+  orig: 100, 100
+  offset: 10, 11
+  index: 23
+Karma_on_tick
+  rotate: true
+  xy: 330, 249
+  size: 78, 77
+  orig: 100, 100
+  offset: 10, 13
+  index: 24
+Karma_on_tick
+  rotate: true
+  xy: 332, 164
+  size: 78, 76
+  orig: 100, 100
+  offset: 10, 14
+  index: 25
+Karma_on_tick
+  rotate: true
+  xy: 249, 85
+  size: 81, 79
+  orig: 100, 100
+  offset: 8, 12
+  index: 26
+Karma_on_tick
+  rotate: true
+  xy: 86, 261
+  size: 83, 80
+  orig: 100, 100
+  offset: 8, 11
+  index: 27
+Karma_on_tick
+  rotate: true
+  xy: 85, 175
+  size: 84, 82
+  orig: 100, 100
+  offset: 8, 9
+  index: 28
+Karma_on_tick
+  rotate: true
+  xy: 1, 262
+  size: 84, 83
+  orig: 100, 100
+  offset: 8, 7
+  index: 29

@@ -1,0 +1,159 @@
+GospelOfHarmony_on_tick_0.png
+size: 1024, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GospelOfHarmony_on_tick
+  rotate: true
+  xy: 907, 207
+  size: 75, 76
+  orig: 300, 300
+  offset: 115, 115
+  index: 0
+GospelOfHarmony_on_tick
+  rotate: false
+  xy: 595, 989
+  size: 128, 127
+  orig: 300, 300
+  offset: 89, 91
+  index: 1
+GospelOfHarmony_on_tick
+  rotate: false
+  xy: 907, 1
+  size: 110, 108
+  orig: 300, 300
+  offset: 98, 101
+  index: 2
+GospelOfHarmony_on_tick
+  rotate: false
+  xy: 907, 111
+  size: 94, 94
+  orig: 300, 300
+  offset: 105, 107
+  index: 3
+GospelOfHarmony_on_tick
+  rotate: false
+  xy: 595, 1118
+  size: 118, 117
+  orig: 300, 300
+  offset: 94, 95
+  index: 4
+GospelOfHarmony_on_tick
+  rotate: false
+  xy: 430, 989
+  size: 163, 161
+  orig: 300, 300
+  offset: 72, 73
+  index: 5
+GospelOfHarmony_on_tick
+  rotate: false
+  xy: 1, 806
+  size: 207, 204
+  orig: 300, 300
+  offset: 50, 51
+  index: 6
+GospelOfHarmony_on_tick
+  rotate: false
+  xy: 566, 303
+  size: 252, 247
+  orig: 300, 300
+  offset: 28, 30
+  index: 7
+GospelOfHarmony_on_tick
+  rotate: false
+  xy: 293, 303
+  size: 271, 266
+  orig: 300, 300
+  offset: 18, 20
+  index: 8
+GospelOfHarmony_on_tick
+  rotate: false
+  xy: 1, 303
+  size: 290, 285
+  orig: 300, 300
+  offset: 9, 11
+  index: 9
+GospelOfHarmony_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 10
+GospelOfHarmony_on_tick
+  rotate: false
+  xy: 303, 1
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 11
+GospelOfHarmony_on_tick
+  rotate: false
+  xy: 605, 1
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 12
+GospelOfHarmony_on_tick
+  rotate: true
+  xy: 218, 790
+  size: 209, 210
+  orig: 300, 300
+  offset: 41, 46
+  index: 13
+GospelOfHarmony_on_tick
+  rotate: false
+  xy: 1, 590
+  size: 215, 214
+  orig: 300, 300
+  offset: 39, 44
+  index: 14
+GospelOfHarmony_on_tick
+  rotate: false
+  xy: 742, 968
+  size: 218, 217
+  orig: 300, 300
+  offset: 37, 42
+  index: 15
+GospelOfHarmony_on_tick
+  rotate: false
+  xy: 518, 770
+  size: 222, 217
+  orig: 300, 300
+  offset: 35, 42
+  index: 16
+GospelOfHarmony_on_tick
+  rotate: false
+  xy: 293, 571
+  size: 223, 217
+  orig: 300, 300
+  offset: 35, 42
+  index: 17
+GospelOfHarmony_on_tick
+  rotate: false
+  xy: 566, 552
+  size: 224, 216
+  orig: 300, 300
+  offset: 35, 41
+  index: 18
+GospelOfHarmony_on_tick
+  rotate: false
+  xy: 792, 751
+  size: 224, 215
+  orig: 300, 300
+  offset: 35, 41
+  index: 19
+GospelOfHarmony_on_tick
+  rotate: true
+  xy: 820, 303
+  size: 223, 198
+  orig: 300, 300
+  offset: 36, 43
+  index: 20
+GospelOfHarmony_on_tick
+  rotate: true
+  xy: 820, 528
+  size: 221, 195
+  orig: 300, 300
+  offset: 37, 45
+  index: 21

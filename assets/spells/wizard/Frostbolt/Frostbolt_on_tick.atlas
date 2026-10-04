@@ -1,0 +1,145 @@
+Frostbolt_on_tick_0.png
+size: 512, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Frostbolt_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 200, 80
+  orig: 200, 80
+  offset: 0, 0
+  index: 0
+Frostbolt_on_tick
+  rotate: false
+  xy: 203, 1
+  size: 200, 80
+  orig: 200, 80
+  offset: 0, 0
+  index: 1
+Frostbolt_on_tick
+  rotate: false
+  xy: 1, 83
+  size: 200, 80
+  orig: 200, 80
+  offset: 0, 0
+  index: 2
+Frostbolt_on_tick
+  rotate: false
+  xy: 203, 83
+  size: 200, 80
+  orig: 200, 80
+  offset: 0, 0
+  index: 3
+Frostbolt_on_tick
+  rotate: false
+  xy: 1, 165
+  size: 200, 80
+  orig: 200, 80
+  offset: 0, 0
+  index: 4
+Frostbolt_on_tick
+  rotate: false
+  xy: 203, 165
+  size: 200, 80
+  orig: 200, 80
+  offset: 0, 0
+  index: 5
+Frostbolt_on_tick
+  rotate: false
+  xy: 1, 247
+  size: 200, 80
+  orig: 200, 80
+  offset: 0, 0
+  index: 6
+Frostbolt_on_tick
+  rotate: false
+  xy: 203, 247
+  size: 200, 80
+  orig: 200, 80
+  offset: 0, 0
+  index: 7
+Frostbolt_on_tick
+  rotate: false
+  xy: 1, 329
+  size: 200, 80
+  orig: 200, 80
+  offset: 0, 0
+  index: 8
+Frostbolt_on_tick
+  rotate: false
+  xy: 203, 329
+  size: 200, 80
+  orig: 200, 80
+  offset: 0, 0
+  index: 9
+Frostbolt_on_tick
+  rotate: false
+  xy: 1, 411
+  size: 200, 80
+  orig: 200, 80
+  offset: 0, 0
+  index: 10
+Frostbolt_on_tick
+  rotate: false
+  xy: 203, 411
+  size: 200, 80
+  orig: 200, 80
+  offset: 0, 0
+  index: 11
+Frostbolt_on_tick
+  rotate: false
+  xy: 1, 493
+  size: 200, 80
+  orig: 200, 80
+  offset: 0, 0
+  index: 12
+Frostbolt_on_tick
+  rotate: false
+  xy: 203, 493
+  size: 200, 80
+  orig: 200, 80
+  offset: 0, 0
+  index: 13
+Frostbolt_on_tick
+  rotate: false
+  xy: 1, 575
+  size: 200, 80
+  orig: 200, 80
+  offset: 0, 0
+  index: 14
+Frostbolt_on_tick
+  rotate: false
+  xy: 203, 575
+  size: 200, 80
+  orig: 200, 80
+  offset: 0, 0
+  index: 15
+Frostbolt_on_tick
+  rotate: false
+  xy: 1, 657
+  size: 200, 80
+  orig: 200, 80
+  offset: 0, 0
+  index: 16
+Frostbolt_on_tick
+  rotate: false
+  xy: 203, 657
+  size: 200, 80
+  orig: 200, 80
+  offset: 0, 0
+  index: 17
+Frostbolt_on_tick
+  rotate: false
+  xy: 1, 739
+  size: 200, 80
+  orig: 200, 80
+  offset: 0, 0
+  index: 18
+Frostbolt_on_tick
+  rotate: false
+  xy: 203, 739
+  size: 200, 80
+  orig: 200, 80
+  offset: 0, 0
+  index: 19

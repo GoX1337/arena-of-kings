@@ -1,0 +1,110 @@
+HeavensGuidance_on_tick_0.png
+size: 256, 512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HeavensGuidance_on_tick
+  rotate: false
+  xy: 78, 228
+  size: 74, 74
+  orig: 80, 80
+  offset: 4, 6
+  index: 0
+HeavensGuidance_on_tick
+  rotate: false
+  xy: 154, 230
+  size: 74, 67
+  orig: 80, 80
+  offset: 4, 13
+  index: 1
+HeavensGuidance_on_tick
+  rotate: false
+  xy: 1, 304
+  size: 73, 67
+  orig: 80, 80
+  offset: 5, 13
+  index: 2
+HeavensGuidance_on_tick
+  rotate: true
+  xy: 1, 373
+  size: 73, 70
+  orig: 80, 80
+  offset: 5, 10
+  index: 3
+HeavensGuidance_on_tick
+  rotate: false
+  xy: 154, 299
+  size: 73, 72
+  orig: 80, 80
+  offset: 5, 8
+  index: 4
+HeavensGuidance_on_tick
+  rotate: true
+  xy: 1, 229
+  size: 73, 74
+  orig: 80, 80
+  offset: 5, 6
+  index: 5
+HeavensGuidance_on_tick
+  rotate: true
+  xy: 78, 152
+  size: 74, 75
+  orig: 80, 80
+  offset: 5, 5
+  index: 6
+HeavensGuidance_on_tick
+  rotate: false
+  xy: 157, 77
+  size: 75, 75
+  orig: 80, 80
+  offset: 4, 5
+  index: 7
+HeavensGuidance_on_tick
+  rotate: false
+  xy: 1, 152
+  size: 75, 75
+  orig: 80, 80
+  offset: 4, 5
+  index: 8
+HeavensGuidance_on_tick
+  rotate: true
+  xy: 155, 154
+  size: 74, 75
+  orig: 80, 80
+  offset: 5, 5
+  index: 9
+HeavensGuidance_on_tick
+  rotate: true
+  xy: 1, 1
+  size: 74, 76
+  orig: 80, 80
+  offset: 5, 4
+  index: 10
+HeavensGuidance_on_tick
+  rotate: true
+  xy: 1, 77
+  size: 73, 76
+  orig: 80, 80
+  offset: 5, 4
+  index: 11
+HeavensGuidance_on_tick
+  rotate: true
+  xy: 79, 77
+  size: 73, 76
+  orig: 80, 80
+  offset: 5, 4
+  index: 12
+HeavensGuidance_on_tick
+  rotate: true
+  xy: 79, 1
+  size: 74, 76
+  orig: 80, 80
+  offset: 4, 4
+  index: 13
+HeavensGuidance_on_tick
+  rotate: true
+  xy: 157, 1
+  size: 74, 76
+  orig: 80, 80
+  offset: 4, 4
+  index: 14

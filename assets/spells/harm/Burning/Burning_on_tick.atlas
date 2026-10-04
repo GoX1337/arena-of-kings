@@ -1,0 +1,173 @@
+Burning_on_tick_0.png
+size: 512, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Burning_on_tick
+  rotate: false
+  xy: 403, 382
+  size: 108, 113
+  orig: 150, 150
+  offset: 16, 0
+  index: 0
+Burning_on_tick
+  rotate: false
+  xy: 399, 642
+  size: 110, 118
+  orig: 150, 150
+  offset: 14, 0
+  index: 1
+Burning_on_tick
+  rotate: true
+  xy: 263, 644
+  size: 113, 122
+  orig: 150, 150
+  offset: 11, 0
+  index: 2
+Burning_on_tick
+  rotate: true
+  xy: 1, 748
+  size: 114, 124
+  orig: 150, 150
+  offset: 10, 0
+  index: 3
+Burning_on_tick
+  rotate: true
+  xy: 134, 635
+  size: 118, 127
+  orig: 150, 150
+  offset: 8, 0
+  index: 4
+Burning_on_tick
+  rotate: true
+  xy: 135, 512
+  size: 121, 131
+  orig: 150, 150
+  offset: 6, 0
+  index: 5
+Burning_on_tick
+  rotate: true
+  xy: 1, 388
+  size: 123, 132
+  orig: 150, 150
+  offset: 6, 0
+  index: 6
+Burning_on_tick
+  rotate: true
+  xy: 277, 254
+  size: 126, 133
+  orig: 150, 150
+  offset: 5, 0
+  index: 7
+Burning_on_tick
+  rotate: true
+  xy: 141, 252
+  size: 126, 134
+  orig: 150, 150
+  offset: 5, 0
+  index: 8
+Burning_on_tick
+  rotate: true
+  xy: 1, 128
+  size: 126, 138
+  orig: 150, 150
+  offset: 6, 0
+  index: 9
+Burning_on_tick
+  rotate: true
+  xy: 287, 1
+  size: 124, 140
+  orig: 150, 150
+  offset: 8, 0
+  index: 10
+Burning_on_tick
+  rotate: true
+  xy: 144, 127
+  size: 123, 139
+  orig: 150, 150
+  offset: 9, 0
+  index: 11
+Burning_on_tick
+  rotate: true
+  xy: 1, 1
+  size: 125, 141
+  orig: 150, 150
+  offset: 8, 0
+  index: 12
+Burning_on_tick
+  rotate: true
+  xy: 144, 1
+  size: 124, 141
+  orig: 150, 150
+  offset: 9, 0
+  index: 13
+Burning_on_tick
+  rotate: true
+  xy: 285, 127
+  size: 125, 137
+  orig: 150, 150
+  offset: 12, 0
+  index: 14
+Burning_on_tick
+  rotate: true
+  xy: 268, 514
+  size: 128, 129
+  orig: 150, 150
+  offset: 13, 0
+  index: 15
+Burning_on_tick
+  rotate: true
+  xy: 270, 382
+  size: 130, 131
+  orig: 150, 150
+  offset: 12, 0
+  index: 16
+Burning_on_tick
+  rotate: true
+  xy: 136, 380
+  size: 130, 132
+  orig: 150, 150
+  offset: 12, 0
+  index: 17
+Burning_on_tick
+  rotate: true
+  xy: 1, 256
+  size: 130, 133
+  orig: 150, 150
+  offset: 12, 0
+  index: 18
+Burning_on_tick
+  rotate: false
+  xy: 1, 513
+  size: 131, 118
+  orig: 150, 150
+  offset: 11, 0
+  index: 19
+Burning_on_tick
+  rotate: false
+  xy: 1, 633
+  size: 131, 113
+  orig: 150, 150
+  offset: 11, 0
+  index: 20
+Burning_on_tick
+  rotate: true
+  xy: 399, 514
+  size: 126, 110
+  orig: 150, 150
+  offset: 11, 0
+  index: 21
+Burning_on_tick
+  rotate: false
+  xy: 127, 755
+  size: 119, 113
+  orig: 150, 150
+  offset: 11, 0
+  index: 22
+Burning_on_tick
+  rotate: true
+  xy: 1, 864
+  size: 113, 114
+  orig: 150, 150
+  offset: 14, 0
+  index: 23

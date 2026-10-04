@@ -1,0 +1,271 @@
+SeedOfLife_on_tick_0.png
+size: 1024, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SeedOfLife_on_tick
+  rotate: false
+  xy: 530, 1090
+  size: 146, 141
+  orig: 300, 300
+  offset: 90, 69
+  index: 0
+SeedOfLife_on_tick
+  rotate: true
+  xy: 705, 960
+  size: 148, 157
+  orig: 300, 300
+  offset: 89, 62
+  index: 1
+SeedOfLife_on_tick
+  rotate: true
+  xy: 864, 960
+  size: 149, 155
+  orig: 300, 300
+  offset: 88, 64
+  index: 2
+SeedOfLife_on_tick
+  rotate: true
+  xy: 544, 321
+  size: 149, 177
+  orig: 300, 300
+  offset: 88, 66
+  index: 3
+SeedOfLife_on_tick
+  rotate: true
+  xy: 722, 503
+  size: 149, 176
+  orig: 300, 300
+  offset: 88, 67
+  index: 4
+SeedOfLife_on_tick
+  rotate: true
+  xy: 540, 633
+  size: 149, 176
+  orig: 300, 300
+  offset: 88, 69
+  index: 5
+SeedOfLife_on_tick
+  rotate: true
+  xy: 539, 784
+  size: 149, 174
+  orig: 300, 300
+  offset: 87, 71
+  index: 6
+SeedOfLife_on_tick
+  rotate: true
+  xy: 177, 969
+  size: 157, 171
+  orig: 300, 300
+  offset: 79, 75
+  index: 7
+SeedOfLife_on_tick
+  rotate: true
+  xy: 544, 472
+  size: 159, 176
+  orig: 300, 300
+  offset: 78, 70
+  index: 8
+SeedOfLife_on_tick
+  rotate: true
+  xy: 368, 159
+  size: 160, 180
+  orig: 300, 300
+  offset: 77, 66
+  index: 9
+SeedOfLife_on_tick
+  rotate: true
+  xy: 1, 489
+  size: 161, 178
+  orig: 300, 300
+  offset: 76, 68
+  index: 10
+SeedOfLife_on_tick
+  rotate: true
+  xy: 1, 1
+  size: 163, 182
+  orig: 300, 300
+  offset: 76, 66
+  index: 11
+SeedOfLife_on_tick
+  rotate: true
+  xy: 551, 156
+  size: 163, 180
+  orig: 300, 300
+  offset: 76, 69
+  index: 12
+SeedOfLife_on_tick
+  rotate: true
+  xy: 734, 1
+  size: 165, 180
+  orig: 300, 300
+  offset: 76, 68
+  index: 13
+SeedOfLife_on_tick
+  rotate: true
+  xy: 733, 168
+  size: 166, 178
+  orig: 300, 300
+  offset: 75, 68
+  index: 14
+SeedOfLife_on_tick
+  rotate: true
+  xy: 183, 320
+  size: 166, 179
+  orig: 300, 300
+  offset: 75, 68
+  index: 15
+SeedOfLife_on_tick
+  rotate: true
+  xy: 364, 321
+  size: 166, 178
+  orig: 300, 300
+  offset: 75, 71
+  index: 16
+SeedOfLife_on_tick
+  rotate: true
+  xy: 1, 321
+  size: 166, 179
+  orig: 300, 300
+  offset: 75, 71
+  index: 17
+SeedOfLife_on_tick
+  rotate: true
+  xy: 182, 488
+  size: 165, 178
+  orig: 300, 300
+  offset: 76, 72
+  index: 18
+SeedOfLife_on_tick
+  rotate: true
+  xy: 723, 336
+  size: 165, 176
+  orig: 300, 300
+  offset: 76, 72
+  index: 19
+SeedOfLife_on_tick
+  rotate: true
+  xy: 531, 935
+  size: 153, 172
+  orig: 300, 300
+  offset: 77, 75
+  index: 20
+SeedOfLife_on_tick
+  rotate: true
+  xy: 356, 810
+  size: 152, 173
+  orig: 300, 300
+  offset: 78, 75
+  index: 21
+SeedOfLife_on_tick
+  rotate: true
+  xy: 715, 807
+  size: 151, 173
+  orig: 300, 300
+  offset: 80, 75
+  index: 22
+SeedOfLife_on_tick
+  rotate: true
+  xy: 551, 1
+  size: 153, 181
+  orig: 300, 300
+  offset: 79, 67
+  index: 23
+SeedOfLife_on_tick
+  rotate: true
+  xy: 1, 166
+  size: 153, 180
+  orig: 300, 300
+  offset: 79, 67
+  index: 24
+SeedOfLife_on_tick
+  rotate: true
+  xy: 368, 1
+  size: 156, 181
+  orig: 300, 300
+  offset: 79, 67
+  index: 25
+SeedOfLife_on_tick
+  rotate: true
+  xy: 185, 1
+  size: 157, 181
+  orig: 300, 300
+  offset: 78, 67
+  index: 26
+SeedOfLife_on_tick
+  rotate: true
+  xy: 185, 160
+  size: 158, 180
+  orig: 300, 300
+  offset: 77, 67
+  index: 27
+SeedOfLife_on_tick
+  rotate: true
+  xy: 362, 489
+  size: 159, 176
+  orig: 300, 300
+  offset: 77, 70
+  index: 28
+SeedOfLife_on_tick
+  rotate: true
+  xy: 362, 650
+  size: 158, 175
+  orig: 300, 300
+  offset: 78, 70
+  index: 29
+SeedOfLife_on_tick
+  rotate: true
+  xy: 180, 809
+  size: 158, 174
+  orig: 300, 300
+  offset: 79, 71
+  index: 30
+SeedOfLife_on_tick
+  rotate: true
+  xy: 1, 652
+  size: 157, 177
+  orig: 300, 300
+  offset: 80, 71
+  index: 31
+SeedOfLife_on_tick
+  rotate: true
+  xy: 1, 965
+  size: 151, 174
+  orig: 300, 300
+  offset: 90, 74
+  index: 32
+SeedOfLife_on_tick
+  rotate: true
+  xy: 718, 654
+  size: 151, 174
+  orig: 300, 300
+  offset: 90, 74
+  index: 33
+SeedOfLife_on_tick
+  rotate: true
+  xy: 356, 964
+  size: 151, 172
+  orig: 300, 300
+  offset: 90, 74
+  index: 34
+SeedOfLife_on_tick
+  rotate: true
+  xy: 1, 811
+  size: 152, 174
+  orig: 300, 300
+  offset: 89, 68
+  index: 35
+SeedOfLife_on_tick
+  rotate: true
+  xy: 180, 655
+  size: 152, 175
+  orig: 300, 300
+  offset: 89, 68
+  index: 36
+SeedOfLife_on_tick
+  rotate: true
+  xy: 1, 1118
+  size: 150, 169
+  orig: 300, 300
+  offset: 89, 72
+  index: 37

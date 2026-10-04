@@ -1,0 +1,82 @@
+Lacerate_on_tick_0.png
+size: 512, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lacerate_on_tick
+  rotate: true
+  xy: 337, 569
+  size: 97, 108
+  orig: 200, 230
+  offset: 102, 122
+  index: 0
+Lacerate_on_tick
+  rotate: true
+  xy: 337, 569
+  size: 97, 108
+  orig: 200, 230
+  offset: 102, 122
+  index: 1
+Lacerate_on_tick
+  rotate: true
+  xy: 1, 1
+  size: 191, 217
+  orig: 200, 230
+  offset: 9, 13
+  index: 2
+Lacerate_on_tick
+  rotate: true
+  xy: 220, 1
+  size: 190, 217
+  orig: 200, 230
+  offset: 8, 11
+  index: 3
+Lacerate_on_tick
+  rotate: true
+  xy: 220, 193
+  size: 190, 215
+  orig: 200, 230
+  offset: 6, 10
+  index: 4
+Lacerate_on_tick
+  rotate: true
+  xy: 1, 194
+  size: 187, 213
+  orig: 200, 230
+  offset: 6, 9
+  index: 5
+Lacerate_on_tick
+  rotate: true
+  xy: 1, 383
+  size: 184, 211
+  orig: 200, 230
+  offset: 6, 8
+  index: 6
+Lacerate_on_tick
+  rotate: true
+  xy: 214, 385
+  size: 182, 208
+  orig: 200, 230
+  offset: 5, 7
+  index: 7
+Lacerate_on_tick
+  rotate: false
+  xy: 1, 569
+  size: 178, 204
+  orig: 200, 230
+  offset: 5, 7
+  index: 8
+Lacerate_on_tick
+  rotate: false
+  xy: 1, 775
+  size: 172, 197
+  orig: 200, 230
+  offset: 7, 9
+  index: 9
+Lacerate_on_tick
+  rotate: false
+  xy: 175, 775
+  size: 160, 189
+  orig: 200, 230
+  offset: 10, 11
+  index: 10

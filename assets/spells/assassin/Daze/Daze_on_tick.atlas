@@ -1,0 +1,187 @@
+Daze_on_tick_0.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Daze_on_tick
+  rotate: false
+  xy: 537, 704
+  size: 88, 155
+  orig: 200, 300
+  offset: 56, 0
+  index: 0
+Daze_on_tick
+  rotate: false
+  xy: 931, 168
+  size: 92, 158
+  orig: 200, 300
+  offset: 54, 0
+  index: 1
+Daze_on_tick
+  rotate: false
+  xy: 931, 328
+  size: 92, 158
+  orig: 200, 300
+  offset: 54, 0
+  index: 2
+Daze_on_tick
+  rotate: false
+  xy: 931, 1
+  size: 92, 165
+  orig: 200, 300
+  offset: 54, 20
+  index: 3
+Daze_on_tick
+  rotate: true
+  xy: 699, 362
+  size: 110, 209
+  orig: 200, 300
+  offset: 46, 4
+  index: 4
+Daze_on_tick
+  rotate: false
+  xy: 150, 537
+  size: 127, 241
+  orig: 200, 300
+  offset: 39, 0
+  index: 5
+Daze_on_tick
+  rotate: false
+  xy: 1, 537
+  size: 147, 264
+  orig: 200, 300
+  offset: 29, 2
+  index: 6
+Daze_on_tick
+  rotate: false
+  xy: 1, 269
+  size: 163, 266
+  orig: 200, 300
+  offset: 21, 0
+  index: 7
+Daze_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 171, 266
+  orig: 200, 300
+  offset: 18, 0
+  index: 8
+Daze_on_tick
+  rotate: true
+  xy: 719, 183
+  size: 177, 210
+  orig: 200, 300
+  offset: 15, 0
+  index: 9
+Daze_on_tick
+  rotate: true
+  xy: 719, 1
+  size: 180, 210
+  orig: 200, 300
+  offset: 12, 0
+  index: 10
+Daze_on_tick
+  rotate: true
+  xy: 627, 828
+  size: 183, 207
+  orig: 200, 300
+  offset: 9, 2
+  index: 11
+Daze_on_tick
+  rotate: false
+  xy: 843, 488
+  size: 180, 208
+  orig: 200, 300
+  offset: 10, 2
+  index: 12
+Daze_on_tick
+  rotate: true
+  xy: 633, 474
+  size: 181, 208
+  orig: 200, 300
+  offset: 10, 5
+  index: 13
+Daze_on_tick
+  rotate: false
+  xy: 1, 803
+  size: 185, 213
+  orig: 200, 300
+  offset: 9, 10
+  index: 14
+Daze_on_tick
+  rotate: false
+  xy: 533, 1
+  size: 184, 223
+  orig: 200, 300
+  offset: 10, 9
+  index: 15
+Daze_on_tick
+  rotate: false
+  xy: 351, 1
+  size: 180, 230
+  orig: 200, 300
+  offset: 11, 8
+  index: 16
+Daze_on_tick
+  rotate: false
+  xy: 166, 269
+  size: 178, 237
+  orig: 200, 300
+  offset: 11, 7
+  index: 17
+Daze_on_tick
+  rotate: false
+  xy: 174, 1
+  size: 175, 237
+  orig: 200, 300
+  offset: 14, 6
+  index: 18
+Daze_on_tick
+  rotate: false
+  xy: 279, 508
+  size: 175, 235
+  orig: 200, 300
+  offset: 14, 10
+  index: 19
+Daze_on_tick
+  rotate: false
+  xy: 525, 233
+  size: 172, 228
+  orig: 200, 300
+  offset: 14, 16
+  index: 20
+Daze_on_tick
+  rotate: false
+  xy: 346, 240
+  size: 177, 232
+  orig: 200, 300
+  offset: 14, 21
+  index: 21
+Daze_on_tick
+  rotate: false
+  xy: 188, 780
+  size: 169, 238
+  orig: 200, 300
+  offset: 14, 21
+  index: 22
+Daze_on_tick
+  rotate: false
+  xy: 456, 474
+  size: 175, 228
+  orig: 200, 300
+  offset: 14, 22
+  index: 23
+Daze_on_tick
+  rotate: false
+  xy: 359, 745
+  size: 176, 229
+  orig: 200, 300
+  offset: 15, 27
+  index: 24
+Daze_on_tick
+  rotate: true
+  xy: 633, 657
+  size: 169, 208
+  orig: 200, 300
+  offset: 14, 42
+  index: 25

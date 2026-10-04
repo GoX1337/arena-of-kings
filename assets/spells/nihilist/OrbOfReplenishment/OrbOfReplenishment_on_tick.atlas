@@ -1,0 +1,348 @@
+OrbOfReplenishment_on_tick_0.png
+size: 1024, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+OrbOfReplenishment_on_tick
+  rotate: true
+  xy: 510, 939
+  size: 150, 164
+  orig: 150, 200
+  offset: 0, 0
+  index: 0
+OrbOfReplenishment_on_tick
+  rotate: false
+  xy: 862, 877
+  size: 150, 165
+  orig: 150, 200
+  offset: 0, 0
+  index: 1
+OrbOfReplenishment_on_tick
+  rotate: true
+  xy: 685, 923
+  size: 150, 165
+  orig: 150, 200
+  offset: 0, 0
+  index: 2
+OrbOfReplenishment_on_tick
+  rotate: true
+  xy: 342, 923
+  size: 149, 166
+  orig: 150, 200
+  offset: 1, 0
+  index: 3
+OrbOfReplenishment_on_tick
+  rotate: true
+  xy: 1, 1058
+  size: 148, 166
+  orig: 150, 200
+  offset: 2, 0
+  index: 4
+OrbOfReplenishment_on_tick
+  rotate: true
+  xy: 516, 790
+  size: 147, 167
+  orig: 150, 200
+  offset: 3, 0
+  index: 5
+OrbOfReplenishment_on_tick
+  rotate: true
+  xy: 346, 775
+  size: 146, 168
+  orig: 150, 200
+  offset: 4, 0
+  index: 6
+OrbOfReplenishment_on_tick
+  rotate: true
+  xy: 1, 911
+  size: 145, 168
+  orig: 150, 200
+  offset: 5, 0
+  index: 7
+OrbOfReplenishment_on_tick
+  rotate: true
+  xy: 1, 766
+  size: 143, 169
+  orig: 150, 200
+  offset: 6, 0
+  index: 8
+OrbOfReplenishment_on_tick
+  rotate: true
+  xy: 701, 630
+  size: 141, 169
+  orig: 150, 200
+  offset: 7, 0
+  index: 9
+OrbOfReplenishment_on_tick
+  rotate: false
+  xy: 883, 537
+  size: 139, 170
+  orig: 150, 200
+  offset: 8, 0
+  index: 10
+OrbOfReplenishment_on_tick
+  rotate: true
+  xy: 528, 502
+  size: 137, 171
+  orig: 150, 200
+  offset: 9, 0
+  index: 11
+OrbOfReplenishment_on_tick
+  rotate: true
+  xy: 1, 629
+  size: 135, 172
+  orig: 150, 200
+  offset: 10, 0
+  index: 12
+OrbOfReplenishment_on_tick
+  rotate: true
+  xy: 535, 367
+  size: 133, 173
+  orig: 150, 200
+  offset: 11, 0
+  index: 13
+OrbOfReplenishment_on_tick
+  rotate: true
+  xy: 1, 496
+  size: 131, 174
+  orig: 150, 200
+  offset: 12, 0
+  index: 14
+OrbOfReplenishment_on_tick
+  rotate: false
+  xy: 894, 360
+  size: 129, 175
+  orig: 150, 200
+  offset: 13, 0
+  index: 15
+OrbOfReplenishment_on_tick
+  rotate: true
+  xy: 358, 360
+  size: 127, 175
+  orig: 150, 200
+  offset: 14, 1
+  index: 16
+OrbOfReplenishment_on_tick
+  rotate: true
+  xy: 716, 235
+  size: 125, 176
+  orig: 150, 200
+  offset: 15, 1
+  index: 17
+OrbOfReplenishment_on_tick
+  rotate: true
+  xy: 716, 362
+  size: 123, 176
+  orig: 150, 200
+  offset: 16, 2
+  index: 18
+OrbOfReplenishment_on_tick
+  rotate: true
+  xy: 180, 360
+  size: 121, 176
+  orig: 150, 200
+  offset: 17, 3
+  index: 19
+OrbOfReplenishment_on_tick
+  rotate: true
+  xy: 363, 114
+  size: 119, 178
+  orig: 150, 200
+  offset: 18, 3
+  index: 20
+OrbOfReplenishment_on_tick
+  rotate: false
+  xy: 905, 181
+  size: 117, 177
+  orig: 150, 200
+  offset: 19, 4
+  index: 21
+OrbOfReplenishment_on_tick
+  rotate: true
+  xy: 1, 116
+  size: 115, 178
+  orig: 150, 200
+  offset: 20, 5
+  index: 22
+OrbOfReplenishment_on_tick
+  rotate: true
+  xy: 1, 1
+  size: 113, 179
+  orig: 150, 200
+  offset: 21, 5
+  index: 23
+OrbOfReplenishment_on_tick
+  rotate: true
+  xy: 363, 1
+  size: 111, 179
+  orig: 150, 200
+  offset: 22, 6
+  index: 24
+OrbOfReplenishment_on_tick
+  rotate: true
+  xy: 725, 1
+  size: 109, 179
+  orig: 150, 200
+  offset: 23, 7
+  index: 25
+OrbOfReplenishment_on_tick
+  rotate: true
+  xy: 544, 1
+  size: 111, 179
+  orig: 150, 200
+  offset: 22, 6
+  index: 26
+OrbOfReplenishment_on_tick
+  rotate: true
+  xy: 182, 1
+  size: 113, 179
+  orig: 150, 200
+  offset: 21, 5
+  index: 27
+OrbOfReplenishment_on_tick
+  rotate: true
+  xy: 181, 116
+  size: 115, 178
+  orig: 150, 200
+  offset: 20, 5
+  index: 28
+OrbOfReplenishment_on_tick
+  rotate: false
+  xy: 906, 1
+  size: 117, 178
+  orig: 150, 200
+  offset: 19, 4
+  index: 29
+OrbOfReplenishment_on_tick
+  rotate: true
+  xy: 543, 114
+  size: 119, 178
+  orig: 150, 200
+  offset: 18, 3
+  index: 30
+OrbOfReplenishment_on_tick
+  rotate: true
+  xy: 725, 112
+  size: 121, 178
+  orig: 150, 200
+  offset: 17, 2
+  index: 31
+OrbOfReplenishment_on_tick
+  rotate: true
+  xy: 359, 235
+  size: 123, 177
+  orig: 150, 200
+  offset: 16, 2
+  index: 32
+OrbOfReplenishment_on_tick
+  rotate: true
+  xy: 180, 233
+  size: 125, 177
+  orig: 150, 200
+  offset: 15, 1
+  index: 33
+OrbOfReplenishment_on_tick
+  rotate: true
+  xy: 1, 233
+  size: 127, 177
+  orig: 150, 200
+  offset: 14, 0
+  index: 34
+OrbOfReplenishment_on_tick
+  rotate: true
+  xy: 538, 235
+  size: 130, 176
+  orig: 150, 200
+  offset: 12, 0
+  index: 35
+OrbOfReplenishment_on_tick
+  rotate: true
+  xy: 1, 362
+  size: 132, 175
+  orig: 150, 200
+  offset: 11, 0
+  index: 36
+OrbOfReplenishment_on_tick
+  rotate: true
+  xy: 178, 483
+  size: 134, 174
+  orig: 150, 200
+  offset: 10, 0
+  index: 37
+OrbOfReplenishment_on_tick
+  rotate: true
+  xy: 177, 619
+  size: 136, 172
+  orig: 150, 200
+  offset: 9, 0
+  index: 38
+OrbOfReplenishment_on_tick
+  rotate: true
+  xy: 354, 489
+  size: 139, 172
+  orig: 150, 200
+  offset: 8, 0
+  index: 39
+OrbOfReplenishment_on_tick
+  rotate: true
+  xy: 710, 487
+  size: 141, 171
+  orig: 150, 200
+  offset: 7, 0
+  index: 40
+OrbOfReplenishment_on_tick
+  rotate: true
+  xy: 351, 630
+  size: 143, 170
+  orig: 150, 200
+  offset: 6, 0
+  index: 41
+OrbOfReplenishment_on_tick
+  rotate: true
+  xy: 175, 757
+  size: 145, 169
+  orig: 150, 200
+  offset: 5, 0
+  index: 42
+OrbOfReplenishment_on_tick
+  rotate: true
+  xy: 172, 904
+  size: 146, 168
+  orig: 150, 200
+  offset: 4, 0
+  index: 43
+OrbOfReplenishment_on_tick
+  rotate: true
+  xy: 523, 641
+  size: 147, 168
+  orig: 150, 200
+  offset: 3, 0
+  index: 44
+OrbOfReplenishment_on_tick
+  rotate: true
+  xy: 693, 773
+  size: 148, 167
+  orig: 150, 200
+  offset: 2, 0
+  index: 45
+OrbOfReplenishment_on_tick
+  rotate: true
+  xy: 171, 1052
+  size: 149, 166
+  orig: 150, 200
+  offset: 1, 0
+  index: 46
+OrbOfReplenishment_on_tick
+  rotate: false
+  xy: 872, 709
+  size: 150, 166
+  orig: 150, 200
+  offset: 0, 0
+  index: 47
+OrbOfReplenishment_on_tick
+  rotate: true
+  xy: 852, 1044
+  size: 150, 165
+  orig: 150, 200
+  offset: 0, 0
+  index: 48

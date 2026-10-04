@@ -1,0 +1,194 @@
+VolcanicEruption_on_tick_0.png
+size: 1024, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+VolcanicEruption_on_tick
+  rotate: false
+  xy: 499, 1142
+  size: 218, 136
+  orig: 280, 280
+  offset: 23, 34
+  index: 0
+VolcanicEruption_on_tick
+  rotate: false
+  xy: 255, 984
+  size: 244, 136
+  orig: 280, 280
+  offset: 14, 34
+  index: 1
+VolcanicEruption_on_tick
+  rotate: false
+  xy: 773, 390
+  size: 250, 144
+  orig: 280, 280
+  offset: 15, 34
+  index: 2
+VolcanicEruption_on_tick
+  rotate: false
+  xy: 512, 758
+  size: 249, 148
+  orig: 280, 280
+  offset: 16, 34
+  index: 3
+VolcanicEruption_on_tick
+  rotate: false
+  xy: 775, 238
+  size: 247, 150
+  orig: 280, 280
+  offset: 17, 32
+  index: 4
+VolcanicEruption_on_tick
+  rotate: false
+  xy: 763, 779
+  size: 245, 154
+  orig: 280, 280
+  offset: 18, 28
+  index: 5
+VolcanicEruption_on_tick
+  rotate: false
+  xy: 255, 1122
+  size: 242, 198
+  orig: 280, 280
+  offset: 20, 28
+  index: 6
+VolcanicEruption_on_tick
+  rotate: false
+  xy: 1, 732
+  size: 254, 199
+  orig: 280, 280
+  offset: 14, 28
+  index: 7
+VolcanicEruption_on_tick
+  rotate: false
+  xy: 257, 504
+  size: 254, 231
+  orig: 280, 280
+  offset: 14, 27
+  index: 8
+VolcanicEruption_on_tick
+  rotate: false
+  xy: 1, 496
+  size: 254, 234
+  orig: 280, 280
+  offset: 14, 28
+  index: 9
+VolcanicEruption_on_tick
+  rotate: false
+  xy: 1, 256
+  size: 254, 238
+  orig: 280, 280
+  offset: 14, 28
+  index: 10
+VolcanicEruption_on_tick
+  rotate: false
+  xy: 259, 253
+  size: 254, 249
+  orig: 280, 280
+  offset: 14, 20
+  index: 11
+VolcanicEruption_on_tick
+  rotate: false
+  xy: 517, 251
+  size: 254, 251
+  orig: 280, 280
+  offset: 14, 20
+  index: 12
+VolcanicEruption_on_tick
+  rotate: false
+  xy: 513, 504
+  size: 253, 252
+  orig: 280, 280
+  offset: 15, 21
+  index: 13
+VolcanicEruption_on_tick
+  rotate: true
+  xy: 1, 1
+  size: 253, 256
+  orig: 280, 280
+  offset: 15, 18
+  index: 14
+VolcanicEruption_on_tick
+  rotate: true
+  xy: 259, 1
+  size: 250, 256
+  orig: 280, 280
+  offset: 17, 19
+  index: 15
+VolcanicEruption_on_tick
+  rotate: true
+  xy: 517, 1
+  size: 248, 256
+  orig: 280, 280
+  offset: 18, 19
+  index: 16
+VolcanicEruption_on_tick
+  rotate: true
+  xy: 257, 737
+  size: 245, 253
+  orig: 280, 280
+  offset: 20, 21
+  index: 17
+VolcanicEruption_on_tick
+  rotate: true
+  xy: 1, 933
+  size: 244, 252
+  orig: 280, 280
+  offset: 21, 22
+  index: 18
+VolcanicEruption_on_tick
+  rotate: true
+  xy: 768, 536
+  size: 241, 251
+  orig: 280, 280
+  offset: 24, 23
+  index: 19
+VolcanicEruption_on_tick
+  rotate: true
+  xy: 775, 1
+  size: 235, 248
+  orig: 280, 280
+  offset: 28, 25
+  index: 20
+VolcanicEruption_on_tick
+  rotate: true
+  xy: 512, 908
+  size: 232, 244
+  orig: 280, 280
+  offset: 31, 27
+  index: 21
+VolcanicEruption_on_tick
+  rotate: true
+  xy: 1, 1179
+  size: 228, 240
+  orig: 280, 280
+  offset: 33, 30
+  index: 22
+VolcanicEruption_on_tick
+  rotate: true
+  xy: 758, 935
+  size: 224, 226
+  orig: 280, 280
+  offset: 36, 31
+  index: 23
+VolcanicEruption_on_tick
+  rotate: false
+  xy: 719, 1161
+  size: 215, 215
+  orig: 280, 280
+  offset: 38, 36
+  index: 24
+VolcanicEruption_on_tick
+  rotate: true
+  xy: 499, 1280
+  size: 212, 214
+  orig: 280, 280
+  offset: 38, 37
+  index: 25
+VolcanicEruption_on_tick
+  rotate: true
+  xy: 243, 1322
+  size: 190, 194
+  orig: 280, 280
+  offset: 41, 57
+  index: 26

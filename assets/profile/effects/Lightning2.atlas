@@ -1,0 +1,215 @@
+Lightning2-0.png
+size: 2048, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lightning2
+  rotate: false
+  xy: 1, 1
+  size: 350, 200
+  orig: 350, 200
+  offset: 0, 0
+  index: 0
+Lightning2
+  rotate: false
+  xy: 1, 203
+  size: 350, 200
+  orig: 350, 200
+  offset: 0, 0
+  index: 1
+Lightning2
+  rotate: false
+  xy: 1, 405
+  size: 350, 200
+  orig: 350, 200
+  offset: 0, 0
+  index: 2
+Lightning2
+  rotate: false
+  xy: 1, 607
+  size: 350, 200
+  orig: 350, 200
+  offset: 0, 0
+  index: 3
+Lightning2
+  rotate: false
+  xy: 1, 809
+  size: 350, 200
+  orig: 350, 200
+  offset: 0, 0
+  index: 4
+Lightning2
+  rotate: false
+  xy: 353, 1
+  size: 350, 200
+  orig: 350, 200
+  offset: 0, 0
+  index: 5
+Lightning2
+  rotate: false
+  xy: 353, 203
+  size: 350, 200
+  orig: 350, 200
+  offset: 0, 0
+  index: 6
+Lightning2
+  rotate: false
+  xy: 353, 405
+  size: 350, 200
+  orig: 350, 200
+  offset: 0, 0
+  index: 7
+Lightning2
+  rotate: false
+  xy: 353, 607
+  size: 350, 200
+  orig: 350, 200
+  offset: 0, 0
+  index: 8
+Lightning2
+  rotate: false
+  xy: 353, 809
+  size: 350, 200
+  orig: 350, 200
+  offset: 0, 0
+  index: 9
+Lightning2
+  rotate: false
+  xy: 705, 1
+  size: 350, 200
+  orig: 350, 200
+  offset: 0, 0
+  index: 10
+Lightning2
+  rotate: false
+  xy: 705, 203
+  size: 350, 200
+  orig: 350, 200
+  offset: 0, 0
+  index: 11
+Lightning2
+  rotate: false
+  xy: 705, 405
+  size: 350, 200
+  orig: 350, 200
+  offset: 0, 0
+  index: 12
+Lightning2
+  rotate: false
+  xy: 1, 1
+  size: 350, 200
+  orig: 350, 200
+  offset: 0, 0
+  index: 13
+Lightning2
+  rotate: false
+  xy: 1, 1
+  size: 350, 200
+  orig: 350, 200
+  offset: 0, 0
+  index: 14
+Lightning2
+  rotate: false
+  xy: 1, 1
+  size: 350, 200
+  orig: 350, 200
+  offset: 0, 0
+  index: 15
+Lightning2
+  rotate: false
+  xy: 1, 1
+  size: 350, 200
+  orig: 350, 200
+  offset: 0, 0
+  index: 16
+Lightning2
+  rotate: false
+  xy: 1, 1
+  size: 350, 200
+  orig: 350, 200
+  offset: 0, 0
+  index: 17
+Lightning2
+  rotate: false
+  xy: 705, 607
+  size: 350, 200
+  orig: 350, 200
+  offset: 0, 0
+  index: 18
+Lightning2
+  rotate: false
+  xy: 705, 809
+  size: 350, 200
+  orig: 350, 200
+  offset: 0, 0
+  index: 19
+Lightning2
+  rotate: false
+  xy: 1, 1
+  size: 350, 200
+  orig: 350, 200
+  offset: 0, 0
+  index: 20
+Lightning2
+  rotate: false
+  xy: 1057, 1
+  size: 350, 200
+  orig: 350, 200
+  offset: 0, 0
+  index: 21
+Lightning2
+  rotate: false
+  xy: 1409, 1
+  size: 350, 200
+  orig: 350, 200
+  offset: 0, 0
+  index: 22
+Lightning2
+  rotate: false
+  xy: 1057, 203
+  size: 350, 200
+  orig: 350, 200
+  offset: 0, 0
+  index: 23
+Lightning2
+  rotate: false
+  xy: 1409, 203
+  size: 350, 200
+  orig: 350, 200
+  offset: 0, 0
+  index: 24
+Lightning2
+  rotate: false
+  xy: 1, 1
+  size: 350, 200
+  orig: 350, 200
+  offset: 0, 0
+  index: 25
+Lightning2
+  rotate: false
+  xy: 1057, 405
+  size: 350, 200
+  orig: 350, 200
+  offset: 0, 0
+  index: 26
+Lightning2
+  rotate: false
+  xy: 1057, 607
+  size: 350, 200
+  orig: 350, 200
+  offset: 0, 0
+  index: 27
+Lightning2
+  rotate: false
+  xy: 1057, 607
+  size: 350, 200
+  orig: 350, 200
+  offset: 0, 0
+  index: 28
+Lightning2
+  rotate: false
+  xy: 1057, 809
+  size: 350, 200
+  orig: 350, 200
+  offset: 0, 0
+  index: 29

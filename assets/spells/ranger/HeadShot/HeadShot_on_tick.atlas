@@ -1,0 +1,145 @@
+HeadShot_on_tick-0.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HeadShot_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 0
+HeadShot_on_tick
+  rotate: false
+  xy: 253, 1
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 1
+HeadShot_on_tick
+  rotate: false
+  xy: 505, 1
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 2
+HeadShot_on_tick
+  rotate: false
+  xy: 757, 1
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 3
+HeadShot_on_tick
+  rotate: false
+  xy: 1, 153
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 4
+HeadShot_on_tick
+  rotate: false
+  xy: 253, 153
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 5
+HeadShot_on_tick
+  rotate: false
+  xy: 505, 153
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 6
+HeadShot_on_tick
+  rotate: false
+  xy: 757, 153
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 7
+HeadShot_on_tick
+  rotate: false
+  xy: 1, 305
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 8
+HeadShot_on_tick
+  rotate: false
+  xy: 1, 457
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 9
+HeadShot_on_tick
+  rotate: false
+  xy: 1, 609
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 10
+HeadShot_on_tick
+  rotate: false
+  xy: 1, 761
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 11
+HeadShot_on_tick
+  rotate: false
+  xy: 253, 305
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 12
+HeadShot_on_tick
+  rotate: false
+  xy: 505, 305
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 13
+HeadShot_on_tick
+  rotate: false
+  xy: 757, 305
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 14
+HeadShot_on_tick
+  rotate: false
+  xy: 253, 457
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 15
+HeadShot_on_tick
+  rotate: false
+  xy: 253, 609
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 16
+HeadShot_on_tick
+  rotate: false
+  xy: 253, 761
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 17
+HeadShot_on_tick
+  rotate: false
+  xy: 505, 457
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 18
+HeadShot_on_tick
+  rotate: false
+  xy: 757, 457
+  size: 250, 150
+  orig: 250, 150
+  offset: 0, 0
+  index: 19

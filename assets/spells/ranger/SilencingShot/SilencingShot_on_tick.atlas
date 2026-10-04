@@ -1,0 +1,145 @@
+SilencingShot_on_tick-0.png
+size: 512, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SilencingShot_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 150, 100
+  orig: 150, 100
+  offset: 0, 0
+  index: 0
+SilencingShot_on_tick
+  rotate: false
+  xy: 153, 1
+  size: 150, 100
+  orig: 150, 100
+  offset: 0, 0
+  index: 1
+SilencingShot_on_tick
+  rotate: false
+  xy: 305, 1
+  size: 150, 100
+  orig: 150, 100
+  offset: 0, 0
+  index: 2
+SilencingShot_on_tick
+  rotate: false
+  xy: 1, 103
+  size: 150, 100
+  orig: 150, 100
+  offset: 0, 0
+  index: 3
+SilencingShot_on_tick
+  rotate: false
+  xy: 153, 103
+  size: 150, 100
+  orig: 150, 100
+  offset: 0, 0
+  index: 4
+SilencingShot_on_tick
+  rotate: false
+  xy: 305, 103
+  size: 150, 100
+  orig: 150, 100
+  offset: 0, 0
+  index: 5
+SilencingShot_on_tick
+  rotate: false
+  xy: 1, 205
+  size: 150, 100
+  orig: 150, 100
+  offset: 0, 0
+  index: 6
+SilencingShot_on_tick
+  rotate: false
+  xy: 153, 205
+  size: 150, 100
+  orig: 150, 100
+  offset: 0, 0
+  index: 7
+SilencingShot_on_tick
+  rotate: false
+  xy: 305, 205
+  size: 150, 100
+  orig: 150, 100
+  offset: 0, 0
+  index: 8
+SilencingShot_on_tick
+  rotate: false
+  xy: 1, 307
+  size: 150, 100
+  orig: 150, 100
+  offset: 0, 0
+  index: 9
+SilencingShot_on_tick
+  rotate: false
+  xy: 153, 307
+  size: 150, 100
+  orig: 150, 100
+  offset: 0, 0
+  index: 10
+SilencingShot_on_tick
+  rotate: false
+  xy: 305, 307
+  size: 150, 100
+  orig: 150, 100
+  offset: 0, 0
+  index: 11
+SilencingShot_on_tick
+  rotate: false
+  xy: 1, 409
+  size: 150, 100
+  orig: 150, 100
+  offset: 0, 0
+  index: 12
+SilencingShot_on_tick
+  rotate: false
+  xy: 153, 409
+  size: 150, 100
+  orig: 150, 100
+  offset: 0, 0
+  index: 13
+SilencingShot_on_tick
+  rotate: false
+  xy: 305, 409
+  size: 150, 100
+  orig: 150, 100
+  offset: 0, 0
+  index: 14
+SilencingShot_on_tick
+  rotate: false
+  xy: 1, 511
+  size: 150, 100
+  orig: 150, 100
+  offset: 0, 0
+  index: 15
+SilencingShot_on_tick
+  rotate: false
+  xy: 153, 511
+  size: 150, 100
+  orig: 150, 100
+  offset: 0, 0
+  index: 16
+SilencingShot_on_tick
+  rotate: false
+  xy: 305, 511
+  size: 150, 100
+  orig: 150, 100
+  offset: 0, 0
+  index: 17
+SilencingShot_on_tick
+  rotate: false
+  xy: 1, 613
+  size: 150, 100
+  orig: 150, 100
+  offset: 0, 0
+  index: 18
+SilencingShot_on_tick
+  rotate: false
+  xy: 153, 613
+  size: 150, 100
+  orig: 150, 100
+  offset: 0, 0
+  index: 19

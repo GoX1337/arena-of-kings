@@ -1,0 +1,145 @@
+Truth_on_tick_0.png
+size: 1024, 512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Truth_on_tick
+  rotate: false
+  xy: 204, 1
+  size: 202, 129
+  orig: 300, 300
+  offset: 54, 76
+  index: 0
+Truth_on_tick
+  rotate: false
+  xy: 204, 1
+  size: 202, 129
+  orig: 300, 300
+  offset: 54, 76
+  index: 1
+Truth_on_tick
+  rotate: true
+  xy: 1, 267
+  size: 202, 129
+  orig: 300, 300
+  offset: 54, 76
+  index: 2
+Truth_on_tick
+  rotate: false
+  xy: 408, 132
+  size: 201, 130
+  orig: 300, 300
+  offset: 55, 75
+  index: 3
+Truth_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 201, 131
+  orig: 300, 300
+  offset: 55, 75
+  index: 4
+Truth_on_tick
+  rotate: false
+  xy: 815, 1
+  size: 200, 130
+  orig: 300, 300
+  offset: 56, 75
+  index: 5
+Truth_on_tick
+  rotate: false
+  xy: 815, 1
+  size: 200, 130
+  orig: 300, 300
+  offset: 56, 75
+  index: 6
+Truth_on_tick
+  rotate: false
+  xy: 813, 133
+  size: 200, 129
+  orig: 300, 300
+  offset: 56, 76
+  index: 7
+Truth_on_tick
+  rotate: true
+  xy: 132, 267
+  size: 200, 129
+  orig: 300, 300
+  offset: 56, 76
+  index: 8
+Truth_on_tick
+  rotate: false
+  xy: 596, 265
+  size: 200, 128
+  orig: 300, 300
+  offset: 55, 76
+  index: 9
+Truth_on_tick
+  rotate: false
+  xy: 204, 132
+  size: 202, 129
+  orig: 300, 300
+  offset: 54, 76
+  index: 10
+Truth_on_tick
+  rotate: false
+  xy: 204, 132
+  size: 202, 129
+  orig: 300, 300
+  offset: 54, 76
+  index: 11
+Truth_on_tick
+  rotate: false
+  xy: 408, 1
+  size: 202, 129
+  orig: 300, 300
+  offset: 54, 76
+  index: 12
+Truth_on_tick
+  rotate: false
+  xy: 612, 1
+  size: 201, 130
+  orig: 300, 300
+  offset: 55, 75
+  index: 13
+Truth_on_tick
+  rotate: false
+  xy: 1, 134
+  size: 201, 131
+  orig: 300, 300
+  offset: 55, 75
+  index: 14
+Truth_on_tick
+  rotate: false
+  xy: 611, 133
+  size: 200, 130
+  orig: 300, 300
+  offset: 56, 75
+  index: 15
+Truth_on_tick
+  rotate: false
+  xy: 611, 133
+  size: 200, 130
+  orig: 300, 300
+  offset: 56, 75
+  index: 16
+Truth_on_tick
+  rotate: true
+  xy: 263, 263
+  size: 200, 129
+  orig: 300, 300
+  offset: 56, 76
+  index: 17
+Truth_on_tick
+  rotate: false
+  xy: 394, 264
+  size: 200, 129
+  orig: 300, 300
+  offset: 56, 76
+  index: 18
+Truth_on_tick
+  rotate: false
+  xy: 813, 264
+  size: 200, 128
+  orig: 300, 300
+  offset: 55, 76
+  index: 19

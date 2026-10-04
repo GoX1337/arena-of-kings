@@ -1,0 +1,379 @@
+Serenity_on_tick_0.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Serenity_on_tick
+  rotate: true
+  xy: 1587, 1153
+  size: 708, 438
+  orig: 800, 600
+  offset: 44, 77
+  index: 15
+Serenity_on_tick
+  rotate: true
+  xy: 1, 1156
+  size: 709, 429
+  orig: 800, 600
+  offset: 43, 76
+  index: 20
+Serenity_on_tick
+  rotate: true
+  xy: 1145, 712
+  size: 709, 430
+  orig: 800, 600
+  offset: 43, 75
+  index: 21
+Serenity_on_tick
+  rotate: true
+  xy: 1, 445
+  size: 709, 432
+  orig: 800, 600
+  offset: 43, 76
+  index: 40
+Serenity_on_tick
+  rotate: true
+  xy: 711, 1
+  size: 709, 433
+  orig: 800, 600
+  offset: 43, 75
+  index: 41
+Serenity_on_tick
+  rotate: false
+  xy: 435, 712
+  size: 708, 439
+  orig: 800, 600
+  offset: 44, 75
+  index: 42
+Serenity_on_tick
+  rotate: false
+  xy: 877, 1423
+  size: 708, 439
+  orig: 800, 600
+  offset: 44, 75
+  index: 43
+Serenity_on_tick
+  rotate: true
+  xy: 1577, 443
+  size: 708, 439
+  orig: 800, 600
+  offset: 44, 75
+  index: 44
+Serenity_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 708, 442
+  orig: 800, 600
+  offset: 44, 75
+  index: 45
+Serenity_on_tick
+  rotate: true
+  xy: 435, 1153
+  size: 697, 440
+  orig: 800, 600
+  offset: 49, 82
+  index: 47
+Serenity_on_tick
+  rotate: false
+  xy: 1146, 1
+  size: 696, 440
+  orig: 800, 600
+  offset: 50, 82
+  index: 48
+
+Serenity_on_tick_1.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Serenity_on_tick
+  rotate: false
+  xy: 1146, 1150
+  size: 708, 424
+  orig: 800, 600
+  offset: 44, 76
+  index: 10
+Serenity_on_tick
+  rotate: false
+  xy: 436, 1145
+  size: 708, 430
+  orig: 800, 600
+  offset: 44, 77
+  index: 12
+Serenity_on_tick
+  rotate: true
+  xy: 1, 1151
+  size: 708, 430
+  orig: 800, 600
+  offset: 44, 77
+  index: 13
+Serenity_on_tick
+  rotate: false
+  xy: 433, 1577
+  size: 708, 430
+  orig: 800, 600
+  offset: 44, 77
+  index: 14
+Serenity_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 708, 438
+  orig: 800, 600
+  offset: 44, 77
+  index: 16
+Serenity_on_tick
+  rotate: false
+  xy: 436, 711
+  size: 708, 432
+  orig: 800, 600
+  offset: 44, 77
+  index: 17
+Serenity_on_tick
+  rotate: true
+  xy: 711, 1
+  size: 708, 433
+  orig: 800, 600
+  offset: 44, 76
+  index: 18
+Serenity_on_tick
+  rotate: true
+  xy: 1, 441
+  size: 708, 433
+  orig: 800, 600
+  offset: 44, 76
+  index: 19
+Serenity_on_tick
+  rotate: false
+  xy: 1143, 1577
+  size: 708, 427
+  orig: 800, 600
+  offset: 44, 76
+  index: 38
+Serenity_on_tick
+  rotate: true
+  xy: 1146, 1
+  size: 708, 427
+  orig: 800, 600
+  offset: 44, 76
+  index: 39
+Serenity_on_tick
+  rotate: true
+  xy: 1575, 1
+  size: 697, 436
+  orig: 800, 600
+  offset: 49, 81
+  index: 46
+Serenity_on_tick
+  rotate: false
+  xy: 1146, 711
+  size: 692, 437
+  orig: 800, 600
+  offset: 53, 84
+  index: 49
+
+Serenity_on_tick_2.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Serenity_on_tick
+  rotate: false
+  xy: 1135, 1421
+  size: 708, 421
+  orig: 800, 600
+  offset: 44, 75
+  index: 4
+Serenity_on_tick
+  rotate: true
+  xy: 1563, 711
+  size: 708, 421
+  orig: 800, 600
+  offset: 44, 75
+  index: 5
+Serenity_on_tick
+  rotate: true
+  xy: 1565, 1
+  size: 708, 421
+  orig: 800, 600
+  offset: 44, 75
+  index: 6
+Serenity_on_tick
+  rotate: true
+  xy: 1139, 711
+  size: 708, 422
+  orig: 800, 600
+  offset: 44, 75
+  index: 7
+Serenity_on_tick
+  rotate: false
+  xy: 1, 1139
+  size: 708, 422
+  orig: 800, 600
+  offset: 44, 75
+  index: 8
+Serenity_on_tick
+  rotate: true
+  xy: 1139, 1
+  size: 708, 424
+  orig: 800, 600
+  offset: 44, 76
+  index: 11
+Serenity_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 708, 426
+  orig: 800, 600
+  offset: 44, 75
+  index: 22
+Serenity_on_tick
+  rotate: true
+  xy: 711, 1
+  size: 708, 426
+  orig: 800, 600
+  offset: 44, 75
+  index: 23
+Serenity_on_tick
+  rotate: true
+  xy: 1, 429
+  size: 708, 426
+  orig: 800, 600
+  offset: 44, 75
+  index: 24
+Serenity_on_tick
+  rotate: true
+  xy: 711, 1139
+  size: 708, 422
+  orig: 800, 600
+  offset: 44, 75
+  index: 27
+Serenity_on_tick
+  rotate: false
+  xy: 1, 1563
+  size: 708, 422
+  orig: 800, 600
+  offset: 44, 75
+  index: 28
+Serenity_on_tick
+  rotate: false
+  xy: 429, 711
+  size: 708, 426
+  orig: 800, 600
+  offset: 44, 77
+  index: 37
+
+Serenity_on_tick_3.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Serenity_on_tick
+  rotate: true
+  xy: 1557, 711
+  size: 697, 409
+  orig: 800, 600
+  offset: 49, 81
+  index: 2
+Serenity_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 708, 421
+  orig: 800, 600
+  offset: 44, 76
+  index: 9
+Serenity_on_tick
+  rotate: true
+  xy: 711, 1
+  size: 708, 421
+  orig: 800, 600
+  offset: 44, 75
+  index: 25
+Serenity_on_tick
+  rotate: true
+  xy: 1, 424
+  size: 708, 421
+  orig: 800, 600
+  offset: 44, 75
+  index: 26
+Serenity_on_tick
+  rotate: false
+  xy: 424, 711
+  size: 708, 421
+  orig: 800, 600
+  offset: 44, 76
+  index: 29
+Serenity_on_tick
+  rotate: true
+  xy: 1134, 1
+  size: 708, 421
+  orig: 800, 600
+  offset: 44, 76
+  index: 30
+Serenity_on_tick
+  rotate: true
+  xy: 1134, 711
+  size: 708, 421
+  orig: 800, 600
+  offset: 44, 76
+  index: 31
+Serenity_on_tick
+  rotate: false
+  xy: 1, 1134
+  size: 708, 420
+  orig: 800, 600
+  offset: 44, 77
+  index: 32
+Serenity_on_tick
+  rotate: true
+  xy: 711, 1134
+  size: 708, 420
+  orig: 800, 600
+  offset: 44, 77
+  index: 33
+Serenity_on_tick
+  rotate: false
+  xy: 1, 1556
+  size: 708, 419
+  orig: 800, 600
+  offset: 44, 77
+  index: 34
+Serenity_on_tick
+  rotate: false
+  xy: 1133, 1421
+  size: 708, 419
+  orig: 800, 600
+  offset: 44, 77
+  index: 35
+Serenity_on_tick
+  rotate: true
+  xy: 1557, 1
+  size: 708, 419
+  orig: 800, 600
+  offset: 44, 77
+  index: 36
+
+Serenity_on_tick_4.png
+size: 1024, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Serenity_on_tick
+  rotate: false
+  xy: 1, 818
+  size: 683, 395
+  orig: 800, 600
+  offset: 56, 88
+  index: 0
+Serenity_on_tick
+  rotate: false
+  xy: 1, 412
+  size: 692, 404
+  orig: 800, 600
+  offset: 52, 83
+  index: 1
+Serenity_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 697, 409
+  orig: 800, 600
+  offset: 49, 81
+  index: 3

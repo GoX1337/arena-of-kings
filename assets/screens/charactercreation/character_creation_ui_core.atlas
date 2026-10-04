@@ -1,0 +1,124 @@
+character_creation_ui_core-0.png
+size: 2048, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bottom_bar
+  rotate: false
+  xy: 1, 79
+  size: 1920, 28
+  orig: 1920, 28
+  offset: 0, 0
+  index: -1
+bottom_right_panel
+  rotate: false
+  xy: 1, 113
+  size: 466, 482
+  orig: 466, 482
+  offset: 0, 0
+  index: -1
+cancel_button_hovered
+  rotate: false
+  xy: 781, 715
+  size: 196, 58
+  orig: 196, 58
+  offset: 0, 0
+  index: -1
+cancel_button_unhovered
+  rotate: false
+  xy: 979, 715
+  size: 196, 58
+  orig: 196, 58
+  offset: 0, 0
+  index: -1
+choose_your_class
+  rotate: false
+  xy: 781, 775
+  size: 426, 39
+  orig: 426, 39
+  offset: 0, 0
+  index: -1
+class_backdrop
+  rotate: false
+  xy: 468, 821
+  size: 288, 68
+  orig: 288, 68
+  offset: 0, 0
+  index: 1
+class_backdrop
+  rotate: false
+  xy: 758, 821
+  size: 282, 62
+  orig: 282, 62
+  offset: 0, 0
+  index: 2
+class_backdrop_glow
+  rotate: false
+  xy: 468, 715
+  size: 311, 104
+  orig: 311, 104
+  offset: 0, 0
+  index: -1
+create_button_grayed
+  rotate: false
+  xy: 889, 885
+  size: 196, 58
+  orig: 196, 58
+  offset: 0, 0
+  index: -1
+create_button_hovered
+  rotate: false
+  xy: 1042, 816
+  size: 196, 58
+  orig: 196, 58
+  offset: 0, 0
+  index: -1
+create_button_unhovered
+  rotate: false
+  xy: 889, 945
+  size: 196, 58
+  orig: 196, 58
+  offset: 0, 0
+  index: -1
+decorative_detail
+  rotate: false
+  xy: 468, 597
+  size: 616, 116
+  orig: 616, 116
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 1923, 1
+  size: 109, 110
+  orig: 109, 110
+  offset: 0, 0
+  index: -1
+name_backdrop
+  rotate: false
+  xy: 468, 891
+  size: 419, 65
+  orig: 419, 65
+  offset: 0, 0
+  index: 1
+name_backdrop
+  rotate: false
+  xy: 468, 958
+  size: 419, 65
+  orig: 419, 65
+  offset: 0, 0
+  index: 2
+top_bar
+  rotate: false
+  xy: 1, 1
+  size: 1920, 76
+  orig: 1920, 76
+  offset: 0, 0
+  index: -1
+top_right_panel
+  rotate: false
+  xy: 1, 597
+  size: 465, 400
+  orig: 465, 400
+  offset: 0, 0
+  index: -1

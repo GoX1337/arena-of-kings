@@ -1,0 +1,187 @@
+MindLeech_on_tick_0.png
+size: 512, 512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MindLeech_on_tick
+  rotate: false
+  xy: 69, 201
+  size: 61, 61
+  orig: 70, 70
+  offset: 6, 3
+  index: 0
+MindLeech_on_tick
+  rotate: false
+  xy: 69, 137
+  size: 61, 62
+  orig: 70, 70
+  offset: 6, 2
+  index: 1
+MindLeech_on_tick
+  rotate: false
+  xy: 203, 69
+  size: 63, 62
+  orig: 70, 70
+  offset: 5, 2
+  index: 2
+MindLeech_on_tick
+  rotate: false
+  xy: 340, 67
+  size: 64, 64
+  orig: 70, 70
+  offset: 5, 1
+  index: 3
+MindLeech_on_tick
+  rotate: false
+  xy: 406, 67
+  size: 64, 64
+  orig: 70, 70
+  offset: 5, 1
+  index: 4
+MindLeech_on_tick
+  rotate: false
+  xy: 340, 1
+  size: 65, 64
+  orig: 70, 70
+  offset: 4, 1
+  index: 5
+MindLeech_on_tick
+  rotate: false
+  xy: 407, 1
+  size: 65, 64
+  orig: 70, 70
+  offset: 4, 1
+  index: 6
+MindLeech_on_tick
+  rotate: true
+  xy: 69, 1
+  size: 66, 64
+  orig: 70, 70
+  offset: 4, 1
+  index: 7
+MindLeech_on_tick
+  rotate: true
+  xy: 69, 69
+  size: 66, 64
+  orig: 70, 70
+  offset: 4, 1
+  index: 8
+MindLeech_on_tick
+  rotate: false
+  xy: 204, 1
+  size: 66, 66
+  orig: 70, 70
+  offset: 4, 0
+  index: 9
+MindLeech_on_tick
+  rotate: false
+  xy: 135, 67
+  size: 66, 66
+  orig: 70, 70
+  offset: 4, 0
+  index: 10
+MindLeech_on_tick
+  rotate: false
+  xy: 272, 1
+  size: 66, 66
+  orig: 70, 70
+  offset: 4, 0
+  index: 11
+MindLeech_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 66, 67
+  orig: 70, 70
+  offset: 4, 0
+  index: 12
+MindLeech_on_tick
+  rotate: false
+  xy: 1, 70
+  size: 66, 67
+  orig: 70, 70
+  offset: 4, 0
+  index: 13
+MindLeech_on_tick
+  rotate: false
+  xy: 1, 139
+  size: 66, 67
+  orig: 70, 70
+  offset: 4, 0
+  index: 14
+MindLeech_on_tick
+  rotate: false
+  xy: 1, 208
+  size: 66, 67
+  orig: 70, 70
+  offset: 4, 0
+  index: 15
+MindLeech_on_tick
+  rotate: false
+  xy: 1, 277
+  size: 66, 67
+  orig: 70, 70
+  offset: 4, 0
+  index: 16
+MindLeech_on_tick
+  rotate: false
+  xy: 1, 346
+  size: 66, 67
+  orig: 70, 70
+  offset: 4, 0
+  index: 17
+MindLeech_on_tick
+  rotate: false
+  xy: 1, 415
+  size: 65, 67
+  orig: 70, 70
+  offset: 4, 0
+  index: 18
+MindLeech_on_tick
+  rotate: false
+  xy: 68, 415
+  size: 65, 67
+  orig: 70, 70
+  offset: 4, 0
+  index: 19
+MindLeech_on_tick
+  rotate: true
+  xy: 135, 1
+  size: 64, 67
+  orig: 70, 70
+  offset: 5, 0
+  index: 20
+MindLeech_on_tick
+  rotate: false
+  xy: 268, 69
+  size: 63, 62
+  orig: 70, 70
+  offset: 5, 2
+  index: 21
+MindLeech_on_tick
+  rotate: true
+  xy: 69, 264
+  size: 60, 58
+  orig: 70, 70
+  offset: 5, 6
+  index: 22
+MindLeech_on_tick
+  rotate: true
+  xy: 69, 326
+  size: 60, 58
+  orig: 70, 70
+  offset: 5, 6
+  index: 23
+MindLeech_on_tick
+  rotate: true
+  xy: 129, 264
+  size: 59, 57
+  orig: 70, 70
+  offset: 5, 7
+  index: 24
+MindLeech_on_tick
+  rotate: true
+  xy: 129, 325
+  size: 55, 54
+  orig: 70, 70
+  offset: 8, 8
+  index: 25

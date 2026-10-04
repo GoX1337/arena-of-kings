@@ -1,0 +1,159 @@
+SpellBreaker_on_tick_0.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SpellBreaker_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 147, 149
+  orig: 160, 160
+  offset: 7, 7
+  index: 0
+SpellBreaker_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 147, 149
+  orig: 160, 160
+  offset: 7, 7
+  index: 1
+SpellBreaker_on_tick
+  rotate: false
+  xy: 1, 152
+  size: 147, 149
+  orig: 160, 160
+  offset: 7, 7
+  index: 2
+SpellBreaker_on_tick
+  rotate: false
+  xy: 1, 303
+  size: 147, 149
+  orig: 160, 160
+  offset: 7, 7
+  index: 3
+SpellBreaker_on_tick
+  rotate: false
+  xy: 1, 454
+  size: 147, 149
+  orig: 160, 160
+  offset: 7, 7
+  index: 4
+SpellBreaker_on_tick
+  rotate: false
+  xy: 1, 605
+  size: 147, 149
+  orig: 160, 160
+  offset: 7, 7
+  index: 5
+SpellBreaker_on_tick
+  rotate: false
+  xy: 1, 756
+  size: 147, 149
+  orig: 160, 160
+  offset: 7, 7
+  index: 6
+SpellBreaker_on_tick
+  rotate: false
+  xy: 1, 756
+  size: 147, 149
+  orig: 160, 160
+  offset: 7, 7
+  index: 7
+SpellBreaker_on_tick
+  rotate: true
+  xy: 150, 1
+  size: 147, 149
+  orig: 160, 160
+  offset: 7, 7
+  index: 8
+SpellBreaker_on_tick
+  rotate: true
+  xy: 301, 1
+  size: 147, 149
+  orig: 160, 160
+  offset: 7, 7
+  index: 9
+SpellBreaker_on_tick
+  rotate: true
+  xy: 452, 1
+  size: 147, 149
+  orig: 160, 160
+  offset: 7, 7
+  index: 10
+SpellBreaker_on_tick
+  rotate: true
+  xy: 603, 1
+  size: 147, 149
+  orig: 160, 160
+  offset: 7, 7
+  index: 11
+SpellBreaker_on_tick
+  rotate: true
+  xy: 754, 1
+  size: 147, 149
+  orig: 160, 160
+  offset: 7, 7
+  index: 12
+SpellBreaker_on_tick
+  rotate: true
+  xy: 754, 1
+  size: 147, 149
+  orig: 160, 160
+  offset: 7, 7
+  index: 13
+SpellBreaker_on_tick
+  rotate: false
+  xy: 150, 150
+  size: 147, 149
+  orig: 160, 160
+  offset: 7, 7
+  index: 14
+SpellBreaker_on_tick
+  rotate: false
+  xy: 150, 301
+  size: 147, 149
+  orig: 160, 160
+  offset: 7, 7
+  index: 15
+SpellBreaker_on_tick
+  rotate: false
+  xy: 150, 452
+  size: 147, 149
+  orig: 160, 160
+  offset: 7, 7
+  index: 16
+SpellBreaker_on_tick
+  rotate: false
+  xy: 150, 603
+  size: 147, 149
+  orig: 160, 160
+  offset: 7, 7
+  index: 17
+SpellBreaker_on_tick
+  rotate: false
+  xy: 150, 754
+  size: 147, 149
+  orig: 160, 160
+  offset: 7, 7
+  index: 18
+SpellBreaker_on_tick
+  rotate: true
+  xy: 299, 150
+  size: 147, 149
+  orig: 160, 160
+  offset: 7, 7
+  index: 19
+SpellBreaker_on_tick
+  rotate: false
+  xy: 450, 150
+  size: 147, 147
+  orig: 160, 160
+  offset: 7, 8
+  index: 20
+SpellBreaker_on_tick
+  rotate: false
+  xy: 599, 150
+  size: 143, 143
+  orig: 160, 160
+  offset: 9, 10
+  index: 21

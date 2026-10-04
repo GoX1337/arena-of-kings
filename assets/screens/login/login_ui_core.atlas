@@ -1,0 +1,145 @@
+login_ui_core-0.png
+size: 512, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+discord_button_default
+  rotate: true
+  xy: 354, 404
+  size: 54, 58
+  orig: 66, 71
+  offset: 7, 8
+  index: -1
+discord_button_hovered
+  rotate: true
+  xy: 419, 1
+  size: 66, 71
+  orig: 66, 71
+  offset: 0, 0
+  index: -1
+facebook_button_default
+  rotate: false
+  xy: 1, 940
+  size: 54, 54
+  orig: 66, 67
+  offset: 7, 8
+  index: -1
+facebook_button_hovered
+  rotate: true
+  xy: 419, 129
+  size: 66, 67
+  orig: 66, 67
+  offset: 0, 0
+  index: -1
+gamepedia_logo_default
+  rotate: true
+  xy: 419, 400
+  size: 47, 59
+  orig: 58, 70
+  offset: 6, 7
+  index: -1
+gamepedia_logo_hovered
+  rotate: true
+  xy: 419, 69
+  size: 58, 70
+  orig: 58, 70
+  offset: 0, 0
+  index: -1
+instagram_button_default
+  rotate: false
+  xy: 57, 940
+  size: 54, 54
+  orig: 66, 67
+  offset: 7, 8
+  index: -1
+instagram_button_hovered
+  rotate: true
+  xy: 419, 197
+  size: 66, 67
+  orig: 66, 67
+  offset: 0, 0
+  index: -1
+login_login_default
+  rotate: false
+  xy: 354, 460
+  size: 126, 44
+  orig: 126, 44
+  offset: 0, 0
+  index: -1
+login_login_grayed
+  rotate: false
+  xy: 354, 506
+  size: 126, 44
+  orig: 126, 44
+  offset: 0, 0
+  index: -1
+login_login_hovered
+  rotate: false
+  xy: 354, 552
+  size: 126, 44
+  orig: 126, 44
+  offset: 0, 0
+  index: -1
+login_main_frame
+  rotate: false
+  xy: 1, 1
+  size: 416, 401
+  orig: 416, 401
+  offset: 0, 0
+  index: -1
+login_register_free_account_default
+  rotate: false
+  xy: 1, 559
+  size: 340, 37
+  orig: 340, 37
+  offset: 0, 0
+  index: -1
+login_register_free_account_grayed
+  rotate: true
+  xy: 1, 598
+  size: 340, 37
+  orig: 340, 37
+  offset: 0, 0
+  index: -1
+login_register_free_account_hovered
+  rotate: true
+  xy: 40, 598
+  size: 340, 37
+  orig: 340, 37
+  offset: 0, 0
+  index: -1
+promo_banner
+  rotate: false
+  xy: 1, 404
+  size: 351, 153
+  orig: 351, 153
+  offset: 0, 0
+  index: -1
+twitter_button_default
+  rotate: false
+  xy: 79, 598
+  size: 54, 54
+  orig: 65, 66
+  offset: 6, 7
+  index: -1
+twitter_button_hovered
+  rotate: true
+  xy: 419, 333
+  size: 65, 66
+  orig: 65, 66
+  offset: 0, 0
+  index: -1
+youtube_button_default
+  rotate: false
+  xy: 79, 654
+  size: 54, 54
+  orig: 66, 67
+  offset: 7, 8
+  index: -1
+youtube_button_hovered
+  rotate: true
+  xy: 419, 265
+  size: 66, 67
+  orig: 66, 67
+  offset: 0, 0
+  index: -1

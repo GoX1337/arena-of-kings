@@ -1,0 +1,355 @@
+Counterspell_on_tick_0.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Counterspell_on_tick
+  rotate: false
+  xy: 752, 573
+  size: 108, 92
+  orig: 200, 200
+  offset: 49, 49
+  index: 0
+Counterspell_on_tick
+  rotate: false
+  xy: 464, 352
+  size: 143, 110
+  orig: 200, 200
+  offset: 33, 29
+  index: 1
+Counterspell_on_tick
+  rotate: false
+  xy: 663, 1
+  size: 159, 119
+  orig: 200, 200
+  offset: 25, 25
+  index: 2
+Counterspell_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 165, 119
+  orig: 200, 200
+  offset: 21, 27
+  index: 3
+Counterspell_on_tick
+  rotate: false
+  xy: 663, 122
+  size: 159, 117
+  orig: 200, 200
+  offset: 24, 30
+  index: 4
+Counterspell_on_tick
+  rotate: false
+  xy: 162, 122
+  size: 155, 116
+  orig: 200, 200
+  offset: 26, 30
+  index: 5
+Counterspell_on_tick
+  rotate: false
+  xy: 162, 240
+  size: 149, 113
+  orig: 200, 200
+  offset: 29, 31
+  index: 6
+Counterspell_on_tick
+  rotate: false
+  xy: 464, 241
+  size: 144, 109
+  orig: 200, 200
+  offset: 31, 33
+  index: 7
+Counterspell_on_tick
+  rotate: false
+  xy: 755, 463
+  size: 139, 108
+  orig: 200, 200
+  offset: 34, 35
+  index: 8
+Counterspell_on_tick
+  rotate: false
+  xy: 293, 355
+  size: 134, 106
+  orig: 200, 200
+  offset: 36, 37
+  index: 9
+Counterspell_on_tick
+  rotate: false
+  xy: 896, 537
+  size: 127, 105
+  orig: 200, 200
+  offset: 39, 40
+  index: 10
+Counterspell_on_tick
+  rotate: false
+  xy: 407, 464
+  size: 124, 99
+  orig: 200, 200
+  offset: 41, 46
+  index: 11
+Counterspell_on_tick
+  rotate: false
+  xy: 902, 241
+  size: 118, 100
+  orig: 200, 200
+  offset: 44, 45
+  index: 12
+Counterspell_on_tick
+  rotate: false
+  xy: 533, 469
+  size: 113, 100
+  orig: 200, 200
+  offset: 46, 45
+  index: 13
+Counterspell_on_tick
+  rotate: false
+  xy: 862, 644
+  size: 107, 83
+  orig: 200, 200
+  offset: 48, 47
+  index: 14
+Counterspell_on_tick
+  rotate: false
+  xy: 743, 667
+  size: 102, 81
+  orig: 200, 200
+  offset: 51, 49
+  index: 15
+Counterspell_on_tick
+  rotate: false
+  xy: 847, 729
+  size: 101, 81
+  orig: 200, 200
+  offset: 52, 51
+  index: 16
+Counterspell_on_tick
+  rotate: true
+  xy: 1, 812
+  size: 101, 80
+  orig: 200, 200
+  offset: 52, 52
+  index: 17
+Counterspell_on_tick
+  rotate: false
+  xy: 648, 469
+  size: 103, 80
+  orig: 200, 200
+  offset: 52, 54
+  index: 18
+Counterspell_on_tick
+  rotate: false
+  xy: 755, 351
+  size: 143, 110
+  orig: 200, 200
+  offset: 33, 29
+  index: 19
+Counterspell_on_tick
+  rotate: false
+  xy: 824, 1
+  size: 159, 119
+  orig: 200, 200
+  offset: 25, 25
+  index: 20
+Counterspell_on_tick
+  rotate: false
+  xy: 168, 1
+  size: 165, 119
+  orig: 200, 200
+  offset: 21, 27
+  index: 21
+Counterspell_on_tick
+  rotate: false
+  xy: 824, 122
+  size: 159, 117
+  orig: 200, 200
+  offset: 24, 30
+  index: 22
+Counterspell_on_tick
+  rotate: false
+  xy: 319, 122
+  size: 155, 116
+  orig: 200, 200
+  offset: 26, 30
+  index: 23
+Counterspell_on_tick
+  rotate: false
+  xy: 1, 241
+  size: 149, 113
+  orig: 200, 200
+  offset: 29, 31
+  index: 24
+Counterspell_on_tick
+  rotate: false
+  xy: 610, 241
+  size: 144, 108
+  orig: 200, 200
+  offset: 31, 33
+  index: 25
+Counterspell_on_tick
+  rotate: false
+  xy: 152, 355
+  size: 139, 104
+  orig: 200, 200
+  offset: 34, 35
+  index: 26
+Counterspell_on_tick
+  rotate: false
+  xy: 142, 461
+  size: 134, 102
+  orig: 200, 200
+  offset: 36, 37
+  index: 27
+Counterspell_on_tick
+  rotate: false
+  xy: 1, 564
+  size: 127, 99
+  orig: 200, 200
+  offset: 39, 40
+  index: 28
+Counterspell_on_tick
+  rotate: false
+  xy: 278, 563
+  size: 124, 94
+  orig: 200, 200
+  offset: 41, 46
+  index: 29
+Counterspell_on_tick
+  rotate: false
+  xy: 902, 343
+  size: 118, 95
+  orig: 200, 200
+  offset: 44, 45
+  index: 30
+Counterspell_on_tick
+  rotate: false
+  xy: 404, 565
+  size: 113, 97
+  orig: 200, 200
+  offset: 46, 45
+  index: 31
+Counterspell_on_tick
+  rotate: false
+  xy: 634, 647
+  size: 107, 95
+  orig: 200, 200
+  offset: 48, 47
+  index: 32
+Counterspell_on_tick
+  rotate: false
+  xy: 648, 551
+  size: 102, 94
+  orig: 200, 200
+  offset: 51, 49
+  index: 33
+Counterspell_on_tick
+  rotate: true
+  xy: 1, 915
+  size: 95, 92
+  orig: 200, 200
+  offset: 53, 51
+  index: 34
+Counterspell_on_tick
+  rotate: true
+  xy: 83, 812
+  size: 94, 93
+  orig: 200, 200
+  offset: 55, 52
+  index: 35
+Counterspell_on_tick
+  rotate: true
+  xy: 95, 908
+  size: 94, 91
+  orig: 200, 200
+  offset: 55, 54
+  index: 36
+Counterspell_on_tick
+  rotate: false
+  xy: 610, 351
+  size: 143, 116
+  orig: 200, 200
+  offset: 33, 29
+  index: 37
+Counterspell_on_tick
+  rotate: false
+  xy: 502, 1
+  size: 159, 120
+  orig: 200, 200
+  offset: 25, 25
+  index: 38
+Counterspell_on_tick
+  rotate: false
+  xy: 335, 1
+  size: 165, 119
+  orig: 200, 200
+  offset: 21, 27
+  index: 39
+Counterspell_on_tick
+  rotate: false
+  xy: 1, 122
+  size: 159, 117
+  orig: 200, 200
+  offset: 24, 30
+  index: 40
+Counterspell_on_tick
+  rotate: false
+  xy: 476, 123
+  size: 155, 116
+  orig: 200, 200
+  offset: 26, 30
+  index: 41
+Counterspell_on_tick
+  rotate: false
+  xy: 313, 240
+  size: 149, 113
+  orig: 200, 200
+  offset: 29, 31
+  index: 42
+Counterspell_on_tick
+  rotate: false
+  xy: 756, 241
+  size: 144, 108
+  orig: 200, 200
+  offset: 31, 33
+  index: 43
+Counterspell_on_tick
+  rotate: false
+  xy: 1, 356
+  size: 139, 104
+  orig: 200, 200
+  offset: 34, 35
+  index: 44
+Counterspell_on_tick
+  rotate: false
+  xy: 1, 462
+  size: 134, 100
+  orig: 200, 200
+  offset: 36, 37
+  index: 45
+Counterspell_on_tick
+  rotate: false
+  xy: 278, 463
+  size: 127, 98
+  orig: 200, 200
+  offset: 39, 40
+  index: 46
+Counterspell_on_tick
+  rotate: false
+  xy: 130, 565
+  size: 124, 92
+  orig: 200, 200
+  offset: 41, 46
+  index: 47
+Counterspell_on_tick
+  rotate: false
+  xy: 900, 440
+  size: 118, 95
+  orig: 200, 200
+  offset: 44, 45
+  index: 48
+Counterspell_on_tick
+  rotate: false
+  xy: 519, 571
+  size: 113, 95
+  orig: 200, 200
+  offset: 46, 45
+  index: 49

@@ -1,0 +1,180 @@
+StreamOfLight_on_impact-0.png
+size: 1024, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+StreamOfLightImpact_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 0
+StreamOfLightImpact_on_tick
+  rotate: false
+  xy: 253, 1
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 1
+StreamOfLightImpact_on_tick
+  rotate: false
+  xy: 505, 1
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 2
+StreamOfLightImpact_on_tick
+  rotate: false
+  xy: 757, 1
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 3
+StreamOfLightImpact_on_tick
+  rotate: false
+  xy: 1, 253
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 4
+StreamOfLightImpact_on_tick
+  rotate: false
+  xy: 253, 253
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 5
+StreamOfLightImpact_on_tick
+  rotate: false
+  xy: 505, 253
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 6
+StreamOfLightImpact_on_tick
+  rotate: false
+  xy: 757, 253
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 7
+StreamOfLightImpact_on_tick
+  rotate: false
+  xy: 1, 505
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 8
+StreamOfLightImpact_on_tick
+  rotate: false
+  xy: 253, 505
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 9
+StreamOfLightImpact_on_tick
+  rotate: false
+  xy: 505, 505
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 10
+StreamOfLightImpact_on_tick
+  rotate: false
+  xy: 757, 505
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 11
+StreamOfLightImpact_on_tick
+  rotate: false
+  xy: 1, 757
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 12
+StreamOfLightImpact_on_tick
+  rotate: false
+  xy: 253, 757
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 13
+StreamOfLightImpact_on_tick
+  rotate: false
+  xy: 505, 757
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 14
+StreamOfLightImpact_on_tick
+  rotate: false
+  xy: 757, 757
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 15
+StreamOfLightImpact_on_tick
+  rotate: false
+  xy: 1, 1009
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 16
+StreamOfLightImpact_on_tick
+  rotate: false
+  xy: 253, 1009
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 17
+StreamOfLightImpact_on_tick
+  rotate: false
+  xy: 505, 1009
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 18
+StreamOfLightImpact_on_tick
+  rotate: false
+  xy: 757, 1009
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 19
+StreamOfLightImpact_on_tick
+  rotate: false
+  xy: 1, 1261
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 20
+StreamOfLightImpact_on_tick
+  rotate: false
+  xy: 1, 1513
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 21
+StreamOfLightImpact_on_tick
+  rotate: false
+  xy: 1, 1765
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 22
+StreamOfLightImpact_on_tick
+  rotate: false
+  xy: 253, 1261
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 23
+StreamOfLightImpact_on_tick
+  rotate: false
+  xy: 505, 1261
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 24

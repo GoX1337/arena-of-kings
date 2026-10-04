@@ -1,0 +1,236 @@
+Portal_on_tick_0.png
+size: 1024, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Portal_on_tick
+  rotate: false
+  xy: 1, 1971
+  size: 43, 64
+  orig: 180, 280
+  offset: 69, 110
+  index: 0
+Portal_on_tick
+  rotate: false
+  xy: 1, 1093
+  size: 69, 106
+  orig: 180, 280
+  offset: 56, 89
+  index: 1
+Portal_on_tick
+  rotate: true
+  xy: 847, 880
+  size: 97, 149
+  orig: 180, 280
+  offset: 42, 67
+  index: 2
+Portal_on_tick
+  rotate: false
+  xy: 1, 1777
+  size: 124, 192
+  orig: 180, 280
+  offset: 28, 46
+  index: 3
+Portal_on_tick
+  rotate: false
+  xy: 847, 647
+  size: 150, 231
+  orig: 180, 280
+  offset: 15, 26
+  index: 4
+Portal_on_tick
+  rotate: false
+  xy: 847, 1
+  size: 176, 270
+  orig: 180, 280
+  offset: 2, 7
+  index: 5
+Portal_on_tick
+  rotate: true
+  xy: 1, 1
+  size: 180, 280
+  orig: 180, 280
+  offset: 0, 0
+  index: 6
+Portal_on_tick
+  rotate: true
+  xy: 283, 1
+  size: 180, 280
+  orig: 180, 280
+  offset: 0, 0
+  index: 7
+Portal_on_tick
+  rotate: true
+  xy: 565, 1
+  size: 180, 280
+  orig: 180, 280
+  offset: 0, 0
+  index: 8
+Portal_on_tick
+  rotate: true
+  xy: 1, 183
+  size: 180, 280
+  orig: 180, 280
+  offset: 0, 0
+  index: 9
+Portal_on_tick
+  rotate: true
+  xy: 283, 183
+  size: 180, 280
+  orig: 180, 280
+  offset: 0, 0
+  index: 10
+Portal_on_tick
+  rotate: true
+  xy: 565, 183
+  size: 180, 280
+  orig: 180, 280
+  offset: 0, 0
+  index: 11
+Portal_on_tick
+  rotate: true
+  xy: 1, 365
+  size: 180, 280
+  orig: 180, 280
+  offset: 0, 0
+  index: 12
+Portal_on_tick
+  rotate: true
+  xy: 283, 365
+  size: 180, 280
+  orig: 180, 280
+  offset: 0, 0
+  index: 13
+Portal_on_tick
+  rotate: true
+  xy: 565, 365
+  size: 180, 280
+  orig: 180, 280
+  offset: 0, 0
+  index: 14
+Portal_on_tick
+  rotate: true
+  xy: 1, 547
+  size: 180, 280
+  orig: 180, 280
+  offset: 0, 0
+  index: 15
+Portal_on_tick
+  rotate: true
+  xy: 283, 547
+  size: 180, 280
+  orig: 180, 280
+  offset: 0, 0
+  index: 16
+Portal_on_tick
+  rotate: true
+  xy: 565, 547
+  size: 180, 280
+  orig: 180, 280
+  offset: 0, 0
+  index: 17
+Portal_on_tick
+  rotate: true
+  xy: 1, 729
+  size: 180, 280
+  orig: 180, 280
+  offset: 0, 0
+  index: 18
+Portal_on_tick
+  rotate: true
+  xy: 283, 729
+  size: 180, 280
+  orig: 180, 280
+  offset: 0, 0
+  index: 19
+Portal_on_tick
+  rotate: true
+  xy: 565, 729
+  size: 180, 280
+  orig: 180, 280
+  offset: 0, 0
+  index: 20
+Portal_on_tick
+  rotate: true
+  xy: 1, 911
+  size: 180, 280
+  orig: 180, 280
+  offset: 0, 0
+  index: 21
+Portal_on_tick
+  rotate: true
+  xy: 283, 911
+  size: 180, 280
+  orig: 180, 280
+  offset: 0, 0
+  index: 22
+Portal_on_tick
+  rotate: true
+  xy: 565, 911
+  size: 180, 280
+  orig: 180, 280
+  offset: 0, 0
+  index: 23
+Portal_on_tick
+  rotate: false
+  xy: 1, 1213
+  size: 180, 280
+  orig: 180, 280
+  offset: 0, 0
+  index: 24
+Portal_on_tick
+  rotate: false
+  xy: 1, 1495
+  size: 180, 280
+  orig: 180, 280
+  offset: 0, 0
+  index: 25
+Portal_on_tick
+  rotate: false
+  xy: 847, 273
+  size: 169, 268
+  orig: 180, 280
+  offset: 3, 7
+  index: 26
+Portal_on_tick
+  rotate: false
+  xy: 847, 979
+  size: 144, 232
+  orig: 180, 280
+  offset: 16, 27
+  index: 27
+Portal_on_tick
+  rotate: false
+  xy: 127, 1777
+  size: 121, 190
+  orig: 180, 280
+  offset: 28, 48
+  index: 28
+Portal_on_tick
+  rotate: true
+  xy: 847, 543
+  size: 102, 158
+  orig: 180, 280
+  offset: 39, 63
+  index: 29
+Portal_on_tick
+  rotate: true
+  xy: 127, 1093
+  size: 77, 120
+  orig: 180, 280
+  offset: 52, 82
+  index: 30
+Portal_on_tick
+  rotate: false
+  xy: 72, 1093
+  size: 53, 80
+  orig: 180, 280
+  offset: 64, 102
+  index: 31
+Portal_on_tick
+  rotate: false
+  xy: 993, 979
+  size: 26, 42
+  orig: 180, 280
+  offset: 78, 121
+  index: 32

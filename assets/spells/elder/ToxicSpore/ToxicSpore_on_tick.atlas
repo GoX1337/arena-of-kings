@@ -1,0 +1,236 @@
+ToxicSpore_on_tick_0.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ToxicSpore_on_tick
+  rotate: false
+  xy: 233, 555
+  size: 35, 33
+  orig: 400, 400
+  offset: 183, 178
+  index: 0
+ToxicSpore_on_tick
+  rotate: false
+  xy: 172, 768
+  size: 66, 72
+  orig: 400, 400
+  offset: 178, 174
+  index: 1
+ToxicSpore_on_tick
+  rotate: true
+  xy: 180, 590
+  size: 72, 88
+  orig: 400, 400
+  offset: 175, 170
+  index: 2
+ToxicSpore_on_tick
+  rotate: false
+  xy: 180, 664
+  size: 75, 102
+  orig: 400, 400
+  offset: 172, 167
+  index: 3
+ToxicSpore_on_tick
+  rotate: true
+  xy: 257, 673
+  size: 92, 110
+  orig: 400, 400
+  offset: 168, 164
+  index: 4
+ToxicSpore_on_tick
+  rotate: true
+  xy: 250, 906
+  size: 109, 121
+  orig: 400, 400
+  offset: 164, 160
+  index: 5
+ToxicSpore_on_tick
+  rotate: false
+  xy: 250, 768
+  size: 112, 136
+  orig: 400, 400
+  offset: 161, 157
+  index: 6
+ToxicSpore_on_tick
+  rotate: false
+  xy: 135, 852
+  size: 113, 152
+  orig: 400, 400
+  offset: 158, 153
+  index: 7
+ToxicSpore_on_tick
+  rotate: false
+  xy: 1, 852
+  size: 132, 161
+  orig: 400, 400
+  offset: 154, 150
+  index: 8
+ToxicSpore_on_tick
+  rotate: true
+  xy: 1, 698
+  size: 152, 169
+  orig: 400, 400
+  offset: 151, 146
+  index: 9
+ToxicSpore_on_tick
+  rotate: true
+  xy: 810, 481
+  size: 141, 205
+  orig: 400, 400
+  offset: 151, 147
+  index: 10
+ToxicSpore_on_tick
+  rotate: true
+  xy: 1, 564
+  size: 132, 177
+  orig: 400, 400
+  offset: 151, 147
+  index: 11
+ToxicSpore_on_tick
+  rotate: true
+  xy: 810, 481
+  size: 141, 205
+  orig: 400, 400
+  offset: 151, 147
+  index: 12
+ToxicSpore_on_tick
+  rotate: true
+  xy: 1, 698
+  size: 152, 169
+  orig: 400, 400
+  offset: 151, 146
+  index: 13
+ToxicSpore_on_tick
+  rotate: true
+  xy: 1, 698
+  size: 152, 169
+  orig: 400, 400
+  offset: 151, 146
+  index: 14
+ToxicSpore_on_tick
+  rotate: true
+  xy: 1, 698
+  size: 152, 169
+  orig: 400, 400
+  offset: 151, 146
+  index: 15
+ToxicSpore_on_tick
+  rotate: true
+  xy: 1, 698
+  size: 152, 169
+  orig: 400, 400
+  offset: 151, 146
+  index: 16
+ToxicSpore_on_tick
+  rotate: true
+  xy: 1, 698
+  size: 152, 169
+  orig: 400, 400
+  offset: 151, 146
+  index: 17
+ToxicSpore_on_tick
+  rotate: true
+  xy: 1, 698
+  size: 152, 169
+  orig: 400, 400
+  offset: 151, 146
+  index: 18
+ToxicSpore_on_tick
+  rotate: false
+  xy: 273, 500
+  size: 219, 171
+  orig: 400, 400
+  offset: 99, 116
+  index: 19
+ToxicSpore_on_tick
+  rotate: false
+  xy: 1, 235
+  size: 233, 172
+  orig: 400, 400
+  offset: 85, 116
+  index: 20
+ToxicSpore_on_tick
+  rotate: true
+  xy: 823, 1
+  size: 239, 197
+  orig: 400, 400
+  offset: 72, 104
+  index: 21
+ToxicSpore_on_tick
+  rotate: false
+  xy: 550, 269
+  size: 258, 236
+  orig: 400, 400
+  offset: 61, 86
+  index: 22
+ToxicSpore_on_tick
+  rotate: false
+  xy: 279, 1
+  size: 271, 231
+  orig: 400, 400
+  offset: 54, 74
+  index: 23
+ToxicSpore_on_tick
+  rotate: true
+  xy: 552, 1
+  size: 266, 269
+  orig: 400, 400
+  offset: 70, 53
+  index: 24
+ToxicSpore_on_tick
+  rotate: false
+  xy: 279, 234
+  size: 269, 264
+  orig: 400, 400
+  offset: 77, 48
+  index: 25
+ToxicSpore_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 276, 232
+  orig: 400, 400
+  offset: 67, 80
+  index: 26
+ToxicSpore_on_tick
+  rotate: true
+  xy: 823, 242
+  size: 237, 184
+  orig: 400, 400
+  offset: 78, 115
+  index: 27
+ToxicSpore_on_tick
+  rotate: false
+  xy: 1, 409
+  size: 230, 153
+  orig: 400, 400
+  offset: 83, 114
+  index: 28
+ToxicSpore_on_tick
+  rotate: true
+  xy: 236, 235
+  size: 158, 36
+  orig: 400, 400
+  offset: 118, 144
+  index: 29
+ToxicSpore_on_tick
+  rotate: true
+  xy: 236, 395
+  size: 158, 35
+  orig: 400, 400
+  offset: 118, 144
+  index: 30
+ToxicSpore_on_tick
+  rotate: true
+  xy: 236, 395
+  size: 158, 35
+  orig: 400, 400
+  offset: 118, 144
+  index: 31
+ToxicSpore_on_tick
+  rotate: true
+  xy: 494, 500
+  size: 155, 18
+  orig: 400, 400
+  offset: 119, 160
+  index: 32

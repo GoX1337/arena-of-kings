@@ -1,0 +1,278 @@
+DustCloud_on_tick_0.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DustCloud_on_tick
+  rotate: true
+  xy: 1, 1920
+  size: 104, 96
+  orig: 300, 400
+  offset: 98, 77
+  index: 0
+DustCloud_on_tick
+  rotate: true
+  xy: 1033, 1349
+  size: 144, 142
+  orig: 300, 400
+  offset: 76, 56
+  index: 1
+DustCloud_on_tick
+  rotate: false
+  xy: 1498, 274
+  size: 193, 195
+  orig: 300, 400
+  offset: 53, 29
+  index: 2
+DustCloud_on_tick
+  rotate: false
+  xy: 1474, 519
+  size: 205, 217
+  orig: 300, 400
+  offset: 47, 22
+  index: 3
+DustCloud_on_tick
+  rotate: false
+  xy: 1279, 274
+  size: 217, 243
+  orig: 300, 400
+  offset: 40, 17
+  index: 4
+DustCloud_on_tick
+  rotate: false
+  xy: 1016, 842
+  size: 229, 255
+  orig: 300, 400
+  offset: 33, 11
+  index: 5
+DustCloud_on_tick
+  rotate: false
+  xy: 1006, 566
+  size: 240, 274
+  orig: 300, 400
+  offset: 26, 2
+  index: 6
+DustCloud_on_tick
+  rotate: false
+  xy: 513, 295
+  size: 256, 288
+  orig: 300, 400
+  offset: 19, 0
+  index: 7
+DustCloud_on_tick
+  rotate: false
+  xy: 762, 867
+  size: 252, 275
+  orig: 300, 400
+  offset: 21, 21
+  index: 8
+DustCloud_on_tick
+  rotate: false
+  xy: 1021, 280
+  size: 256, 273
+  orig: 300, 400
+  offset: 17, 30
+  index: 9
+DustCloud_on_tick
+  rotate: false
+  xy: 1263, 1
+  size: 257, 271
+  orig: 300, 400
+  offset: 16, 38
+  index: 10
+DustCloud_on_tick
+  rotate: false
+  xy: 749, 585
+  size: 255, 280
+  orig: 300, 400
+  offset: 15, 39
+  index: 11
+DustCloud_on_tick
+  rotate: false
+  xy: 759, 1
+  size: 254, 284
+  orig: 300, 400
+  offset: 15, 39
+  index: 12
+DustCloud_on_tick
+  rotate: false
+  xy: 777, 1536
+  size: 255, 293
+  orig: 300, 400
+  offset: 14, 35
+  index: 13
+DustCloud_on_tick
+  rotate: false
+  xy: 514, 1608
+  size: 261, 297
+  orig: 300, 400
+  offset: 14, 36
+  index: 14
+DustCloud_on_tick
+  rotate: false
+  xy: 524, 1241
+  size: 259, 293
+  orig: 300, 400
+  offset: 14, 51
+  index: 15
+DustCloud_on_tick
+  rotate: false
+  xy: 259, 1300
+  size: 263, 306
+  orig: 300, 400
+  offset: 14, 48
+  index: 16
+DustCloud_on_tick
+  rotate: false
+  xy: 250, 1
+  size: 261, 315
+  orig: 300, 400
+  offset: 15, 46
+  index: 17
+DustCloud_on_tick
+  rotate: false
+  xy: 250, 318
+  size: 261, 315
+  orig: 300, 400
+  offset: 15, 51
+  index: 18
+DustCloud_on_tick
+  rotate: false
+  xy: 1, 985
+  size: 263, 313
+  orig: 300, 400
+  offset: 14, 59
+  index: 19
+DustCloud_on_tick
+  rotate: false
+  xy: 254, 1610
+  size: 258, 307
+  orig: 300, 400
+  offset: 16, 67
+  index: 20
+DustCloud_on_tick
+  rotate: false
+  xy: 1, 662
+  size: 249, 321
+  orig: 300, 400
+  offset: 16, 62
+  index: 21
+DustCloud_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 247, 332
+  orig: 300, 400
+  offset: 18, 58
+  index: 22
+DustCloud_on_tick
+  rotate: false
+  xy: 1, 335
+  size: 247, 325
+  orig: 300, 400
+  offset: 18, 57
+  index: 23
+DustCloud_on_tick
+  rotate: false
+  xy: 1, 1610
+  size: 251, 308
+  orig: 300, 400
+  offset: 18, 78
+  index: 24
+DustCloud_on_tick
+  rotate: false
+  xy: 513, 1
+  size: 244, 292
+  orig: 300, 400
+  offset: 19, 90
+  index: 25
+DustCloud_on_tick
+  rotate: false
+  xy: 516, 938
+  size: 244, 301
+  orig: 300, 400
+  offset: 21, 86
+  index: 26
+DustCloud_on_tick
+  rotate: false
+  xy: 266, 947
+  size: 248, 303
+  orig: 300, 400
+  offset: 21, 87
+  index: 27
+DustCloud_on_tick
+  rotate: false
+  xy: 1, 1300
+  size: 256, 308
+  orig: 300, 400
+  offset: 18, 91
+  index: 28
+DustCloud_on_tick
+  rotate: false
+  xy: 252, 635
+  size: 245, 310
+  orig: 300, 400
+  offset: 18, 90
+  index: 29
+DustCloud_on_tick
+  rotate: false
+  xy: 499, 635
+  size: 248, 301
+  orig: 300, 400
+  offset: 20, 91
+  index: 30
+DustCloud_on_tick
+  rotate: false
+  xy: 771, 287
+  size: 248, 277
+  orig: 300, 400
+  offset: 20, 121
+  index: 31
+DustCloud_on_tick
+  rotate: false
+  xy: 1015, 1
+  size: 246, 277
+  orig: 300, 400
+  offset: 21, 123
+  index: 32
+DustCloud_on_tick
+  rotate: false
+  xy: 785, 1144
+  size: 246, 267
+  orig: 300, 400
+  offset: 22, 131
+  index: 33
+DustCloud_on_tick
+  rotate: false
+  xy: 1033, 1099
+  size: 235, 248
+  orig: 300, 400
+  offset: 21, 144
+  index: 34
+DustCloud_on_tick
+  rotate: false
+  xy: 1247, 842
+  size: 235, 248
+  orig: 300, 400
+  offset: 22, 148
+  index: 35
+DustCloud_on_tick
+  rotate: false
+  xy: 1248, 555
+  size: 224, 247
+  orig: 300, 400
+  offset: 32, 152
+  index: 36
+DustCloud_on_tick
+  rotate: true
+  xy: 1004, 1831
+  size: 215, 231
+  orig: 300, 400
+  offset: 40, 161
+  index: 37
+DustCloud_on_tick
+  rotate: true
+  xy: 777, 1831
+  size: 216, 225
+  orig: 300, 400
+  offset: 38, 168
+  index: 38

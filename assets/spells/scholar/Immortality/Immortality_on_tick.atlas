@@ -1,0 +1,284 @@
+Immortality_on_tick_0.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Immortality_on_tick
+  rotate: false
+  xy: 383, 418
+  size: 412, 380
+  orig: 420, 380
+  offset: 0, 0
+  index: 0
+Immortality_on_tick
+  rotate: false
+  xy: 1147, 1243
+  size: 407, 380
+  orig: 420, 380
+  offset: 0, 0
+  index: 2
+Immortality_on_tick
+  rotate: true
+  xy: 1, 1625
+  size: 408, 380
+  orig: 420, 380
+  offset: 0, 0
+  index: 3
+Immortality_on_tick
+  rotate: true
+  xy: 1556, 1243
+  size: 407, 380
+  orig: 420, 380
+  offset: 0, 0
+  index: 4
+Immortality_on_tick
+  rotate: false
+  xy: 1212, 1
+  size: 408, 380
+  orig: 420, 380
+  offset: 0, 0
+  index: 7
+Immortality_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 415, 380
+  orig: 420, 380
+  offset: 0, 0
+  index: 8
+Immortality_on_tick
+  rotate: true
+  xy: 383, 1212
+  size: 409, 380
+  orig: 420, 380
+  offset: 0, 0
+  index: 9
+Immortality_on_tick
+  rotate: true
+  xy: 1177, 832
+  size: 409, 380
+  orig: 420, 380
+  offset: 0, 0
+  index: 10
+Immortality_on_tick
+  rotate: false
+  xy: 1179, 383
+  size: 408, 380
+  orig: 420, 380
+  offset: 0, 0
+  index: 11
+Immortality_on_tick
+  rotate: false
+  xy: 1559, 765
+  size: 407, 380
+  orig: 420, 380
+  offset: 0, 0
+  index: 12
+Immortality_on_tick
+  rotate: false
+  xy: 1589, 383
+  size: 407, 380
+  orig: 420, 380
+  offset: 0, 0
+  index: 13
+Immortality_on_tick
+  rotate: false
+  xy: 1556, 1652
+  size: 406, 380
+  orig: 420, 380
+  offset: 0, 0
+  index: 15
+Immortality_on_tick
+  rotate: true
+  xy: 1, 383
+  size: 414, 380
+  orig: 420, 380
+  offset: 0, 0
+  index: 16
+Immortality_on_tick
+  rotate: true
+  xy: 765, 1214
+  size: 409, 380
+  orig: 420, 380
+  offset: 0, 0
+  index: 17
+Immortality_on_tick
+  rotate: true
+  xy: 383, 800
+  size: 410, 380
+  orig: 420, 380
+  offset: 0, 0
+  index: 18
+Immortality_on_tick
+  rotate: true
+  xy: 1, 799
+  size: 412, 380
+  orig: 420, 380
+  offset: 0, 0
+  index: 19
+Immortality_on_tick
+  rotate: false
+  xy: 800, 1
+  size: 410, 380
+  orig: 420, 380
+  offset: 0, 0
+  index: 20
+Immortality_on_tick
+  rotate: false
+  xy: 1622, 1
+  size: 407, 380
+  orig: 420, 380
+  offset: 0, 0
+  index: 21
+Immortality_on_tick
+  rotate: false
+  xy: 765, 1625
+  size: 407, 380
+  orig: 420, 380
+  offset: 0, 0
+  index: 24
+Immortality_on_tick
+  rotate: true
+  xy: 797, 418
+  size: 412, 380
+  orig: 420, 380
+  offset: 0, 0
+  index: 27
+Immortality_on_tick
+  rotate: true
+  xy: 418, 1
+  size: 415, 380
+  orig: 420, 380
+  offset: 0, 0
+  index: 28
+Immortality_on_tick
+  rotate: true
+  xy: 1174, 1625
+  size: 407, 380
+  orig: 420, 380
+  offset: 0, 0
+  index: 29
+Immortality_on_tick
+  rotate: false
+  xy: 765, 832
+  size: 410, 380
+  orig: 420, 380
+  offset: 0, 0
+  index: 30
+Immortality_on_tick
+  rotate: true
+  xy: 383, 1623
+  size: 409, 380
+  orig: 420, 380
+  offset: 0, 0
+  index: 31
+Immortality_on_tick
+  rotate: true
+  xy: 1, 1213
+  size: 410, 380
+  orig: 420, 380
+  offset: 0, 0
+  index: 32
+
+Immortality_on_tick_1.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Immortality_on_tick
+  rotate: true
+  xy: 1, 790
+  size: 403, 380
+  orig: 420, 380
+  offset: 0, 0
+  index: 1
+Immortality_on_tick
+  rotate: false
+  xy: 409, 1
+  size: 405, 380
+  orig: 420, 380
+  offset: 0, 0
+  index: 5
+Immortality_on_tick
+  rotate: true
+  xy: 1, 1195
+  size: 403, 380
+  orig: 420, 380
+  offset: 0, 0
+  index: 6
+Immortality_on_tick
+  rotate: false
+  xy: 816, 1
+  size: 405, 380
+  orig: 420, 380
+  offset: 0, 0
+  index: 14
+Immortality_on_tick
+  rotate: true
+  xy: 1, 1600
+  size: 403, 380
+  orig: 420, 380
+  offset: 0, 0
+  index: 22
+Immortality_on_tick
+  rotate: false
+  xy: 1223, 1
+  size: 405, 380
+  orig: 420, 380
+  offset: 0, 0
+  index: 23
+Immortality_on_tick
+  rotate: false
+  xy: 383, 383
+  size: 403, 380
+  orig: 420, 380
+  offset: 0, 0
+  index: 25
+Immortality_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 406, 380
+  orig: 420, 380
+  offset: 0, 0
+  index: 26
+Immortality_on_tick
+  rotate: false
+  xy: 1630, 1
+  size: 405, 380
+  orig: 420, 380
+  offset: 0, 0
+  index: 33
+Immortality_on_tick
+  rotate: true
+  xy: 1, 383
+  size: 405, 380
+  orig: 420, 380
+  offset: 0, 0
+  index: 34
+Immortality_on_tick
+  rotate: false
+  xy: 788, 383
+  size: 402, 380
+  orig: 420, 380
+  offset: 0, 0
+  index: 35
+Immortality_on_tick
+  rotate: false
+  xy: 1192, 383
+  size: 401, 380
+  orig: 420, 380
+  offset: 0, 0
+  index: 36
+Immortality_on_tick
+  rotate: false
+  xy: 1595, 383
+  size: 399, 380
+  orig: 420, 380
+  offset: 0, 0
+  index: 37
+Immortality_on_tick
+  rotate: true
+  xy: 383, 765
+  size: 398, 380
+  orig: 420, 380
+  offset: 0, 0
+  index: 38

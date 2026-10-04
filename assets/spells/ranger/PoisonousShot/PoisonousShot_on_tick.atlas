@@ -1,0 +1,145 @@
+PoisonousShot_on_tick-0.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PoisonousShot_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 220, 130
+  orig: 220, 130
+  offset: 0, 0
+  index: 0
+PoisonousShot_on_tick
+  rotate: false
+  xy: 223, 1
+  size: 220, 130
+  orig: 220, 130
+  offset: 0, 0
+  index: 1
+PoisonousShot_on_tick
+  rotate: false
+  xy: 445, 1
+  size: 220, 130
+  orig: 220, 130
+  offset: 0, 0
+  index: 2
+PoisonousShot_on_tick
+  rotate: false
+  xy: 667, 1
+  size: 220, 130
+  orig: 220, 130
+  offset: 0, 0
+  index: 3
+PoisonousShot_on_tick
+  rotate: false
+  xy: 1, 133
+  size: 220, 130
+  orig: 220, 130
+  offset: 0, 0
+  index: 4
+PoisonousShot_on_tick
+  rotate: false
+  xy: 223, 133
+  size: 220, 130
+  orig: 220, 130
+  offset: 0, 0
+  index: 5
+PoisonousShot_on_tick
+  rotate: false
+  xy: 445, 133
+  size: 220, 130
+  orig: 220, 130
+  offset: 0, 0
+  index: 6
+PoisonousShot_on_tick
+  rotate: false
+  xy: 667, 133
+  size: 220, 130
+  orig: 220, 130
+  offset: 0, 0
+  index: 7
+PoisonousShot_on_tick
+  rotate: false
+  xy: 1, 265
+  size: 220, 130
+  orig: 220, 130
+  offset: 0, 0
+  index: 8
+PoisonousShot_on_tick
+  rotate: false
+  xy: 1, 397
+  size: 220, 130
+  orig: 220, 130
+  offset: 0, 0
+  index: 9
+PoisonousShot_on_tick
+  rotate: false
+  xy: 1, 529
+  size: 220, 130
+  orig: 220, 130
+  offset: 0, 0
+  index: 10
+PoisonousShot_on_tick
+  rotate: false
+  xy: 1, 661
+  size: 220, 130
+  orig: 220, 130
+  offset: 0, 0
+  index: 11
+PoisonousShot_on_tick
+  rotate: false
+  xy: 1, 793
+  size: 220, 130
+  orig: 220, 130
+  offset: 0, 0
+  index: 12
+PoisonousShot_on_tick
+  rotate: false
+  xy: 223, 265
+  size: 220, 130
+  orig: 220, 130
+  offset: 0, 0
+  index: 13
+PoisonousShot_on_tick
+  rotate: false
+  xy: 445, 265
+  size: 220, 130
+  orig: 220, 130
+  offset: 0, 0
+  index: 14
+PoisonousShot_on_tick
+  rotate: false
+  xy: 667, 265
+  size: 220, 130
+  orig: 220, 130
+  offset: 0, 0
+  index: 15
+PoisonousShot_on_tick
+  rotate: false
+  xy: 223, 397
+  size: 220, 130
+  orig: 220, 130
+  offset: 0, 0
+  index: 16
+PoisonousShot_on_tick
+  rotate: false
+  xy: 445, 397
+  size: 220, 130
+  orig: 220, 130
+  offset: 0, 0
+  index: 17
+PoisonousShot_on_tick
+  rotate: false
+  xy: 667, 397
+  size: 220, 130
+  orig: 220, 130
+  offset: 0, 0
+  index: 18
+PoisonousShot_on_tick
+  rotate: false
+  xy: 223, 529
+  size: 220, 130
+  orig: 220, 130
+  offset: 0, 0
+  index: 19

@@ -1,0 +1,117 @@
+Sprint_on_tick_0.png
+size: 256, 256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Sprint_on_tick
+  rotate: false
+  xy: 45, 190
+  size: 42, 60
+  orig: 80, 80
+  offset: 20, 17
+  index: 0
+Sprint_on_tick
+  rotate: false
+  xy: 91, 126
+  size: 41, 60
+  orig: 80, 80
+  offset: 20, 17
+  index: 1
+Sprint_on_tick
+  rotate: false
+  xy: 92, 63
+  size: 41, 60
+  orig: 80, 80
+  offset: 20, 17
+  index: 2
+Sprint_on_tick
+  rotate: false
+  xy: 133, 188
+  size: 41, 60
+  orig: 80, 80
+  offset: 20, 17
+  index: 3
+Sprint_on_tick
+  rotate: false
+  xy: 135, 63
+  size: 43, 59
+  orig: 80, 80
+  offset: 19, 18
+  index: 4
+Sprint_on_tick
+  rotate: false
+  xy: 136, 1
+  size: 43, 59
+  orig: 80, 80
+  offset: 19, 18
+  index: 5
+Sprint_on_tick
+  rotate: false
+  xy: 134, 125
+  size: 44, 59
+  orig: 80, 80
+  offset: 18, 18
+  index: 6
+Sprint_on_tick
+  rotate: false
+  xy: 45, 128
+  size: 44, 60
+  orig: 80, 80
+  offset: 18, 16
+  index: 7
+Sprint_on_tick
+  rotate: false
+  xy: 1, 65
+  size: 44, 61
+  orig: 80, 80
+  offset: 18, 15
+  index: 8
+Sprint_on_tick
+  rotate: false
+  xy: 1, 128
+  size: 42, 61
+  orig: 80, 80
+  offset: 19, 15
+  index: 9
+Sprint_on_tick
+  rotate: false
+  xy: 89, 190
+  size: 42, 60
+  orig: 80, 80
+  offset: 19, 16
+  index: 10
+Sprint_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 43, 62
+  orig: 80, 80
+  offset: 19, 15
+  index: 11
+Sprint_on_tick
+  rotate: false
+  xy: 47, 64
+  size: 43, 60
+  orig: 80, 80
+  offset: 19, 17
+  index: 12
+Sprint_on_tick
+  rotate: false
+  xy: 46, 1
+  size: 43, 61
+  orig: 80, 80
+  offset: 19, 16
+  index: 13
+Sprint_on_tick
+  rotate: false
+  xy: 91, 1
+  size: 43, 60
+  orig: 80, 80
+  offset: 19, 17
+  index: 14
+Sprint_on_tick
+  rotate: false
+  xy: 1, 191
+  size: 42, 61
+  orig: 80, 80
+  offset: 20, 16
+  index: 15

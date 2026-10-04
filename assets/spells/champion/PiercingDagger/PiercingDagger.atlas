@@ -1,0 +1,145 @@
+PiercingDagger-0.png
+size: 512, 512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PiercingDagger_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: 0
+PiercingDagger_on_tick
+  rotate: false
+  xy: 103, 1
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: 1
+PiercingDagger_on_tick
+  rotate: false
+  xy: 205, 1
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: 2
+PiercingDagger_on_tick
+  rotate: false
+  xy: 307, 1
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: 3
+PiercingDagger_on_tick
+  rotate: false
+  xy: 409, 1
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: 4
+PiercingDagger_on_tick
+  rotate: false
+  xy: 1, 83
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: 5
+PiercingDagger_on_tick
+  rotate: false
+  xy: 1, 165
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: 6
+PiercingDagger_on_tick
+  rotate: false
+  xy: 1, 247
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: 7
+PiercingDagger_on_tick
+  rotate: false
+  xy: 1, 329
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: 8
+PiercingDagger_on_tick
+  rotate: false
+  xy: 1, 411
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: 9
+PiercingDagger_on_tick
+  rotate: false
+  xy: 103, 83
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: 10
+PiercingDagger_on_tick
+  rotate: false
+  xy: 205, 83
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: 11
+PiercingDagger_on_tick
+  rotate: false
+  xy: 307, 83
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: 12
+PiercingDagger_on_tick
+  rotate: false
+  xy: 409, 83
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: 13
+PiercingDagger_on_tick
+  rotate: false
+  xy: 103, 165
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: 14
+PiercingDagger_on_tick
+  rotate: false
+  xy: 103, 247
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: 15
+PiercingDagger_on_tick
+  rotate: false
+  xy: 103, 329
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: 16
+PiercingDagger_on_tick
+  rotate: false
+  xy: 103, 411
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: 17
+PiercingDagger_on_tick
+  rotate: false
+  xy: 205, 165
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: 18
+PiercingDagger_on_tick
+  rotate: false
+  xy: 307, 165
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: 19

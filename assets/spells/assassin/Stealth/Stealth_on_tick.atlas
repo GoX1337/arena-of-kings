@@ -1,0 +1,243 @@
+Stealth_on_tick_0.png
+size: 1024, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Stealth_on_tick
+  rotate: true
+  xy: 880, 1
+  size: 152, 134
+  orig: 300, 300
+  offset: 73, 15
+  index: 0
+Stealth_on_tick
+  rotate: true
+  xy: 878, 231
+  size: 152, 145
+  orig: 300, 300
+  offset: 73, 15
+  index: 1
+Stealth_on_tick
+  rotate: false
+  xy: 866, 464
+  size: 155, 158
+  orig: 300, 300
+  offset: 73, 11
+  index: 2
+Stealth_on_tick
+  rotate: false
+  xy: 851, 691
+  size: 172, 173
+  orig: 300, 300
+  offset: 58, 8
+  index: 3
+Stealth_on_tick
+  rotate: true
+  xy: 461, 1549
+  size: 173, 182
+  orig: 300, 300
+  offset: 57, 8
+  index: 4
+Stealth_on_tick
+  rotate: false
+  xy: 631, 1724
+  size: 176, 204
+  orig: 300, 300
+  offset: 55, 6
+  index: 5
+Stealth_on_tick
+  rotate: false
+  xy: 851, 866
+  size: 169, 220
+  orig: 300, 300
+  offset: 63, 4
+  index: 6
+Stealth_on_tick
+  rotate: true
+  xy: 233, 1545
+  size: 177, 226
+  orig: 300, 300
+  offset: 55, 4
+  index: 7
+Stealth_on_tick
+  rotate: true
+  xy: 268, 1126
+  size: 195, 235
+  orig: 300, 300
+  offset: 51, 4
+  index: 8
+Stealth_on_tick
+  rotate: false
+  xy: 826, 1088
+  size: 196, 245
+  orig: 300, 300
+  offset: 52, 3
+  index: 9
+Stealth_on_tick
+  rotate: true
+  xy: 559, 1121
+  size: 203, 258
+  orig: 300, 300
+  offset: 46, 2
+  index: 10
+Stealth_on_tick
+  rotate: true
+  xy: 559, 915
+  size: 204, 265
+  orig: 300, 300
+  offset: 46, 4
+  index: 11
+Stealth_on_tick
+  rotate: true
+  xy: 282, 910
+  size: 214, 275
+  orig: 300, 300
+  offset: 47, 4
+  index: 12
+Stealth_on_tick
+  rotate: true
+  xy: 282, 692
+  size: 216, 276
+  orig: 300, 300
+  offset: 46, 10
+  index: 13
+Stealth_on_tick
+  rotate: true
+  xy: 569, 691
+  size: 222, 280
+  orig: 300, 300
+  offset: 44, 12
+  index: 14
+Stealth_on_tick
+  rotate: true
+  xy: 582, 464
+  size: 225, 282
+  orig: 300, 300
+  offset: 41, 8
+  index: 15
+Stealth_on_tick
+  rotate: true
+  xy: 1, 692
+  size: 219, 279
+  orig: 300, 300
+  offset: 41, 8
+  index: 16
+Stealth_on_tick
+  rotate: true
+  xy: 286, 467
+  size: 223, 281
+  orig: 300, 300
+  offset: 38, 5
+  index: 17
+Stealth_on_tick
+  rotate: true
+  xy: 1, 460
+  size: 230, 283
+  orig: 300, 300
+  offset: 35, 4
+  index: 18
+Stealth_on_tick
+  rotate: true
+  xy: 588, 231
+  size: 231, 288
+  orig: 300, 300
+  offset: 35, 4
+  index: 19
+Stealth_on_tick
+  rotate: true
+  xy: 295, 1
+  size: 239, 291
+  orig: 300, 300
+  offset: 33, 3
+  index: 20
+Stealth_on_tick
+  rotate: true
+  xy: 1, 1
+  size: 226, 292
+  orig: 300, 300
+  offset: 41, 2
+  index: 21
+Stealth_on_tick
+  rotate: true
+  xy: 588, 1
+  size: 228, 290
+  orig: 300, 300
+  offset: 42, 5
+  index: 22
+Stealth_on_tick
+  rotate: true
+  xy: 1, 229
+  size: 229, 290
+  orig: 300, 300
+  offset: 41, 5
+  index: 23
+Stealth_on_tick
+  rotate: true
+  xy: 293, 242
+  size: 223, 287
+  orig: 300, 300
+  offset: 42, 7
+  index: 24
+Stealth_on_tick
+  rotate: true
+  xy: 1, 913
+  size: 222, 265
+  orig: 300, 300
+  offset: 43, 29
+  index: 25
+Stealth_on_tick
+  rotate: true
+  xy: 1, 1137
+  size: 222, 233
+  orig: 300, 300
+  offset: 41, 60
+  index: 26
+Stealth_on_tick
+  rotate: true
+  xy: 236, 1323
+  size: 220, 232
+  orig: 300, 300
+  offset: 41, 60
+  index: 27
+Stealth_on_tick
+  rotate: true
+  xy: 1, 1361
+  size: 217, 230
+  orig: 300, 300
+  offset: 41, 60
+  index: 28
+Stealth_on_tick
+  rotate: true
+  xy: 470, 1326
+  size: 221, 226
+  orig: 300, 300
+  offset: 41, 62
+  index: 29
+Stealth_on_tick
+  rotate: true
+  xy: 1, 1580
+  size: 208, 223
+  orig: 300, 300
+  offset: 41, 63
+  index: 30
+Stealth_on_tick
+  rotate: true
+  xy: 1, 1790
+  size: 219, 218
+  orig: 300, 300
+  offset: 41, 68
+  index: 31
+Stealth_on_tick
+  rotate: false
+  xy: 221, 1790
+  size: 205, 218
+  orig: 300, 300
+  offset: 41, 68
+  index: 32
+Stealth_on_tick
+  rotate: false
+  xy: 428, 1724
+  size: 201, 218
+  orig: 300, 300
+  offset: 41, 68
+  index: 33

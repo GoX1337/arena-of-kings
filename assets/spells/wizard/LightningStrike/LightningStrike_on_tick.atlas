@@ -1,0 +1,96 @@
+LightningStrike_on_tick_0.png
+size: 1024, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LightningStrike_on_tick
+  rotate: true
+  xy: 770, 1
+  size: 181, 199
+  orig: 400, 400
+  offset: 46, 186
+  index: 0
+LightningStrike_on_tick
+  rotate: true
+  xy: 379, 316
+  size: 302, 374
+  orig: 400, 400
+  offset: 48, 19
+  index: 1
+LightningStrike_on_tick
+  rotate: true
+  xy: 1, 1
+  size: 313, 383
+  orig: 400, 400
+  offset: 49, 6
+  index: 2
+LightningStrike_on_tick
+  rotate: true
+  xy: 386, 1
+  size: 313, 382
+  orig: 400, 400
+  offset: 49, 8
+  index: 3
+LightningStrike_on_tick
+  rotate: true
+  xy: 1, 316
+  size: 310, 376
+  orig: 400, 400
+  offset: 48, 12
+  index: 4
+LightningStrike_on_tick
+  rotate: true
+  xy: 379, 620
+  size: 305, 364
+  orig: 400, 400
+  offset: 47, 23
+  index: 5
+LightningStrike_on_tick
+  rotate: true
+  xy: 1, 628
+  size: 304, 364
+  orig: 400, 400
+  offset: 48, 23
+  index: 6
+LightningStrike_on_tick
+  rotate: true
+  xy: 367, 927
+  size: 300, 361
+  orig: 400, 400
+  offset: 50, 26
+  index: 7
+LightningStrike_on_tick
+  rotate: true
+  xy: 1, 934
+  size: 300, 349
+  orig: 400, 400
+  offset: 51, 34
+  index: 8
+LightningStrike_on_tick
+  rotate: true
+  xy: 770, 184
+  size: 88, 90
+  orig: 400, 400
+  offset: 263, 34
+  index: 9
+LightningStrike_on_tick
+  rotate: false
+  xy: 862, 184
+  size: 80, 74
+  orig: 400, 400
+  offset: 270, 41
+  index: 10
+LightningStrike_on_tick
+  rotate: true
+  xy: 944, 184
+  size: 80, 73
+  orig: 400, 400
+  offset: 270, 43
+  index: 11
+LightningStrike_on_tick
+  rotate: true
+  xy: 944, 184
+  size: 80, 73
+  orig: 400, 400
+  offset: 270, 43
+  index: 12

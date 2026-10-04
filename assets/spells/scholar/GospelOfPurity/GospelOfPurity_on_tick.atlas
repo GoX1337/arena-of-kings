@@ -1,0 +1,285 @@
+GospelOfPurity_on_tick-0.png
+size: 1024, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GospelOfPurity_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: 0
+GospelOfPurity_on_tick
+  rotate: false
+  xy: 203, 1
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: 1
+GospelOfPurity_on_tick
+  rotate: false
+  xy: 405, 1
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: 2
+GospelOfPurity_on_tick
+  rotate: false
+  xy: 607, 1
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: 3
+GospelOfPurity_on_tick
+  rotate: false
+  xy: 809, 1
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: 4
+GospelOfPurity_on_tick
+  rotate: false
+  xy: 1, 203
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: 5
+GospelOfPurity_on_tick
+  rotate: false
+  xy: 203, 203
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: 6
+GospelOfPurity_on_tick
+  rotate: false
+  xy: 405, 203
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: 7
+GospelOfPurity_on_tick
+  rotate: false
+  xy: 607, 203
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: 8
+GospelOfPurity_on_tick
+  rotate: false
+  xy: 809, 203
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: 9
+GospelOfPurity_on_tick
+  rotate: false
+  xy: 1, 405
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: 10
+GospelOfPurity_on_tick
+  rotate: false
+  xy: 203, 405
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: 11
+GospelOfPurity_on_tick
+  rotate: false
+  xy: 405, 405
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: 12
+GospelOfPurity_on_tick
+  rotate: false
+  xy: 607, 405
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: 13
+GospelOfPurity_on_tick
+  rotate: false
+  xy: 809, 405
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: 14
+GospelOfPurity_on_tick
+  rotate: false
+  xy: 1, 607
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: 15
+GospelOfPurity_on_tick
+  rotate: false
+  xy: 203, 607
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: 16
+GospelOfPurity_on_tick
+  rotate: false
+  xy: 405, 607
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: 17
+GospelOfPurity_on_tick
+  rotate: false
+  xy: 607, 607
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: 18
+GospelOfPurity_on_tick
+  rotate: false
+  xy: 809, 607
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: 19
+GospelOfPurity_on_tick
+  rotate: false
+  xy: 1, 809
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: 20
+GospelOfPurity_on_tick
+  rotate: false
+  xy: 203, 809
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: 21
+GospelOfPurity_on_tick
+  rotate: false
+  xy: 405, 809
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: 22
+GospelOfPurity_on_tick
+  rotate: false
+  xy: 607, 809
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: 23
+GospelOfPurity_on_tick
+  rotate: false
+  xy: 809, 809
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: 24
+GospelOfPurity_on_tick
+  rotate: false
+  xy: 1, 1011
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: 25
+GospelOfPurity_on_tick
+  rotate: false
+  xy: 203, 1011
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: 26
+GospelOfPurity_on_tick
+  rotate: false
+  xy: 405, 1011
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: 27
+GospelOfPurity_on_tick
+  rotate: false
+  xy: 607, 1011
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: 28
+GospelOfPurity_on_tick
+  rotate: false
+  xy: 809, 1011
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: 29
+GospelOfPurity_on_tick
+  rotate: false
+  xy: 1, 1213
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: 30
+GospelOfPurity_on_tick
+  rotate: false
+  xy: 1, 1415
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: 31
+GospelOfPurity_on_tick
+  rotate: false
+  xy: 1, 1617
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: 32
+GospelOfPurity_on_tick
+  rotate: false
+  xy: 1, 1819
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: 33
+GospelOfPurity_on_tick
+  rotate: false
+  xy: 203, 1213
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: 34
+GospelOfPurity_on_tick
+  rotate: false
+  xy: 405, 1213
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: 35
+GospelOfPurity_on_tick
+  rotate: false
+  xy: 607, 1213
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: 36
+GospelOfPurity_on_tick
+  rotate: false
+  xy: 809, 1213
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: 37
+GospelOfPurity_on_tick
+  rotate: false
+  xy: 203, 1415
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: 38
+GospelOfPurity_on_tick
+  rotate: false
+  xy: 203, 1617
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: 39

@@ -1,0 +1,194 @@
+LingeringDemise_on_tick_0.png
+size: 512, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LingeringDemise_on_tick
+  rotate: false
+  xy: 366, 823
+  size: 95, 68
+  orig: 150, 200
+  offset: 32, 97
+  index: 0
+LingeringDemise_on_tick
+  rotate: false
+  xy: 366, 823
+  size: 95, 68
+  orig: 150, 200
+  offset: 32, 97
+  index: 1
+LingeringDemise_on_tick
+  rotate: false
+  xy: 366, 746
+  size: 104, 75
+  orig: 150, 200
+  offset: 24, 90
+  index: 2
+LingeringDemise_on_tick
+  rotate: false
+  xy: 257, 761
+  size: 107, 108
+  orig: 150, 200
+  offset: 20, 84
+  index: 3
+LingeringDemise_on_tick
+  rotate: false
+  xy: 223, 872
+  size: 107, 115
+  orig: 150, 200
+  offset: 18, 77
+  index: 4
+LingeringDemise_on_tick
+  rotate: true
+  xy: 133, 761
+  size: 109, 122
+  orig: 150, 200
+  offset: 17, 70
+  index: 5
+LingeringDemise_on_tick
+  rotate: false
+  xy: 112, 872
+  size: 109, 126
+  orig: 150, 200
+  offset: 17, 66
+  index: 6
+LingeringDemise_on_tick
+  rotate: false
+  xy: 1, 872
+  size: 109, 130
+  orig: 150, 200
+  offset: 17, 62
+  index: 7
+LingeringDemise_on_tick
+  rotate: true
+  xy: 1, 648
+  size: 109, 133
+  orig: 150, 200
+  offset: 16, 59
+  index: 8
+LingeringDemise_on_tick
+  rotate: true
+  xy: 163, 646
+  size: 113, 139
+  orig: 150, 200
+  offset: 14, 53
+  index: 9
+LingeringDemise_on_tick
+  rotate: true
+  xy: 362, 131
+  size: 117, 145
+  orig: 150, 200
+  offset: 13, 47
+  index: 10
+LingeringDemise_on_tick
+  rotate: true
+  xy: 355, 495
+  size: 121, 152
+  orig: 150, 200
+  offset: 12, 40
+  index: 11
+LingeringDemise_on_tick
+  rotate: true
+  xy: 355, 369
+  size: 124, 156
+  orig: 150, 200
+  offset: 12, 36
+  index: 12
+LingeringDemise_on_tick
+  rotate: true
+  xy: 1, 521
+  size: 125, 160
+  orig: 150, 200
+  offset: 12, 32
+  index: 13
+LingeringDemise_on_tick
+  rotate: true
+  xy: 344, 618
+  size: 126, 163
+  orig: 150, 200
+  offset: 12, 29
+  index: 14
+LingeringDemise_on_tick
+  rotate: true
+  xy: 175, 517
+  size: 127, 167
+  orig: 150, 200
+  offset: 12, 25
+  index: 15
+LingeringDemise_on_tick
+  rotate: true
+  xy: 1, 391
+  size: 128, 172
+  orig: 150, 200
+  offset: 11, 20
+  index: 16
+LingeringDemise_on_tick
+  rotate: true
+  xy: 1, 261
+  size: 128, 175
+  orig: 150, 200
+  offset: 11, 17
+  index: 17
+LingeringDemise_on_tick
+  rotate: true
+  xy: 1, 131
+  size: 128, 179
+  orig: 150, 200
+  offset: 11, 13
+  index: 18
+LingeringDemise_on_tick
+  rotate: true
+  xy: 1, 1
+  size: 128, 181
+  orig: 150, 200
+  offset: 11, 11
+  index: 19
+LingeringDemise_on_tick
+  rotate: true
+  xy: 184, 1
+  size: 128, 181
+  orig: 150, 200
+  offset: 11, 11
+  index: 20
+LingeringDemise_on_tick
+  rotate: true
+  xy: 182, 131
+  size: 128, 178
+  orig: 150, 200
+  offset: 11, 14
+  index: 21
+LingeringDemise_on_tick
+  rotate: true
+  xy: 178, 261
+  size: 126, 175
+  orig: 150, 200
+  offset: 12, 17
+  index: 22
+LingeringDemise_on_tick
+  rotate: true
+  xy: 178, 389
+  size: 126, 175
+  orig: 150, 200
+  offset: 12, 17
+  index: 23
+LingeringDemise_on_tick
+  rotate: true
+  xy: 367, 1
+  size: 128, 144
+  orig: 150, 200
+  offset: 11, 21
+  index: 24
+LingeringDemise_on_tick
+  rotate: true
+  xy: 362, 250
+  size: 117, 143
+  orig: 150, 200
+  offset: 16, 21
+  index: 25
+LingeringDemise_on_tick
+  rotate: true
+  xy: 1, 759
+  size: 111, 130
+  orig: 150, 200
+  offset: 18, 24
+  index: 26

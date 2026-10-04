@@ -1,0 +1,222 @@
+AngelicStrike_on_tick_0.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AngelicStrike_on_tick
+  rotate: true
+  xy: 908, 699
+  size: 167, 77
+  orig: 300, 250
+  offset: 55, 161
+  index: 0
+AngelicStrike_on_tick
+  rotate: true
+  xy: 826, 614
+  size: 170, 80
+  orig: 300, 250
+  offset: 53, 160
+  index: 1
+AngelicStrike_on_tick
+  rotate: true
+  xy: 918, 524
+  size: 173, 84
+  orig: 300, 250
+  offset: 52, 156
+  index: 2
+AngelicStrike_on_tick
+  rotate: false
+  xy: 1, 392
+  size: 214, 99
+  orig: 300, 250
+  offset: 51, 151
+  index: 3
+AngelicStrike_on_tick
+  rotate: false
+  xy: 736, 220
+  size: 218, 115
+  orig: 300, 250
+  offset: 51, 135
+  index: 4
+AngelicStrike_on_tick
+  rotate: false
+  xy: 488, 312
+  size: 217, 115
+  orig: 300, 250
+  offset: 51, 135
+  index: 5
+AngelicStrike_on_tick
+  rotate: false
+  xy: 223, 384
+  size: 214, 125
+  orig: 300, 250
+  offset: 51, 125
+  index: 6
+AngelicStrike_on_tick
+  rotate: false
+  xy: 439, 429
+  size: 202, 134
+  orig: 300, 250
+  offset: 52, 116
+  index: 7
+AngelicStrike_on_tick
+  rotate: false
+  xy: 216, 511
+  size: 191, 140
+  orig: 300, 250
+  offset: 53, 103
+  index: 8
+AngelicStrike_on_tick
+  rotate: false
+  xy: 643, 544
+  size: 181, 145
+  orig: 300, 250
+  offset: 53, 92
+  index: 9
+AngelicStrike_on_tick
+  rotate: false
+  xy: 177, 868
+  size: 174, 150
+  orig: 300, 250
+  offset: 54, 78
+  index: 10
+AngelicStrike_on_tick
+  rotate: false
+  xy: 1, 868
+  size: 174, 151
+  orig: 300, 250
+  offset: 54, 77
+  index: 11
+AngelicStrike_on_tick
+  rotate: true
+  xy: 216, 691
+  size: 174, 159
+  orig: 300, 250
+  offset: 55, 69
+  index: 12
+AngelicStrike_on_tick
+  rotate: false
+  xy: 409, 565
+  size: 173, 168
+  orig: 300, 250
+  offset: 56, 60
+  index: 13
+AngelicStrike_on_tick
+  rotate: false
+  xy: 377, 786
+  size: 167, 167
+  orig: 300, 250
+  offset: 61, 59
+  index: 14
+AngelicStrike_on_tick
+  rotate: true
+  xy: 260, 173
+  size: 209, 226
+  orig: 300, 250
+  offset: 38, 0
+  index: 15
+AngelicStrike_on_tick
+  rotate: false
+  xy: 707, 337
+  size: 209, 205
+  orig: 300, 250
+  offset: 38, 0
+  index: 16
+AngelicStrike_on_tick
+  rotate: false
+  xy: 1, 493
+  size: 213, 205
+  orig: 300, 250
+  offset: 38, 0
+  index: 17
+AngelicStrike_on_tick
+  rotate: false
+  xy: 1, 181
+  size: 220, 209
+  orig: 300, 250
+  offset: 38, 0
+  index: 18
+AngelicStrike_on_tick
+  rotate: false
+  xy: 749, 1
+  size: 229, 217
+  orig: 300, 250
+  offset: 37, 1
+  index: 19
+AngelicStrike_on_tick
+  rotate: false
+  xy: 505, 100
+  size: 229, 210
+  orig: 300, 250
+  offset: 37, 8
+  index: 20
+AngelicStrike_on_tick
+  rotate: false
+  xy: 260, 1
+  size: 243, 170
+  orig: 300, 250
+  offset: 30, 56
+  index: 21
+AngelicStrike_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 257, 178
+  orig: 300, 250
+  offset: 23, 56
+  index: 22
+AngelicStrike_on_tick
+  rotate: false
+  xy: 505, 1
+  size: 242, 97
+  orig: 300, 250
+  offset: 17, 56
+  index: 23
+AngelicStrike_on_tick
+  rotate: true
+  xy: 918, 410
+  size: 112, 85
+  orig: 300, 250
+  offset: 86, 58
+  index: 24
+AngelicStrike_on_tick
+  rotate: false
+  xy: 918, 337
+  size: 103, 71
+  orig: 300, 250
+  offset: 88, 59
+  index: 25
+AngelicStrike_on_tick
+  rotate: false
+  xy: 826, 544
+  size: 83, 68
+  orig: 300, 250
+  offset: 91, 61
+  index: 26
+AngelicStrike_on_tick
+  rotate: true
+  xy: 956, 220
+  size: 68, 62
+  orig: 300, 250
+  offset: 95, 65
+  index: 27
+AngelicStrike_on_tick
+  rotate: true
+  xy: 980, 1
+  size: 32, 43
+  orig: 300, 250
+  offset: 129, 68
+  index: 28
+AngelicStrike_on_tick
+  rotate: true
+  xy: 980, 1
+  size: 32, 43
+  orig: 300, 250
+  offset: 129, 68
+  index: 29
+AngelicStrike_on_tick
+  rotate: true
+  xy: 980, 35
+  size: 22, 26
+  orig: 300, 250
+  offset: 136, 72
+  index: 30

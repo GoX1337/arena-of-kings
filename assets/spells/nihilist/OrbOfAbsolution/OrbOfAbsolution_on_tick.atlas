@@ -1,0 +1,348 @@
+OrbOfAbsolution_on_tick_0.png
+size: 1024, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+OrbOfAbsolution_on_tick
+  rotate: true
+  xy: 670, 913
+  size: 150, 160
+  orig: 150, 200
+  offset: 0, 0
+  index: 0
+OrbOfAbsolution_on_tick
+  rotate: true
+  xy: 834, 886
+  size: 149, 161
+  orig: 150, 200
+  offset: 1, 0
+  index: 1
+OrbOfAbsolution_on_tick
+  rotate: true
+  xy: 1, 1201
+  size: 148, 152
+  orig: 150, 200
+  offset: 2, 0
+  index: 2
+OrbOfAbsolution_on_tick
+  rotate: true
+  xy: 870, 737
+  size: 147, 153
+  orig: 150, 200
+  offset: 3, 0
+  index: 3
+OrbOfAbsolution_on_tick
+  rotate: true
+  xy: 165, 1076
+  size: 146, 155
+  orig: 150, 200
+  offset: 4, 0
+  index: 4
+OrbOfAbsolution_on_tick
+  rotate: true
+  xy: 330, 946
+  size: 145, 159
+  orig: 150, 200
+  offset: 5, 0
+  index: 5
+OrbOfAbsolution_on_tick
+  rotate: true
+  xy: 1, 1055
+  size: 144, 162
+  orig: 150, 200
+  offset: 6, 0
+  index: 6
+OrbOfAbsolution_on_tick
+  rotate: false
+  xy: 880, 572
+  size: 143, 163
+  orig: 150, 200
+  offset: 7, 0
+  index: 7
+OrbOfAbsolution_on_tick
+  rotate: true
+  xy: 709, 491
+  size: 142, 169
+  orig: 150, 200
+  offset: 8, 0
+  index: 8
+OrbOfAbsolution_on_tick
+  rotate: true
+  xy: 355, 382
+  size: 141, 172
+  orig: 150, 200
+  offset: 9, 0
+  index: 9
+OrbOfAbsolution_on_tick
+  rotate: true
+  xy: 730, 227
+  size: 139, 176
+  orig: 150, 200
+  offset: 10, 0
+  index: 10
+OrbOfAbsolution_on_tick
+  rotate: true
+  xy: 497, 923
+  size: 137, 160
+  orig: 150, 200
+  offset: 11, 0
+  index: 11
+OrbOfAbsolution_on_tick
+  rotate: true
+  xy: 168, 790
+  size: 135, 163
+  orig: 150, 200
+  offset: 12, 0
+  index: 12
+OrbOfAbsolution_on_tick
+  rotate: true
+  xy: 519, 637
+  size: 133, 165
+  orig: 150, 200
+  offset: 13, 0
+  index: 13
+OrbOfAbsolution_on_tick
+  rotate: true
+  xy: 349, 525
+  size: 131, 168
+  orig: 150, 200
+  offset: 14, 0
+  index: 14
+OrbOfAbsolution_on_tick
+  rotate: true
+  xy: 175, 516
+  size: 129, 172
+  orig: 150, 200
+  offset: 15, 0
+  index: 15
+OrbOfAbsolution_on_tick
+  rotate: true
+  xy: 548, 243
+  size: 127, 175
+  orig: 150, 200
+  offset: 16, 0
+  index: 16
+OrbOfAbsolution_on_tick
+  rotate: true
+  xy: 550, 116
+  size: 125, 178
+  orig: 150, 200
+  offset: 17, 0
+  index: 17
+OrbOfAbsolution_on_tick
+  rotate: true
+  xy: 1, 1
+  size: 123, 182
+  orig: 150, 200
+  offset: 18, 0
+  index: 18
+OrbOfAbsolution_on_tick
+  rotate: true
+  xy: 1, 126
+  size: 121, 181
+  orig: 150, 200
+  offset: 19, 1
+  index: 19
+OrbOfAbsolution_on_tick
+  rotate: true
+  xy: 1, 249
+  size: 119, 177
+  orig: 150, 200
+  offset: 20, 1
+  index: 20
+OrbOfAbsolution_on_tick
+  rotate: true
+  xy: 180, 250
+  size: 117, 177
+  orig: 150, 200
+  offset: 21, 2
+  index: 21
+OrbOfAbsolution_on_tick
+  rotate: true
+  xy: 184, 133
+  size: 115, 178
+  orig: 150, 200
+  offset: 22, 3
+  index: 22
+OrbOfAbsolution_on_tick
+  rotate: true
+  xy: 550, 1
+  size: 113, 180
+  orig: 150, 200
+  offset: 23, 3
+  index: 23
+OrbOfAbsolution_on_tick
+  rotate: true
+  xy: 732, 114
+  size: 111, 179
+  orig: 150, 200
+  offset: 24, 4
+  index: 24
+OrbOfAbsolution_on_tick
+  rotate: false
+  xy: 914, 1
+  size: 109, 180
+  orig: 150, 200
+  offset: 25, 5
+  index: 25
+OrbOfAbsolution_on_tick
+  rotate: true
+  xy: 732, 1
+  size: 111, 180
+  orig: 150, 200
+  offset: 24, 4
+  index: 26
+OrbOfAbsolution_on_tick
+  rotate: true
+  xy: 1, 518
+  size: 113, 170
+  orig: 150, 200
+  offset: 23, 3
+  index: 27
+OrbOfAbsolution_on_tick
+  rotate: false
+  xy: 908, 227
+  size: 115, 169
+  orig: 150, 200
+  offset: 22, 3
+  index: 28
+OrbOfAbsolution_on_tick
+  rotate: true
+  xy: 529, 518
+  size: 117, 169
+  orig: 150, 200
+  offset: 21, 2
+  index: 29
+OrbOfAbsolution_on_tick
+  rotate: false
+  xy: 902, 398
+  size: 119, 172
+  orig: 150, 200
+  offset: 20, 1
+  index: 30
+OrbOfAbsolution_on_tick
+  rotate: true
+  xy: 725, 368
+  size: 121, 175
+  orig: 150, 200
+  offset: 19, 0
+  index: 31
+OrbOfAbsolution_on_tick
+  rotate: true
+  xy: 359, 257
+  size: 123, 174
+  orig: 150, 200
+  offset: 18, 0
+  index: 32
+OrbOfAbsolution_on_tick
+  rotate: true
+  xy: 368, 130
+  size: 125, 178
+  orig: 150, 200
+  offset: 17, 0
+  index: 33
+OrbOfAbsolution_on_tick
+  rotate: true
+  xy: 368, 1
+  size: 127, 180
+  orig: 150, 200
+  offset: 16, 0
+  index: 34
+OrbOfAbsolution_on_tick
+  rotate: true
+  xy: 185, 1
+  size: 130, 181
+  orig: 150, 200
+  offset: 14, 0
+  index: 35
+OrbOfAbsolution_on_tick
+  rotate: true
+  xy: 670, 779
+  size: 132, 162
+  orig: 150, 200
+  offset: 13, 0
+  index: 36
+OrbOfAbsolution_on_tick
+  rotate: true
+  xy: 1, 919
+  size: 134, 163
+  orig: 150, 200
+  offset: 12, 0
+  index: 37
+OrbOfAbsolution_on_tick
+  rotate: true
+  xy: 341, 658
+  size: 136, 163
+  orig: 150, 200
+  offset: 11, 0
+  index: 38
+OrbOfAbsolution_on_tick
+  rotate: true
+  xy: 1, 778
+  size: 139, 165
+  orig: 150, 200
+  offset: 10, 0
+  index: 39
+OrbOfAbsolution_on_tick
+  rotate: true
+  xy: 172, 647
+  size: 141, 167
+  orig: 150, 200
+  offset: 9, 0
+  index: 40
+OrbOfAbsolution_on_tick
+  rotate: true
+  xy: 700, 635
+  size: 142, 168
+  orig: 150, 200
+  offset: 8, 0
+  index: 41
+OrbOfAbsolution_on_tick
+  rotate: true
+  xy: 1, 633
+  size: 143, 169
+  orig: 150, 200
+  offset: 7, 0
+  index: 42
+OrbOfAbsolution_on_tick
+  rotate: true
+  xy: 535, 372
+  size: 144, 172
+  orig: 150, 200
+  offset: 6, 0
+  index: 43
+OrbOfAbsolution_on_tick
+  rotate: true
+  xy: 180, 369
+  size: 145, 173
+  orig: 150, 200
+  offset: 5, 0
+  index: 44
+OrbOfAbsolution_on_tick
+  rotate: true
+  xy: 1, 370
+  size: 146, 172
+  orig: 150, 200
+  offset: 4, 0
+  index: 45
+OrbOfAbsolution_on_tick
+  rotate: true
+  xy: 166, 927
+  size: 147, 162
+  orig: 150, 200
+  offset: 3, 0
+  index: 46
+OrbOfAbsolution_on_tick
+  rotate: true
+  xy: 333, 796
+  size: 148, 162
+  orig: 150, 200
+  offset: 2, 0
+  index: 47
+OrbOfAbsolution_on_tick
+  rotate: true
+  xy: 506, 772
+  size: 149, 162
+  orig: 150, 200
+  offset: 1, 0
+  index: 48

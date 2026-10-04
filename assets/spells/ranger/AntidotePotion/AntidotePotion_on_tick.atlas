@@ -1,0 +1,215 @@
+AntidotePotion_on_tick-0.png
+size: 1024, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AntidotePotion_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 0
+AntidotePotion_on_tick
+  rotate: false
+  xy: 253, 1
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 1
+AntidotePotion_on_tick
+  rotate: false
+  xy: 505, 1
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 2
+AntidotePotion_on_tick
+  rotate: false
+  xy: 757, 1
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 3
+AntidotePotion_on_tick
+  rotate: false
+  xy: 1, 253
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 4
+AntidotePotion_on_tick
+  rotate: false
+  xy: 253, 253
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 5
+AntidotePotion_on_tick
+  rotate: false
+  xy: 505, 253
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 6
+AntidotePotion_on_tick
+  rotate: false
+  xy: 757, 253
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 7
+AntidotePotion_on_tick
+  rotate: false
+  xy: 1, 505
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 8
+AntidotePotion_on_tick
+  rotate: false
+  xy: 253, 505
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 9
+AntidotePotion_on_tick
+  rotate: false
+  xy: 505, 505
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 10
+AntidotePotion_on_tick
+  rotate: false
+  xy: 757, 505
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 11
+AntidotePotion_on_tick
+  rotate: false
+  xy: 1, 757
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 12
+AntidotePotion_on_tick
+  rotate: false
+  xy: 253, 757
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 13
+AntidotePotion_on_tick
+  rotate: false
+  xy: 505, 757
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 14
+AntidotePotion_on_tick
+  rotate: false
+  xy: 757, 757
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 15
+AntidotePotion_on_tick
+  rotate: false
+  xy: 1, 1009
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 16
+AntidotePotion_on_tick
+  rotate: false
+  xy: 253, 1009
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 17
+AntidotePotion_on_tick
+  rotate: false
+  xy: 505, 1009
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 18
+AntidotePotion_on_tick
+  rotate: false
+  xy: 757, 1009
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 19
+AntidotePotion_on_tick
+  rotate: false
+  xy: 1, 1261
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 20
+AntidotePotion_on_tick
+  rotate: false
+  xy: 1, 1513
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 21
+AntidotePotion_on_tick
+  rotate: false
+  xy: 1, 1765
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 22
+AntidotePotion_on_tick
+  rotate: false
+  xy: 253, 1261
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 23
+AntidotePotion_on_tick
+  rotate: false
+  xy: 505, 1261
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 24
+AntidotePotion_on_tick
+  rotate: false
+  xy: 757, 1261
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 25
+AntidotePotion_on_tick
+  rotate: false
+  xy: 253, 1513
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 26
+AntidotePotion_on_tick
+  rotate: false
+  xy: 253, 1765
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 27
+AntidotePotion_on_tick
+  rotate: false
+  xy: 505, 1513
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 28
+AntidotePotion_on_tick
+  rotate: false
+  xy: 757, 1513
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 29

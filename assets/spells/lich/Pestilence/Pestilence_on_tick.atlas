@@ -1,0 +1,208 @@
+Pestilence_on_tick_0.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Pestilence_on_tick
+  rotate: false
+  xy: 430, 315
+  size: 140, 150
+  orig: 200, 200
+  offset: 26, 21
+  index: 0
+Pestilence_on_tick
+  rotate: false
+  xy: 430, 315
+  size: 140, 150
+  orig: 200, 200
+  offset: 26, 21
+  index: 1
+Pestilence_on_tick
+  rotate: false
+  xy: 153, 506
+  size: 143, 154
+  orig: 200, 200
+  offset: 24, 21
+  index: 2
+Pestilence_on_tick
+  rotate: false
+  xy: 1, 834
+  size: 143, 156
+  orig: 200, 200
+  offset: 22, 22
+  index: 3
+Pestilence_on_tick
+  rotate: false
+  xy: 146, 834
+  size: 143, 156
+  orig: 200, 200
+  offset: 22, 22
+  index: 4
+Pestilence_on_tick
+  rotate: false
+  xy: 152, 1
+  size: 143, 161
+  orig: 200, 200
+  offset: 20, 22
+  index: 5
+Pestilence_on_tick
+  rotate: false
+  xy: 1, 342
+  size: 146, 165
+  orig: 200, 200
+  offset: 18, 22
+  index: 6
+Pestilence_on_tick
+  rotate: false
+  xy: 1, 342
+  size: 146, 165
+  orig: 200, 200
+  offset: 18, 22
+  index: 7
+Pestilence_on_tick
+  rotate: false
+  xy: 1, 172
+  size: 147, 168
+  orig: 200, 200
+  offset: 19, 22
+  index: 8
+Pestilence_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 149, 169
+  orig: 200, 200
+  offset: 18, 22
+  index: 9
+Pestilence_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 149, 169
+  orig: 200, 200
+  offset: 18, 22
+  index: 10
+Pestilence_on_tick
+  rotate: true
+  xy: 298, 506
+  size: 152, 133
+  orig: 200, 200
+  offset: 16, 22
+  index: 11
+Pestilence_on_tick
+  rotate: true
+  xy: 581, 1
+  size: 148, 137
+  orig: 200, 200
+  offset: 20, 21
+  index: 12
+Pestilence_on_tick
+  rotate: true
+  xy: 581, 1
+  size: 148, 137
+  orig: 200, 200
+  offset: 20, 21
+  index: 13
+Pestilence_on_tick
+  rotate: true
+  xy: 450, 154
+  size: 149, 141
+  orig: 200, 200
+  offset: 20, 21
+  index: 14
+Pestilence_on_tick
+  rotate: true
+  xy: 302, 162
+  size: 151, 146
+  orig: 200, 200
+  offset: 19, 21
+  index: 15
+Pestilence_on_tick
+  rotate: true
+  xy: 302, 162
+  size: 151, 146
+  orig: 200, 200
+  offset: 19, 21
+  index: 16
+Pestilence_on_tick
+  rotate: false
+  xy: 299, 335
+  size: 129, 152
+  orig: 200, 200
+  offset: 41, 20
+  index: 17
+Pestilence_on_tick
+  rotate: false
+  xy: 291, 816
+  size: 131, 147
+  orig: 200, 200
+  offset: 38, 20
+  index: 18
+Pestilence_on_tick
+  rotate: false
+  xy: 291, 816
+  size: 131, 147
+  orig: 200, 200
+  offset: 38, 20
+  index: 19
+Pestilence_on_tick
+  rotate: false
+  xy: 444, 1
+  size: 135, 151
+  orig: 200, 200
+  offset: 35, 19
+  index: 20
+Pestilence_on_tick
+  rotate: false
+  xy: 291, 662
+  size: 138, 152
+  orig: 200, 200
+  offset: 32, 18
+  index: 21
+Pestilence_on_tick
+  rotate: false
+  xy: 291, 662
+  size: 138, 152
+  orig: 200, 200
+  offset: 32, 18
+  index: 22
+Pestilence_on_tick
+  rotate: false
+  xy: 148, 673
+  size: 141, 156
+  orig: 200, 200
+  offset: 30, 17
+  index: 23
+Pestilence_on_tick
+  rotate: false
+  xy: 297, 1
+  size: 145, 159
+  orig: 200, 200
+  offset: 27, 16
+  index: 24
+Pestilence_on_tick
+  rotate: false
+  xy: 1, 673
+  size: 145, 159
+  orig: 200, 200
+  offset: 27, 16
+  index: 25
+Pestilence_on_tick
+  rotate: false
+  xy: 149, 342
+  size: 148, 162
+  orig: 200, 200
+  offset: 25, 15
+  index: 26
+Pestilence_on_tick
+  rotate: false
+  xy: 1, 509
+  size: 150, 162
+  orig: 200, 200
+  offset: 23, 15
+  index: 27
+Pestilence_on_tick
+  rotate: false
+  xy: 150, 172
+  size: 150, 161
+  orig: 200, 200
+  offset: 23, 16
+  index: 28

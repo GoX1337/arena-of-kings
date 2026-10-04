@@ -1,0 +1,291 @@
+TrinketOfResolve_on_tick-0.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TrinketOfResolve_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 0
+TrinketOfResolve_on_tick
+  rotate: false
+  xy: 1, 303
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 1
+TrinketOfResolve_on_tick
+  rotate: false
+  xy: 1, 605
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 2
+TrinketOfResolve_on_tick
+  rotate: false
+  xy: 1, 907
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 3
+TrinketOfResolve_on_tick
+  rotate: false
+  xy: 1, 1209
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 4
+TrinketOfResolve_on_tick
+  rotate: false
+  xy: 1, 1511
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 5
+TrinketOfResolve_on_tick
+  rotate: false
+  xy: 303, 1
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 6
+TrinketOfResolve_on_tick
+  rotate: false
+  xy: 605, 1
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 7
+TrinketOfResolve_on_tick
+  rotate: false
+  xy: 907, 1
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 8
+TrinketOfResolve_on_tick
+  rotate: false
+  xy: 1209, 1
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 9
+TrinketOfResolve_on_tick
+  rotate: false
+  xy: 1511, 1
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 10
+TrinketOfResolve_on_tick
+  rotate: false
+  xy: 303, 303
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 11
+TrinketOfResolve_on_tick
+  rotate: false
+  xy: 303, 605
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 12
+TrinketOfResolve_on_tick
+  rotate: false
+  xy: 303, 907
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 13
+TrinketOfResolve_on_tick
+  rotate: false
+  xy: 303, 1209
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 14
+TrinketOfResolve_on_tick
+  rotate: false
+  xy: 303, 1511
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 15
+TrinketOfResolve_on_tick
+  rotate: false
+  xy: 605, 303
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 16
+TrinketOfResolve_on_tick
+  rotate: false
+  xy: 907, 303
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 17
+TrinketOfResolve_on_tick
+  rotate: false
+  xy: 1209, 303
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 18
+TrinketOfResolve_on_tick
+  rotate: false
+  xy: 1511, 303
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 19
+TrinketOfResolve_on_tick
+  rotate: false
+  xy: 605, 605
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 20
+TrinketOfResolve_on_tick
+  rotate: false
+  xy: 605, 907
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 21
+TrinketOfResolve_on_tick
+  rotate: false
+  xy: 605, 1209
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 22
+TrinketOfResolve_on_tick
+  rotate: false
+  xy: 605, 1511
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 23
+TrinketOfResolve_on_tick
+  rotate: false
+  xy: 907, 605
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 24
+TrinketOfResolve_on_tick
+  rotate: false
+  xy: 1209, 605
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 25
+TrinketOfResolve_on_tick
+  rotate: false
+  xy: 1511, 605
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 26
+TrinketOfResolve_on_tick
+  rotate: false
+  xy: 907, 907
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 27
+TrinketOfResolve_on_tick
+  rotate: false
+  xy: 907, 1209
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 28
+TrinketOfResolve_on_tick
+  rotate: false
+  xy: 907, 1511
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 29
+TrinketOfResolve_on_tick
+  rotate: false
+  xy: 1209, 907
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 30
+TrinketOfResolve_on_tick
+  rotate: false
+  xy: 1511, 907
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 31
+TrinketOfResolve_on_tick
+  rotate: false
+  xy: 1209, 1209
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 32
+TrinketOfResolve_on_tick
+  rotate: false
+  xy: 1209, 1511
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 33
+TrinketOfResolve_on_tick
+  rotate: false
+  xy: 1511, 1209
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 34
+TrinketOfResolve_on_tick
+  rotate: false
+  xy: 1511, 1511
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 35
+
+TrinketOfResolve_on_tick-1.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TrinketOfResolve_on_tick
+  rotate: false
+  xy: 1, 1
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 36
+TrinketOfResolve_on_tick
+  rotate: false
+  xy: 1, 303
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 37
+TrinketOfResolve_on_tick
+  rotate: false
+  xy: 1, 605
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 38
+TrinketOfResolve_on_tick
+  rotate: false
+  xy: 303, 1
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 39
