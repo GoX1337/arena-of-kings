@@ -38,6 +38,9 @@ import com.badlogic.gdx.utils.ScreenUtils;
 import com.badlogic.gdx.utils.viewport.ScreenViewport;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 
+import com.arenaofkings.net.Net;
+import com.arenaofkings.net.NetClient;
+
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.Map;
@@ -153,6 +156,57 @@ public class ArenaOfKingsGame extends ApplicationAdapter {
   private final java.util.List<ActiveEffect> effects = new ArrayList<>();
   private final Map<String, Sound> soundCache = new TreeMap<>();
 
+  // --- Net movement (server authoritative, local fallback when unreachable) ---
+  private NetClient net;
+  private boolean netMode;
+  private final Map<Integer, Vector2> netRender = new TreeMap<>();
+  private final Map<Integer, Integer> netDir = new TreeMap<>();
+  private final java.util.Set<Integer> netMoving = new java.util.HashSet<>();
+  private final Map<Integer, String> netSkins = new TreeMap<>();
+  private float lastNetIx;
+  private float lastNetIy;
+  private int lastNetDir = -1;
+  private long lastNetSend;
+  private final Vector2 tmpV = new Vector2();
+
+  /** Prediction history for reconciliation: seq -> input + send time. */
+  private static final class Hist {
+    float x, y;
+    long ms;
+  }
+
+  private final java.util.TreeMap<Integer, Hist> netHist = new java.util.TreeMap<>();
+  /** Last prediction error (distance to server pos before reconcile). */
+  private float netErr;
+  /** Worst prediction error since connect (diagnoses snaps vs smooth melt). */
+  private float netMaxErr;
+  /** Temporary network diagnosis logs (game output). Flip off when done. */
+  private static final boolean NET_DEBUG = true;
+  private long lastSnapMs = -1;
+  /** Interpolation buffer: recent snapshots with local receipt time. */
+  private static final class Snap {
+    Net.Snapshot s;
+    long at;
+  }
+
+  private final java.util.ArrayDeque<Snap> netSnaps = new java.util.ArrayDeque<>();
+  private static final long INTERP_DELAY_NS = 100_000_000L;
+  private static final long INTERP_KEEP_NS = 600_000_000L;
+
+  /** Remote player skin (shared cache, one atlas per skin folder). */
+  private static final class RemoteSkin {
+    @SuppressWarnings("unchecked")
+    final Animation<TextureAtlas.AtlasSprite>[] idle = new Animation[8];
+    @SuppressWarnings("unchecked")
+    final Animation<TextureAtlas.AtlasSprite>[] run = new Animation[8];
+    TextureAtlas atlas;
+    float canvasW = 1;
+    float canvasH = 1;
+  }
+
+  private final Map<String, RemoteSkin> remoteSkins = new TreeMap<>();
+  private final java.util.Set<String> badRemoteSkins = new java.util.HashSet<>();
+
   @Override
   public void create() {
     batch = new SpriteBatch();
@@ -178,6 +232,15 @@ public class ArenaOfKingsGame extends ApplicationAdapter {
     loadSkin(DEFAULT_SKIN);
     syncBoxesToSkin(DEFAULT_SKIN);
     rebuildSpells(selectedOrFirst(charBox));
+
+    net = new NetClient();
+    // Host override for VPS play: env AOK_HOST, else -Dserver.host=<ip-or-dns>.
+    String host = System.getenv().getOrDefault("AOK_HOST",
+        System.getProperty("server.host", "127.0.0.1"));
+    netMode = net.connect(host, 2000, currentSelection());
+    if (!netMode) {
+      Gdx.app.log("ArenaOfKings", "no server at " + host + ", local movement fallback");
+    }
   }
 
   // ------------------------------------------------------------------ skins
@@ -266,15 +329,21 @@ public class ArenaOfKingsGame extends ApplicationAdapter {
     actRunAnims = null;
   }
 
+  /** Same as {@link #buildAnimFor} on the current skin atlas. */
+  private Animation<TextureAtlas.AtlasSprite> buildAnim(String animName, int direction, float frameDuration,
+      Animation.PlayMode mode) {
+    return buildAnimFor(atlas, animName, direction, frameDuration, mode);
+  }
+
   /**
    * Builds an animation for (name, direction) by filtering on index = dir*10000 + frame.
    * Uses AtlasSprite (not a raw TextureRegion) because many frames are packed
    * with "rotate: true": only AtlasSprite compensates the 90-degree rotation at render time.
    */
-  private Animation<TextureAtlas.AtlasSprite> buildAnim(String animName, int direction, float frameDuration,
-      Animation.PlayMode mode) {
+  private Animation<TextureAtlas.AtlasSprite> buildAnimFor(TextureAtlas a, String animName, int direction,
+      float frameDuration, Animation.PlayMode mode) {
     java.util.List<TextureAtlas.AtlasRegion> list = new ArrayList<>();
-    for (TextureAtlas.AtlasRegion r : atlas.getRegions()) {
+    for (TextureAtlas.AtlasRegion r : a.getRegions()) {
       if (animName.equals(r.name) && r.index / 10000 == direction) {
         list.add(r);
       }
@@ -368,6 +437,9 @@ public class ArenaOfKingsGame extends ApplicationAdapter {
         }
         loadSkin(currentSelection());
         rebuildSpells(selectedOrFirst(charBox));
+        if (netMode) {
+          net.sendSkin(currentSelection());
+        }
       }
     };
     charBox.addListener(reload);
@@ -905,6 +977,359 @@ public class ArenaOfKingsGame extends ApplicationAdapter {
     effects.clear();
   }
 
+  /**
+   * Server-authoritative movement: send input intents, render the server snapshots
+   * (smoothed). The client never integrates its own position here. Falls back to
+   * local mode when the connection drops.
+   */
+  private void updateNet(float dt) {
+    if (!net.isConnected()) {
+      netMode = false;
+      Gdx.app.log("ArenaOfKings", "server lost, local movement fallback");
+      return;
+    }
+    Integer gone;
+    while ((gone = net.pollLeft()) != null) {
+      netRender.remove(gone);
+      netDir.remove(gone);
+      netMoving.remove(gone);
+      netSkins.remove(gone);
+    }
+    Net.Snapshot s = net.snapshot();
+    if (s != null) {
+      pushSnapshot(s);
+      reconcileSelf(s);
+      renderRemotes(dt);
+    }
+  }
+
+  /** Buffers snapshots (local receipt time) for the interpolation delay. */
+  private void pushSnapshot(Net.Snapshot s) {
+    if (!netSnaps.isEmpty() && s.tick <= netSnaps.peekLast().s.tick) {
+      return; // outdated or duplicate (UDP)
+    }
+    Snap snap = new Snap();
+    snap.s = s;
+    snap.at = System.nanoTime();
+    netSnaps.addLast(snap);
+    if (NET_DEBUG) {
+      long nowMs = System.currentTimeMillis();
+      if (lastSnapMs >= 0) {
+        long gap = nowMs - lastSnapMs;
+        if (gap > 100) {
+          Gdx.app.log("ArenaOfKings", "[netdbg] snap GAP tick=" + s.tick + " gapMs=" + gap);
+        }
+      }
+      lastSnapMs = nowMs;
+    }
+    long cutoff = snap.at - INTERP_KEEP_NS;
+    while (netSnaps.size() > 2 && netSnaps.peekFirst().at < cutoff) {
+      netSnaps.pollFirst();
+    }
+    while (netSnaps.size() > 10) {
+      netSnaps.pollFirst();
+    }
+  }
+
+  /**
+   * Reconciliation: snap self to the server position, then replay unacked
+   * inputs so prediction continues from the truth instead of rubber-banding.
+   * Like the original (smooth offsets vs forced snaps): errors under the
+   * threshold melt gently (15%/snapshot) instead of snapping every snapshot
+   * (20Hz judder). The threshold stays above the structural lead (~1 frame +
+   * tick phase ≈ 8-17u on localhost, proven by netdbg logs).
+   */
+  private static final float RECONCILE_SNAP_DIST = 40f;
+  /** Melt fraction per snapshot for sub-threshold errors. */
+  private static final float RECONCILE_MELT = 0.15f;
+
+  private void reconcileSelf(Net.Snapshot s) {
+    int n = Math.min(s.ids.length, Math.min(s.xs.length, s.ys.length));
+    for (int i = 0; i < n; i++) {
+      if (s.ids[i] != net.selfId()) {
+        continue;
+      }
+      float sx = s.xs[i];
+      float sy = s.ys[i];
+      netErr = tmpV.set(sx, sy).dst(player);
+      if (netErr > netMaxErr) {
+        netMaxErr = netErr;
+      }
+      int ack = s.acks != null && i < s.acks.length ? s.acks[i] : 0;
+      netHist.headMap(ack + 1).clear();
+      if (netErr <= RECONCILE_SNAP_DIST) {
+        // Close enough: melt a fraction of the error, keep predicting smoothly.
+        player.lerp(tmpV.set(sx, sy), RECONCILE_MELT);
+        if (NET_DEBUG && netErr > 1f) {
+          Gdx.app.log("ArenaOfKings",
+              "[netdbg] melt err=" + (int) (netErr * 10) / 10f + " ack=" + ack + " pend=" + netHist.size());
+        }
+        return;
+      }
+      if (NET_DEBUG) {
+        Gdx.app.log("ArenaOfKings",
+            "[netdbg] SNAP err=" + (int) (netErr * 10) / 10f + " ack=" + ack + " pend=" + netHist.size());
+      }
+      float px = sx;
+      float py = sy;
+      long nowMs = System.currentTimeMillis();
+      // Replay pending inputs in order, each for its own duration.
+      for (Map.Entry<Integer, Hist> e : netHist.tailMap(ack + 1).entrySet()) {
+        Hist h = e.getValue();
+        Map.Entry<Integer, Hist> next = netHist.higherEntry(e.getKey());
+        long endMs = next == null ? nowMs : next.getValue().ms;
+        float step = Math.min(0.5f, Math.max(0, (endMs - h.ms) / 1000f));
+        if (step > 0) {
+          float len = (float) Math.sqrt(h.x * h.x + h.y * h.y);
+          float dx = len > 1f ? h.x / len : h.x;
+          float dy = len > 1f ? h.y / len : h.y;
+          px = clampArena(px + dx * SPEED * step);
+          py = clampArena(py + dy * SPEED * step);
+        }
+      }
+      player.set(px, py);
+      return;
+    }
+  }
+
+  private static float clampArena(float v) {
+    return Math.max(-Net.ARENA_HALF, Math.min(Net.ARENA_HALF, v));
+  }
+
+  /**
+   * Remote players render at now-100ms, interpolated between the two snapshots
+   * straddling that time: constant delay, zero judder despite jitter.
+   * Run/idle still comes from the drawn displacement each frame.
+   */
+  private void renderRemotes(float dt) {
+    if (netSnaps.size() < 2) {
+      renderLatest(dt);
+      return;
+    }
+    long renderTime = System.nanoTime() - INTERP_DELAY_NS;
+    Snap a = netSnaps.peekFirst();
+    Snap b = a;
+    for (Snap snap : netSnaps) {
+      if (snap.at <= renderTime) {
+        a = snap;
+      } else {
+        b = snap;
+        break;
+      }
+    }
+    float alpha = 0f;
+    if (b.at > a.at) {
+      alpha = Math.min(1, Math.max(0, (float) (renderTime - a.at) / (b.at - a.at)));
+    }
+    for (int i = 0; i < a.s.ids.length; i++) {
+      int id = a.s.ids[i];
+      if (id == net.selfId()) {
+        continue;
+      }
+      float ax = a.s.xs[i];
+      float ay = a.s.ys[i];
+      float bx = ax;
+      float by = ay;
+      int j = indexOf(b.s, id);
+      if (j >= 0) {
+        bx = b.s.xs[j];
+        by = b.s.ys[j];
+      }
+      if (a.s.skins != null && i < a.s.skins.length && a.s.skins[i] != null) {
+        netSkins.put(id, a.s.skins[i]);
+      }
+      if (a.s.dirs != null && i < a.s.dirs.length) {
+        netDir.put(id, clampDir(a.s.dirs[i]));
+      }
+      float nx = ax + (bx - ax) * alpha;
+      float ny = ay + (by - ay) * alpha;
+      Vector2 r = netRender.get(id);
+      if (r == null) {
+        netRender.put(id, new Vector2(nx, ny));
+        if (!netDir.containsKey(id)) {
+          netDir.put(id, 0);
+        }
+      } else {
+        float ox = r.x;
+        float oy = r.y;
+        r.set(nx, ny);
+        float dx = r.x - ox;
+        float dy = r.y - oy;
+        if (dx * dx + dy * dy > 0.04f) {
+          netMoving.add(id);
+        } else {
+          netMoving.remove(id);
+        }
+      }
+    }
+    // Just joined (in b but not a yet): show immediately at latest position.
+    for (int j = 0; j < b.s.ids.length; j++) {
+      int id = b.s.ids[j];
+      if (id == net.selfId() || netRender.containsKey(id)) {
+        continue;
+      }
+      netRender.put(id, new Vector2(b.s.xs[j], b.s.ys[j]));
+      netDir.put(id, b.s.dirs != null && j < b.s.dirs.length ? clampDir(b.s.dirs[j]) : 0);
+      if (b.s.skins != null && j < b.s.skins.length && b.s.skins[j] != null) {
+        netSkins.put(id, b.s.skins[j]);
+      }
+    }
+  }
+
+  /** Not enough history yet: render the latest snapshot directly. */
+  private void renderLatest(float dt) {
+    Net.Snapshot s = netSnaps.isEmpty() ? null : netSnaps.peekLast().s;
+    if (s == null) {
+      return;
+    }
+    int n = Math.min(s.ids.length, Math.min(s.xs.length, s.ys.length));
+    for (int i = 0; i < n; i++) {
+      int id = s.ids[i];
+      if (id == net.selfId()) {
+        continue;
+      }
+      float nx = s.xs[i];
+      float ny = s.ys[i];
+      if (s.skins != null && i < s.skins.length && s.skins[i] != null) {
+        netSkins.put(id, s.skins[i]);
+      }
+      if (s.dirs != null && i < s.dirs.length) {
+        netDir.put(id, clampDir(s.dirs[i]));
+      }
+      Vector2 r = netRender.get(id);
+      if (r == null) {
+        netRender.put(id, new Vector2(nx, ny));
+      } else {
+        float ox = r.x;
+        float oy = r.y;
+        r.lerp(tmpV.set(nx, ny), Math.min(1, dt * 10));
+        float dx = r.x - ox;
+        float dy = r.y - oy;
+        if (dx * dx + dy * dy > 0.04f) {
+          netMoving.add(id);
+        } else {
+          netMoving.remove(id);
+        }
+      }
+    }
+  }
+
+  private static int indexOf(Net.Snapshot s, int id) {
+    for (int i = 0; i < s.ids.length; i++) {
+      if (s.ids[i] == id) {
+        return i;
+      }
+    }
+    return -1;
+  }
+
+  private static int clampDir(int d) {
+    return Math.max(0, Math.min(7, d));
+  }
+
+  /** Sends input + facing when anything changed (500ms heartbeat otherwise). */
+  private void sendNetInput(float ix, float iy, int d) {
+    long now = System.currentTimeMillis();
+    if (ix != lastNetIx || iy != lastNetIy || d != lastNetDir || now - lastNetSend > 500) {
+      int seq = net.sendInput(ix, iy, d);
+      if (seq >= 0) {
+        Hist h = new Hist();
+        h.x = ix;
+        h.y = iy;
+        h.ms = now;
+        netHist.put(seq, h);
+        while (netHist.size() > 300) {
+          netHist.pollFirstEntry();
+        }
+      }
+      lastNetIx = ix;
+      lastNetIy = iy;
+      lastNetDir = d;
+      lastNetSend = now;
+    }
+  }
+
+  /** Loads (and caches) a remote player's skin atlas + idle/run animations. */
+  private RemoteSkin loadRemoteSkin(String skin) {
+    if (skin == null || skin.isEmpty() || badRemoteSkins.contains(skin)) {
+      return null;
+    }
+    RemoteSkin rs = remoteSkins.get(skin);
+    if (rs != null) {
+      return rs;
+    }
+    TextureAtlas a;
+    try {
+      a = new TextureAtlas(Gdx.files.internal(SKIN_DIR + skin + "/full.atlas"));
+    } catch (Exception e) {
+      Gdx.app.log("ArenaOfKings", "unreadable remote skin: " + skin);
+      badRemoteSkins.add(skin);
+      return null;
+    }
+    rs = new RemoteSkin();
+    rs.atlas = a;
+    for (int d = 0; d < 8; d++) {
+      rs.idle[d] = buildAnimFor(a, "idle", d, IDLE_FPS, Animation.PlayMode.LOOP);
+      rs.run[d] = buildAnimFor(a, "run", d, RUN_FPS, Animation.PlayMode.LOOP);
+    }
+    applyFallback(rs.idle);
+    applyFallback(rs.run);
+    for (TextureAtlas.AtlasRegion r : a.getRegions()) {
+      rs.canvasW = Math.max(rs.canvasW, r.originalWidth);
+      rs.canvasH = Math.max(rs.canvasH, r.originalHeight);
+    }
+    remoteSkins.put(skin, rs);
+    return rs;
+  }
+
+  /** Remote players with their real skins (ring + id fallback when unknown). */
+  private void drawNet() {
+    if (!netMode) {
+      return;
+    }
+    batch.setProjectionMatrix(cam.combined);
+    batch.begin();
+    for (Map.Entry<Integer, Vector2> e : netRender.entrySet()) {
+      if (e.getKey() == net.selfId()) {
+        continue;
+      }
+      RemoteSkin rs = loadRemoteSkin(netSkins.get(e.getKey()));
+      Vector2 pos = e.getValue();
+      if (rs == null) {
+        font.setColor(Color.ORANGE);
+        font.draw(batch, "P" + e.getKey(), pos.x - 20, pos.y + 60);
+        continue;
+      }
+      int d = netDir.getOrDefault(e.getKey(), 0);
+      Animation<TextureAtlas.AtlasSprite> anim =
+          netMoving.contains(e.getKey()) ? rs.run[d] : rs.idle[d];
+      if (anim == null) {
+        continue;
+      }
+      TextureAtlas.AtlasSprite sprite =
+          anim.getKeyFrame(stateTime, anim.getPlayMode() == Animation.PlayMode.LOOP);
+      float w = rs.canvasW * SCALE;
+      float h = rs.canvasH * SCALE;
+      sprite.setBounds(pos.x - w / 2f, pos.y - h / 2f, w, h);
+      sprite.draw(batch);
+      font.setColor(Color.ORANGE);
+      font.draw(batch, "P" + e.getKey(), pos.x - 20, pos.y + h / 2f + 20);
+    }
+    batch.end();
+    shapes.setProjectionMatrix(cam.combined);
+    shapes.begin(ShapeRenderer.ShapeType.Line);
+    shapes.setColor(Color.ORANGE);
+    for (Map.Entry<Integer, Vector2> e : netRender.entrySet()) {
+      if (e.getKey() == net.selfId()) {
+        continue;
+      }
+      if (loadRemoteSkin(netSkins.get(e.getKey())) == null) {
+        shapes.circle(e.getValue().x, e.getValue().y, 30f, 24);
+      }
+    }
+    shapes.end();
+  }
+
   // ------------------------------------------------------------------ game
 
   /**
@@ -951,12 +1376,19 @@ public class ArenaOfKingsGame extends ApplicationAdapter {
       player.x += ix * SPEED * dt;
       player.y += iy * SPEED * dt;
     }
+    if (netMode) {
+      // Predicted locally above; snapshots reconcile below (Phase 2).
+      updateNet(dt);
+    }
 
     // --- Mouse -> world, character facing ---
     Vector3 m = new Vector3(Gdx.input.getX(), Gdx.input.getY(), 0);
     cam.unproject(m);
     mouseWorld.set(m.x, m.y);
     dir = computeDir(mouseWorld.x - player.x, mouseWorld.y - player.y);
+    if (netMode) {
+      sendNetInput(ix, iy, dir);
+    }
 
     // --- Clicks: left = attack, right = spell (ignored when the UI is clicked) ---
     Vector2 st = stage.screenToStageCoordinates(new Vector2(Gdx.input.getX(), Gdx.input.getY()));
@@ -1004,6 +1436,7 @@ public class ArenaOfKingsGame extends ApplicationAdapter {
     drawGrid();
     drawPlayer();
     drawEffects();
+    drawNet();
     drawHud();
 
     stage.act(dt);
@@ -1084,7 +1517,9 @@ public class ArenaOfKingsGame extends ApplicationAdapter {
     font.setColor(Color.LIGHT_GRAY);
     String state = actionLabel;
     font.draw(batch, "ZQSD / WASD / Arrows = move | Left click = attack | Right click = cast | 1-9 / spell bar = spells | Esc = quit", hx, base + 40 * cam.zoom);
-    font.draw(batch, "skin=" + curSkin + " state=" + state + " dir=" + dir, hx, base + 20 * cam.zoom);
+    font.draw(batch, "skin=" + curSkin + " state=" + state + " dir=" + dir
+        + (netMode ? " net=P" + net.selfId() + "/n=" + netRender.size()
+            + "/err=" + (int) netErr + "/" + (int) netMaxErr + "/buf=" + netSnaps.size() : " local"), hx, base + 20 * cam.zoom);
     font.draw(batch, "0=S 1=SE 2=E 3=NE 4=N 5=NW 6=W 7=SW", hx, base);
     batch.end();
   }
@@ -1116,6 +1551,13 @@ public class ArenaOfKingsGame extends ApplicationAdapter {
     }
     stage.dispose();
     atlas.dispose();
+    if (net != null) {
+      net.close();
+    }
+    for (RemoteSkin rs : remoteSkins.values()) {
+      rs.atlas.dispose();
+    }
+    remoteSkins.clear();
     if (spellIcons != null) {
       spellIcons.dispose();
     }

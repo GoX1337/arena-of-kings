@@ -32,6 +32,17 @@
       <version>${gdx.version}</version>
       <classifier>natives-desktop</classifier>
     </dependency>
+    <dependency>
+      <groupId>com.esotericsoftware</groupId>
+      <artifactId>kryonet</artifactId>
+      <version>2.22.0-RC1</version>
+    </dependency>
+    <!-- Newer Kryo than KryoNet's default: its bundled ASM can't read Java 17 classes. -->
+    <dependency>
+      <groupId>com.esotericsoftware</groupId>
+      <artifactId>kryo</artifactId>
+      <version>5.6.2</version>
+    </dependency>
   </dependencies>
 
   <build>
@@ -71,7 +82,8 @@
         <artifactId>exec-maven-plugin</artifactId>
         <version>3.1.0</version>
         <configuration>
-          <mainClass>com.arenaofkings.DesktopLauncher</mainClass>
+          <!-- ${...} so -Dexec.mainClass=... can override (e.g. the game server). -->
+          <mainClass>${exec.mainClass}</mainClass>
         </configuration>
       </plugin>
     </plugins>

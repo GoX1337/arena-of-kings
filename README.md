@@ -49,6 +49,33 @@ After adding models, regenerate with:
 Get-ChildItem assets/models -Recurse -Filter full.atlas | ForEach-Object { $_.DirectoryName.Replace($PWD.Path + '\assets\models\','').Replace('\','/') } | Sort-Object | Set-Content assets/skins.list -Encoding UTF8
 ```
 
+## Net server (KryoNet, movement only)
+
+Authoritative movement server: clients send input intents, the server integrates
+positions at 20 Hz and broadcasts snapshots. No client-side prediction.
+
+```powershell
+# Terminal 1: server (TCP+UDP 54555)
+mvn compile exec:java "-Dexec.mainClass=com.arenaofkings.server.GameServer"
+# Terminal 2: game (connects to 127.0.0.1, falls back to local mode if unreachable)
+mvn compile exec:java
+# ...ou contre un VPS : variable d'environnement (prioritaire) ou propriété :
+$env:AOK_HOST = "ton-vps-ou-ip"                    # Windows PowerShell
+AOK_HOST=ton-vps-ou-ip mvn compile exec:java       # Linux/macOS
+mvn compile exec:java "-Dserver.host=ton-vps-ou-ip"
+```
+
+Protocol (`src/main/java/com/arenaofkings/net/Net.java`): `Hello{version,skin}`,
+`Welcome(id,x,y)`, `Input(x,y,dir,seq)`, `Snapshot(tick,serverTime,ids,xs,ys,skins,dirs,acks)`,
+`Skin{skin}`, `Bye(id)` — registered in the same order both sides.
+Realtime traffic (inputs, snapshots) goes over **UDP** (latest-wins, no
+head-of-line blocking); handshake, skins and leaves go over **TCP**. Each input
+carries a monotonic sequence the server uses to drop stale/duplicates, and each
+snapshot carries the server timestamp plus per-player acks. Input magnitude is
+clamped server-side, positions never come from clients.
+Other players render with their real skins (idle/run + facing, broadcast by the
+server; orange ring + `P<id>` fallback when unknown), HUD shows `net=P<id>/n=<count>`.
+
 ## Direction mapping (derived from the atlases)
 
 `index = direction * 10000 + frame`:
